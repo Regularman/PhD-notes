@@ -6,6 +6,7 @@ Decarbonization approaches for ethylene production
 2. What sectors are targeted by heat a service
 3. What companies offer it overseas
 4. How willing are industries willing for an external company to control its heat supply
+5. Possibility of aggregation for out of the way customers
 ## Research
 
 
