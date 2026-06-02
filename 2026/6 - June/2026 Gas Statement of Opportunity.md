@@ -34,5 +34,6 @@ When the thermal electrification technologies come in, will it affect the timing
 
 ## Related Reports
 [Gas Market Review Report]
+[2026 Ga]
 
 
