@@ -14,5 +14,8 @@ For industries, gas consumption forecasts reflect individual business decisions 
 - Potential expansion of steelmaking, selected mineral processing, and chemical industries that primarily use green hydrogen
 
 ISP identifies that renewable energy, firmed by storage, backed up by GPG is the least cost way to secure reliable electricity to consumers. Consumptions will be stable but become more peaky with seasonal demands.
+- lower solar irradiance in winter
+- higher winter demand
+- growing BESS and solar capacity reduces GPG demand to meet traditional summer peak day demand
 ## Questions
 
