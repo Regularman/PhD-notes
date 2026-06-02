@@ -4,7 +4,7 @@ Decarbonization approaches for ethylene production
 - **What are the different types of operating models for heat as a service and why were they adopted in each scenario**
 
 Pilot into full scale
-ESCO takes on the full risk and upfront payments.
+ESCO takes on the full risk and upfront payments
 
 - **What sectors are targeted by heat a service**
 
@@ -28,6 +28,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - Potentially look at PPAs and how they can be carried over into a heat setting
 - Carbon pricing in Australia
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
+- How does this fit into an Australian context?
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
