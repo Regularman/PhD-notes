@@ -13,6 +13,6 @@ Data is refined from 2025 GSOO due to performance data, and the progression of a
 For industries, gas consumption forecasts reflect individual business decisions and captures incremental electrification. Industrial consumptions remains stable then decline from 2030 due to the following factors,
 - Potential expansion of steelmaking, selected mineral processing, and chemical industries that primarily use green hydrogen
 
-ISP id
+ISP identifies that renewable energy, firmed by storage, backed up by GPG is the least cost way to secure reliable electricity to consumers. Consumptions will be stable but become more peaky with seasonal demands.
 ## Questions
 
