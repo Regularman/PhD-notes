@@ -13,6 +13,8 @@ Other technologies considered were
 - Biogas and biomass, but it would not have been able to procure the necessary volume for the plant in Seville.
 - Industrial heat pump will require significant changes to the processing equipment and to the factory building itself
 - Solar thermal could be integrated into the current equipment just by adding a heat pipe connection. Southern Spain also has high solar radiation all year round
+- Geothermal
+- Sustainable bio-energy
 
 Government covered $60 \%$ of the project costs. Construction finished in $12$ months. Contract negotiations were also completed in $12$ months.
 
