@@ -16,11 +16,9 @@ Engie has started looking into HaaS.
 
 - **How willing are industries willing for an external company to control its heat supply**
 
-For the HaaS agreement to function properly, there must be a certain level of maturity in the company's energy procurement. You need the heat demand to be modelled and the company's decarbonisation strategy to be considered. However, this has the benefit similar to PPAs, which locks in electricity pricings.
+For the HaaS agreement to function properly, there must be a certain level of maturity in the company's energy procurement. You need the heat demand to be modelled and the company's decarbonisation strategy to be considered. However, this has the benefit similar to PPAs, which locks in electricity pricings. Carbon pricing will have a large impact on the implementation of heat as a service. Furthermore, industrial companies can avoid risks with energy price volatility and focus more efforts on internal business operations.
 
-Carbon pricing will have a large impact on the implementation of heat as a service. 
-
-Furthermore, industrial companies can avoid risks with energy price voltility and fo
+However, there are risks with 
 
 - **Possibility of aggregation for out of the way customers**
 ## Research Topics
