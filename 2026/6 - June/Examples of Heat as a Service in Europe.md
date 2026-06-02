@@ -30,6 +30,10 @@ Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS).
 - Also the advantage of inviting external expertise into the design process
 
 One of the main challenge is the cultural shift of generating heat to buying heat across the company stakeholders and executives. 
+
+Some levers that affect which technology is used is
+- climate confitions
+- 
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
