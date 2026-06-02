@@ -11,6 +11,8 @@ Data is refined from 2025 GSOO due to performance data, and the progression of a
 | Step Change        | Central view on gas consumption (Reduce 50% to 203 PJ/y by 2045)                                            |
 | Accelerated Growth | Higher gas consumption from greater economic growth and use of hydrogen as well as greater electrification. |
 For industries, gas consumption forecasts reflect individual business decisions and captures incremental electrification. Industrial consumptions remains stable then decline from 2030 due to the following factors,
-- Potential expansion of steelmaking
+- Potential expansion of steelmaking, selected mineral processing, and chemical industries that primarily use green hydrogen
+
+ISP id
 ## Questions
 
