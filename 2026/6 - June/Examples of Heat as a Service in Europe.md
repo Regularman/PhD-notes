@@ -34,4 +34,4 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 # Heineken - Engie HaaS Partnership
 
-It used heat up to 160 $\degree$ 
+It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and scope 2 emissions are split $62 \%$ heat generation and $38\%$ electricity. There is a $ 
