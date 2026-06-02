@@ -17,7 +17,7 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 - lower solar irradiance in winter (more prominent in Southern regions). Therefore, transport of the pipelines from northern to southern regions in important.
 - higher winter demand (higher electrification means that the grid is more responsive to temperature variations). One of the challenges will be preparing gas infrastructure for more volatile operating conditions.
 - growing BESS and solar capacity reduces GPG demand to meet traditional summer peak day demand
-- Coal retirements will increase GOG gas consumption in the short term
+- Coal retirements will increase GOG gas consumption in the short term. There is also the option of using secondary fuels to operate 
 
 Increasing reliance on storage withdrawals and gas pipelines up to 2030 as Southern gas production decreases.
 ## Questions
