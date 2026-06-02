@@ -44,4 +44,6 @@ This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal stora
 
 Other technologies considered were
 
-- biogas and biomass
+- Biogas and biomass, but it would not have been able to procure the necessary volume for the plant in Seville.
+- Industrial heat pump will require significant changes to the processing equipment and to the factory building itself
+- Solar thermal could be integrated into the current equipment just by ad
