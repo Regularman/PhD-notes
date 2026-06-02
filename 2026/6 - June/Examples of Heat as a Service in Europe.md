@@ -28,6 +28,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - Potentially look at PPAs and how they can be carried over into a heat setting
 - Carbon pricing in Australia
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
+- How is MW quant
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
@@ -40,7 +41,7 @@ It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and
 
 Engie will supply the asset for $20$ years until 2043, and afterwards, the ownership will transfer to Heineken.
 
-This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time 
+This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time. The thermal storage comes in the form of a pressurised water storage tank. 
 
 Other technologies considered were
 
