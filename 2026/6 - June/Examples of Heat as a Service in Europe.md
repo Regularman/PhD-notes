@@ -36,6 +36,8 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 https://www.theclimatedrive.org/action-library/utilize-solar-thermal-to-cut-industrial-heat-emissions
 
-It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and scope 2 emissions are split $62 \%$ heat generation and $38\%$ electricity. There is a $60\%$ natural gas consumption reduction, saving $7,000$ tons of $CO_2$ per annum.
+It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and scope 2 emissions are split $62 \%$ heat generation and $38\%$ electricity. There is a $60\%$ natural gas consumption reduction, saving $7,000$ tons of $CO_2$ per annum. The plane creates zero-emission hot water at $210\degree$C and $25$bar.
+
+Engie will supply the asset for 20
 
 This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time 
