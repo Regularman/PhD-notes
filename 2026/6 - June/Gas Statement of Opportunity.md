@@ -17,5 +17,6 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 - lower solar irradiance in winter
 - higher winter demand
 - growing BESS and solar capacity reduces GPG demand to meet traditional summer peak day demand
+- Coal retirements will increase GOG gas consumption in the short term
 ## Questions
 
