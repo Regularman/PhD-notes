@@ -8,7 +8,7 @@ ESCO takes on the full risk and upfront payments.
 
 - **What sectors are targeted by heat a service**
 
-Heineken and Engie secured a HaaS partnership, with a 30MW solar thermal HaaS project with Heineken in Seville.
+Heineken and Engie secured a HaaS partnership, with a 30MW solar thermal HaaS project with Heineken in Seville. The advantage of HaaS is that it can help industry circumnavigate high up-front investment costs, the 
 
 - **What companies offer it overseas**
 
