@@ -25,6 +25,7 @@ Carbon pricing will have a large impact on the implementation of heat as a servi
 
 - Potentially look at PPAs and how they can be carried over into a heat setting
 - Carbon pricing in Australia
+- What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs?
 
 
 ## References 
