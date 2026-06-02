@@ -2,5 +2,5 @@ Decarbonization approaches for ethylene production
 
 ## Questions
 
- the
+1. What are the different types of operating models for heat as a service and why were they adopted in each scenario
 
