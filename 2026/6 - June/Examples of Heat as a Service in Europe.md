@@ -8,7 +8,7 @@ ESCO takes on the full risk and upfront payments.
 
 - **What sectors are targeted by heat a service**
 
-Heineken and Engie secured a HaaS partnership, with a 30MW solar thermal HaaS project with Heineken in Seville. The advantage of HaaS is that it can help industry circumnavigate high up-front investment costs, the 
+Heineken and Engie secured a HaaS partnership, with a 30MW solar thermal HaaS project with Heineken in Seville. The advantage of HaaS is that it can help industry circumnavigate high up-front investment costs, the lack of expertise around renewable heating solutions, and local barriers associated with renewable heating solutions.
 
 - **What companies offer it overseas**
 
@@ -19,6 +19,8 @@ Engie has started looking into HaaS.
 For the HaaS agreement to function properly, there must be a certain level of maturity in the company's energy procurement. You need the heat demand to be modelled and the company's decarbonisation strategy to be considered. However, this has the benefit similar to PPAs, which locks in electricity pricings.
 
 Carbon pricing will have a large impact on the implementation of heat as a service. 
+
+Furthermore, industrial companies can avoid risks with energy price voltility and fo
 
 - **Possibility of aggregation for out of the way customers**
 ## Research Topics
