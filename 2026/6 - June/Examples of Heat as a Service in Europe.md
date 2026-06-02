@@ -1,12 +1,10 @@
 Decarbonization approaches for ethylene production
-
 ## Questions
 
 - What are the different types of operating models for heat as a service and why were they adopted in each scenario
 
 Pilot into full scale
 ESCO takes on the full risk and upfront payments.
-This requires 
 
 - What sectors are targeted by heat a service
 
@@ -17,6 +15,8 @@ Heineken and Engie secured a HaaS partnership.
 Engie has started looking into HaaS.
 
 - How willing are industries willing for an external company to control its heat supply
+
+For the HaaS agreement to function properly, there must be a certain level of
 - Possibility of aggregation for out of the way customers
 ## Research
 
