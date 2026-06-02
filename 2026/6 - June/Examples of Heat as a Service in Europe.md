@@ -7,7 +7,11 @@ Pilot into full scale
 ESCO takes on the full risk and upfront payments
 
 - What sectors are targeted by heat a service
+
+Heineken and Engie secured a HaaS partnership.
+
 - What companies offer it overseas
+
 Engie has started looking into HaaS.
 
 - How willing are industries willing for an external company to control its heat supply
