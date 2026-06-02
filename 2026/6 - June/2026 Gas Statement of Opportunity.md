@@ -27,13 +27,13 @@ Increasing reliance on storage withdrawals and gas pipelines up to 2030 as South
 
 The GSOO scope may be extended to address gas shortfalls and reduce information barrier. 
 
-The Gas Market Review suggests a domestic gas reservation scheme and the removal of the Australian Domestic Gas Security Mechanism.
+The [Gas Market Review] suggests a domestic gas reservation scheme and the removal of the Australian Domestic Gas Security Mechanism.
 ## Questions
 
 When the thermal electrification technologies come in, will it affect the timing and value of new gas infrastructure projects used to alleviate gas adequacy problems?
 
 ## Related Reports
-[Gas Market Review Report]
-[2026 Ga]
+
+[[2024 Multi-Sectoral Modelling CSIOR]]
 
 
