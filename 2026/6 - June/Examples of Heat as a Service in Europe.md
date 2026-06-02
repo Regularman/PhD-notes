@@ -40,7 +40,7 @@ It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and
 
 Engie will supply the asset for $20$ years until 2043, and afterwards, the ownership will transfer to Heineken.
 
-This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time. The thermal storage comes in the form of a pressurised water storage tank. 
+This is done with a $30MW$ solar thermal parabolic trough power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time. The thermal storage comes in the form of a pressurised water storage tank. 
 
 Other technologies considered were
 
@@ -50,4 +50,4 @@ Other technologies considered were
 
 Government covered $60 \%$ of the project costs. Construction finished in $12$ months. Contract negotiations were also completed in $12$ months.
 
-Cost driven by initial capex and land acquisition. Operation and maintenance are comparatively negligible as solar thermal does not require any fuel. (This is also the biggest solar thermal plant in Europe). The total cost was $20M \unicode{0x20ac}$.   
+Cost driven by initial capex and land acquisition. Operation and maintenance are comparatively negligible as solar thermal does not require any fuel. (This is also the biggest solar thermal plant in Europe). The total cost was $20M \unicode{0x20ac}$. $13.4M \unicode{0x20ac}$ was secured from the European Regional Development Fund.
