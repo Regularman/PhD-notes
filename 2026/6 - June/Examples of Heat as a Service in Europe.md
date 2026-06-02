@@ -28,7 +28,6 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - Potentially look at PPAs and how they can be carried over into a heat setting
 - Carbon pricing in Australia
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
-- How is MW quant
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
