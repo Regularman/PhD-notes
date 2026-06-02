@@ -21,3 +21,5 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 
 ## Questions
 
+When the thermal electrification technologies come in, will affect the timing of new gas infrastructure projects
+
