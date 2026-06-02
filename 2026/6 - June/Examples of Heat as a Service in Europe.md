@@ -25,7 +25,9 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 ## Overview of HaaS
 
-Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS).
+Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
+
+- Rather than developing their own renewable heat solution, HaaS enables a third party to bear the up-front capital cost and performance guarantee. The company buying the 
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
