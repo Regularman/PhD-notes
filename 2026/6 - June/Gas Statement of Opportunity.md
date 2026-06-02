@@ -21,6 +21,7 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 - As Northern Territory supplies increase, there will be a lower reliance from Queensland production, and more can be sent to the South through Moomba. However, northern projects and pipelines are not sufficient to address this shortfall.
 
 Increasing reliance on storage withdrawals and gas pipelines up to 2030 as Southern gas production decreases. The supply gap will be under most weather scenarios from 2030 and signal the need for additional investments and infrastructure.
+- Storage is needed to respond to unique seasonal volatility. Reduction of supply gaps can reduce the risk of intraday volatility.
 ## Questions
 
 When the thermal electrification technologies come in, will it affect the timing and value of new gas infrastructure projects used to alleviate gas adequacy problems?
