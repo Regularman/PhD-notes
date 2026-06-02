@@ -32,8 +32,11 @@ Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS).
 One of the main challenge is the cultural shift of generating heat to buying heat across the company stakeholders and executives. 
 
 Some levers that affect which technology is used is
-- climate confitions
-- 
+- climate conditions
+- Market dynamics
+- Fuel source availability
+- Policy environments across asset bases
+These factors impact whether componies electrify through heat pumps, boilers, and steam generators, 
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
