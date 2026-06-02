@@ -18,7 +18,7 @@ Engie has started looking into HaaS.
 
 For the HaaS agreement to function properly, there must be a certain level of maturity in the company's energy procurement. You need the heat demand to be modelled and the company's decarbonisation strategy to be considered. However, this has the benefit similar to PPAs, which locks in electricity pricings. Carbon pricing will have a large impact on the implementation of heat as a service. Furthermore, industrial companies can avoid risks with energy price volatility and focus more efforts on internal business operations.
 
-However, there are risks with 
+However, there are risks with being dependent on an external part for a core part of the business, and it is a leap of faith, going form owning your own heat generation assets to HaaS. Any disruption in heat provision can cause revenue loss. 
 
 - **Possibility of aggregation for out of the way customers**
 ## Research Topics
