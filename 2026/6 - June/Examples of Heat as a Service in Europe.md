@@ -27,7 +27,8 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
 
-- Rather than developing their own renewable heat solution, HaaS enables a third party to bear the up-front capital cost and performance guarantee. The company buying the 
+- Rather than developing their own renewable heat solution, HaaS enables a third party to bear the up-front capital cost and performance guarantee. The company buying HaaS pays off its investment through OPEX, allowing them to de-locate CAPEX investment.
+- Also the advantage of inviting external expertise into the design process
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
