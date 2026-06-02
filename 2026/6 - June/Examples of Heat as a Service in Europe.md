@@ -1,4 +1,3 @@
-Decarbonization approaches for ethylene production
 ## Questions
 
 - **What are the different types of operating models for heat as a service and why were they adopted in each scenario**
@@ -9,10 +8,6 @@ ESCO takes on the full risk and upfront payments
 - **What sectors are targeted by heat a service**
 
 Heineken and Engie secured a HaaS partnership, with a 30MW solar thermal HaaS project with Heineken in Seville. The advantage of HaaS is that it can help industry circumnavigate high up-front investment costs, the lack of expertise around renewable heating solutions, and local barriers associated with renewable heating solutions.
-
-- **What companies offer it overseas**
-
-Engie has started looking into HaaS.
 
 - **How willing are industries willing for an external company to control its heat supply**
 
