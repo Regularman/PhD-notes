@@ -12,8 +12,8 @@ For everything that I look into, try to be able to publish something from it.
 - Sami is life-cycle assessment focussed. Having a look at the whole of project impact on the grid and how that will impact carbon savings 
 ##  Checklist
 
-- [ ] Contact John Fletcher and ask him if he can co supervise for my PhD
-	- [ ] Write up a one pager of PhD proposal from the Iberdrola document
+- [x] Contact John Fletcher and ask him if he can co supervise for my PhD
+	- [x] Write up a one pager of PhD proposal from the Iberdrola document
 - [ ] Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 - [ ] Set up meeting with Sami, Robert (, and potentially John Fletcher). Current Monday 12:30pm works for Rob 
