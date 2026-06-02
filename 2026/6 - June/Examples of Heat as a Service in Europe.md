@@ -20,7 +20,7 @@ For the HaaS agreement to function properly, there must be a certain level of ma
 
 However, there are risks with being dependent on an external part for a core part of the business, and it is a leap of faith, going form owning your own heat generation assets to HaaS. Any disruption in heat provision can cause revenue loss. 
 
-HaaS also cannot be transferred due to location specificity. This creates problems around transferring HaaS when industries want to scale down or have changes in production levels.
+HaaS also cannot be transferred due to location specificity. This creates problems around transferring HaaS when industries want to scale down or have changes in production levels. Furthermi
 
 - **Possibility of aggregation for out of the way customers**
 ## Further Research Topics
@@ -31,4 +31,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
-2. 
+
+# Heineken - Engie HaaS Partnership
+
+
