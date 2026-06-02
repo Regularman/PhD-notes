@@ -6,3 +6,7 @@ Decarbonization approaches for ethylene production
 2. What sectors are targeted by heat a service
 3. What companies offer it overseas
 
+## References 
+
+1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
+2. 
