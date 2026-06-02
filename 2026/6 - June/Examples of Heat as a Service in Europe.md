@@ -25,7 +25,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 ## Overview of HaaS
 
-Many ideas applicable to HaaS is also applicable to Cooling as a Service (Caas)
+Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS).
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
