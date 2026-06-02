@@ -40,5 +40,8 @@ It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and
 
 Engie will supply the asset for $20$ years until 2043, and afterwards, the ownership will transfer to Heineken.
 
-
 This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. It displaces the gas boiler $50\%$ of the time 
+
+Other technologies considered were
+
+- biogas and biomass
