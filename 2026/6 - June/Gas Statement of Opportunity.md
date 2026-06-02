@@ -9,6 +9,12 @@ Data is refined from 2025 GSOO due to performance data, and the progression of a
 **Accelerated Transition -** Higher gas consumption from greater economic growth and use of hydrogen as well as greater electrification.
 **Slower Growth -** Lower economic activity and lower electrification
 
-Industry is expected to the
+Industry is expected to increase hydrogen use in the accelerated scenario
+
+
+| IASP Sceanrio |     |
+| ------------- | --- |
+| Slow G        |     |
+
 ## Questions
 
