@@ -18,6 +18,7 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 - higher winter demand (higher electrification means that the grid is more responsive to temperature variations). One of the challenges will be preparing gas infrastructure for more volatile operating conditions.
 - growing BESS and solar capacity reduces GPG demand to meet traditional summer peak day demand
 - Coal retirements will increase GOG gas consumption in the short term. There is also the option of using secondary fuels to operate GPG for short periods.
+- As Northern Territory supplies increase, there will be a lower reliance from Queensland production, and more can be sent to the South 
 
 Increasing reliance on storage withdrawals and gas pipelines up to 2030 as Southern gas production decreases. The supply gap will be under most weather scenarios from 2030 and signal the need for additional investments and infrastructure.
 ## Questions
