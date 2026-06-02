@@ -50,4 +50,4 @@ Other technologies considered were
 
 Government covered $60 \%$ of the project costs. Construction finished in $12$ months. Contract negotiations were also completed in $12$ months.
 
-Cost driven by initial capex and land acquisition. Operation and maintenance are comparatively negligible as solar thermal does not require any fuel.
+Cost driven by initial capex and land acquisition. Operation and maintenance are comparatively negligible as solar thermal does not require any fuel. (This is also the biggest solar thermal plant in Europe)
