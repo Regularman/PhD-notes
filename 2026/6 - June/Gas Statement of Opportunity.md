@@ -26,3 +26,7 @@ Increasing reliance on storage withdrawals and gas pipelines up to 2030 as South
 
 When the thermal electrification technologies come in, will it affect the timing and value of new gas infrastructure projects used to alleviate gas adequacy problems?
 
+## Related Reports
+[Gas Market Review Report]
+
+
