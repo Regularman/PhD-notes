@@ -16,4 +16,5 @@ For everything that I look into, try to be able to publish something from it.
 	- [x] Write up a one pager of PhD proposal from the Iberdrola document
 - [ ] Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
+	- [ ] Look into ARENA gas projects in Australia
 - [ ] Set up meeting with Sami, Robert (, and potentially John Fletcher). Current Monday 12:30pm works for Rob 
