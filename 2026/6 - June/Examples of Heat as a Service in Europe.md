@@ -32,8 +32,10 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
 
-# Heineken - Engie HaaS Partnership
+# Heineken - Engie HaaS Partnership (2023)
+
+https://www.theclimatedrive.org/action-library/utilize-solar-thermal-to-cut-industrial-heat-emissions
 
 It used heat up to 160 $\degree$C in its beer brewing processes. The scope 1 and scope 2 emissions are split $62 \%$ heat generation and $38\%$ electricity. There is a $60\%$ natural gas consumption reduction, saving $7,000$ tons of $CO_2$ per annum.
 
-This is done with a $30MW$ solar thermal power plant with 
+This is done with a $30MW$ solar thermal power plant with $68 MWh$ thermal storage, spanning $40ha$. 
