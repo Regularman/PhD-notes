@@ -5,16 +5,11 @@ Predicted supply shortfall from 2030 under most weather conditions, which will r
 
 Data is refined from 2025 GSOO due to performance data, and the progression of anticipated and committed projects.
 
-**Step Change -** Central view on gas consumption (Reduce 50% to 203 PJ/y by 2045)
-**Accelerated Transition -** Higher gas consumption from greater economic growth and use of hydrogen as well as greater electrification.
-**Slower Growth -** Lower economic activity and lower electrification
-
-Industry is expected to increase hydrogen use in the accelerated scenario
-
-
-| IASP Sceanrio |     |
-| ------------- | --- |
-| Slow G        |     |
+| IASP Sceanrio      |                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Slow Growth        | Lower economic activity and lower electrification                                                           |
+| Step Change        | Central view on gas consumption (Reduce 50% to 203 PJ/y by 2045)                                            |
+| Accelerated Growth | Higher gas consumption from greater economic growth and use of hydrogen as well as greater electrification. |
 
 ## Questions
 
