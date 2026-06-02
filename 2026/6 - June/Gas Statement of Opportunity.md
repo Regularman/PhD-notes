@@ -25,7 +25,7 @@ Increasing reliance on storage withdrawals and gas pipelines up to 2030 as South
 
 ## Gas Reforms
 
-
+The GSOO scope may be extended 
 ## Questions
 
 When the thermal electrification technologies come in, will it affect the timing and value of new gas infrastructure projects used to alleviate gas adequacy problems?
