@@ -33,10 +33,10 @@ One of the main challenge is the cultural shift of generating heat to buying hea
 
 Some levers that affect which technology is used is
 - climate conditions
-- Market dynamics
-- Fuel source availability
-- Policy environments across asset bases
-These factors impact whether componies electrify through heat pumps, boilers, and steam generators, 
+- market dynamics, in jurisdictions where there is no carbon pricing,
+- fuel source availability
+- policy environments across asset bases
+These factors impact whether companies electrify through heat pumps, boilers, and steam generators, use solar thermal, biogas or biomass, deep geothermal, or third party waste heat. 
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
