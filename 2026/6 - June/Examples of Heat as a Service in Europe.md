@@ -18,12 +18,13 @@ Engie has started looking into HaaS.
 
 For the HaaS agreement to function properly, there must be a certain level of maturity in the company's energy procurement. You need the heat demand to be modelled and the company's decarbonisation strategy to be considered. However, this has the benefit similar to PPAs, which locks in electricity pricings.
 
-Carbon pricing will have 
+Carbon pricing will have a large impact on the implementation of heat as a service. 
 
 - **Possibility of aggregation for out of the way customers**
+## Research Topics
 
-- **Potentially look at PPAs and how they can be carried over into a heat setting**
-## Research
+- Potentially look at PPAs and how they can be carried over into a heat setting
+- Carbon pricing in Australia
 
 
 ## References 
