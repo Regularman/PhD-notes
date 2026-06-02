@@ -9,7 +9,7 @@ Sami requires a thorough plan and methodology before we start.
 
 For everything that I look into, try to be able to publish something from it.
 - Have a look into each of the three stakeholders (DNSP, consumer, and Iberdrola). Structure PhD such that each of the stakeholder is included
-- Sami is life-cycle assessment focussed. Having a look at the whole of project impact on the grid and how that will impact carbon savings 
+- Sami is life-cycle assessment focused. Having a look at the whole of project impact on the grid and how that will impact carbon savings 
 ##  Checklist
 
 - [x] Contact John Fletcher and ask him if he can co supervise for my PhD
