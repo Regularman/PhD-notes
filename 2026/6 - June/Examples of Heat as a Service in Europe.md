@@ -25,3 +25,4 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
+2. [Heat as a service: How to decarbonize commercial and industrial heat use with third party capital investment. WBCSD]
