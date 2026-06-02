@@ -33,7 +33,7 @@ One of the main challenge is the cultural shift of generating heat to buying hea
 
 Some levers that affect which technology is used is
 - climate conditions
-- market dynamics, in jurisdictions where there is no carbon pricing,
+- market dynamics, in jurisdictions where there is no carbon pricing, it is hard to source the return on investment needed to justify the up-front CAPEX
 - fuel source availability
 - policy environments across asset bases
 These factors impact whether companies electrify through heat pumps, boilers, and steam generators, use solar thermal, biogas or biomass, deep geothermal, or third party waste heat. 
