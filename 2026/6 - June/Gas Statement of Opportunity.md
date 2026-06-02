@@ -19,6 +19,7 @@ ISP identifies that renewable energy, firmed by storage, backed up by GPG is the
 - growing BESS and solar capacity reduces GPG demand to meet traditional summer peak day demand
 - Coal retirements will increase GOG gas consumption in the short term
 
+Increasing reliance on storage withdrawals and gas pipelines up to 2030 as Southern gas production decreases.
 ## Questions
 
 When the thermal electrification technologies come in, will it affect the timing and value of new gas infrastructure projects used to alleviate gas adequacy problems?
