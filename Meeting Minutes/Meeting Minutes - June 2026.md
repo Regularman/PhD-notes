@@ -14,7 +14,8 @@ For everything that I look into, try to be able to publish something from it.
 # 3-06-2026
 
 Attendees: Thesis group, supervisors, Melvin
-
 ## Prep and questions
 
-# Content
+
+## Content
+
