@@ -8,3 +8,4 @@
 	- [ ] Look into ARENA gas projects in Australia
 - [ ] Set up meeting with Sami, Robert (and potentially John Fletcher). Current Monday 12:30pm works for Rob 
 - [ ] Reach out to Josh Geller for a catch up
+- [ ] Map
