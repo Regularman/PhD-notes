@@ -10,6 +10,9 @@
 - [ ]  Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 	- [ ] Look into ARENA gas projects in Australia
+- [ ] Map out the HaaS Contracting possibilities in power point 
 
-P
+## PhD
+
+- [ ] Prepare for meeting at 2pm by looking at the deliverables again
 
