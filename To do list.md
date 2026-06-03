@@ -1,5 +1,6 @@
 
 - [ ] Sign up for concession opal card
+- [ ] Look into Young Energy Professionals
 - [ ] Read three renewables articles
 - [ ] Prepare for meeting at 2pm by looking at the deliverables again
 - [ ]  Literature review on tariff structures in Australia
