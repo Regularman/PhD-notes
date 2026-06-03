@@ -4,7 +4,7 @@
 
 Pilot into full scale
 ESCO takes on the full risk and upfront payments
-ESCO takes on the pr
+ESCO takes on the procurement and construction contract
 
 - **What sectors are targeted by heat a service**
 
