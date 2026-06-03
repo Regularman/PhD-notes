@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d602014597b26ba5","x":-320,"y":-220,"width":380,"height":120,"type":"text","text":"Article talks about Australian renewable curtailment and how it had reached 7,200 GWh in 2025, doubling figure in 2\n\nhttps://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/"}
+		{"id":"d602014597b26ba5","x":-320,"y":-220,"width":380,"height":120,"type":"text","text":"Article talks about Australian renewable curtailment and how it had reached 7,200 GWh in 2025, doubling figure in 2024. Would be interesting to look more into the breakdown of this.\n\nhttps://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/"}
 	],
 	"edges":[]
 }
