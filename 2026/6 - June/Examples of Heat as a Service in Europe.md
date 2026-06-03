@@ -8,7 +8,7 @@ ESCO takes on the procurement and construction contract
 ESCO provides energy savings performance contract where the ESCO is only responsible for the O&M and performance guarantee
 ESCO takes on the full HaaS contract from design, financing, and construction, to ownership.
 
-Alternatively
+Alternatively, in the business as usual scenario, the company will contract others to do so, but under their management and control.
 
 - **What sectors are targeted by heat a service**
 
