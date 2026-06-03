@@ -66,7 +66,10 @@ The benefits of HaaS
 - ESCOs can leverage economies of scale, market expertise, and market clout to obtain lower energy supply costs and more competitive O&M offers. 
 - Expertise taps into new technology
 
-The solution works the best if the 
+The solution works the best for
+
+1. Long contracting period
+2. The HaaS is normally set up through a special purpose vehicle and must be set up in a bankable man
 
 ## References 
 
