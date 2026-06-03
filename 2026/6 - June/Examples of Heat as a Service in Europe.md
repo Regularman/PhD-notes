@@ -69,7 +69,9 @@ The benefits of HaaS
 The solution works the best for
 
 1. Long contracting period
-2. The HaaS is normally set up through a special purpose vehicle and must be set up in a bankable man
+2. The HaaS is normally set up through a special purpose vehicle and must be set up in a bankable manner that may lead to potential ownership, liability, and insurance issues. For this reason, companies credit ratings should be high to provide ban guarantees that limits the cost of financing.
+
+
 
 ## References 
 
