@@ -18,3 +18,4 @@ Attendees: Thesis group, supervisors, Melvin
 
 ## Content
 
+Build more on what Tom was t
