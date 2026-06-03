@@ -60,7 +60,10 @@ There are several problems that HaaS come into
 - How does the company deal with stranded assets and residual value of investment
 - What are the backup scenarios if the HaaS approach fails
 
-Overall HaaS is able to speed up the decarbonisation journey of companies
+The benefits of HaaS
+
+- Overall, HaaS is able to speed up the decarbonisation journey of companies. They would have otherwise need to invest th
+
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
