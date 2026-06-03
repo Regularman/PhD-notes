@@ -9,12 +9,13 @@
 - [ ] UNSW Research Integrity Training on Moodle
 ## Literature Review
 
-- [ ]  Literature review on tariff structures in Australia
+- [ ] Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 	- [ ] Look into ARENA gas projects in Australia
 	- [ ] Australian policy and regulation deep dive
 - [ ] Map out the Heat as a Service contracting possibilities in power point 
 - [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
+- [ ] Make buckets of what the literature review should be about and start filling it out
 
 ## PhD
 
