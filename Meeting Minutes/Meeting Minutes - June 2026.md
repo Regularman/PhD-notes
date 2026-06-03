@@ -16,6 +16,5 @@ For everything that I look into, try to be able to publish something from it.
 Attendees: Thesis group, supervisors, Melvin
 ## Prep and questions
 
-
 ## Content
 
