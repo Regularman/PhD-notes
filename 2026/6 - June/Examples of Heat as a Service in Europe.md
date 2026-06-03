@@ -94,4 +94,5 @@ These are all important factors in a HaaS contract
 - What are the difficulties of installing an electric boiler and doing a PPA?
 - How to remove PPAs from a company's balance sheets?
 
-- Look at heart-rate or power curve guarantees required for different heating and power generation assets and how they will affect the sizing and technical specificati
+- Look at heart-rate or power curve guarantees required for different heating and power generation assets and how they will affect the sizing and technical specifications.
+- How will HaaS contract account for future technology improvements 
