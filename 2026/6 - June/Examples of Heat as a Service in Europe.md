@@ -39,6 +39,10 @@ Some levers that affect which technology is used is
 These factors impact whether companies electrify through heat pumps, boilers, and steam generators, use solar thermal, biogas or biomass, deep geothermal, or third party waste heat. 
 
 In addition to dislocating CAPEX, HaaS also provide expertise for a technology field that is constantly changing. More favourable for companies with predictable heat demand, and are willing to enter into longer service agreements. 
+
+There are several problems that HaaS come into
+
+
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
