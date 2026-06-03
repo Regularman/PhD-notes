@@ -11,7 +11,7 @@ ESCO takes on the full HaaS contract from design, financing, and construction, t
 There are 3 main levels of HaaS, where companies can outsource an increasing number of responsibilities. We need to quantify the costs and risks of these levels of contracting 
 
 1. Energy savings performance contract
-2. Lease: Note that in this model, the company has significant input in the desing,
+2. Lease: Note that in this model, the company has significant input in the design, and the ESCO is only financing and owning the assets
 3. HaaS
 
 Alternatively, in the business as usual scenario, the company will contract others to do so, but under their management and control.
@@ -34,6 +34,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
 - How does this fit into an Australian context? 
 - What happens to the boilers at the end of the HaaS contractual term? Since they are location specific. 
+- What are the difficulties of installing an electric boiler and do
 ## Overview of HaaS
 
 Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
