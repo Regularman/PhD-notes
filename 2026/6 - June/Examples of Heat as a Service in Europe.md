@@ -42,7 +42,9 @@ In addition to dislocating CAPEX, HaaS also provide expertise for a technology f
 
 There are several problems that HaaS come into
 
-
+- There needs to be a certainty for the volume that companies will manufacture as and the period of time over which production will be active
+- The degree of ownership that companies want to own these facilities and assets
+- How does the company deal with stranded assets and residual value of 
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
