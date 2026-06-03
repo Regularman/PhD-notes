@@ -65,7 +65,8 @@ The benefits of HaaS
 - Overall, HaaS is able to speed up the decarbonisation journey of companies. They would have otherwise need to invest the time and capital to design the solution and develop the capabilities to operate this facility.
 - ESCOs can leverage economies of scale, market expertise, and market clout to obtain lower energy supply costs and more competitive O&M offers. 
 - Expertise taps into new technology
-- 
+
+The solution works the best if the 
 
 ## References 
 
