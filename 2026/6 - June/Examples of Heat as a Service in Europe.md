@@ -74,6 +74,7 @@ The solution works the best for
 3. HaaS is especially attractive if the assets can be removed their balance sheet. Although this is simple for PPAs in most regions, it is suitable for HaaS if:
 	- The solution provides multiple companies with heat
 	- The company have limited design, use, or control requirements
+	This involves involvement from the accounting team of the company, and their familiarity with the IFRS 16 accou
 
 We can learn from PPAs and how innovative solutions have emerge to break down barriers for uptake.
 
