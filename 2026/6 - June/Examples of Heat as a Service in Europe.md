@@ -8,7 +8,11 @@ ESCO takes on the procurement and construction contract
 ESCO provides energy savings performance contract where the ESCO is only responsible for the O&M and performance guarantee
 ESCO takes on the full HaaS contract from design, financing, and construction, to ownership.
 
-There are 3 main 
+There are 3 main levels of HaaS, where companies can outsource an increasing number of responsibilities. We need to quantify the costs and risk
+
+1. Energy savings performance contract
+2. Lease
+3. HaaS
 
 Alternatively, in the business as usual scenario, the company will contract others to do so, but under their management and control.
 
