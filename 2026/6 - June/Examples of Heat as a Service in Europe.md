@@ -35,6 +35,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - How does this fit into an Australian context? 
 - What happens to the boilers at the end of the HaaS contractual term? Since they are location specific. 
 - What are the difficulties of installing an electric boiler and doing a PPA?
+- How to remove PPAs from a company's balance sheets?
 ## Overview of HaaS
 
 Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
@@ -70,7 +71,7 @@ The solution works the best for
 
 1. Long contracting period
 2. The HaaS is normally set up through a special purpose vehicle and must be set up in a bankable manner that may lead to potential ownership, liability, and insurance issues. For this reason, companies credit ratings should be high to provide ban guarantees that limits the cost of financing.
-3. The company 
+3. HaaS is especially attractive if it can be removed
 
 
 
