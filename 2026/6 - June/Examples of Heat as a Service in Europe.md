@@ -8,7 +8,7 @@ ESCO takes on the procurement and construction contract
 ESCO provides energy savings performance contract where the ESCO is only responsible for the O&M and performance guarantee
 ESCO takes on the full HaaS contract from design, financing, and construction, to ownership.
 
-There are 3 main levels of HaaS, where companies can outsource an increasing number of responsibilities. We need to quantify the costs and risk
+There are 3 main levels of HaaS, where companies can outsource an increasing number of responsibilities. We need to quantify the costs and risks of these levels of contracting 
 
 1. Energy savings performance contract
 2. Lease
@@ -32,7 +32,8 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - Potentially look at PPAs and how they can be carried over into a heat setting
 - Carbon pricing in Australia
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
-- How does this fit into an Australian context?
+- How does this fit into an Australian context? 
+- What happens to the 
 ## Overview of HaaS
 
 Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
