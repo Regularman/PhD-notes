@@ -14,6 +14,7 @@
 	- [ ] Look into ARENA gas projects in Australia
 	- [ ] Australian policy and regulation deep dive
 - [ ] Map out the Heat as a Service contracting possibilities in power point 
+- [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
 
 ## PhD
 
