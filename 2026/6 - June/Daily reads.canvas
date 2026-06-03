@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"d602014597b26ba5","type":"text","text":"Article talks about Australian renewable curtailment and how it had reached 7,200 GWh in 2025, doubling figure in 2024. Would be interesting to look more into the breakdown of this.\n\nhttps://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/","x":-320,"y":-220,"width":380,"height":120},
-		{"id":"8a6ac187b079e234","x":-466,"y":-380,"width":386,"height":120,"type":"text","text":"Argues that GFL is not inherently bad, just different, and that a low inertia grid actually has many advantages when compared to a high inertia grid. We should focus instead on better transmission c\n\nhttps://wattclarity.com.au/articles/2026/06/reframing-the-grid-discussion-from-system-strength-to-system-behaviour/?_gl=1*1uizbah*_ga*MTUyMDYyOTAyMy4xNzgwNTI2NzEy*_ga_4ZTT9PF6TR*czE3ODA1MjY3MTIkbzEkZzAkdDE3ODA1MjY3MTIkajYwJGwwJGgw"}
+		{"id":"8a6ac187b079e234","x":-466,"y":-380,"width":386,"height":120,"type":"text","text":"Argues that GFL is not inherently bad, just different, and that a low inertia grid actually has many advantages when compared to a high inertia grid. We should focus instead on better transmission capability and optimising GFL to GFM capabilities \n\nhttps://wattclarity.com.au/articles/2026/06/reframing-the-grid-discussion-from-system-strength-to-system-behaviour/?_gl=1*1uizbah*_ga*MTUyMDYyOTAyMy4xNzgwNTI2NzEy*_ga_4ZTT9PF6TR*czE3ODA1MjY3MTIkbzEkZzAkdDE3ODA1MjY3MTIkajYwJGwwJGgw"}
 	],
 	"edges":[]
 }
