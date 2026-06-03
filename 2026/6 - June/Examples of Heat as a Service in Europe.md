@@ -6,7 +6,9 @@ Pilot into full scale
 ESCO takes on the full risk and upfront payments
 ESCO takes on the procurement and construction contract
 ESCO provides energy savings performance contract where the ESCO is only responsible for the O&M and performance guarantee
+ESCO takes on the full HaaS contract from design, financing, and construction, to ownership.
 
+Alternatively
 
 - **What sectors are targeted by heat a service**
 
