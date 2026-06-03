@@ -82,7 +82,7 @@ We can learn from PPAs and how innovative solutions have emerge to break down ba
 Need to consider how to react when boundary conditions and regulatory requirements change.
 - Demand uncertainty
 - Technical performance guarantees
-- Energy and fuel costs
+- Energy and fuel costs (does the company want to address only base load? In that case they can use legacy ass)
 These are all important factors in a HaaS contract
 ## References 
 
