@@ -58,7 +58,7 @@ There are several problems that HaaS come into
 
 - There needs to be a certainty for the volume that companies will manufacture as and the period of time over which production will be active
 - The degree of ownership that companies want to own these facilities and assets
-- How does the company deal with stranded assets and residual value of investment
+- How does the company deal with stranded assets and residual value of investment. That is, 
 - What are the backup scenarios if the HaaS approach fails
 
 The benefits of HaaS
