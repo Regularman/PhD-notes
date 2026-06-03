@@ -98,3 +98,4 @@ These are all important factors in a HaaS contract
 
 - Look at heart-rate or power curve guarantees required for different heating and power generation assets and how they will affect the sizing and technical specifications.
 - How will HaaS contract account for future technology improvements 
+- When considering HaaS, bringing forward how fast these solutions can be implemented in important, and can affect t
