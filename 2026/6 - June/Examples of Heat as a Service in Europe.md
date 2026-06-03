@@ -71,11 +71,13 @@ The solution works the best for
 
 1. Long contracting period
 2. The HaaS is normally set up through a special purpose vehicle and must be set up in a bankable manner that may lead to potential ownership, liability, and insurance issues. For this reason, companies credit ratings should be high to provide ban guarantees that limits the cost of financing.
-3. HaaS is especially attractive if it can be removed their balance sheet. Although this is simple for PPAs in most regions, it is suitable for HaaS if:
+3. HaaS is especially attractive if the assets can be removed their balance sheet. Although this is simple for PPAs in most regions, it is suitable for HaaS if:
 	- The solution provides multiple companies with heat
 	- The company have limited design, use, or control requirements
 
-We can learn from PPAs and how in
+We can learn from PPAs and how innovative solutions have emerge to break down barriers for uptake.
+
+
 
 ## References 
 
