@@ -1,1 +1,4 @@
-- [ ] Continue with 
+- [ ] Continue with reading about HaaS case study
+- [ ] Sign up for concession opal card
+- [ ] Read three renewables articles
+- [ ] Prepare for meeting at 2pm by looking at the deliverables again
