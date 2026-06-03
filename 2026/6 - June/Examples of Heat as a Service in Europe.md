@@ -79,7 +79,11 @@ The solution works the best for
 ![[Screenshot 2026-06-03 105318.png]]
 We can learn from PPAs and how innovative solutions have emerge to break down barriers for uptake.
 
-Need to consider how to react when boundary conditions and regulatory requirements change
+Need to consider how to react when boundary conditions and regulatory requirements change.
+- Demand uncertainty
+- Technical performance guarantees
+- Energy and fuel costs
+These are all important factors in a HaaS contract
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
