@@ -59,6 +59,8 @@ There are several problems that HaaS come into
 - The degree of ownership that companies want to own these facilities and assets
 - How does the company deal with stranded assets and residual value of investment
 - What are the backup scenarios if the HaaS approach fails
+
+Overall HaaS is able to speed up the decarbonisation journey of companies
 ## References 
 
 1. [https://www.wbcsd.org/news/heat-as-a-service-in-action-insights-from-early-renewable-heat-projects/]
