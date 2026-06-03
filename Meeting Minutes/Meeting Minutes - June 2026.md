@@ -21,3 +21,5 @@ Attendees: Thesis group, supervisors, Melvin
 Build more on what Tom was doing
 
 Look at typical operating profile
+
+Impact reduction is limited to electrification for he
