@@ -18,4 +18,6 @@ Attendees: Thesis group, supervisors, Melvin
 
 ## Content
 
-Build more on what Tom was t
+Build more on what Tom was doing
+
+Look at typical operating profile
