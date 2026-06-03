@@ -22,4 +22,6 @@ Build more on what Tom was doing
 
 Look at typical operating profile
 
-Impact reduction is limited to electrification for he
+Impact reduction is limited to electrification for heat as a service
+
+- Circulation of equipment in the heat as a service
