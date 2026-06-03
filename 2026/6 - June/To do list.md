@@ -17,6 +17,7 @@
 - [ ] Map out the Heat as a Service contracting possibilities in power point 
 - [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
 - [ ] Make buckets of what the literature review should be about and start filling it out
+- [ ] Start Power Systems course
 
 ## Demo work
 
