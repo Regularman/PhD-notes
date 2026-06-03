@@ -34,7 +34,7 @@ HaaS also cannot be transferred due to location specificity. This creates proble
 - What subsidies are in place which Iberdrola can apply to. How will the subsidies be applied? In the up front investment cost or operating costs
 - How does this fit into an Australian context? 
 - What happens to the boilers at the end of the HaaS contractual term? Since they are location specific. 
-- What are the difficulties of installing an electric boiler and do
+- What are the difficulties of installing an electric boiler and doing a PPA?
 ## Overview of HaaS
 
 Many ideas applicable to HaaS is also applicable to Cooling as a Service (CaaS). 
