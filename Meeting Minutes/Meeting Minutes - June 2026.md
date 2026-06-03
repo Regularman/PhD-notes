@@ -28,3 +28,4 @@ Impact reduction potential is limited to electrification for heat as a service, 
 - Material consumption reduction from centralised
 - how are they quantifying and how are they selling it
 - focus on the relevant technologies
+
