@@ -1,1 +1,0 @@
-https://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/

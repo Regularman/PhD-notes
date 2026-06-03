@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d602014597b26ba5","x":-440,"y":-190,"width":250,"height":60,"type":"text","text":"https://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/"}
+	],
+	"edges":[
+		{"id":"6c5134d55e2946c1","fromNode":"d602014597b26ba5","fromSide":"bottom","toNode":"60d6bbd463cd0f92","toSide":"top"}
+	]
+}
