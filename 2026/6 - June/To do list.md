@@ -3,7 +3,6 @@
 
 - [ ] Sign up for concession opal card
 - [ ] Sign up to Young Energy Professionals
-- [ ] Read three renewables articles
 - [ ] Set up meeting with Sami, Robert (and potentially John Fletcher). Current Monday 12:30pm works for Rob 
 - [ ] Reach out to Josh Geller for a catch up
 - [ ] Sign up for MEPS
@@ -17,7 +16,7 @@
 - [ ] Map out the Heat as a Service contracting possibilities in power point 
 - [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
 - [ ] Make buckets of what the literature review should be about and start filling it out
-- [ ] Start Power Systems course
+- [ ] Find and start Power Systems course
 
 ## Demo work
 
