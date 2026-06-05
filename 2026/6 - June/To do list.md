@@ -16,6 +16,7 @@
 - [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
 - [x] Make buckets of what the literature review should be about and start filling it out
 - [ ] Find and start Power Systems course
+- [ ] Study heat pump operations
 
 ## Demo work
 
