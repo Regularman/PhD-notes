@@ -1,7 +1,7 @@
 
 ## Admin
 
-- [ ] Sign up for concession opal card
+- [x] Sign up for concession opal card
 - [ ] Sign up to Young Energy Professionals
 - [ ] Set up meeting with Sami, Robert (and potentially John Fletcher). Current Monday 12:30pm works for Rob 
 - [ ] Reach out to Josh Geller for a catch up
