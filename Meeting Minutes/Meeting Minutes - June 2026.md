@@ -45,3 +45,5 @@ Interested to understand impact on aluminum refinery scaling up, does the upscal
 
 Anchala needs to understand how the data needs to be formatted.
 
+Rohan will do supply options and how that will replace. 
+
