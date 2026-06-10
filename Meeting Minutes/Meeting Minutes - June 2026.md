@@ -30,3 +30,19 @@ Impact reduction potential is limited to electrification for heat as a service, 
 - focus on the relevant technologies and where are they manufactured and what the lead times are
 
 # 10-06-2026
+
+Attendees: Thesis group, supervisors, Melvin
+## Prep and questions
+
+## Content
+
+Build more on what Tom was doing
+
+Look at typical operating profile
+
+Impact reduction potential is limited to electrification for heat as a service, depending what happens at the end of the lifecycle.
+
+- Circulation of equipment in the heat as a service
+- Material consumption reduction from centralised
+- how are they quantifying and how are they selling it
+- focus on the relevant technologies and where are they manufactured and what the lead times are
