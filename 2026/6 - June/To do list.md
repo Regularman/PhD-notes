@@ -13,7 +13,7 @@
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 	- [ ] Look into ARENA gas projects in Australia
 	- [ ] Australian policy and regulation deep dive
-- [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
+- [ ] Look at Tom's code and fill out the Sankey diagrams for the other technologies, Daniel is going to be focused on breaking down what process use what energy
 - [x] Make buckets of what the literature review should be about and start filling it out
 - [x] Find and start Power Systems course
 - [ ] Study heat pump operations
