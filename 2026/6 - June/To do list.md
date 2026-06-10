@@ -23,4 +23,5 @@
 ## PhD
 
 - [x] Prepare for meeting at 2pm by looking at the deliverables again
+- [ ] Prepare a slide to share around on Thursday before meeting with Fletcher
 
