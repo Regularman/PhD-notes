@@ -39,5 +39,6 @@ Onsite energy supply options for module 2, implementing storage.
 
 Need to obtain git-hub codebase for Tom Shepherd's optimisation code first.
 
-Interested to understand impact on aluminum refinery scaling up, does the upscale in operation provide additional opportunities for decarbonisatiop
+Interested to understand impact on aluminum refinery scaling up, does the upscale in operation provide additional opportunities for decarbonisation. 
+- This is due to dwindling copper supply will see switchboards switch to aluminum based
 ## Content
