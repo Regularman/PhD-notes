@@ -38,4 +38,6 @@ Onsite energy supply options for module 2, implementing storage.
 - Outline how it will interact with the spot market and ancillary market for different supply options
 
 Need to obtain git-hub codebase for Tom Shepherd's optimisation code first.
+
+Interested to 
 ## Content
