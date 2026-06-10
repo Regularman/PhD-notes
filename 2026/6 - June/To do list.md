@@ -3,7 +3,7 @@
 
 - [x] Sign up for concession opal card
 - [ ] Sign up to Young Energy Professionals
-- [ ] Set up meeting with Sami, Robert (and potentially John Fletcher). Current Monday 12:30pm works for Rob 
+- [x] Set up meeting with Sami, Robert (and potentially John Fletcher). Current Monday 12:30pm works for Rob 
 - [ ] Reach out to Josh Geller for a catch up
 - [ ] Sign up for MEPS
 - [ ] UNSW Research Integrity Training on Moodle
@@ -15,7 +15,7 @@
 	- [ ] Australian policy and regulation deep dive
 - [ ] Look at Tom's code and fill out the Senky diagrams for the other technologies
 - [x] Make buckets of what the literature review should be about and start filling it out
-- [ ] Find and start Power Systems course
+- [x] Find and start Power Systems course
 - [ ] Study heat pump operations
 
 ## Demo work
