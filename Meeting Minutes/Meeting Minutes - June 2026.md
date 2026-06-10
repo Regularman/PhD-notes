@@ -50,5 +50,5 @@ Rohan will do supply options and how that will replace.
 Build on Tom's codebase and think about feasibility study. 
 
 - Figure out the ones that Daniel and I need to do
-- 
+-
 Where is rohan??
