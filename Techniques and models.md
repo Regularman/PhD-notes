@@ -23,12 +23,12 @@ https://www.researchgate.net/publication/317004288_Business_Models_Using_the_Fle
 
 https://www.mdpi.com/2673-4117/7/2/85
 
-- - Uses PV system for solar and f-chart for solar thermal to conduct multi-criteria economic simulation and real performance analysis (as well as 3E (energy-economic-environmental) analysis)
+- Uses PV system for solar and f-chart for solar thermal to conduct multi-criteria economic simulation and real performance analysis (as well as 3E (energy-economic-environmental) analysis)
 - The f-chart correlates dimensionless variables of the solar collector system to establish relationships between these variables and the average performance of the system. Maximum error of 5% shown.
 - F charts tutorial:
 Deepika, D.; Baig, M.; Reddy, A.R.; Maneaih, D. Utilization of f-Chart Method for Designing Solar Thermal Heating System. IOSR J. Mech. Civ. Eng 2016, 16, 23–28.
 
 https://www.sciencedirect.com/science/article/pii/S2949790625001570
 
-Uses ecoinvent, a database for t
+- Uses ecoinvent, a database for LCAs, and the ReCiPe method to assess the effectiveness of various R-strategies (reduce, reuse, remanufacturing, refurbishment, replacement) in exploring the potential of circular strategies
 
