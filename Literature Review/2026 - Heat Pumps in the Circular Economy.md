@@ -140,7 +140,7 @@ Lessons learnt was that a lot of suppliers (for more complex equipment such as c
 
 Search for Task 2.4 that aims to look at current business models for circular economy practises
 [5] Practitioner's guide to take-back systems: highlights several key challenges and recommendations that are relevant to the heat pump sector.
-[13] German National Circular Economy Strategy has a specific section on heat pumps
+[13] German National Circular Economy Strategy has a specific section on heat pumps. Particularly, calls for HaaS as a business model to promote circularity
 [14] The 8th energy Research Programme from the BMWE also includes heat pump circularity
 [16] explores ecological and environmental evaluation of heat pumps through the ReCiPe method
 
