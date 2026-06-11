@@ -111,7 +111,10 @@ The main issue is that installers are driven by bulk material value rather than 
 
 ##### Smart pumps
 
-Similar to Ebm-papst, smart pumps project, a part of Horizon EU, aims to develop the 
+Similar to Ebm-papst, smart pumps project, a part of Horizon EU, aims to develop the next stage of heat pump
+- embed sensors for traceability
+- redesign heat pumps to have modularity and higher efficiency
+- integrate recycled materials in manufacturing processes
 
 ### CE-RISE Viessmann project
 
