@@ -108,6 +108,11 @@ These issues can be addressed through stakeholder consultation and building part
 
 The main issue is that installers are driven by bulk material value rather than circularity strategy, and heat pumps are recycled as mixed metal scraps. There needs to be better education, convenience, and incentives to the circular economy strategy.
 
+
+##### Smart pumps
+
+Similar to Ebm-papst, smart pumps project, a part of Horizon EU, aims to develop the 
+
 ### CE-RISE Viessmann project
 
 This project involves the use of a Digital Product Passport to improve material transparency and circularity with 26 project partners
