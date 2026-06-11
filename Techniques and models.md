@@ -27,3 +27,5 @@ https://www.mdpi.com/2673-4117/7/2/85
 - The f-chart correlates dimensionless variables of the solar collector system to establish relationships between these variables and the average performance of the system. Maximum error of 5% shown.
 - F charts tutorial:
 Deepika, D.; Baig, M.; Reddy, A.R.; Maneaih, D. Utilization of f-Chart Method for Designing Solar Thermal Heating System. IOSR J. Mech. Civ. Eng 2016, 16, 23–28.
+
+https://heatpumpingtechnologies.org/content/uploads/sites/78/2025/10/2025-10-02-iea-hpt-project-65-task2reportfinalv2.pdf

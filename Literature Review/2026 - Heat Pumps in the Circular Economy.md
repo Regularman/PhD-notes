@@ -11,7 +11,7 @@ Also explores Heat as a service as a product ownership model.
 At the time of publications, there are no articles on the circularity of heat pumps.
 ## Notes
 
-#### Take back systems
+### Take back systems
 
 Operational set of processes that includes the collection of EoL products, transportations, sorting, and disassembly, requalification, and re-engagement of recovered material, component of materials in the forward supply chain.
 - Start small and experiment with strategies such as warranty claim, service returns and naturally occurring product recalls.
@@ -124,6 +124,9 @@ In this project, Viessmann contributes through its Vitocal 250-A heat pump, and 
 
 Lessons learnt was that a lot of suppliers (for more complex equipment such as circuit boards), cannot provide information which limits traceability and potential for recycling.
 - DPP enable more components to be recovered from EOL heat pumps for repair or recycling and provides more concrete information on environmental gains
+
+### Business Models
+
 ## Further Readings
 
 Search for Task 2.4 that aims to look at current business models for circular economy practises
