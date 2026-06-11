@@ -115,6 +115,7 @@ Similar to Ebm-papst, smart pumps project, a part of Horizon EU, aims to develop
 - embed sensors for traceability
 - redesign heat pumps to have modularity and higher efficiency
 - integrate recycled materials in manufacturing processes
+- Develop training modules for the workforce
 
 ### CE-RISE Viessmann project
 
