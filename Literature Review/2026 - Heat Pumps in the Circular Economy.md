@@ -134,6 +134,7 @@ Search for Task 2.4 that aims to look at current business models for circular ec
 [13] German National Circular Economy Strategy has a specific section on heat pumps
 [14] The 8th energy Research Programme from the BMWE also includes heat pump circularity
 [16] explores ecological and environmental evaluation of heat pumps through the ReCiPe method
+
 ## Questions
 
 ## Gaps
