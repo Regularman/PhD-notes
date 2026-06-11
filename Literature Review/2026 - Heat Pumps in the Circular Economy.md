@@ -135,6 +135,7 @@ Search for Task 2.4 that aims to look at current business models for circular ec
 [14] The 8th energy Research Programme from the BMWE also includes heat pump circularity
 [16] explores ecological and environmental evaluation of heat pumps through the ReCiPe method
 
+Daikin and Ghent university is also collaborating on a PhD project that will quantify the material flow of heat pumps and determine the suitable factors to assess the sustainability and impacts of circularity in the heat pump lifecycle.
 ## Questions
 
 ## Gaps
