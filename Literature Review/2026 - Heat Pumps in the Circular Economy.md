@@ -148,7 +148,7 @@ Daikin and Ghent university is also collaborating on a PhD project that will qua
 
 Look at Alfa Laval  will hBrazed-Fusion Bonded Circularity Initiative will have thir economic and ecoloigcal impacts oublished by Q4 2025. The intiative focus on increased recovery of high value components and materials from EoL heat exchangers through a 1-1 replacement scheme.
 
-[24] Danish program for HaaS, although only 50% of target was reached. But this was only on residential units. 
+[24] Danish program for HaaS, although only 50% of target was reached. But this was only on residential units. They also expanded this pilot project into a more permanent fixture
 ## Questions
 
 ## Gaps
