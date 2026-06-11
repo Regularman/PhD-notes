@@ -145,6 +145,8 @@ Search for Task 2.4 that aims to look at current business models for circular ec
 [16] explores ecological and environmental evaluation of heat pumps through the ReCiPe method
 
 Daikin and Ghent university is also collaborating on a PhD project that will quantify the material flow of heat pumps and determine the suitable factors to assess the sustainability and impacts of circularity in the heat pump lifecycle.
+
+Look at Alfa Laval  will hBrazed-Fusion Bonded Circularity Initiative will have thir economic and ecoloigcal impacts oublished by Q4 2025. The intiative focus on increased recovery of high
 ## Questions
 
 ## Gaps
