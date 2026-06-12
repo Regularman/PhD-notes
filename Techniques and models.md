@@ -32,3 +32,6 @@ https://www.sciencedirect.com/science/article/pii/S2949790625001570
 
 - Uses ecoinvent, a database for LCAs, and the ReCiPe method to assess the effectiveness of various R-strategies (reduce, reuse, remanufacturing, refurbishment, replacement) in exploring the potential of circular strategies
 
+https://www.sciencedirect.com/science/article/pii/S1359431125002947
+
+- Used monte-carlo method for sensitivity analysis
