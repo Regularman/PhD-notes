@@ -45,4 +45,4 @@ Does not look at dynamic load profile, assuming that the heating demand, electri
 - The heat pump base case operational strategy seems to be random
 - Objective function is constrained to minimise the intraday energy level change in the tank after 36 hours
 - Literature does not discuss how operation of the heat pump as an intermittent load might reduce the lifetime of the heat pump
-- Combination of CO2 emission savings and economic savings through carbon c
+- Combination of CO2 emission savings and economic savings through carbon pricing
