@@ -7,7 +7,6 @@
 		{"id":"4617af30e868cf31","type":"text","text":"## *Hydrogen*","x":-2405,"y":420,"width":250,"height":60,"color":"5"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-2304,"y":600,"width":400,"height":200,"color":"5"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *Economic modelling and feasibility of low carbon heat*","x":-2457,"y":-811,"width":353,"height":118,"color":"3"},
-		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2840,"y":-802,"width":260,"height":100,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-2192,"y":-298,"width":472,"height":123,"color":"3"},
 		{"id":"3be2192c9fdd8b82","type":"text","text":"## *Heat Pumps (Air sourced or high temperature sourced)*","x":-2830,"y":420,"width":250,"height":140,"color":"5"},
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *Solar Thermal (Flate plate or evacuated tubes)*","x":-1931,"y":398,"width":331,"height":122,"color":"5"},
@@ -26,7 +25,9 @@
 		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-2192,"y":-1669,"width":312,"height":103,"color":"1"},
 		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1792,"y":-1676,"width":250,"height":110,"color":"1"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3640,"y":-1525,"width":371,"height":108,"color":"4"},
-		{"id":"f96bbb691d6984f8","x":-3600,"y":-1200,"width":400,"height":122,"color":"4","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md"}
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3600,"y":-1200,"width":400,"height":122,"color":"4"},
+		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2851,"y":-878,"width":260,"height":100,"color":"3"},
+		{"id":"58b7394b2271650b","x":-3485,"y":-732,"width":250,"height":60,"type":"text","text":"## Industria"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
