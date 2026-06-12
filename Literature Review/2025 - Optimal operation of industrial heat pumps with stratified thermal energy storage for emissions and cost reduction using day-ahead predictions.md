@@ -8,7 +8,7 @@ Looks specifically at industrial scale heat pumps.
 
 There are many literature that already looks at the optimal operation of heat pumps with various renewable technologies.
 
-- Addresses gaps in techno-economic analysis and analysis of stratified TES (hot ware stored in distinct temep)
+- Addresses gaps in techno-economic analysis and analysis of stratified TES (hot ware stored in distinct temperature layers $90\degree$C to $62.7\degree$C). Stratefication occurs naturally due to convection and density difference
 
 Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. This allows more realistic simulation of optimal behavior.
 
