@@ -58,4 +58,4 @@ Build on Tom's codebase and think about feasibility study.
 - look at the operation of heat pumps under different operational strategies
 ### Content
 
-John is interested in co-supervising, add him to GRID
+John is interested in co-supervising, add him to GRIS as the next step
