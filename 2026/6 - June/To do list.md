@@ -12,7 +12,7 @@
 - [ ] Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 	- [ ] Look into ARENA gas projects in Australia
-	- [ ] Australian policy and regulation deep dive
+	- [ ] Australian policy and regulation deep dive, add in section about revenue 
 - [ ] Look at Tom's code and fill out the Sankey diagrams for the other technologies, Daniel is going to be focused on breaking down what process use what energy. The code will need to feed back into V1.1 of the Decarb Tool
 - [x] Make buckets of what the literature review should be about and start filling it out
 - [x] Find and start Power Systems course
@@ -28,3 +28,4 @@
 - [ ] Would be interesting to look at the response of the system to different events
 - [ ] Using AI agents to simulate bidders in the market to look at how behavior changes with the addition of heat pumps
 - [ ] No reference found to Australian goals for heating
+- [ ]
