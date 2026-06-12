@@ -50,5 +50,9 @@ Rohan will do supply options and how that will replace.
 Build on Tom's codebase and think about feasibility study. 
 
 - Figure out the ones that Daniel and I need to do
--
-Where is rohan??
+
+## 12-06-2026
+
+### Prep and Questions
+
+- look at the operation of heat pumps under different operational strategies

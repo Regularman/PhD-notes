@@ -50,3 +50,4 @@ Does not look at dynamic load profile, assuming that the heating demand, electri
 - Look at more frequent weather predictions rather than at intervals of 24h
 - Explore BESS with TES
 - Should also do 3E analysis
+- Impact of optimal operation on the lifecycle of heat pumps is an open question
