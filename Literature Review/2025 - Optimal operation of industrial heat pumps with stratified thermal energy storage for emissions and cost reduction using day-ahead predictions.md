@@ -17,7 +17,7 @@ Setting is in a brewery. Also does not assume complete knowledge of inputs such 
 	- It will install a 1.75MW ammonia heat pump 
 ## Content
 
-Provides the formula for COP/
+Provides the formula for COP, although with an accuracy of $\pm10$% and is applicable to ammonia as a working fluid. It provides a higher level of detail than assuming a constant 
 
 ## Questions
 
