@@ -21,7 +21,8 @@ Provides the formula for COP, although with an accuracy of $\pm10$% and is appli
 
 You also have to consider the ramp-up ramp down and minimum load of the technology.
 
-- Empirical evidence for the 
+- Empirical evidence for the investment cost of the tank and heat pump were found.
+
 
 ## Questions
 
