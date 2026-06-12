@@ -49,3 +49,4 @@ Does not look at dynamic load profile, assuming that the heating demand, electri
 - Need to account for COP variation under different loads and temperature. We can use MILP for this instead
 - Look at more frequent weather predictions rather than at intervals of 24h
 - Explore BESS with TES
+- Should also do 3E analysis
