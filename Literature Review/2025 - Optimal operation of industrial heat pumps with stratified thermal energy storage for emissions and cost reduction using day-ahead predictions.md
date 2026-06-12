@@ -10,9 +10,9 @@ There are many literature that already looks at the optimal operation of heat pu
 
 - Addresses gaps in techno-economic analysis and analysis of stratified TES
 
-Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. 
+Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. This allows more realistic simulation of optimal behavior.
 
-- Also introduces system r
+- Also introduces sensitivity analysis
 ## Content
 
 ## Questions
