@@ -35,3 +35,4 @@ What about the greater market impacts
 
 Does not look at dynamic load profile, assuming that the heating demand, electricity consumption and solar radiation to remain static within a 36 hour forecast horizon
 
+- The heat pump base case operational strategy seems to be random
