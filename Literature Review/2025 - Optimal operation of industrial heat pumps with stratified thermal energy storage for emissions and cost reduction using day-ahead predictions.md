@@ -13,7 +13,7 @@ There are many literature that already looks at the optimal operation of heat pu
 Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. This allows more realistic simulation of optimal behavior.
 
 - Also introduces sensitivity analysis
-- Heat pump system based on a brewery in Faxe, Denmark.
+- Heat pump system based on a brewery in Faxe, Denmark. It has a natural gas boiler that heats water to 145$\degree$C. It also has a 
 ## Content
 
 ## Questions
