@@ -16,12 +16,13 @@
 - [ ] Look at Tom's code and fill out the Sankey diagrams for the other technologies, Daniel is going to be focused on breaking down what process use what energy. The code will need to feed back into V1.1 of the Decarb Tool
 - [x] Make buckets of what the literature review should be about and start filling it out
 - [x] Find and start Power Systems course
-- [ ] Study heat pump operations
 
 ## Demo work
 
 ## PhD
 
 - [x] Prepare for meeting at 2pm by looking at the deliverables again
-- [ ] Prepare a slide to share around on Thursday before meeting with Fletcher
+- [x] Prepare a slide to share around on Thursday before meeting with Fletcher
+- [ ] Interested in thermal storage operation
+- [ ] Study heat pump operations
 
