@@ -10,6 +10,8 @@ Uses linear programming to develop operation schedule for heat pumps to explore 
 ## Further Reading
 
 What about the greater market impacts
-[7] investi
+[7] investigates investment costs
+[8] focuses on grid flexibility and renewable energy penetration
+[18] F
 ## Gaps
 
