@@ -29,7 +29,7 @@ Impact reduction potential is limited to electrification for heat as a service, 
 - how are they quantifying and how are they selling it
 - focus on the relevant technologies and where are they manufactured and what the lead times are
 
-# 10-06-2026
+# 10-06-2026 - Weekly thesis meetings
 
 Attendees: Thesis group, supervisors, Melvin
 ## Prep and questions
