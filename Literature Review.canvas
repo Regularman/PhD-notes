@@ -7,7 +7,6 @@
 		{"id":"4617af30e868cf31","type":"text","text":"## *Hydrogen*","x":-2405,"y":420,"width":250,"height":60,"color":"5"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-2304,"y":600,"width":400,"height":200,"color":"5"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *Economic modelling and feasibility of low carbon heat*","x":-2457,"y":-811,"width":353,"height":118,"color":"3"},
-		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-2192,"y":-298,"width":472,"height":123,"color":"3"},
 		{"id":"3be2192c9fdd8b82","type":"text","text":"## *Heat Pumps (Air sourced or high temperature sourced)*","x":-2830,"y":420,"width":250,"height":140,"color":"5"},
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *Solar Thermal (Flate plate or evacuated tubes)*","x":-1931,"y":398,"width":331,"height":122,"color":"5"},
 		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-3200,"y":338,"width":250,"height":60,"color":"5"},
@@ -15,19 +14,21 @@
 		{"id":"01c50179a978ba34","type":"text","text":"## *Hot water thermal storage*","x":-1365,"y":430,"width":250,"height":90,"color":"5"},
 		{"id":"5cd5615410057464","type":"text","text":"## *Molten salt storage*","x":-960,"y":420,"width":250,"height":100,"color":"5"},
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *Using low carbon heat for ancillary services*","x":-710,"y":-3,"width":371,"height":95,"color":"2"},
-		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2710,"y":-305,"width":430,"height":130,"color":"3"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1365,"y":-1360,"width":305,"height":100,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-2192,"y":-1200,"width":250,"height":80,"color":"1"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1417,"width":400,"height":115,"color":"1"},
 		{"id":"9e942d00e165b765","type":"text","text":"## *Heineken*","x":-1290,"y":-1090,"width":250,"height":70,"color":"1"},
-		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-3200,"y":-298,"width":400,"height":123,"color":"3"},
 		{"id":"62b1d95e06afac57","type":"text","text":"#### Danish Energy Agency - Subsidy for HaaS","x":-2591,"y":-1669,"width":311,"height":106,"color":"1"},
 		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-2192,"y":-1669,"width":312,"height":103,"color":"1"},
 		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1792,"y":-1676,"width":250,"height":110,"color":"1"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3640,"y":-1525,"width":371,"height":108,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3600,"y":-1200,"width":400,"height":122,"color":"4"},
-		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2851,"y":-878,"width":260,"height":100,"color":"3"},
-		{"id":"58b7394b2271650b","x":-3485,"y":-732,"width":250,"height":60,"type":"text","text":"## Industria"}
+		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2840,"y":-1000,"width":260,"height":100,"color":"3"},
+		{"id":"58b7394b2271650b","x":-2925,"y":-808,"width":250,"height":60,"color":"3","type":"text","text":"# *Industrial Applications*"},
+		{"id":"780e6fada12ecd86","x":-3275,"y":-635,"width":400,"height":186,"color":"3","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md"},
+		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1837,"y":-298,"width":472,"height":123,"color":"3"},
+		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":130,"color":"3"},
+		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -50,6 +51,8 @@
 		{"id":"1f02c909b5cc6c4a","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"62b1d95e06afac57","toSide":"bottom"},
 		{"id":"a786717065ed3e32","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"d62e74d72a632b60","toSide":"bottom"},
 		{"id":"d97a55bb8d9113bb","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"fe208ab0ba2805e1","toSide":"bottom"},
-		{"id":"6788d9a57dddaba2","fromNode":"f368208cf8dea35c","fromSide":"bottom","toNode":"f96bbb691d6984f8","toSide":"top"}
+		{"id":"6788d9a57dddaba2","fromNode":"f368208cf8dea35c","fromSide":"bottom","toNode":"f96bbb691d6984f8","toSide":"top"},
+		{"id":"996f4a5f5b7fde33","fromNode":"25b4e01170985df8","fromSide":"bottom","toNode":"58b7394b2271650b","toSide":"top"},
+		{"id":"daef9e8768a3f1f9","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"}
 	]
 }
