@@ -55,3 +55,5 @@ Does not look at dynamic load profile, assuming that the heating demand, electri
 - Explore BESS with TES
 - Should also do 3E analysis
 - Impact of optimal operation on the lifecycle of heat pumps is an open question
+
+Thermal stress on the refrigerant...
