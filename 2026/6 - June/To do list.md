@@ -12,7 +12,7 @@
 - [ ] Literature review on tariff structures in Australia
 - [ ] Literature review on decarbonisation efforts with heat as a service in other countries, particularly European countries
 	- [ ] Look into ARENA gas projects in Australia
-	- [ ] Australian policy and regulation deep dive, add in section about revenue 
+	- [ ] Australian policy and regulation deep dive, add in section about revenue opportunities in the FCAS market
 - [ ] Look at Tom's code and fill out the Sankey diagrams for the other technologies, Daniel is going to be focused on breaking down what process use what energy. The code will need to feed back into V1.1 of the Decarb Tool
 - [x] Make buckets of what the literature review should be about and start filling it out
 - [x] Find and start Power Systems course
