@@ -10,12 +10,14 @@ There are many literature that already looks at the optimal operation of heat pu
 
 - Addresses gaps in techno-economic analysis and analysis of stratified TES (hot ware stored in distinct temperature layers $90\degree$C to $62.7\degree$C). Stratefication occurs naturally due to convection and density difference
 
-Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. This allows more realistic simulation of optimal behavior. (It did a base case, perfect forecasting scenario, and realistic prdiction horizon)
+Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. This allows more realistic simulation of optimal behavior. (It did a base case, perfect forecasting scenario, and realistic prediction horizon)
 
 - Also introduces sensitivity analysis
 - Heat pump system based on a brewery in Faxe, Denmark. It has a natural gas boiler that heats water to 145$\degree$C. It also has a 12MW PV park to reduce its electricity consumption.
 	- It will install a 1.75MW ammonia heat pump 
 ## Content
+
+Provides the formula for COP/
 
 ## Questions
 
