@@ -10,7 +10,8 @@ There are many literature that already looks at the optimal operation of heat pu
 
 - Addresses gaps in techno-economic analysis and analysis of stratified TES
 
-Setting is in a brewery
+Setting is in a brewery. Also does not assume complete knowledge of inputs such as heat demand, renewable energy availability, and electricity prices. 
+- Wou
 ## Content
 
 ## Questions
