@@ -26,6 +26,8 @@ You also have to consider the ramp-up ramp down and minimum load of the technolo
 
 ## Questions
 
+- The study only looks at PV system and how it can supply the electrical demand of the facility, it supplies electricity to the heat pump
+
 ## Further Reading
 
 What about the greater market impacts
