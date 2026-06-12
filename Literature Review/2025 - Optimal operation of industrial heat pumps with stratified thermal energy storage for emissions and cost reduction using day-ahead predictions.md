@@ -46,3 +46,4 @@ Does not look at dynamic load profile, assuming that the heating demand, electri
 - Objective function is constrained to minimise the intraday energy level change in the tank after 36 hours
 - Literature does not discuss how operation of the heat pump as an intermittent load might reduce the lifetime of the heat pump
 - Combination of CO2 emission savings and economic savings through carbon pricing
+- Need to account for COP variation under different loads and temperature. We can use MILP for this instead
