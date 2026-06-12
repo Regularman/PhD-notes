@@ -28,7 +28,8 @@ You also have to consider the ramp-up ramp down and minimum load of the technolo
 
 - The study only looks at PV system and how it can supply the electrical demand of the facility, it supplies electricity to the heat pump
 
-- Price taken by the marginal price between day ahead electricity market and the gas price. However, we also need to explore the 
+- Price taken by the marginal price between day ahead electricity market and the gas price. However, we also need to explore the effect between EES and storing for a later date (arbitrage) and the participation of the 
+- The study also does not demonstrate the 
 
 ## Further Reading
 
