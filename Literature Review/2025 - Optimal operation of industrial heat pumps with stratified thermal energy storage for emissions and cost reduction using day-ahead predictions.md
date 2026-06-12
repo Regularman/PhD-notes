@@ -30,6 +30,8 @@ What about the greater market impacts
 [22] HTHP, TES, and wind turbine to supply super heated steam
 [20] Performance of an integrated heat pump and storage tank system for optimising heat recovery with multiple HTHPs in a dairy farm
 
-[23] 
+[23] Example of brewery in Denmark
 ## Gaps
+
+Does not look at dynamic load profile, assuming that the heating demand, electricity consumption and solar radiation to remain static within a 36 hour forecast horizon
 
