@@ -26,3 +26,4 @@
 - [ ] Interested in thermal storage operation
 - [ ] Study heat pump operations
 - [ ] Would be interesting to look at the response of the system to different events
+- [ ] Using AI agents to simulate bidders in the market to look at how behavior changes with the addition of heat pumps
