@@ -4,7 +4,9 @@
 Uses linear programming to develop operation schedule for heat pumps to explore the benefits of load shifting using TES
 - objective function to reduce carbon emissions and to reduce operational costs
 
-Looks specifically at industrial scale heat pumps
+Looks specifically at industrial scale heat pumps.
+
+There are many literature that already looks at the optimla
 ## Content
 
 ## Questions
