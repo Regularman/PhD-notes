@@ -59,9 +59,11 @@ Build on Tom's codebase and think about feasibility study.
 ### Content
 
 John is interested in co-supervising, add him to GRIS as the next step
-- John's scope will be to help advise methodology for looking at heat pumps
+- John's scope will be to help advise methodology for looking at heat pumps and whether there are any analytical technique to help with that
 
 Think about the next step in the technological ladder, is there anything we can add to a heat pump such that it can respond to the faster response ancillary market
+- How can test and implement these machineries/new design features? 
 
+look at lifecycle impacts of heat pumps under cost optimal and carbon optimal strategies. 
 
-Firm up scope AND methodology
+Firm up scope AND methodology for Iberdrola
