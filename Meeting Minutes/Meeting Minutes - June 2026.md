@@ -1,4 +1,4 @@
-# 1-06-2026
+# 1-06-2026 - First day meeting 
 
 Attendees: Robert Taylor, Melvin Chan
 ## Content
@@ -11,7 +11,7 @@ For everything that I look into, try to be able to publish something from it.
 - Have a look into each of the three stakeholders (DNSP, consumer, and Iberdrola). Structure PhD such that each of the stakeholder is included
 - Sami is life-cycle assessment focused. Having a look at the whole of project impact on the grid and how that will impact carbon savings 
 
-# 3-06-2026
+# 3-06-2026 - Weekly meetings
 
 Attendees: Thesis group, supervisors, Melvin
 ## Prep and questions
@@ -51,12 +51,12 @@ Build on Tom's codebase and think about feasibility study.
 
 - Figure out the ones that Daniel and I need to do
 
-## 12-06-2026 - Meeting with John and Rob - PhD kickoff
+# 12-06-2026 - Meeting with John and Rob - PhD kickoff
 
-### Prep and Questions
+## Prep and Questions
 
 - look at the operation of heat pumps under different operational strategies
-### Content
+## Content
 
 John is interested in co-supervising, add him to GRIS as the next step
 - John's scope will be to help advise methodology for looking at heat pumps and whether there are any analytical technique to help with that
