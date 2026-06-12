@@ -51,8 +51,11 @@ Build on Tom's codebase and think about feasibility study.
 
 - Figure out the ones that Daniel and I need to do
 
-## 12-06-2026
+## 12-06-2026 - Meeting with John and Rob - PhD kickoff
 
 ### Prep and Questions
 
 - look at the operation of heat pumps under different operational strategies
+### Content
+
+John is interested in co-supervising, add him to GRID
