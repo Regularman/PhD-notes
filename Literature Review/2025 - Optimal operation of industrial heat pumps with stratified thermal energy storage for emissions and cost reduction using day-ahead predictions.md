@@ -21,6 +21,8 @@ Provides the formula for COP, although with an accuracy of $\pm10$% and is appli
 
 You also have to consider the ramp-up ramp down and minimum load of the technology.
 
+- Empirical evidence for the 
+
 ## Questions
 
 ## Further Reading
@@ -38,4 +40,4 @@ What about the greater market impacts
 Does not look at dynamic load profile, assuming that the heating demand, electricity consumption and solar radiation to remain static within a 36 hour forecast horizon
 
 - The heat pump base case operational strategy seems to be random
-- Objective function is constrained to minimise the intraday energy l
+- Objective function is constrained to minimise the intraday energy level change in the tank after 36 hours
