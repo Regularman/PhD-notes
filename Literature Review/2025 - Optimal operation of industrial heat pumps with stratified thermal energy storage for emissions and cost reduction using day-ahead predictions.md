@@ -10,6 +10,6 @@ Uses linear programming to develop operation schedule for heat pumps to explore 
 ## Further Reading
 
 What about the greater market impacts
-
+[7] investi
 ## Gaps
 
