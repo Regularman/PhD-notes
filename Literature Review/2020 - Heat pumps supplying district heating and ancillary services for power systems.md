@@ -66,6 +66,7 @@ Non-optimal control strategy can result in prolonged undershoot of the power upt
 
 Furthermore, another problem noted is that not all surfaces can be superheated. One way that the thesis got around this was by superheating the fluid that goes into the suction chamber of the compressor. However, this will require more energy (2kW and 7.5kW of heating, which is significant for a 250kW heat pump).
 - Furthermore, it is not possible in all cases to switch the superheating control on and off, limiting the up and down regulation control that the heat pumps can perform.
+- This also have a slower regulation time in the 700s territory when considering the superheating of all refrigerant mass flow
 ### Solution
 
 1. Directly controlling the compressor rotational speed, so that the power uptake can be measured without delay as a change int he temperature evaporator outlet. 
