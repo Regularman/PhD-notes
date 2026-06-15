@@ -47,7 +47,8 @@ Each control variable is controlled by one control variable (SISO loop), and you
 
 - The paper did experiments to check the transient response time of the heat pump in the base case. Simplifications are made in modelling as expected.
 
-To provide frequency services, the heat pump must be able to jump in the power uptake set value from the full load to different part load levels and up 
+To provide frequency services, the heat pump must be able to jump in the power uptake set value from the full load to different part load levels and up again
+- Or operate at intermediary part load and bids s capacity of half the difference between minimum and maximum load on the reserve market.
 ## Questions
 
 ## Limitations
