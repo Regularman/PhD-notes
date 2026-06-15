@@ -93,11 +93,12 @@ Firm up scope AND methodology for Iberdrola
 
 The 3 topics/buckets that my PhD will fall into
 
-1. Looking at business case at each scenario/percentage of electrification. It would be good to understand the value prop for each technology under the EPC and HaaS business models. it would then move into the calculation of revenue and green house gas emissions, and finally in the last stage, the future scenarios such as rapid battery up[takes]
+1. Looking at business case at each scenario/percentage of electrification. It would be good to understand the value prop for each technology under the EPC and HaaS business models. it would then move into the calculation of revenue and green house gas emissions, and finally in the last stage, the future scenarios such as rapid battery uptakes
 
 ![[topic - 1.png]]
 
-2. 
+2. Lifecycle assessment, looking at the value chain under HaaS. Need to confirm with Sami about the actual research question
+3. Technology option. For example, looking at hardware in the loop for control
 
 
 
