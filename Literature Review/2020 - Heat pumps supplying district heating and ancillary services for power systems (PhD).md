@@ -72,6 +72,7 @@ Furthermore, another problem noted is that not all surfaces can be superheated. 
 1. Directly controlling the compressor rotational speed, so that the power uptake can be measured without delay as a change int he temperature evaporator outlet. 
 - But this control algorithm was not able to ramp fast enough for the FCR-N regulation, as they need a ramping constraint on the power uptake control. There is also a risk of sudden droplet formation in all of these cases
 
+The study also conducted monte-carlo simulation highlights that a large intercooler volume influences the regulation time the most.
 
 ## Questions
 
