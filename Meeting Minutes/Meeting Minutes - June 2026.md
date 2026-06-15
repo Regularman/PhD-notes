@@ -69,3 +69,8 @@ look at lifecycle impacts of heat pumps under cost optimal and carbon optimal st
 Firm up scope AND methodology for Iberdrola
 
 ## 15-06-2026 - Weekly meeting with Rob
+
+## Prep and questions
+
+- Starting point for foreign collaboration
+- Should I be doing any courses
