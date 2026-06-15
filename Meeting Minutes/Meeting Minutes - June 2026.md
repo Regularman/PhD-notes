@@ -89,6 +89,14 @@ Firm up scope AND methodology for Iberdrola
 - Spend 20 minutes at the start of the day reading articles on market analysis in the NEM. Recently been looking at the characteristics of the FCAS markets in the NEM (talk about the impacts of semi-scheduled assets)
 - Got in contact with Tom
 
+## Notes
+
+The 3 topics/buckets that my PhD will fall into
+
+
+
+
+
 
 
 ## Notes
