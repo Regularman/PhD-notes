@@ -11,3 +11,5 @@ How does the energy bill influence the output of the linear programming optimisa
 1. First task will be to gain access to the code
 2. What about the sizing of the heat pump and thermal storage
 3. Potential for arbitrage
+
+## Questio
