@@ -67,3 +67,5 @@ Think about the next step in the technological ladder, is there anything we can 
 look at lifecycle impacts of heat pumps under cost optimal and carbon optimal strategies. 
 
 Firm up scope AND methodology for Iberdrola
+
+## 15-06-2026 - Weekly meeting with Rob
