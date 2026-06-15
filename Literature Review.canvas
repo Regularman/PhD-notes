@@ -12,7 +12,6 @@
 		{"id":"3b6786aa736b5308","type":"text","text":"# *Works on new technologies*","x":-2457,"y":13,"width":250,"height":79,"color":"5"},
 		{"id":"01c50179a978ba34","type":"text","text":"## *Hot water thermal storage*","x":-1365,"y":430,"width":250,"height":90,"color":"5"},
 		{"id":"5cd5615410057464","type":"text","text":"## *Molten salt storage*","x":-960,"y":420,"width":250,"height":100,"color":"5"},
-		{"id":"977051ee1d6aecd8","type":"text","text":"# *Using low carbon heat for ancillary services*","x":-710,"y":-3,"width":371,"height":95,"color":"2"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1365,"y":-1360,"width":385,"height":140,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-2192,"y":-1200,"width":250,"height":80,"color":"1"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1417,"width":400,"height":115,"color":"1"},
@@ -32,7 +31,10 @@
 		{"id":"28cc325b6ae92daa","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 115146.png","x":-2994,"y":940,"width":334,"height":400},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3680,"y":-1290,"width":480,"height":90,"color":"4"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *Economic modelling and feasibility of low carbon heat*","x":-2422,"y":-954,"width":353,"height":109,"color":"3"},
-		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Technical, Economic, and Environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals - A comprehensive climate change mitigation strategy.md","x":-2036,"y":-606,"width":395,"height":128,"color":"3"}
+		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Technical, Economic, and Environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals - A comprehensive climate change mitigation strategy.md","x":-2036,"y":-606,"width":395,"height":128,"color":"3"},
+		{"id":"99b437ac71efdab4","type":"text","text":"","x":-2492,"y":-55,"width":250,"height":60},
+		{"id":"977051ee1d6aecd8","type":"text","text":"# *Using low carbon heat for ancillary services*","x":-909,"y":-175,"width":371,"height":95,"color":"2"},
+		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems (PhD).md","x":-764,"y":160,"width":452,"height":110,"color":"2"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -61,6 +63,7 @@
 		{"id":"0a24703bc9d2354e","fromNode":"3be2192c9fdd8b82","fromSide":"bottom","toNode":"c31919e41644c217","toSide":"top"},
 		{"id":"690f0f0b07a97381","fromNode":"c31919e41644c217","fromSide":"bottom","toNode":"109a3c9e155dd850","toSide":"top"},
 		{"id":"27718eb6c791b8f8","fromNode":"109a3c9e155dd850","fromSide":"right","toNode":"28cc325b6ae92daa","toSide":"left"},
-		{"id":"5f21226297625c01","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"top"}
+		{"id":"5f21226297625c01","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"top"},
+		{"id":"d4cebaf30da6a328","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"8ac6af62e8602e38","toSide":"top"}
 	]
 }
