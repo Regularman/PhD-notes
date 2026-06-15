@@ -75,17 +75,18 @@ Firm up scope AND methodology for Iberdrola
 - Starting point for foreign collaboration
 - Should I be doing any courses, and does my PhD cover the funds
 
-### 
+### Plan
 - Hardware in the loop? This will allow use to see market impact and for faster frequency responses and it will not rely on fully modelled dynamics. 
-
-### What I have done
-Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
-
-Started power systems course
-Spend 20 minutes at the start of the day reading articles on market analysis in the NEM. Recently been 
 - I want to get to a high level tool for technology mix
 - Need to start making the methodology
 - Looking at heat pump control will also be interesting
+
+### What I have done
+
+- Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
+- Started power systems course
+- Spend 20 minutes at the start of the day reading articles on market analysis in the NEM. Recently been looking at the characteristics of the FCAS markets in the NEM (talk about the impacts of semi-scheduled assets)
+
 
 
 ## Notes
