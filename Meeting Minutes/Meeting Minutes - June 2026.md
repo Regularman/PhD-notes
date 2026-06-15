@@ -79,7 +79,7 @@ Firm up scope AND methodology for Iberdrola
 
 Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
 - I want to get to a high level tool for technology mix
-
+- Need to start making the methodology
 
 
 ## Notes
