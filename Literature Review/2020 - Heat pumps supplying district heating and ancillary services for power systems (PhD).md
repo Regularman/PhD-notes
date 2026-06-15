@@ -28,6 +28,7 @@ Provides a good summary of the ancillary market in Europe, which can be compared
 ![[Screenshot 2026-06-15 110445.png]]
 
 There are further notes in the literature review about the refrigeration cycle. The purpose of a two stage heat pump is that it is able to operate at partial capacity (65%).
+- It also decouples the source and sink side of the heat pump
 
 For the flexible control of the heat pumps, the control system must be able to react to disturbances of boundary conditions and keep the system in the desired operational state. There are $5$ variables to control
 - Compressor power
