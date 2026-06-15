@@ -63,7 +63,7 @@ As the heat pump ramps up and down, there will be a change in the saturation tem
 Non-optimal control strategy can result in prolonged undershoot of the power uptake and heat flow rate.
 ### Solution
 
-1. Directly controlling the compressor rotational speed, so that the power 
+1. Directly controlling the compressor rotational speed, so that the power uptake can be measured without delay as a change int he temperature evaporator outlet. 
 
 
 ## Questions
