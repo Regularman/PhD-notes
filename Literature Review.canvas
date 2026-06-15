@@ -29,8 +29,8 @@
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1837,"y":-298,"width":472,"height":123,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":130,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"},
-		{"id":"c31919e41644c217","x":-3110,"y":700,"width":450,"height":100,"type":"text","text":"# Operation of a heat pump\n\nhttps://www.engproguides.com/pressure-enthalpy-diagram.html\n\n"},
-		{"id":"109a3c9e155dd850","x":-3280,"y":940,"width":272,"height":400,"type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png"}
+		{"id":"c31919e41644c217","type":"text","text":"# Operation of a heat pump\n\nhttps://www.engproguides.com/pressure-enthalpy-diagram.html\n\n","x":-3110,"y":700,"width":450,"height":100,"color":"5"},
+		{"id":"109a3c9e155dd850","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-3280,"y":940,"width":272,"height":400}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
