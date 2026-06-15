@@ -63,6 +63,8 @@ As the heat pump ramps up and down, there will be a change in the saturation tem
 Found that you need to preheat the suction lines with 300-400W of power, which eats into the profits.
 
 Non-optimal control strategy can result in prolonged undershoot of the power uptake and heat flow rate.
+
+Furthermore, another problem noted is that not all surfaces can be superheated. One way that the thesis got around this was by superheating the fluid that goes into the 
 ### Solution
 
 1. Directly controlling the compressor rotational speed, so that the power uptake can be measured without delay as a change int he temperature evaporator outlet. 
