@@ -94,3 +94,5 @@ This assumes set points in thermal outputs and thermal input sources, what would
 [52] supplying ancillary services using individual heat pump pools
 
 Nordhavn is a Dutch precinct that acts as a living lab for various renewable technologies, including renewable thermal technology.
+
+- Study of different compressor types for fast regulation of heat pumps
