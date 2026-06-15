@@ -93,7 +93,7 @@ Firm up scope AND methodology for Iberdrola
 
 The 3 topics/buckets that my PhD will fall into
 
-
+1. Big pciture the 
 
 
 
