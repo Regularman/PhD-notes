@@ -83,9 +83,10 @@ Firm up scope AND methodology for Iberdrola
 
 ### What I have done
 
-- Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
+- Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal. Copied down what they did and how they did it, a lot of LP optimization for the heat pump. Gaps int he 
 - Started power systems course
 - Spend 20 minutes at the start of the day reading articles on market analysis in the NEM. Recently been looking at the characteristics of the FCAS markets in the NEM (talk about the impacts of semi-scheduled assets)
+- Got in contact with Tom
 
 
 
