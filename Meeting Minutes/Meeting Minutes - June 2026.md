@@ -80,7 +80,7 @@ Firm up scope AND methodology for Iberdrola
 - I want to get to a high level tool for technology mix
 - Need to start making the methodology
 - Looking at heat pump control will also be interesting
-
+- VPP heat pumps as a baseload to provide inertia under FPP scheme
 ### What I have done
 
 - Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal. Copied down what they did and how they did it, a lot of LP optimization for the heat pump and sensitivities. Gaps in partial load operation and industrial applications of larger heat pumps.
