@@ -81,4 +81,5 @@ Read a lot papers does techno-economic modelling of heat pumps, one for heat-pum
 - I want to get to a high level tool for technology mix
 
 
+
 ## Notes
