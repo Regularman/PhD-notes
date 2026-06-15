@@ -15,4 +15,7 @@ How does the energy bill influence the output of the linear programming optimisa
 ## Questions
 
 1. There are different decarb modules for each industry?
-2. Re-roganise codebase 
+
+## Tasks for Anchalla
+
+1. Re-organise codebase so that it is more modular
