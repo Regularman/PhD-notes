@@ -31,7 +31,7 @@
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"},
 		{"id":"c31919e41644c217","type":"text","text":"# Operation of a heat pump\n\nhttps://www.engproguides.com/pressure-enthalpy-diagram.html\n\n","x":-3110,"y":700,"width":450,"height":100,"color":"5"},
 		{"id":"109a3c9e155dd850","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-3280,"y":940,"width":272,"height":400},
-		{"id":"28cc325b6ae92daa","x":-2994,"y":940,"width":334,"height":400,"type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 115146.png"}
+		{"id":"28cc325b6ae92daa","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 115146.png","x":-2994,"y":940,"width":334,"height":400}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},

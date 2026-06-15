@@ -73,4 +73,6 @@ Firm up scope AND methodology for Iberdrola
 ## Prep and questions
 
 - Starting point for foreign collaboration
-- Should I be doing any courses
+- Should I be doing any courses, and does my PhD cover the funds
+
+- Hardware in the loop 
