@@ -55,7 +55,7 @@ To provide frequency services, the heat pump must be able to jump in the power u
 The paper did not consider the black start of the heat pump due to settling times required for the heat pump and due to frequent start-ups causing wear and tear on the system components.
 ## Questions
 
-What happens if you don't care about the temperature set point, and just the power uptake, what would happen to the heat pump operation. It wouldn't matter for the temperature of the water since it is going to a storage unit? In that case you would be limited back how fast you can switch between different m
+What happens if you don't care about the temperature set point, and just the power uptake, what would happen to the heat pump operation. It wouldn't matter for the temperature of the water since it is going to a storage unit? In that case you would be limited back how fast you can switch between different modes of the heat pump
 
 ## Limitations
 
