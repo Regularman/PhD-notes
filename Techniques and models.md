@@ -40,3 +40,5 @@ https://orbit.dtu.dk/en/publications/heat-pumps-supplying-district-heating-and-a
 
 - Used Dymola and its TIL library to model heat pumps
 - Modelica is an open source object orientated programming language for the thermodynamic modelling of refrigeration/heat pump cycles (TIL suite, ThermoCycle, Vaporcycle Library)
+- Finite volume method and moving boundary model for modelling heat exchangers
+- Modelling the compressor using a steady-state mass balance a
