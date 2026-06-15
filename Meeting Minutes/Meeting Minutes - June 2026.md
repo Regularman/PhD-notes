@@ -93,7 +93,7 @@ Firm up scope AND methodology for Iberdrola
 
 The 3 topics/buckets that my PhD will fall into
 
-1. Looking at how much 
+1. Looking at business case at each scenario/percentage of electrification. It would be good to 
 
 
 
