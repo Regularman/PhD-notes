@@ -75,7 +75,7 @@ Firm up scope AND methodology for Iberdrola
 - Starting point for foreign collaboration
 - Should I be doing any courses, and does my PhD cover the funds
 
-- Hardware in the loop? This will allow use to see market impact and for faster frequency reqsponses and the
+- Hardware in the loop? This will allow use to see market impact and for faster frequency responses and it will not rely on fully modelled dynamics. 
 
 Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
 - I want to get to a high level tool for technology mix
