@@ -101,4 +101,7 @@ The 3 topics/buckets that my PhD will fall into
 3. Technology option. For example, looking at hardware in the loop for control algorithms, or adding a flywheel to the heat pump in experiments and testing the frequency response.
 
 Look at audits for UNSW course, free and don't need to do assignment
-Would be cool to pursue one day a week at Iberdrola, next time we meet with them, prepare a list of things that I can do in their office and the value that I bring the 
+
+Would be cool to pursue one day a week at Iberdrola, next time we meet with them, prepare a list of things that I can do in their office and the value that I bring.
+
+For the RACE project, focus more on collaborating with Amr and coming up with techniques and frameworks that the thesis students can follow
