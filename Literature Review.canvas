@@ -24,11 +24,12 @@
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3640,"y":-1525,"width":371,"height":108,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3600,"y":-1200,"width":400,"height":122,"color":"4"},
 		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2840,"y":-1000,"width":260,"height":100,"color":"3"},
-		{"id":"58b7394b2271650b","x":-2925,"y":-808,"width":250,"height":60,"color":"3","type":"text","text":"# *Industrial Applications*"},
-		{"id":"780e6fada12ecd86","x":-3275,"y":-635,"width":400,"height":186,"color":"3","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md"},
+		{"id":"58b7394b2271650b","type":"text","text":"# *Industrial Applications*","x":-2925,"y":-808,"width":250,"height":60,"color":"3"},
+		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3275,"y":-635,"width":400,"height":186,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1837,"y":-298,"width":472,"height":123,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":130,"color":"3"},
-		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"}
+		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"},
+		{"id":"c31919e41644c217","x":-3110,"y":694,"width":250,"height":60,"type":"text","text":"# Operation of an Ammonia"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -53,6 +54,7 @@
 		{"id":"d97a55bb8d9113bb","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"fe208ab0ba2805e1","toSide":"bottom"},
 		{"id":"6788d9a57dddaba2","fromNode":"f368208cf8dea35c","fromSide":"bottom","toNode":"f96bbb691d6984f8","toSide":"top"},
 		{"id":"996f4a5f5b7fde33","fromNode":"25b4e01170985df8","fromSide":"bottom","toNode":"58b7394b2271650b","toSide":"top"},
-		{"id":"daef9e8768a3f1f9","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"}
+		{"id":"daef9e8768a3f1f9","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"},
+		{"id":"0a24703bc9d2354e","fromNode":"3be2192c9fdd8b82","fromSide":"bottom","toNode":"c31919e41644c217","toSide":"top"}
 	]
 }
