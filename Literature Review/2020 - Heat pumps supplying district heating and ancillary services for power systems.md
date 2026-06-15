@@ -35,7 +35,7 @@ For the flexible control of the heat pumps, the control system must be able to r
 - active charge in the cycle
 
 Note that variable loads of the heat pump is enabled by a variable speed drive for the compressor and electric valves.
-- Start up of the heat pump is contingent for the refigeration
+- Start up of the heat pump is contingent for the refrigerant falling abck down into the vessels
 
 There are various control algorithms for heat pump control
 
