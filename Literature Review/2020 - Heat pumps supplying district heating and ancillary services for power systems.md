@@ -46,6 +46,8 @@ There are various control algorithms for heat pump control
 Each control variable is controlled by one control variable (SISO loop), and you can have multiple SISO loops, although if there are strong coupling between different SISO control loops in the system, then the transient response will take longer.
 
 - The paper did experiments to check the transient response time of the heat pump in the base case. Simplifications are made in modelling as expected.
+
+To provide frequency services, the heat pump must be able to 
 ## Questions
 
 ## Limitations
