@@ -73,6 +73,8 @@ Non-optimal control strategy can result in prolonged undershoot of the power upt
 
 What happens if you don't care about the temperature set point, and just the power uptake, what would happen to the heat pump operation. It wouldn't matter for the temperature of the water since it is going to a storage unit? In that case you would be limited back how fast you can switch between different modes of the heat pump
 
+This assumes set points in the
+
 ## Limitations
 
 - This paper only looks at frequency stability, but does not consider angular and voltage stability (most likely because voltage stability is more local phenomenon)
