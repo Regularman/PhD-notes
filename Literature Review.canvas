@@ -30,7 +30,8 @@
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":130,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2925,"y":-291,"width":400,"height":123,"color":"3"},
 		{"id":"c31919e41644c217","type":"text","text":"# Operation of a heat pump\n\nhttps://www.engproguides.com/pressure-enthalpy-diagram.html\n\n","x":-3110,"y":700,"width":450,"height":100,"color":"5"},
-		{"id":"109a3c9e155dd850","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-3280,"y":940,"width":272,"height":400}
+		{"id":"109a3c9e155dd850","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-3280,"y":940,"width":272,"height":400},
+		{"id":"28cc325b6ae92daa","x":-2994,"y":940,"width":334,"height":400,"type":"file","file":"Screenshot 2026-06-15 115146.png"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -57,6 +58,7 @@
 		{"id":"996f4a5f5b7fde33","fromNode":"25b4e01170985df8","fromSide":"bottom","toNode":"58b7394b2271650b","toSide":"top"},
 		{"id":"daef9e8768a3f1f9","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"},
 		{"id":"0a24703bc9d2354e","fromNode":"3be2192c9fdd8b82","fromSide":"bottom","toNode":"c31919e41644c217","toSide":"top"},
-		{"id":"690f0f0b07a97381","fromNode":"c31919e41644c217","fromSide":"bottom","toNode":"109a3c9e155dd850","toSide":"top"}
+		{"id":"690f0f0b07a97381","fromNode":"c31919e41644c217","fromSide":"bottom","toNode":"109a3c9e155dd850","toSide":"top"},
+		{"id":"27718eb6c791b8f8","fromNode":"109a3c9e155dd850","fromSide":"right","toNode":"28cc325b6ae92daa","toSide":"left"}
 	]
 }
