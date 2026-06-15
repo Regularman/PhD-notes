@@ -98,3 +98,6 @@ The paper recommends the replacement of flooded evaporators with direct expansio
 Nordhavn is a Dutch precinct that acts as a living lab for various renewable technologies, including renewable thermal technology.
 
 - Study of different compressor types for fast regulation of heat pumps
+
+[192] goes into suction line condensation in more details
+[193]
