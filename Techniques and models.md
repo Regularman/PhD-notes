@@ -38,4 +38,4 @@ https://www.sciencedirect.com/science/article/pii/S1359431125002947
 
 https://orbit.dtu.dk/en/publications/heat-pumps-supplying-district-heating-and-ancillary-services-for-/
 
-- Used Dynola and its TIL library 
+- Used Dymola and its TIL library to model heat pumps
