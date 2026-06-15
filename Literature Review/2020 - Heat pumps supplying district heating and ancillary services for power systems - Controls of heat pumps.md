@@ -1,6 +1,7 @@
 
 https://orbit.dtu.dk/en/publications/heat-pumps-supplying-district-heating-and-ancillary-services-for-/
 
+https://www.sciencedirect.com/science/article/pii/S0306261920306383
 
 This is a PhD thesis, so the review will only look at a part of this paper.
 ## Contributions
