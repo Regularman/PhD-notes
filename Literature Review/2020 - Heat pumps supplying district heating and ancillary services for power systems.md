@@ -37,7 +37,7 @@ For the flexible control of the heat pumps, the control system must be able to r
 Note that variable loads of the heat pump is enabled by a variable speed drive for the compressor and electric valves.
 - Start up of the heat pump is contingent for the refrigerant falling back down into the vessels. In the base case, the heat pump can only participate in the secondary reserve market
 - During startup, residual heat from the last operation causes an overshoot at the start
-- Note that most 
+- Note that most primary frequency market requires ramping to full power in 30 seconds
 
 There are various control algorithms for heat pump control
 
