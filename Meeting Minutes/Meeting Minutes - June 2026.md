@@ -77,6 +77,8 @@ Firm up scope AND methodology for Iberdrola
 
 - Hardware in the loop?
 
-Read a lot 
+Read a lot papers does techno-economic modelling of heat pumps, one for heat-pump plus solar thermal
+- I want to get to a high level tool for technology mix
 
-## 
+
+## Notes
