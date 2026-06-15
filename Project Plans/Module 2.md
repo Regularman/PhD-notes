@@ -12,6 +12,8 @@ How does the energy bill influence the output of the linear programming optimisa
 2. What about the sizing of the heat pump and thermal storage
 3. Potential for arbitrage
 
+tHSCW refers to tonnes of Hot Standard Carcase Weight
+
 ## Questions
 
 1. There are different decarb modules for each industry?
