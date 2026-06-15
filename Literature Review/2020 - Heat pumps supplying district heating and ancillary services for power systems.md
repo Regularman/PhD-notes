@@ -50,6 +50,7 @@ Each control variable is controlled by one control variable (SISO loop), and you
 To provide frequency services, the heat pump must be able to jump in the power uptake set value from the full load to different part load levels and up again
 - Or operate at intermediary part load and bids s capacity of half the difference between minimum and maximum load on the reserve market.
 - Regulation with the heat pump and quick-starting unit. Here the heat pump is operated at full load and may provide a maximum regulation capacity of the difference between the minimum and maximum load.
+The paper did not consider the black start of the heat pump due to settling times required for the heat pump
 ## Questions
 
 ## Limitations
