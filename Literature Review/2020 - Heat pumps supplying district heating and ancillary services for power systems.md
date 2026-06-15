@@ -62,6 +62,7 @@ The paper did not consider the black start of the heat pump due to settling time
 - Does not answer why e-boilers cannot be used instead
 - District heating have lower temperature requirements compared to industrial applications
 - Does not address aggregation
+- There is no experimental validation of removing the undershoot through electric boiler compensation
 ## Further Readings
 
 [52] supplying ancillary services using individual heat pump pools
