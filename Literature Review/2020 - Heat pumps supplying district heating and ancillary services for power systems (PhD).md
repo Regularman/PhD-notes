@@ -18,6 +18,8 @@ Identified problem in the suction line, and proposed solution to avoid the dropl
 The goal is to participate in the frequency normal reserve market and deliver the regulation power within 150s
 ## Content
 
+### Introduction
+
 - Electric boilers can respond very quickly to signals from the electricity grid
 - According to experiences from Stockholm and Gothenburg in Sweden, it is technically feasible to use large-scale heat pumps for intra-day regulation [49] [26], but the intermittent operation of heat-pumps can be constrained by mechanical wear of the components, as well as several minutes start-up time and low COP during start-up [50] 
 
