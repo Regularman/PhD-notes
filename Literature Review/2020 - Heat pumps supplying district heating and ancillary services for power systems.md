@@ -55,8 +55,9 @@ To provide frequency services, the heat pump must be able to jump in the power u
 The paper did not consider the black start of the heat pump due to settling times required for the heat pump and due to frequent start-ups causing wear and tear on the system components.
 
 As the heat pump ramps up and down, there will be a change in the saturation temperature of the low stage compressor as there is a changed outlet temperature of the heat source stream. (This change reacts faster than the wall temperature, which causes droplet formations) This will cause an increase in evaporation temperature and saturation temperature, causing sudden droplet formation that can damage the compressor.
-
-Non-optimal control strategt can result in prolonged undershoot of the power uptake and heat flow rate.
+- This presents a problem as droplet formation in the suction line during fast ramping needs to be safely avoided, but that contradicts the concept of fast ramping.
+- They also proposed 
+Non-optimal control strategy can result in prolonged undershoot of the power uptake and heat flow rate.
 ## Questions
 
 What happens if you don't care about the temperature set point, and just the power uptake, what would happen to the heat pump operation. It wouldn't matter for the temperature of the water since it is going to a storage unit? In that case you would be limited back how fast you can switch between different modes of the heat pump
