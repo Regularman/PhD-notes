@@ -14,6 +14,8 @@ Looks at the control structure, regulation time, and the influence of cycle desi
 
 Identified problem in the suction line, and proposed solution to avoid the droplet formation in the suction line.
 - Provided design recommendations for fast-regulating heat pumps
+
+The goal is to participate in the frequency normal reserve market and deliver the regulation power within 150s
 ## Content
 
 - Electric boilers can respond very quickly to signals from the electricity grid
@@ -59,6 +61,7 @@ The paper did not consider the black start of the heat pump due to settling time
 - In the context of district heating, most likely because it's the lowest hanging fruit
 - Does not answer why e-boilers cannot be used instead
 - District heating have lower temperature requirements compared to industrial applications
+- Does not address aggregation
 ## Further Readings
 
 [52] supplying ancillary services using individual heat pump pools
