@@ -89,6 +89,7 @@ This assumes set points in thermal outputs and thermal input sources, what would
 - District heating have lower temperature requirements compared to industrial applications
 - Does not address aggregation
 - There is no experimental validation of removing the undershoot through electric boiler compensation
+- Does not show the wear and tear from heat pump intermediate operation
 ## Further Readings
 
 [52] supplying ancillary services using individual heat pump pools
