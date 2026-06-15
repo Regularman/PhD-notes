@@ -55,6 +55,8 @@ To provide frequency services, the heat pump must be able to jump in the power u
 The paper did not consider the black start of the heat pump due to settling times required for the heat pump and due to frequent start-ups causing wear and tear on the system components.
 ## Questions
 
+What happens if you don't care about the temperature set point, and just the power uptake
+
 ## Limitations
 
 - This paper only looks at frequency stability, but does not consider angular and voltage stability (most likely because voltage stability is more local phenomenon)
