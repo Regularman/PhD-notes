@@ -81,7 +81,7 @@ What happens if you don't care about the temperature set point, and just the pow
 
 This assumes set points in thermal outputs and thermal input sources, what would happen in more realistic scenarios?
 
-The paper recommends the replacement of flooded evaporators with direct expansion evaporators, with the consequence of lower COP, to reduce regulation time.
+The paper recommends the replacement of flooded evaporators with direct expansion evaporators, with the consequence of lower COP, to reduce regulation time due to lower refrigerant mass. 
 ## Limitations
 
 - This paper only looks at frequency stability, but does not consider angular and voltage stability (most likely because voltage stability is more local phenomenon)
