@@ -64,6 +64,7 @@ Non-optimal control strategy can result in prolonged undershoot of the power upt
 ### Solution
 
 1. Directly controlling the compressor rotational speed, so that the power uptake can be measured without delay as a change int he temperature evaporator outlet. 
+- But this control algorithm was not able to ramp fast eno
 
 
 ## Questions
