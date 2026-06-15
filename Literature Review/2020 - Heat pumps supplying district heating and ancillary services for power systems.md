@@ -60,7 +60,7 @@ As the heat pump ramps up and down, there will be a change in the saturation tem
 - Note that this effect was negligible in the higher stage compressor due to the separation of the time constant.
 - This presents a problem as droplet formation in the suction line during fast ramping needs to be safely avoided, but that contradicts the concept of fast ramping. The peak in the saturation temperature is also larger for larger load changes
 
-Found that you need to preheat the suction lines with 300-400W of power to the
+Found that you need to preheat the suction lines with 300-400W of power, which eats into the profits.
 
 Non-optimal control strategy can result in prolonged undershoot of the power uptake and heat flow rate.
 ### Solution
