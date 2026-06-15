@@ -77,6 +77,8 @@ Furthermore, another problem noted is that not all surfaces can be superheated. 
 
 The study also conducted monte-carlo simulation highlights that a smaller intercooler volume influences the regulation time the most (smaller refrigerant mass equals a lower regulation time)
 
+
+### Techno-economic feasibility
 ## Questions
 
 What happens if you don't care about the temperature set point, and just the power uptake, what would happen to the heat pump operation. It wouldn't matter for the temperature of the water since it is going to a storage unit? In that case you would be limited back how fast you can switch between different modes of the heat pump
