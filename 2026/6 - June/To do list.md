@@ -30,5 +30,5 @@
 - [ ] No reference found to Australian goals for heating
 - [ ] Map out value chain from weekly meeting with Rob
 	- [ ] There are no papers on the control theory of aggregated heat pumps and its impacts
-	- [ ] Partial load modelling
-	- [ ] 
+	- [ ] Partial load modelling for heat pumps
+	- [ ] Operation of larger heat pumps
