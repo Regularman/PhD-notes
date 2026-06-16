@@ -17,6 +17,7 @@ tHSCW refers to tonnes of Hot Standard Carcase Weight
 ## Questions
 
 1. There are different decarb modules for each industry?
+2. Still trying to understand how he got from material to energy flows
 
 ## Tasks for Anchalla
 
