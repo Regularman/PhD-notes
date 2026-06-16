@@ -18,7 +18,7 @@ tHSCW refers to tonnes of Hot Standard Carcase Weight
 
 1. There are different decarb modules for each industry?
 2. Still trying to understand how he got from material to energy flows
-3. There are no capacities for the
+3. There are no capacities for the rendering and paunch processing process
 
 ## Tasks for Anchalla
 
