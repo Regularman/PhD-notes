@@ -29,3 +29,4 @@
 - [ ] Using AI agents to simulate bidders in the market to look at how behavior changes with the addition of heat pumps
 - [ ] No reference found to Australian goals for heating
 - [ ] Map out value chain from weekly meeting with Rob
+	- [ ] There are no papers on the control theory of aggregated heat pumps and its impacts
