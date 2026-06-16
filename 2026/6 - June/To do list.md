@@ -28,4 +28,4 @@
 - [ ] Would be interesting to look at the response of the system to different events
 - [ ] Using AI agents to simulate bidders in the market to look at how behavior changes with the addition of heat pumps
 - [ ] No reference found to Australian goals for heating
-- [ ]
+- [ ] Map out value chain from weekly meeting with Rob
