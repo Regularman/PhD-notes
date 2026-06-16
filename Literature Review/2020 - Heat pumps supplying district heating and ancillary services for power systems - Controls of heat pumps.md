@@ -97,7 +97,7 @@ The paper recommends the replacement of flooded evaporators with direct expansio
 - Does not address aggregation
 - There is no experimental validation of removing the undershoot through electric boiler compensation
 - Does not show the wear and tear from heat pump intermediate operation
-- Heat pump size 
+- Heat pump size is 250kW and Ammonia based, what happens with larger heat pumps?
 ## Further Readings
 
 [52] supplying ancillary services using individual heat pump pools
