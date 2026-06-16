@@ -22,3 +22,5 @@ tHSCW refers to tonnes of Hot Standard Carcase Weight
 
 1. Re-organise codebase so that it is more modular
 2. All technical information should be 
+3. Simulation of decarbonisation solution needs some love
+4. Add in load profile functionality
