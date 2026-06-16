@@ -21,3 +21,4 @@ tHSCW refers to tonnes of Hot Standard Carcase Weight
 ## Tasks for Anchalla
 
 1. Re-organise codebase so that it is more modular
+2. All technical information should be 
