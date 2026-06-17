@@ -11,3 +11,8 @@ Tool to figure out business case and interaction with spot market
 - Opportunities with VPPs and aggregation of assets
 - Create flowchart for contract negotiation
 
+
+| Technology    | Value | GHG abatement and revenue potential | Scenarios |
+| ------------- | ----- | ----------------------------------- | --------- |
+| Solar-thermal |       |                                     |           |
+|               |       |                                     |           |
