@@ -11,11 +11,8 @@
 		{"id":"3b6786aa736b5308","type":"text","text":"# *Works on new technologies*","x":-2457,"y":13,"width":250,"height":79,"color":"5"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1365,"y":-1360,"width":385,"height":140,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-2192,"y":-1200,"width":250,"height":80,"color":"1"},
-		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1417,"width":400,"height":115,"color":"1"},
+		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1620,"width":400,"height":318,"color":"1"},
 		{"id":"9e942d00e165b765","type":"text","text":"## *Heineken*","x":-1290,"y":-1090,"width":250,"height":70,"color":"1"},
-		{"id":"62b1d95e06afac57","type":"text","text":"#### Danish Energy Agency - Subsidy for HaaS","x":-2591,"y":-1669,"width":311,"height":106,"color":"1"},
-		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-2192,"y":-1669,"width":312,"height":103,"color":"1"},
-		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1792,"y":-1676,"width":272,"height":110,"color":"1"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3640,"y":-1525,"width":371,"height":108,"color":"4"},
 		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2840,"y":-1000,"width":260,"height":100,"color":"3"},
 		{"id":"58b7394b2271650b","type":"text","text":"# *Industrial Applications*","x":-3017,"y":-808,"width":343,"height":56,"color":"3"},
@@ -36,7 +33,10 @@
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":158,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2874,"y":-298,"width":400,"height":158,"color":"3"},
 		{"id":"95007cf31a39eec9","type":"text","text":"# *Market Impact of aggregated low carbon heat*","x":-4160,"y":-140,"width":302,"height":142,"color":"6"},
-		{"id":"e3aee0d727fb02cd","x":-4334,"y":103,"width":400,"height":187,"type":"file","file":"2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria.md"}
+		{"id":"e3aee0d727fb02cd","x":-4334,"y":103,"width":400,"height":187,"type":"file","file":"2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria.md"},
+		{"id":"62b1d95e06afac57","type":"text","text":"#### Danish Energy Agency - Subsidy for HaaS","x":-2622,"y":-1873,"width":311,"height":106,"color":"1"},
+		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-2223,"y":-1873,"width":312,"height":103,"color":"1"},
+		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1823,"y":-1880,"width":272,"height":110,"color":"1"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
