@@ -13,7 +13,7 @@ Tool to figure out business case and interaction with spot market
 
 
 | Technology      | Value | GHG abatement and revenue potential | Scenarios |
-| --------------- | ----- | ----------------------------------- | --------- |
+|:--------------- | ----- |:-----------------------------------:|:---------:|
 |                 |       |                                     |           |
 | Solar-thermal   |       |                                     |           |
 | Thermal storage |       |                                     |           |
