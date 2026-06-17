@@ -110,4 +110,4 @@ For the RACE project, focus more on collaborating with Amr and coming up with te
 
 There are three options for the replacement of gas boilers
 
-- Currently, they give the name plate capacities of their equipme
+- Currently, they give the name plate capacities of their equipment, energy bills, and utilisation. We j
