@@ -12,7 +12,12 @@ Tool to figure out business case and interaction with spot market
 - Create flowchart for contract negotiation
 
 
-| Technology    | Value | GHG abatement and revenue potential | Scenarios |
-| ------------- | ----- | ----------------------------------- | --------- |
-| Solar-thermal |       |                                     |           |
-|               |       |                                     |           |
+| Technology      | Value | GHG abatement and revenue potential | Scenarios |
+| --------------- | ----- | ----------------------------------- | --------- |
+|                 |       |                                     |           |
+| Solar-thermal   |       |                                     |           |
+| Thermal storage |       |                                     |           |
+| Battery         |       |                                     |           |
+| Heat pump       |       |                                     |           |
+| E-boilers       |       |                                     |           |
+|                 |       |                                     |           |
