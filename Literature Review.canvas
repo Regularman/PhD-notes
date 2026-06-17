@@ -3,7 +3,6 @@
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":353,"height":151,"color":"3"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *HaaS Industry Case Studies*","x":-1792,"y":-1020,"width":302,"height":70,"color":"1"},
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1440,"y":-854,"width":400,"height":152,"color":"1"},
-		{"id":"95007cf31a39eec9","type":"text","text":"# *Market Impact of aggregated low carbon heat*","x":-909,"y":-520,"width":302,"height":142,"color":"6"},
 		{"id":"4617af30e868cf31","type":"text","text":"## *Hydrogen*","x":-2405,"y":420,"width":250,"height":60,"color":"5"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-2304,"y":600,"width":400,"height":200,"color":"5"},
 		{"id":"3be2192c9fdd8b82","type":"text","text":"## *Heat Pumps (Air sourced or high temperature sourced)*","x":-2830,"y":420,"width":250,"height":140,"color":"5"},
@@ -35,7 +34,9 @@
 		{"id":"a4f221d6d032dc7c","type":"file","file":"2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1546,"y":-592,"width":400,"height":192,"color":"3"},
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-4360,"y":-705,"width":452,"height":140,"color":"2"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":158,"color":"3"},
-		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2874,"y":-298,"width":400,"height":158,"color":"3"}
+		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2874,"y":-298,"width":400,"height":158,"color":"3"},
+		{"id":"95007cf31a39eec9","type":"text","text":"# *Market Impact of aggregated low carbon heat*","x":-4160,"y":-140,"width":302,"height":142,"color":"6"},
+		{"id":"e3aee0d727fb02cd","x":-4334,"y":103,"width":400,"height":187,"type":"file","file":"2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria.md"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -67,6 +68,7 @@
 		{"id":"2d296e8a10796c2f","fromNode":"8ac6af62e8602e38","fromSide":"bottom","toNode":"e8a2bd3a6ba9418c","toSide":"top"},
 		{"id":"80ee3be870a8b457","fromNode":"3b6786aa736b5308","fromSide":"left","toNode":"5cd5615410057464","toSide":"top"},
 		{"id":"33d4d7edf1359e27","fromNode":"3b6786aa736b5308","fromSide":"left","toNode":"01c50179a978ba34","toSide":"top"},
-		{"id":"4cb6dd8b0e61f0e4","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"}
+		{"id":"4cb6dd8b0e61f0e4","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
+		{"id":"0f0116c156702824","fromNode":"95007cf31a39eec9","fromSide":"bottom","toNode":"e3aee0d727fb02cd","toSide":"top"}
 	]
 }
