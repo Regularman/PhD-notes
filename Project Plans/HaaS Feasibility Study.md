@@ -10,3 +10,4 @@ Tool to figure out business case and interaction with spot market
 - Think about the life cycle cost of HaaS and how circular economy will impact revenue
 - Opportunities with VPPs and aggregation of assets
 - Create flowchart for contract negotiation
+
