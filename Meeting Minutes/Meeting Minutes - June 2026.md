@@ -112,4 +112,4 @@ There are three options for the replacement of gas boilers. Currently, they give
 
 - We know how much gas they use, and therefore can use that as a basis for the sizing of the heat pump/electrification technologies to investigate potential GHG and cost savings
 - They want to electrify a certain gas boiler, in which case we can get their nameplate capacity and see how they 
-- They might want to electrify a certain process, in which case we need the gas distribution for each process
+- They might want to electrify a certain process, in which case we need the gas distribution for each process through the EFA
