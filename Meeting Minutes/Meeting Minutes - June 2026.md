@@ -110,4 +110,5 @@ For the RACE project, focus more on collaborating with Amr and coming up with te
 
 There are three options for the replacement of gas boilers. Currently, they give the name plate capacities of their equipment, energy bills, and utilization. We just don't know how long each equipment is used for
 
-- We know how much gas they use, and therefore can use that as a basis for the sizing 
+- We know how much gas they use, and therefore can use that as a basis for the sizing of the heat pump/electrification technologies to investigate potential GHG and cost savings
+- They want to electrify a certain gas boiler, in which case we can get their nameplate capa
