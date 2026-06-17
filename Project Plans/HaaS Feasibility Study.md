@@ -24,3 +24,15 @@ Table 1. Value proposition for EPC business model
 |                 |       |                                     |           |
 
 Table 2. Value proposition for the HaaS business model
+
+| Technology      | Value | GHG abatement and revenue potential | Scenarios |
+| :-------------- | ----- | :---------------------------------: | :-------: |
+| Solar-thermal   |       |                                     |           |
+| Thermal storage |       |                                     |           |
+| Battery         |       |                                     |           |
+| Heat pump       |       |                                     |           |
+| E-boilers       |       |                                     |           |
+|                 |       |                                     |           |
+
+# Ideas
+
