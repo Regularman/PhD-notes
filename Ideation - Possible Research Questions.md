@@ -3,7 +3,7 @@
 
 | Research Questions | Methodology | Potentially relevant papers |
 | ------------------ | ----------- | --------------------------- |
-|                    |             |                             |
+| Scenario -         |             |                             |
 ## Topic 2: Life-cycle assessment
 
 | Research Questions | Methodology | Potentially relevant papers |
