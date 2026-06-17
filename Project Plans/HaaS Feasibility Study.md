@@ -36,3 +36,7 @@ Table 2. Value proposition for the HaaS business model
 
 # Ideas
 
+## Topic 1:
+
+## Topic 2:
+
