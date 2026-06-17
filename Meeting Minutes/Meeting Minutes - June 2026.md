@@ -108,6 +108,6 @@ For the RACE project, focus more on collaborating with Amr and coming up with te
 
 ## Quick meeting with Amr
 
-There are three options for the replacement of gas boilers
+There are three options for the replacement of gas boilers. Currently, they give the name plate capacities of their equipment, energy bills, and utilization. We just don't know how long each equipment is used for
 
-- Currently, they give the name plate capacities of their equipment, energy bills, and utilisation. We j
+- We know how much gas they use, and therefore can use that as a basis for the sizing 
