@@ -22,3 +22,5 @@ Table 1. Value proposition for EPC business model
 | Heat pump       |       |                                     |           |
 | E-boilers       |       |                                     |           |
 |                 |       |                                     |           |
+
+Table 2. Value proposition for the HaaS business model
