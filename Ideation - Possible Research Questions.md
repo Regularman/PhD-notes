@@ -1,16 +1,16 @@
 
 ## Topic 1: High level market impact of Heat as a Service
 
-| Research Questions                                        |     | Methodology | Potentially relevant papers |
-| --------------------------------------------------------- | --- | ----------- | --------------------------- |
-| At varying levels of thermal electrification bidding into |     |             |                             |
+| Research Questions                                                                                        | Context                                                               | Methodology | Potentially relevant papers |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------- | --------------------------- |
+| Impacts on ancillary market at varying levels of thermal electrification bidding into the reserve market. | Can thermal batteries be the marginal price setters for these markets |             |                             |
 ## Topic 2: Life-cycle assessment
 
-| Research Questions                                        |     | Methodology | Potentially relevant papers |
-| --------------------------------------------------------- | --- | ----------- | --------------------------- |
-| At varying levels of thermal electrification bidding into |     |             |                             |
+| Research Questions | Context | Methodology | Potentially relevant papers |
+| ------------------ | ------- | ----------- | --------------------------- |
+|                    |         |             |                             |
 ## Topic 3: Technological considerations 
 
-| Research Questions                                        |     | Methodology | Potentially relevant papers |
-| --------------------------------------------------------- | --- | ----------- | --------------------------- |
-| At varying levels of thermal electrification bidding into |     |             |                             |
+| Research Questions | Context | Methodology | Potentially relevant papers |
+| ------------------ | ------- | ----------- | --------------------------- |
+|                    |         |             |                             |
