@@ -5,10 +5,7 @@
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1440,"y":-854,"width":400,"height":152,"color":"1"},
 		{"id":"4617af30e868cf31","type":"text","text":"## *Hydrogen*","x":-2405,"y":420,"width":250,"height":60,"color":"5"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-2304,"y":600,"width":400,"height":200,"color":"5"},
-		{"id":"3be2192c9fdd8b82","type":"text","text":"## *Heat Pumps (Air sourced or high temperature sourced)*","x":-2830,"y":420,"width":250,"height":140,"color":"5"},
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *Solar Thermal (Flat plate or evacuated tubes)*","x":-1931,"y":398,"width":331,"height":122,"color":"5"},
-		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-3200,"y":338,"width":250,"height":60,"color":"5"},
-		{"id":"3b6786aa736b5308","type":"text","text":"# *Works on new technologies*","x":-2457,"y":13,"width":250,"height":79,"color":"5"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1365,"y":-1360,"width":385,"height":140,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-2192,"y":-1200,"width":250,"height":80,"color":"1"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1620,"width":400,"height":318,"color":"1"},
@@ -25,7 +22,6 @@
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *Economic modelling and feasibility of low carbon heat*","x":-2422,"y":-954,"width":353,"height":109,"color":"3"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in carribeans.md","x":-2036,"y":-606,"width":435,"height":228,"color":"3"},
 		{"id":"5cd5615410057464","type":"text","text":"## *Molten salt storage*","x":-3405,"y":53,"width":250,"height":100,"color":"5"},
-		{"id":"01c50179a978ba34","type":"text","text":"## *Hot water thermal storage*","x":-3077,"y":92,"width":250,"height":90,"color":"5"},
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *Using low carbon heat for ancillary services*","x":-4320,"y":-935,"width":371,"height":95,"color":"2"},
 		{"id":"e8a2bd3a6ba9418c","type":"text","text":"## *Droplet formation in suction pipe during loading change*\n\nDuring the ramp down of the heat pump, the saturation temperature increases above the wall temperature. This causes the condensation of droplets in the compressor and suction line walls. This is due to the increase in evaporation pressure in heat pump.\n- A small increase in evaporation temperature causes a large increase in saturation temperature\n\nThe change with evaporation pressure is due to the power uptake being the proportional to the condensation pressure.\n![[Screenshot 2026-06-15 at 7.02.11 pm.png]]\n\nWe then consult the pressure temperature graph for the refrigerant. \n- Note that at higher pressures, the gradient of the saturation temperature is also lower.\n\nThe constraining of ramping rate of power uptake helps solves the issue\n\nFor other refrigerants, superheating the suction line might actually INCREASE the COP, and therefore not pose a significant issue to heat pump design.","x":-4280,"y":-494,"width":422,"height":91,"color":"2"},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1546,"y":-592,"width":400,"height":192,"color":"3"},
@@ -36,7 +32,11 @@
 		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria.md","x":-4334,"y":103,"width":400,"height":187},
 		{"id":"62b1d95e06afac57","type":"text","text":"#### Danish Energy Agency - Subsidy for HaaS","x":-2622,"y":-1873,"width":311,"height":106,"color":"1"},
 		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-2223,"y":-1873,"width":312,"height":103,"color":"1"},
-		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1823,"y":-1880,"width":272,"height":110,"color":"1"}
+		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1823,"y":-1880,"width":272,"height":110,"color":"1"},
+		{"id":"3b6786aa736b5308","type":"text","text":"# *Works on new technologies*","x":-2474,"y":114,"width":250,"height":79,"color":"5"},
+		{"id":"01c50179a978ba34","type":"text","text":"## *Hot water thermal storage*","x":-2924,"y":248,"width":250,"height":90,"color":"5"},
+		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-3090,"y":450,"width":250,"height":60,"color":"5"},
+		{"id":"3be2192c9fdd8b82","type":"text","text":"## *Heat Pumps (Air sourced or high temperature sourced)*","x":-2674,"y":440,"width":250,"height":140,"color":"5"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
