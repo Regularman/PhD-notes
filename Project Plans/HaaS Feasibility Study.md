@@ -12,9 +12,10 @@ Tool to figure out business case and interaction with spot market
 - Create flowchart for contract negotiation
 
 
+Table 1. Value proposition for EPC business model
+
 | Technology      | Value | GHG abatement and revenue potential | Scenarios |
-|:--------------- | ----- |:-----------------------------------:|:---------:|
-|                 |       |                                     |           |
+| :-------------- | ----- | :---------------------------------: | :-------: |
 | Solar-thermal   |       |                                     |           |
 | Thermal storage |       |                                     |           |
 | Battery         |       |                                     |           |
