@@ -10,7 +10,8 @@
 | Research Questions                                                                     | Context                                                                                                         | Methodology | Potentially relevant papers |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------- |
 | Lifecycle assessment of thermal electrification technology under a HaaS business model | Revenue opportunities and impacts on financial cash flow due to circularity of technologies such as heat pumps. |             |                             |
-| Impacts of intermittent operation on heat pump life-cycle                              | When participating in ancillary market                                                                          |             |                             |
+| Impacts of intermittent operation on heat pump life-cycle                              | When participating in ancillary market, heat pumps turn on and off frequent, either                             |             |                             |
+|                                                                                        |                                                                                                                 |             |                             |
 ## Topic 3: Technological considerations 
 
 | Research Questions | Context | Methodology | Potentially relevant papers |
