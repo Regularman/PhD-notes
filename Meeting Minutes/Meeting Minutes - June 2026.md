@@ -107,3 +107,7 @@ Would be cool to pursue one day a week at Iberdrola, next time we meet with them
 For the RACE project, focus more on collaborating with Amr and coming up with techniques and frameworks that the thesis students can follow
 
 ## Quick meeting with Amr
+
+There are three options for the replacement of gas boilers
+
+- Currently, they give the name plate capacities of their equipme
