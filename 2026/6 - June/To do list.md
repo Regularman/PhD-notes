@@ -32,4 +32,5 @@
 	- [ ] There are no papers on the control theory of aggregated heat pumps and its impacts
 	- [ ] Partial load modelling for heat pumps
 	- [ ] Operation of larger heat pumps
-- [ ] Haven't looked at the influence of tariffs on flexible operations.
+- [ ] Haven't looked at the influence of tariffs on flexible operations
+- [ ] Flesh out macc chart idea for KPI of decarb tool
