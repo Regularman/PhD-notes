@@ -13,7 +13,7 @@
 		{"id":"d602014597b26ba5","type":"text","text":"# Australian Energy usage and the Kardashev scale - Renew Economy- 4/06\n\nArticle talks about Australian renewable curtailment and how it had reached 7,200 GWh in 2025, doubling figure in 2024. Would be interesting to look more into the breakdown of this.\n\nhttps://reneweconomy.com.au/the-kardashev-scale-australias-staggering-energy-transition-and-its-untapped-opportunity/","x":-1280,"y":-391,"width":386,"height":169},
 		{"id":"f7cb0231681c42fc","type":"text","text":"# Electricity Market","x":-85,"y":-960,"width":301,"height":102,"color":"2"},
 		{"id":"74648b2066572d59","type":"text","text":"## NEM","x":-525,"y":-800,"width":250,"height":50},
-		{"id":"414f6481b022479f","x":-340,"y":-666,"width":380,"height":106,"type":"text","text":"# Addressing stochastic variability in forecasting\n\n\n"}
+		{"id":"414f6481b022479f","x":-340,"y":-666,"width":380,"height":414,"type":"text","text":"# Addressing stochastic variability in forecasting\n\nGrid forecasting in the NEM and ESOO is done on stochastic data but plans for a deterministic outcome, which is the \n"}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
