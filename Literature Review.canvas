@@ -37,7 +37,7 @@
 		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-2874,"y":515,"width":250,"height":50,"color":"5"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3949,"y":-1440,"width":480,"height":290,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3709,"y":-1720,"width":371,"height":108,"color":"4"},
-		{"id":"35cb1aba6cac9e74","x":-3427,"y":-1901,"width":250,"height":60,"color":"4","type":"text","text":"# Life-cycle Assessments"},
+		{"id":"35cb1aba6cac9e74","x":-3427,"y":-1940,"width":250,"height":99,"color":"4","type":"text","text":"# Life-cycle Assessments"},
 		{"id":"e32e13e94bd2e08f","x":-3245,"y":-1666,"width":400,"height":106,"color":"4","type":"file","file":"2005 - Lifecycle Assessment of a solar thermal collector.md"}
 	],
 	"edges":[
