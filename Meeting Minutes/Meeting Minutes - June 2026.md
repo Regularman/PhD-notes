@@ -120,3 +120,5 @@ Below is the general approach to get the economic analysis
 
 ![[Screenshot 2026-06-17 142134.png]]
 
+## Github Codebase meeting
+
