@@ -131,3 +131,5 @@ Anchala's goal is to figure out how to use the Sankey diagrams
 Iberdrola is only worried about the use phase carbon emissions. 
 - Amr has calculated the Global Warming Potential of each technology in each state based on the grid 
 - The problem is that is doesn't consider the coupling of technology
+- Furthermore, it misses the opportunity cost of electrification and voltage regulation at the distribution level
+- 
