@@ -129,4 +129,5 @@ Rohan is doing the supply options, compiling the technology COPs to see how it i
 Anchala's goal is to figure out how to use the Sankey diagrams
 
 Iberdrola is only worried about the use phase carbon emissions. 
-- Amr has calculated the Global Warming Potential fo each technology in each state based on the grid 
+- Amr has calculated the Global Warming Potential of each technology in each state based on the grid 
+- The problem is that is doesn't consider the coupling of technology
