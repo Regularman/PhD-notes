@@ -1,4 +1,4 @@
-https://www.dti.dk/heat-pumps-in-circular-economy/45241
+https://heatpumpingtechnologies.org/content/uploads/sites/78/2025/10/2025-10-02-iea-hpt-project-65-task2reportfinalv2.pdf
 ## Contributions
 
 Useful in showing case studies that demonstrates the challenges (such as scrap yards) and logitic framework used for the recycling of heat pumps and heat pump components.
