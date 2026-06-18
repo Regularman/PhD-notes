@@ -122,4 +122,6 @@ Below is the general approach to get the economic analysis
 
 ## Github Codebase meeting
 
-## 
+### Meeting with Rohan, Anchala, and Amr to firm up what to do for codebase
+
+Rohan is doing the supply options, compiling the technology COPs to s
