@@ -8,7 +8,7 @@
 ## Australian market modelling
 - EZview - Spot market pricing (FCAS and ancillary market included) Check out Watt Clarity article for example [https://wattclarity.com.au/articles/2026/06/06june-regulation-fcas-trend/?_gl=1*ujguto*_ga*MTUyMDYyOTAyMy4xNzgwNTI2NzEy*_ga_4ZTT9PF6TR*czE3ODA5NjA0NzUkbzIkZzAkdDE3ODA5NjA0NzUkajYwJGwwJGgw]
 
-[[2019 -Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark]] 
+[[2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark]] 
 
 - EnergyPLAN: Priority list simulation model based on minimising primary energy consumption and ensuring hourly balance between supply and demand within electricity, heating, cooling, transportation, and gases. Suitable for looking at entire energy ecosystems rather than a plant.
 - EnergyPRO is used to discuss business economic feasibility of DH schemes, and its optimisation against markets. It simulates, as a priority-list, the dispatch of different generation.
