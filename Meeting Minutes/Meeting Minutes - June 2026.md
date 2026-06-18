@@ -124,4 +124,9 @@ Below is the general approach to get the economic analysis
 
 ### Meeting with Rohan, Anchala, and Amr to firm up what to do for codebase
 
-Rohan is doing the supply options, compiling the technology COPs to s
+Rohan is doing the supply options, compiling the technology COPs to see how it impacts emission factors.
+
+Anchala's goal is to figure out how to use the Sankey diagrams
+
+Iberdrola is only worried about the use phase carbon emissions. 
+- Amr has 
