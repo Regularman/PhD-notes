@@ -1,7 +1,8 @@
-
+https://iopscience.iop.org/article/10.1088/1742-6596/3140/16/162017
 ## Contributions
 
-Considers several R-strategies (reduce, refurbish, remanufacture, repair, and recycling). In this operation strategy, the paper seeks to look at the LCA of heat pumps and their refrigerant using the ReCiPe method.
+Considers several R-strategies
+(reduce, refurbish, remanufacture, repair, and recycling). In this operation strategy, the paper seeks to look at the LCA of heat pumps and their refrigerant using the ReCiPe method.
 
 The work is done for air-water heat pumps in environmental buildings.
 
