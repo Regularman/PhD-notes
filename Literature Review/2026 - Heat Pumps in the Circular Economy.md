@@ -17,6 +17,7 @@ Operational set of processes that includes the collection of EoL products, trans
 - Start small and experiment with strategies such as warranty claim, service returns and naturally occurring product recalls.
 - Map out the value chain, how is the product reaching the consumer (direct sale, through retail, as a component in a larger system, or through distributors)
 - To build a ribust business case, mapp all activities involved and identify the cost drivers and potential value for end users and manufacturers. Also how can partnerships be built to share costs and benefits.
+
 ![[Screenshot 2026-06-11 104130.png]]
 
 You need to use data about reason for return, condition, mileage, and product type is needed to support efficient sorting and decision making.
