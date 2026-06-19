@@ -38,9 +38,9 @@
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3949,"y":-1440,"width":480,"height":138,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3709,"y":-1720,"width":371,"height":108,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3245,"y":-1666,"width":400,"height":106,"color":"4"},
-		{"id":"eb4740c37bbb33d3","x":-3669,"y":-1200,"width":400,"height":131,"color":"4","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md"},
+		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3669,"y":-1200,"width":400,"height":131,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# Life-cycle Assessments","x":-3394,"y":-1979,"width":250,"height":99,"color":"4"},
-		{"id":"84c3cda82107faf9","x":-1823,"y":-1498,"width":400,"height":127,"color":"1","type":"file","file":"2026 - X as a Service in Australia - Australian Alliance for Energy Productivity.md"}
+		{"id":"84c3cda82107faf9","type":"file","file":"2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1841,"y":-1417,"width":400,"height":127,"color":"1"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
