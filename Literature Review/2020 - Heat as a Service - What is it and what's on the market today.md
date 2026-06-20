@@ -107,6 +107,6 @@ There's also a value proposition for the installers, as they can focus less on s
 - Customer demand and cultural acceptance
 - Regulations
 
-Obviously there will be a distribution of business models across the market. This estimation is done 
+Obviously there will be a distribution of business models across the market. This estimation is done by Delta-EE as a conservative estimate.
 
 ![[Screenshot 2026-06-20 at 11.43.45 am.png]]
