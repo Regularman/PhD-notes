@@ -35,4 +35,4 @@ There are several category of risks for the ESCO
 ![[Screenshot 2026-06-20 at 11.02.20 am.png]]
 
 There are different models that takes on the different levels of risk
-- Can you do the same 
+- Can you do the same framework for consumers?
