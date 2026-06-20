@@ -106,7 +106,7 @@ There's also a value proposition for the installers, as they can focus less on s
 - Risk management throws off companies from doing this. For example, a lot of heating as a service companies says that subsidies are required as an incentive for pioneers
 - Customer demand and cultural acceptance
 - Regulations
-- 
 
+Obviously there will be a distribution of business models across the market. This estimation is done 
 
-
+![[Screenshot 2026-06-20 at 11.43.45 am.png]]
