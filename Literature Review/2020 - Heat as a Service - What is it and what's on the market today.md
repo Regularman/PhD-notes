@@ -74,5 +74,10 @@ Here we can see that Viessman adds a tariff or additional charge for covering en
 SImilar to Viessmann, this is a subscription model service. However, they only target the top 25% of households in terms of energy consumption, as they make money from the energy saved (so these are the only homes that makes it worthwhile)
 ![[Screenshot 2026-06-20 at 11.27.14 am.png]]
 
-For OK and Best Green, there is a fixed monthly fee and a residual for the electricity bill. However, they have not been successful due to the value proposition not lining up. This is due to additional cost of he
+For OK and Best Green, there is a fixed monthly fee and a residual for the electricity bill. However, they have not been successful due to the value proposition not lining up. This is due to additional cost of heat metering and the cost of financing. This is an example of where heat as a service has failed.
+
 ![[Screenshot 2026-06-20 at 11.28.45 am.png]]
+
+## Comfort as a Service
+
+Eneco is supplying 
