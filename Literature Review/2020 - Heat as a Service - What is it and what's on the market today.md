@@ -103,6 +103,10 @@ There's also a value proposition for the installers, as they can focus less on s
 
 - Getting the value proposition right (which is both affordable for suppliers and customers)
 - No companies in the value chain have a vertically integrated business. Therefore partnerships or subcontracts must be made 
+- Risk management throws off companies from doing this. For example, a lot of heating as a service companies says that subsidies are required as an incentive for pioneers
+- Customer demand and cultural acceptance
+- Regulations
+- 
 
 
 
