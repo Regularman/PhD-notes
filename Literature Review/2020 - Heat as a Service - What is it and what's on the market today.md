@@ -17,3 +17,5 @@ Some of the value that Heat as a Service can bring to residents looking to repla
 
 ![[Screenshot 2026-06-20 at 10.50.07 am.png]]
 
+For residents, there are two things to consider financially
+- 
