@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=cdO3GOnFdUc
 
+This is a webinar on HaaS and outlooks back from 2020, providing case studies and outlook for how the market will evolve.
+## Content
+
 There are several pioneers in this space for Energy as a Service
 
 - Thermondo
