@@ -52,4 +52,8 @@ In a lot of examples, the service provided essentially still allows the user to 
 
 Drivers of Heat as a Service; 
 - with new monitoring and digital technologies, HaaS is made possible and effective.
-- Companies such as Engie creates an
+- Companies such as Engie creates an environment that shifts trend towards XaaS
+- Rise of demand response in a variable grid
+- Decarbonising heat and regulatory alignment
+
+
