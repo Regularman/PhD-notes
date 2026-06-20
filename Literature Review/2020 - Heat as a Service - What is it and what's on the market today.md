@@ -111,3 +111,6 @@ Obviously there will be a distribution of business models across the market. Thi
 
 ![[Screenshot 2026-06-20 at 11.43.45 am.png]]
 
+## Further readings
+
+They have podcasts on spotify for heat as a service (Se)
