@@ -93,5 +93,7 @@ Fully Comfort as a Service would also include lighting, cooling in the summer.
 
 ![[Screenshot 2026-06-20 at 11.34.50 am.png]]
 
-There's also a value proposition for the installers 
+There's also a value proposition for the installers, as they can focus less on selling the heat pump and more on installing, which is what they're good at.
+
+**At the **
 
