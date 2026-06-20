@@ -101,7 +101,8 @@ There's also a value proposition for the installers, as they can focus less on s
 
 ### Barriers
 
-- Valu
+- Getting the value proposition right (which is both affordable for suppliers and customers)
+- No companies in the value chain have a vertically integrated business. Therefore partnerships or subcontracts must be made 
 
 
 
