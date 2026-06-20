@@ -95,5 +95,6 @@ Fully Comfort as a Service would also include lighting, cooling in the summer.
 
 There's also a value proposition for the installers, as they can focus less on selling the heat pump and more on installing, which is what they're good at.
 
-**At the **
+**At the EOL, the customer typically owns the equipment for fixed term contracts. With indefinite model, the idea is that they are paying for the duration of the factory, and they are T&Cs about what happens if you are moving somewhere new**
+
 
