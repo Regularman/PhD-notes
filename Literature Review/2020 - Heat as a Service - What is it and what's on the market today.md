@@ -82,5 +82,9 @@ For OK and Best Green, there is a fixed monthly fee and a residual for the elect
 
 Eneco is supplying true comfort as a service as a trial in 2020. We can look at how this trial went in retrospect.
 
+Heat pumps are owned by Eneco. 
+- Residents pay EPV fee to landlord, which is a fee offered in the Netherlands for providing an energy efficient property.
+- Eneco also takes on energy risk as they supply 
+
 ![[Screenshot 2026-06-20 at 11.31.29 am.png]]
 
