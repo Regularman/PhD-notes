@@ -44,5 +44,6 @@ There are different models that takes on the different levels of risk
 3. Unlimited subscription
 
 In a lot of examples, the service provided essentially still allows the user to operate the equipment (that is, the user sets a temperature and the company provides that). However, in comfort as a service, the heating system is operated by the ESCO.
+- Comfort levels may require varying level of heat due to insulation and solar facing hours
 
 ![[Screenshot 2026-06-20 at 11.10.46 am.png]]
