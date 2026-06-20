@@ -42,3 +42,5 @@ There are different models that takes on the different levels of risk
 1. Pay per use ($ per kWh of elec/heat/"warm hours")
 2. Limited subscription (Fixed fee for certain temperature levels or for 250 "warm hours") 
 3. Unlimited subscription
+
+In a lot of examples, the service provided essentially still allows the user to operate the equipment (that is, the user sets a temperature and the company provides that )
