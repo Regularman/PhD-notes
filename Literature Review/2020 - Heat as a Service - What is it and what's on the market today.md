@@ -87,7 +87,7 @@ Heat pumps are owned by Eneco.
 - Eneco also takes on energy risk as they supply electricity to the heat pump with wind power and there are also solar PV panels to provide power.
 
 Residents can change the temperature provided that they don't use more than 5 GJ a day (adjusted annually)
-- Residents also have the option of grid mix electricity as a backup contingency or high pr
+- Residents also have the option of grid mix electricity as a backup contingency or to take advantage of low price events
 
 Fully Comfort as a Service would also include lighting, cooling in the summer.
 
