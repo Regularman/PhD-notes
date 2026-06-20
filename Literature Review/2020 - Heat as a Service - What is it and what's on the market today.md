@@ -55,5 +55,9 @@ Drivers of Heat as a Service;
 - Companies such as Engie creates an environment that shifts trend towards XaaS
 - Rise of demand response in a variable grid
 - Decarbonising heat and regulatory alignment
+- Energy customer loyalty and increasing dependence/reliance
+- New revenue streams and optimising costs for new companies (recurring revenue model is valuable)
+
+
 
 
