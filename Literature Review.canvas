@@ -5,10 +5,8 @@
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1440,"y":-854,"width":400,"height":152,"color":"1"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-2304,"y":600,"width":400,"height":200,"color":"5"},
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *Solar Thermal (Flat plate or evacuated tubes)*","x":-1931,"y":398,"width":331,"height":122,"color":"5"},
-		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1365,"y":-1360,"width":385,"height":140,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-2192,"y":-1200,"width":250,"height":80,"color":"1"},
-		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1620,"width":400,"height":318,"color":"1"},
-		{"id":"9e942d00e165b765","type":"text","text":"## *Heineken*","x":-1290,"y":-1090,"width":250,"height":70,"color":"1"},
+		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2342,"y":-1620,"width":400,"height":159,"color":"1"},
 		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2840,"y":-1000,"width":260,"height":100,"color":"3"},
 		{"id":"58b7394b2271650b","type":"text","text":"# *Industrial Applications*","x":-3017,"y":-808,"width":343,"height":56,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3275,"y":-635,"width":515,"height":186,"color":"3"},
@@ -40,7 +38,10 @@
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3245,"y":-1666,"width":400,"height":106,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3669,"y":-1200,"width":400,"height":131,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# Life-cycle Assessments","x":-3394,"y":-1979,"width":250,"height":99,"color":"4"},
-		{"id":"84c3cda82107faf9","type":"file","file":"2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1440,"y":-1588,"width":400,"height":127,"color":"1"}
+		{"id":"0ddc5405c5c10558","x":-1823,"y":-1512,"width":400,"height":102,"color":"1","type":"file","file":"PhD-notes/Literature Review/2020 - Heat as a Service - What is it and what's on the market today.md"},
+		{"id":"84c3cda82107faf9","type":"file","file":"2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1290,"y":-1588,"width":400,"height":127,"color":"1"},
+		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1165,"y":-1300,"width":385,"height":140,"color":"1"},
+		{"id":"9e942d00e165b765","type":"text","text":"## *Heineken*","x":-1290,"y":-989,"width":250,"height":70,"color":"1"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -77,6 +78,7 @@
 		{"id":"c2c24e5e993a72ea","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"f368208cf8dea35c","toSide":"top"},
 		{"id":"e4a8881e7b94a9ba","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"e32e13e94bd2e08f","toSide":"top"},
 		{"id":"8fd551a58d959295","fromNode":"f96bbb691d6984f8","fromSide":"bottom","toNode":"eb4740c37bbb33d3","toSide":"top"},
-		{"id":"fd2c57dd45d03e64","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"bottom"}
+		{"id":"fd2c57dd45d03e64","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"bottom"},
+		{"id":"f80de8ff74b36aa9","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"0ddc5405c5c10558","toSide":"bottom"}
 	]
 }
