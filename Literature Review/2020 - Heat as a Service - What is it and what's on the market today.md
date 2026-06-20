@@ -113,4 +113,4 @@ Obviously there will be a distribution of business models across the market. Thi
 
 ## Further readings
 
-They have podcasts on spotify for heat as a service (Series 1 episode 3)
+They have podcasts on spotify for heat as a service (Series 1 episode 3E)
