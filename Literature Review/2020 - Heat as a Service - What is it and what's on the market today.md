@@ -50,4 +50,6 @@ In a lot of examples, the service provided essentially still allows the user to 
 
 ## Examples
 
-Drivers of Heat as a Service, wit
+Drivers of Heat as a Service; 
+- with new monitoring and digital technologies, HaaS is made possible and effective.
+- Companies such as Engie creates an
