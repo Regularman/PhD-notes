@@ -47,3 +47,4 @@ In a lot of examples, the service provided essentially still allows the user to 
 - Comfort levels may require varying level of heat due to insulation and solar facing hours
 
 ![[Screenshot 2026-06-20 at 11.10.46 am.png]]
+
