@@ -84,7 +84,9 @@ Eneco is supplying true comfort as a service as a trial in 2020. We can look at 
 
 Heat pumps are owned by Eneco. 
 - Residents pay EPV fee to landlord, which is a fee offered in the Netherlands for providing an energy efficient property.
-- Eneco also takes on energy risk as they supply 
+- Eneco also takes on energy risk as they supply electricity to the heat pump with wind power and there are also solar PV panels to provide power.
 
-![[Screenshot 2026-06-20 at 11.31.29 am.png]]
+Residents can change the temperature provided that they don't use more than 5 GJ a day (adjusted annually)
+
+
 
