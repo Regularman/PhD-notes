@@ -59,6 +59,6 @@ Drivers of Heat as a Service;
 - New revenue streams and optimising costs for new companies (recurring revenue model is valuable)
 - Changing routes to market
 
+### Boiler rentals
 
-
-
+![[Screenshot 2026-06-20 at 11.22.28 am.png]]
