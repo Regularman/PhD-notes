@@ -68,3 +68,5 @@ ENGIE also provides monitoring and diagnostic to provide the peace of mind for c
 ### Heat as a Service/Heat contracting
 
 ![[Screenshot 2026-06-20 at 11.24.41 am.png]]
+
+Here we can see that Viessman adds a tariff or additional charge for covering energy risk as well
