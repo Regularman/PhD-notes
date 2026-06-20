@@ -16,7 +16,7 @@ There are several pioneers in this space for Energy as a Service
 Some of the value that Heat as a Service can bring to residents looking to replace heating systems at the end of life.
 
 ![[Screenshot 2026-06-20 at 10.50.07 am.png]]
-
+![[Screenshot 2026-06-20 at 11.21.36 am.png]]
 For residents, there are two things to consider financially
 - heating equipment through monthly payments, upfront payments, and rental agreements. There are additional consideration for smart energy monitoring, diagnostics, and maintenance contracts
 - The energy use (the inputs into the system required to achieve certain levels of service)
@@ -57,6 +57,7 @@ Drivers of Heat as a Service;
 - Decarbonising heat and regulatory alignment
 - Energy customer loyalty and increasing dependence/reliance
 - New revenue streams and optimising costs for new companies (recurring revenue model is valuable)
+- Changing routes to market
 
 
 
