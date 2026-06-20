@@ -61,7 +61,10 @@ Drivers of Heat as a Service;
 
 ### Boiler rentals
 
-
 ![[Screenshot 2026-06-20 at 11.22.28 am.png]]![[Screenshot 2026-06-20 at 11.22.56 am.png]]
 
-EN
+ENGIE also provides monitoring and diagnostic to provide the peace of mind for consumers when something goes wrong
+
+### Heat as a Service/Heat contracting
+
+![[Screenshot 2026-06-20 at 11.24.41 am.png]]
