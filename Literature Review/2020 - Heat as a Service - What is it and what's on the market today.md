@@ -70,3 +70,6 @@ ENGIE also provides monitoring and diagnostic to provide the peace of mind for c
 ![[Screenshot 2026-06-20 at 11.24.41 am.png]]
 
 Here we can see that Viessman adds a tariff or additional charge for covering energy risk as well
+
+SImilar to Viessmann, this is a subscription model service. However, they only target the top 25% of households in terms of energy consumption, as they make money from the energy 
+![[Screenshot 2026-06-20 at 11.27.14 am.png]]
