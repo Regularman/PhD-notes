@@ -9,3 +9,4 @@ There are several pioneers in this space for Energy as a Service
 - Gogoro
 - Siemens
 - Energ-G
+
