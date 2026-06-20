@@ -31,3 +31,7 @@ There are several category of risks for the ESCO
 | Behaviour risk     | Changes to conditions (such as inefficient use), there has to be a way for the ESCO to mitigate this risk |
 | Performance risk   | Taking on liquidate damages for guarantee of performance and efficiency.                                  |
 | Regulatory risk    | Exposure to regulations as a novel market                                                                 |
+
+![[Screenshot 2026-06-20 at 11.02.20 am.png]]
+
+There are different models that 
