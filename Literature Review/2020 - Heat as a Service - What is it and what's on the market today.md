@@ -24,10 +24,10 @@ For residents, there are two things to consider financially
 There are several category of risks for the ESCO
 
 
-| Risk               |                                                          |
-| ------------------ | -------------------------------------------------------- |
-| Financial risk     |                                                          |
-| Technical risk     |                                                          |
-| Energy price risks | You can                                                  |
-| Behaviour risk     | Changes to conditions (such as inefficienc)              |
-| Performance risk   | Taking on liquidate damages for guarantee of performance |
+| Risk               |                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| Financial risk     | Late repayments for equipment financing                                                                   |
+| Technical risk     | Maintaining the equipment for the expected lifetime                                                       |
+| Energy price risks | You can take on the energy input price to provide the heat required                                       |
+| Behaviour risk     | Changes to conditions (such as inefficient use), there has to be a way for the ESCO to mitigate this risk |
+| Performance risk   | Taking on liquidate damages for guarantee of performance and efficiency.                                  |
