@@ -39,4 +39,6 @@ There are different models that takes on the different levels of risk
 
 ## Payment structure
 
-1. Pay per use (per kWh of elec/heat/"warm hours")
+1. Pay per use ($ per kWh of elec/heat/"warm hours")
+2. Limited subscription (Fixed fee for certain temperature levels or for 250 "warm hours") 
+3. Unlimited subscription
