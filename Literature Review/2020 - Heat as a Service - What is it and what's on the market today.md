@@ -36,3 +36,7 @@ There are several category of risks for the ESCO
 
 There are different models that takes on the different levels of risk
 - Can you do the same framework for consumers?
+
+## Payment structure
+
+1. Pay per use (per kWh of elec/heat/"warm hours")
