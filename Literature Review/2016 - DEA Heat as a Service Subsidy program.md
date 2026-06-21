@@ -5,3 +5,7 @@ From 2013-2015, a consortium of energy service providers (Insero energy, Braedst
 Carried out in collaboration with Braedstrup heating district to provide 19 heat pumps and a heating system for a municipal school. 
 
 Insero Energy, through its subsidiary, Best Green, advised the customer and purchases, installs, operates and services the pump. The customer purchases heat on terms similar to those of district heating customers. 
+
+Payment structure is,
+- 35000 kr for the initial connection fee, although this can be reduced through a home subsidy scheme
+- 
