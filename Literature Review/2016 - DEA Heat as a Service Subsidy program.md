@@ -8,4 +8,6 @@ Insero Energy, through its subsidiary, Best Green, advised the customer and purc
 
 Payment structure is,
 - 35000 kr for the initial connection fee, although this can be reduced through a home subsidy scheme
-- 
+- 5000 kr per year for service and maintainence
+- 0.85 kr per kWh of heat and a minimum consumption per year of 13,500 kWh
+
