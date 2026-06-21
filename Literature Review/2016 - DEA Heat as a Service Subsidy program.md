@@ -23,6 +23,12 @@ The role of the heat provider is to
 - Marketing and customer agreement
 - Settlement of heat consumption
 
+While the role of the operating company is
+- the assessment of suitability of the home for heat pump
+- delivery and installation of heat pumps
+- operation and monitoring of heat pumps
+- data collection on heat pump and data management
 
 ## OK Energy
 
+$10$ year lease period. OK Energy 
