@@ -5,7 +5,7 @@ From 2013-2015, a consortium of energy service providers (Insero energy, Braedst
 
 This is a report on the findings on this subsidy program
 
-## Insero energy
+## Insero energy and Best Green
 
 Carried out in collaboration with Braedstrup heating district to provide 19 heat pumps and a heating system for a municipal school. 
 
@@ -17,3 +17,6 @@ Payment structure is,
 - 0.85 kr per kWh of heat and a minimum consumption per year of 13,500 kWh. Electricity and pump monitoring allows the ESCO to monitor the pump's COP and performance. You can either pay for electricity directly or reimburse the consumers for the electricity consumed. This saves the consumers from having to worry about the electricity costs
 
 The contract can be terminated with 6 months notice and the contract length must be $>1$ year.
+
+## OK Energy
+
