@@ -40,3 +40,5 @@ The demonstration project installed $40$ heat pumps in private homes during the 
 - Separate bill for electricity consumption
 
 This represents a scaled back payment model that does not cover a fixed charge for monthly heat, and is more of an asset lease model.
+
+KPI of operational reliability
