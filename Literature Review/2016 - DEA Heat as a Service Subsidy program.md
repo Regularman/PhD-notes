@@ -7,7 +7,8 @@ Carried out in collaboration with Braedstrup heating district to provide 19 heat
 Insero Energy, through its subsidiary, Best Green, advised the customer and purchases, installs, operates and services the pump. The customer purchases heat on terms similar to those of district heating customers. 
 
 Payment structure is,
-- 35000 kr for the initial connection fee, although this can be reduced through a home subsidy scheme
+- 35000 kr for the initial connection fee, although this can be reduced through a home subsidy scheme. This connection fee is an insurance for 
 - 5000 kr per year for service and maintainence
 - 0.85 kr per kWh of heat and a minimum consumption per year of 13,500 kWh
 
+The contract can be terminated with 6 months notice and the contract length must be $>1$ year.
