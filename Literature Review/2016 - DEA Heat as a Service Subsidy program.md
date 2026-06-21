@@ -2,3 +2,6 @@ From 2013-2015, a consortium of energy service providers (Insero energy, Braedst
 
 ## Insero energy
 
+Carried out in collaboration with Braedstrup heating district to provide 19 heat pumps and a heating system for a municipal school. 
+
+nsero Energy advises the customer and purchases, installs, operates and services the pump. The customer purchases heat on terms similar to those of district heating customers. 
