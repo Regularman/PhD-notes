@@ -1,4 +1,9 @@
+
+http://u13ituj.nixweb09.dandomain.dk/wp-content/uploads/2016/07/Udbredelse-af-varmepumper-i-Danmark.pdf
+
 From 2013-2015, a consortium of energy service providers (Insero energy, Braedstrup Fjernvarme, OK energi, Exergi Partners, NIRAS and EA energianalyse) grouped together to investigate how to increase the spread of heat pumps in Europe.
+
+This is a report on the findings on this subsidy program
 
 ## Insero energy
 
