@@ -16,7 +16,13 @@ Payment structure is,
 - 5000 kr per year for service and maintainence
 - 0.85 kr per kWh of heat and a minimum consumption per year of 13,500 kWh. Electricity and pump monitoring allows the ESCO to monitor the pump's COP and performance. You can either pay for electricity directly or reimburse the consumers for the electricity consumed. This saves the consumers from having to worry about the electricity costs
 
-The contract can be terminated with 6 months notice and the contract length must be $>1$ year.
+The contract can be terminated with 6 months notice and Insero Energy commits not to terminate contract for the first 12 years.
+
+The role of the heat provider is to 
+- Look for customers
+- Marketing and customer agreement
+- Settlement of heat consumption
+
 
 ## OK Energy
 
