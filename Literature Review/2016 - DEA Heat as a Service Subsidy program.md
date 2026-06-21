@@ -45,3 +45,5 @@ This represents a scaled back payment model that does not cover a fixed charge f
 KPI of operational reliability. 
 
 Does not implement digital monitoring due to high cost of equipment.
+
+##
