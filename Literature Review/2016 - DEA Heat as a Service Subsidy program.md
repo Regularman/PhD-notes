@@ -33,4 +33,10 @@ While the role of the operating company is
 
 $10$ year lease period. OK Energy owns, removes the boiler and installation, maintainence and service of the heat pump. After the period, OK energy reclaims the heat pump at the end of the contract
 
-The demonstration project installed $40$ heat pumps in private homes during the subsidy progra
+The demonstration project installed $40$ heat pumps in private homes during the subsidy program. The company has kept the model and has sold a further 30 pumps since then.
+
+- One time payment of 25,000 kr
+- monthly lease of 1.1-1.4k kr
+- Separate bill for electricity consumption
+
+This represents a scaled back payment model that does not cover a fixed charge for monthly heat, and is more of an asset lease model.
