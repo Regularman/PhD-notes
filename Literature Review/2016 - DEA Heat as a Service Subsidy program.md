@@ -31,4 +31,6 @@ While the role of the operating company is
 
 ## OK Energy
 
-$10$ year lease period. OK Energy owns, removes the boiler and installation, maintainence and service of the heat pump. After the period, OK energy reclaims the heat pump.
+$10$ year lease period. OK Energy owns, removes the boiler and installation, maintainence and service of the heat pump. After the period, OK energy reclaims the heat pump at the end of the contract
+
+The demonstration project installed $40$ heat pumps in private homes during the subsidy progra
