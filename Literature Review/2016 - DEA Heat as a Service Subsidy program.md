@@ -40,6 +40,8 @@ The demonstration project installed $40$ heat pumps in private homes during the 
 - Separate bill for electricity consumption
 
 This represents a scaled back payment model that does not cover a fixed charge for monthly heat, and is more of an asset lease model. The electricity bill is either fixed price or variable price at the customer's choice.
-- No guarantee of energy efficiency, and must pay if the 
+- No guarantee of energy efficiency, and must pay for the low COP
 
 KPI of operational reliability. 
+
+Does not implement digital monitoring due to high cost of equipment.
