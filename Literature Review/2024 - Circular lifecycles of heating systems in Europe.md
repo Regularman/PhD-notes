@@ -11,7 +11,15 @@ This work contributed to literature by providing the
 
 The share of heat pumps in new residential buildouts increased from 0.8% in 2000 to 57% in 2020. Furthermore, the IEA highlights that from 2025, no new fossil fuel powered heating units should be installed globally. Heat pumps are recommended to provide 50% of the heating demand by 2045. Gas boilers should be adoptable to hydroegn
 
-Contains information about the material distribution of various heat pumps (water to air, brine to watewater to water) heat pumps at various sizes.
+Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
+
+
+|             | Air to Water | Brine to  |
+| ----------- | ------------ | --------- |
+| Weight      |              |           |
+| Material %s |              |           |
+|             |              |           |
+|             |              |           |
 
 ## Questions
 
