@@ -15,3 +15,5 @@ This work contributed to literature by providing the
 ## Limitations
 
 ## Further reading
+
+[28] Material difference between the air-to-water and ground source heat pump
