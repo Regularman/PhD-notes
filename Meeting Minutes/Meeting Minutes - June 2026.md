@@ -138,6 +138,11 @@ Attendees: Amr and Rob
 
 Presented the HaaS lever presentation to Rob and Amr. They were happy with the risk framework around identifying the value chain and risks acceptable within Iberdrola's risk tolerance. The next step would be to
 - identify and quantify the risk through Monte Carlo analysis (as an example)
-- interesting to set up market research interviews with Antora or Johnson's Control or ClimaTech to learn more about their business model. Some questions they may have might be 
+- interesting to set up market research interviews with Antora or Johnson's Control or ClimaTech to learn more about their business model. Some questions to ask might be 
+	- Why everyone does the finance+D&C+maintenance part of the HaaS contract
+	- 
+- Apply risk framework to specific technologies
+
+Another example is Qantas with general Electric who owns their engines.
 
 RACE was not able to award the top up as they are no longer accepting any more PhD students.
