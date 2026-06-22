@@ -136,4 +136,7 @@ Iberdrola is only worried about the use phase carbon emissions.
 
 Attendees: Amr and Rob 
 
-Presented the HaaS lever presentation to Rob and Amr. They were happy with the risk framework around identifying the value chain
+Presented the HaaS lever presentation to Rob and Amr. They were happy with the risk framework around identifying the value chain and risks acceptable within Iberdrola's risk tolerance. The next step would be to
+- identify and quantify the risk through monte carlo analysis (as an example)
+
+RACE was not able to award the top up as they are no longer accepting any
