@@ -60,6 +60,7 @@ Study shows that air sourced heat pumps are on average 1.6 times heavier across 
 	- Weights (cast iron)
 	- Backfill (cement and bentonite)
 
+Environmental Product Declarations (EPDs) and Product Environmental Profiles (PEPs) are good starting points for circularity and traceability of heat pumps.
 ## Questions
 
 ## Limitations
