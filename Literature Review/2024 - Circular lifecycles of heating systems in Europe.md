@@ -9,6 +9,7 @@ This work contributed to literature by providing the
 - the study also looked at various sustainability assessment system in regards to heat supply systems
 ## Content
 
+The share of heat pumps in new residential buildouts increased from 0.8% in 2000 to 57% in 2020
 Contains information about the material distribution of various heat pumps (air to water, air to air, water to water) heat pumps at various sizes.
 
 ## Questions
