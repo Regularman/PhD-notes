@@ -12,7 +12,18 @@ This work contributed to literature by providing the
 The share of heat pumps in new residential buildouts increased from 0.8% in 2000 to 57% in 2020. Furthermore, the IEA highlights that from 2025, no new fossil fuel powered heating units should be installed globally. Heat pumps are recommended to provide 50% of the heating demand by 2045. Gas boilers should be adoptable to hydrogen
 
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
-### Table for air sourced heat pumps
+
+Example is for a 10kW air sourced heat pump
+
+| Component           | Material                                            | Mass % |
+| ------------------- | --------------------------------------------------- | ------ |
+| Condensers          | low-alloyed or unalloyed steel                      | 15     |
+| Evaporator          |                                                     |        |
+| Expansion valve     |                                                     |        |
+| Compressor          | Reinforced steel                                    | 56%    |
+| Wiring              | Copper                                              |        |
+| Pipework insulation | Assumed to be elastomeric or alternatively rockwool |        |
+### Table for air sourced heat pumps (source 1)
 
 |                  | 7kW   | 10kW   | 15kW  | 50kW  |
 | ---------------- | ----- | ------ | ----- | ----- |
@@ -24,17 +35,7 @@ Contains information about the material distribution of various heat pumps (wate
 | Elastomer        | 6     | 7      | 5     | 4     |
 | Refrigerant      | R410A | R-134a | R410A | R410A |
 | Refrigerant mass | 3.5   | 4.9    | 4.5   | 20    |
-Example is for a 10kW air sourced heat pump
-
-| Component           | Material                                            | Mass % |
-| ------------------- | --------------------------------------------------- | ------ |
-| Condensers          | low-alloyed or unalloyed steel                      | 15     |
-| Evaporator          |                                                     |        |
-| Expansion valve     |                                                     |        |
-| Compressor          | Reinforced steel                                    | 56%    |
-| Wiring              | Copper                                              |        |
-| Pipework insulation | Assumed to be elastomeric or alternatively rockwool |        |
-
+## Table for air sourced heat pumps (source 2)
 ## Questions
 
 ## Limitations
