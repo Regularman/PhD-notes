@@ -105,10 +105,7 @@ Manufactures fans, motors, and electronics for heat pumps, and in the design sta
 	- Fragmented international regulation prohibits cross border take backs
 These issues can be addressed through stakeholder consultation and building partnerships with heat pump OEM, service partners, installers, and recyclers to establish reverse logistics and EoL collections. 
 
-
-
 The main issue is that installers are driven by bulk material value rather than circularity strategy, and heat pumps are recycled as mixed metal scraps. There needs to be better education, convenience, and incentives to the circular economy strategy.
-
 
 ##### Smart pumps
 
