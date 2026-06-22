@@ -31,15 +31,17 @@ Example is for a 10kW air sourced heat pump
 | Mass %              |         |         |         |         |                         |                |                |
 | Steel               | 51-58%  | 51-58%  |         | 51-58%  | 36.1%                   | 61%            | 50%            |
 | Copper              | 13%     | 16%     | 21%     | 25%     | 9.4%                    | 12%            | 21%            |
-| Aluminum            | 12%     |         | 11%     | 17%     | 6.2%                    |                |                |
+| Aluminum            | 12%     |         | 11%     | 17%     | 6.2%                    | 7%             |                |
 | Elastomer           | 6%      | 7%      | 5%      | 4%      |                         |                |                |
 | Refrigerant         | R410A   | R-134a  | R410A   | R410A   | R32                     |                |                |
 | Refrigerant mass    | 3.5kg   | 4.9kg   | 4.5kg   | 20kg    | 1.2% = 1.5kg            |                |                |
 | Stainless Steel     |         |         |         |         | 28.4%                   |                |                |
 | Electronics         |         |         |         |         | 4.6%                    |                |                |
-| ABS (thermoplastic) |         |         |         |         |                         |                |                |
+| ABS (thermoplastic) |         |         |         |         | 2.3%                    | 3%             | 6%             |
 
+### Refrigerants
 
+The refri
 ## Questions
 
 ## Limitations
