@@ -68,7 +68,12 @@ F-gas regulations are responsible to regulating the EOL disposal of refrigerants
 WEEE promotes the implementation of R strategies with electronic waste. However, the problem in Europe is that most people are perceiving heating appliances to be mostly steel, and sending them to scrap dealers, leading to the downcycling of metals.
 ### Dismantling
 
-This mostly pertains to water source systems, and adheres to VDI 4640-2 standards. Wells and soakaways must be professionally backfilled or dis
+This mostly pertains to water source systems, and adheres to VDI 4640-2 standards. Wells and soakaways must be professionally backfilled or dismantled.
+- Geothermal collectors and probes containing heat carrier fluid must be flushed with freshwater and proper disposal.
+
+### Recycling rates
+
+T
 ## Questions
 
 ## Limitations
