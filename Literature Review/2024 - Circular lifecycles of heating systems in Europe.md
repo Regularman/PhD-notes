@@ -17,13 +17,17 @@ Table compiling the text information from this paper
 
 Air sourced heat pumps.
 
-|             | 7kW | 10kW | 15kW |
-| ----------- | --- | ---- | ---- |
-| Weight      |     |      |      |
-| Material %s |     |      |      |
-| Steel       |     |      |      |
-| Copper      |     |      |      |
-|             |     |      |      |
+|             | 7kW   | 10kW  | 15kW  | 50kW  |
+| ----------- | ----- | ----- | ----- | ----- |
+| Weight      | 261.4 | 214.3 | 276.9 | 800.9 |
+| Material %s |       |       |       |       |
+| Steel       |       |       |       |       |
+| Copper      |       |       |       |       |
+|             |       |       |       |       |
+
+|            | Material |
+| ---------- | -------- |
+| Condensers |          |
 
 ## Questions
 
