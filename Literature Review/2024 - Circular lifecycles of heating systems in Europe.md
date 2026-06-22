@@ -14,13 +14,13 @@ The share of heat pumps in new residential buildouts increased from 0.8% in 2000
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
 ### Table for air sourced heat pumps
 
-|        | 7kW   | 10kW  | 15kW  | 50kW  |
-| ------ | ----- | ----- | ----- | ----- |
-| Weight | 261.4 | 214.3 | 276.9 | 800.9 |
-| Mass % |       |       |       |       |
-| Steel  | 51-58 | 51-58 |       |       |
-| Copper |       |       |       |       |
-|        |       |       |       |       |
+|          | 7kW   | 10kW  | 15kW  | 50kW  |
+| -------- | ----- | ----- | ----- | ----- |
+| Weight   | 261.4 | 214.3 | 276.9 | 800.9 |
+| Mass %   |       |       |       |       |
+| Steel    | 51-58 | 51-58 |       | 51-58 |
+| Copper   | 13    | 16    | 21    | 25    |
+| Aluminum | 12    |       | 11    | 17    |
 Example is for a 10kW air sourced heat pump
 
 | Component       | Material                       | Mass % |
@@ -29,6 +29,8 @@ Example is for a 10kW air sourced heat pump
 | Evaporator      |                                |        |
 | Expansion valve |                                |        |
 | Compressor      | Reinforced steel               | 56%    |
+| Wiring          | Copper                         |        |
+| Pip             |                                |        |
 
 ## Questions
 
