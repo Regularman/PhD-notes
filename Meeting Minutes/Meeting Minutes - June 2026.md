@@ -68,7 +68,7 @@ look at lifecycle impacts of heat pumps under cost optimal and carbon optimal st
 
 Firm up scope AND methodology for Iberdrola
 
-## 15-06-2026 - Weekly meeting with Rob
+# 15-06-2026 - Weekly meeting with Rob
 
 ## Prep and questions
 
@@ -106,7 +106,7 @@ Would be cool to pursue one day a week at Iberdrola, next time we meet with them
 
 For the RACE project, focus more on collaborating with Amr and coming up with techniques and frameworks that the thesis students can follow
 
-## Quick meeting with Amr
+# Quick meeting with Amr
 
 There are three options for the replacement of gas boilers. Currently, they give the name plate capacities of their equipment, energy bills, and utilization. We just don't know how long each equipment is used for
 
@@ -120,7 +120,7 @@ Below is the general approach to get the economic analysis
 
 ![[Screenshot 2026-06-17 142134.png]]
 
-## Github Codebase meeting
+# Github Codebase meeting
 
 ### Meeting with Rohan, Anchala, and Amr to firm up what to do for codebase
 
@@ -132,4 +132,4 @@ Iberdrola is only worried about the use phase carbon emissions.
 - Amr has calculated the Global Warming Potential of each technology in each state based on the grid 
 - The problem is that is doesn't consider the coupling of technology
 - Furthermore, it misses the opportunity cost of electrification and voltage regulation at the distribution level
-
+# Weekly PhD meeting
