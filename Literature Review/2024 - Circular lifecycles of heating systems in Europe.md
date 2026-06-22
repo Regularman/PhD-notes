@@ -29,13 +29,16 @@ Example is for a 10kW air sourced heat pump
 | ---------------- | ------ | ------ | ----- | ------ | ----------------------- |
 | Weight           | 261.4  | 214.3  | 276.9 | 800.9  | 126.8 kg                |
 | Mass %           |        |        |       |        |                         |
-| Steel            | 51-58% | 51-58  |       | 51-58% | 36.1                    |
-| Copper           | 13%    | 16     | 21    | 25%    | 9.4                     |
-| Aluminum         | 12%    |        | 11    | 17%    | 6.2                     |
+| Steel            | 51-58% | 51-58% |       | 51-58% | 36.1%                   |
+| Copper           | 13%    | 16%    | 21%   | 25%    | 9.4%                    |
+| Aluminum         | 12%    |        | 11%   | 17%    | 6.2%                    |
 | Elastomer        | 6%     | 7%     | 5%    | 4%     |                         |
 | Refrigerant      | R410A  | R-134a | R410A | R410A  | R32                     |
 | Refrigerant mass | 3.5kg  | 4.9kg  | 4.5kg | 20kg   | 1.2% = 1.5kg            |
-| Stainless Steel  |        |        |       |        | 28.4                    |
+| Stainless Steel  |        |        |       |        | 28.4%                   |
+| Manganese        |        |        |       |        |                         |
+| Brass            |        |        |       |        |                         |
+| Electronics      |        |        |       |        | 4                       |
 
 
 ## Questions
