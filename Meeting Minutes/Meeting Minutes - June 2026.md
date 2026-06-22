@@ -120,7 +120,7 @@ Below is the general approach to get the economic analysis
 
 ![[Screenshot 2026-06-17 142134.png]]
 
-# Github Codebase meeting 18/06
+# 18-06 Github Codebase meeting
 
 ### Meeting with Rohan, Anchala, and Amr to firm up what to do for codebase
 
@@ -132,7 +132,7 @@ Iberdrola is only worried about the use phase carbon emissions.
 - Amr has calculated the Global Warming Potential of each technology in each state based on the grid 
 - The problem is that is doesn't consider the coupling of technology
 - Furthermore, it misses the opportunity cost of electrification and voltage regulation at the distribution level
-# Weekly PhD meeting 22/06
+# 22-06-2026 Weekly PhD meeting
 
 Attendees: Amr and Rob 
 
@@ -160,7 +160,7 @@ In the aspect of stress testing, find the breakeven price point for batteries to
 
 With Sami, take notes of what he says and questions he asks, and in the next meeting, answer those questions/queries.
 
-## Meeting with Sami
+# Meeting with Sami
 
 ### Prep and Questions
 
