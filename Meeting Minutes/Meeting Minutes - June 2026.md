@@ -142,10 +142,13 @@ Presented the HaaS lever presentation to Rob and Amr. They were happy with the r
 	- Why everyone does the finance+D&C+maintenance part of the HaaS contract
 	- Why do they insulate themselves from the energy procurement risk
 - Apply risk framework to specific technologies, currently risk agnostic.
-- Find more case studies (>50) and do a heat map of value chai
+- Find more case studies (>50) and do a heat map of value chain against risk values (this would be after quantification)
 
 Another example is Qantas with general Electric who owns their engines which can be looked into.
 
-There is a report due in September, HaaS information can
+There is a report due in September, HaaS information can take up a page or 2 of this. Also there will be a meeting with Iberdrola this term with all the thesis students, they can be informed on this.
 
 RACE was not able to award the top up as they are no longer accepting any more PhD students.
+
+
+- Look at A2EP refrigerant reading materials for heat pumps
