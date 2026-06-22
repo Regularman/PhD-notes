@@ -133,3 +133,7 @@ Iberdrola is only worried about the use phase carbon emissions.
 - The problem is that is doesn't consider the coupling of technology
 - Furthermore, it misses the opportunity cost of electrification and voltage regulation at the distribution level
 # Weekly PhD meeting
+
+Attendees: Amr and Rob 
+
+Presented the 
