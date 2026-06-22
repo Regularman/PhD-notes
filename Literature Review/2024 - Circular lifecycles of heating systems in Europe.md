@@ -25,17 +25,17 @@ Example is for a 10kW air sourced heat pump
 | Pipework insulation | Assumed to be elastomeric or alternatively rockwool |        |
 ### Table for air sourced heat pumps (source 1)
 
-|                  | 7kW   | 10kW   | 15kW  | 50kW  | Viessmann Vitocal 100-S |
-| ---------------- | ----- | ------ | ----- | ----- | ----------------------- |
-| Weight           | 261.4 | 214.3  | 276.9 | 800.9 | 126.8 kg                |
-| Mass %           |       |        |       |       |                         |
-| Steel            | 51-58 | 51-58  |       | 51-58 | 36.1                    |
-| Copper           | 13    | 16     | 21    | 25    |                         |
-| Aluminum         | 12    |        | 11    | 17    |                         |
-| Elastomer        | 6     | 7      | 5     | 4     |                         |
-| Refrigerant      | R410A | R-134a | R410A | R410A |                         |
-| Refrigerant mass | 3.5   | 4.9    | 4.5   | 20    |                         |
-| Stainless Steel  |       |        |       |       | 28.4                    |
+|                  | 7kW    | 10kW   | 15kW  | 50kW   | Viessmann Vitocal 100-S |
+| ---------------- | ------ | ------ | ----- | ------ | ----------------------- |
+| Weight           | 261.4  | 214.3  | 276.9 | 800.9  | 126.8 kg                |
+| Mass %           |        |        |       |        |                         |
+| Steel            | 51-58% | 51-58  |       | 51-58% | 36.1                    |
+| Copper           | 13%    | 16     | 21    | 25%    | 9.4                     |
+| Aluminum         | 12%    |        | 11    | 17%    | 6.2                     |
+| Elastomer        | 6%     | 7%     | 5%    | 4%     |                         |
+| Refrigerant      | R410A  | R-134a | R410A | R410A  | R32                     |
+| Refrigerant mass | 3.5kg  | 4.9kg  | 4.5kg | 20kg   | 1.2% = 1.5kg            |
+| Stainless Steel  |        |        |       |        | 28.4                    |
 
 
 ## Questions
