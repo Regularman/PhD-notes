@@ -157,3 +157,5 @@ RACE was not able to award the top up as they are no longer accepting any more P
 ~={red}- The Iberdrola meeting will be Anchala and Rohan and Ali and then demonstration of the decarb tool.=~
 
 In the aspect of stress testing, find the breakeven price point for batteries to be competitive in the market. What happens as battery gets cheaper, can it compete in bidding with thermal batteries.
+
+With Sami, take notes of what he says and questions he asks, and in the next meeting, answer those questions/queries.
