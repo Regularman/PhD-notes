@@ -62,7 +62,7 @@ Study shows that air sourced heat pumps are on average 1.6 times heavier across 
 
 Environmental Product Declarations (EPDs) and Product Environmental Profiles (PEPs) are good starting points for circularity and traceability of heat pumps.
 
-F-gas regulations are responsible to regulating the EOL disposal of refrigerants.
+F-gas regulations are responsible to regulating the EOL disposal of refrigerants. This regulation puts restrictions of certain refrigerant usage.
 ### Return schemes 
 
 WEEE promotes the implementation of R strategies with electronic waste. However, the problem in Europe is that most people are perceiving heating appliances to be mostly steel, and sending them to scrap dealers, leading to the downcycling of metals.
