@@ -62,7 +62,9 @@ Study shows that air sourced heat pumps are on average 1.6 times heavier across 
 
 Environmental Product Declarations (EPDs) and Product Environmental Profiles (PEPs) are good starting points for circularity and traceability of heat pumps.
 
-### Return sc
+### Return schemes 
+
+WEEE promotes the implementation of R strategies with electronic waste. However, the problem in Europe is that most people are erceiving heating appliances to be mostly steel, and sending them to scrap dealers, leading to
 ## Questions
 
 ## Limitations
