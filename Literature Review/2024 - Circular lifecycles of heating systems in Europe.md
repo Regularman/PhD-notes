@@ -62,7 +62,7 @@ Study shows that air sourced heat pumps are on average 1.6 times heavier across 
 
 Environmental Product Declarations (EPDs) and Product Environmental Profiles (PEPs) are good starting points for circularity and traceability of heat pumps.
 
-
+### Return sc
 ## Questions
 
 ## Limitations
@@ -72,3 +72,4 @@ Environmental Product Declarations (EPDs) and Product Environmental Profiles (PE
 [28] Material difference between the air-to-water and ground source heat pump
 [34] Bosch Group published a sustainability report that includes a circular economy strategy. Furthermore, the operating manuals for heat pumps include instructions for the disposal of refrigerants and disposal of packaging, and WEEE)
 [35] Viessmann published their approaches to LCA and Reverse Engineering of their heat pumps.
+[42] Mitsubishi management of old heating units with selected heat pumps in certain areas suggests an emerging trend in recycling programmes.
