@@ -43,15 +43,15 @@ Example is for a 10kW air sourced heat pump
 
 The refrigerants to consider are 
 
-| Refrigerant | Viessmann | Bosch | Vaillant | Stiebel Eltron |
-| ----------- | --------- | ----- | -------- | -------------- |
-| R290        | Yes       |       |          |                |
-| R410A       |           |       |          |                |
-| R32         | Yes       |       |          |                |
-| R407C       | Yes       |       |          |                |
-| R449A       | Yes       |       |          |                |
-| R407C       | Yes       |       |          |                |
-|             |           |       |          |                |
+| Refrigerant | Viessmann      | Bosch          | Vaillant | Stiebel Eltron |
+| ----------- | -------------- | -------------- | -------- | -------------- |
+| R290        | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
+| R410A       | ~={red}No=~    | ~={green}Yes=~ |          |                |
+| R32         | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
+| R407C       | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
+| R449A       | ~={green}Yes=~ |                |          |                |
+| R407C       | ~={green}Yes=~ |                |          |                |
+
 
 ## Questions
 
