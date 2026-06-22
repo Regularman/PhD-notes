@@ -89,7 +89,9 @@ The recycling rate is the rate at which material can be recovered from the recyc
 
 [53] LEED encompasses a mandate for reuse components within all installed products
 
-While Minergie ECO performed a potential analysis on circularity and maintains
+While Minergie ECO performed a potential analysis on circularity and maintained a lifecycle for involved materials and components.
+
+DGNB grants a Circular Economy Bonus for strategies of perfromance contracting and material reuse.
 ## Questions
 
 ## Limitations
