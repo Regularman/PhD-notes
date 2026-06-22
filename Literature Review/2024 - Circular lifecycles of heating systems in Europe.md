@@ -18,3 +18,4 @@ Contains information about the material distribution of various heat pumps (air 
 ## Further reading
 
 [28] Material difference between the air-to-water and ground source heat pump
+[34] Bosch Group published a sustainability report that includes a circular economy strategy 
