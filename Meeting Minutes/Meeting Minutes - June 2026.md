@@ -147,8 +147,12 @@ Presented the HaaS lever presentation to Rob and Amr. They were happy with the r
 Another example is Qantas with general Electric who owns their engines which can be looked into.
 
 There is a report due in September, HaaS information can take up a page or 2 of this. Also there will be a meeting with Iberdrola this term with all the thesis students, they can be informed on this.
+- My work will mostly be integrated with Module 4
 
 RACE was not able to award the top up as they are no longer accepting any more PhD students.
 
-
 - Look at A2EP refrigerant reading materials for heat pumps
+- It would be cool to reach out to IRG and industry bodies before teh September reports to inform them of the results of the decarb tool
+- The Iberdrola meeting will be Anchala and Rohan and Ali and then demonstration of the decarb tool.
+
+In the
