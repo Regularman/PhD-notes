@@ -52,6 +52,11 @@ The refrigerants to consider are
 | R449A       | ~={green}Yes=~ | ~={red}No=~    | ~={red}No=~    | ~={red}No=~    |
 | R407C       | ~={green}Yes=~ | ~={red}No=~    | ~={red}No=~    | ~={red}No=~    |
 Study shows that air sourced heat pumps are on average 1.6 times heavier across size.
+- In water source heat pumps you also have to consider the stuff you need to draw water out of the well, as such 
+	- heat collector pipework
+	- heat collector pipework insulation
+	- heat carrier liquid
+	- Manifold (brass)
 
 ## Questions
 
