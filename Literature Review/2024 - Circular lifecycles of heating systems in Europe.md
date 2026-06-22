@@ -13,7 +13,7 @@ The share of heat pumps in new residential buildouts increased from 0.8% in 2000
 
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
 
-Example is for a 10kW air sourced heat pump. Note that the lifespan of a
+Example is for a 10kW air sourced heat pump. Note that the lifespan of an air sourced heat pump is 18 years, while a water sourced heat pump is 20 years.
 
 | Component           | Material                                            | Mass % |
 | ------------------- | --------------------------------------------------- | ------ |
