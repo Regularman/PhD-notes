@@ -120,7 +120,7 @@ Below is the general approach to get the economic analysis
 
 ![[Screenshot 2026-06-17 142134.png]]
 
-# 18-06 Github Codebase meeting
+# 18-06-2026 Github Codebase meeting
 
 ### Meeting with Rohan, Anchala, and Amr to firm up what to do for codebase
 
@@ -160,7 +160,7 @@ In the aspect of stress testing, find the breakeven price point for batteries to
 
 With Sami, take notes of what he says and questions he asks, and in the next meeting, answer those questions/queries.
 
-# Meeting with Sami
+# 23-06-2026 Meeting with Sami
 
 ### Prep and Questions
 
