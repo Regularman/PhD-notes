@@ -94,3 +94,4 @@ The recycling rate is the rate at which material can be recovered from the recyc
 [34] Bosch Group published a sustainability report that includes a circular economy strategy. Furthermore, the operating manuals for heat pumps include instructions for the disposal of refrigerants and disposal of packaging, and WEEE)
 [35] Viessmann published their approaches to LCA and Reverse Engineering of their heat pumps.
 [42] Mitsubishi management of old heating units with selected heat pumps in certain areas suggests an emerging trend in recycling programmes.
+[52] BREEAM eva
