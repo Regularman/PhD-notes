@@ -143,6 +143,7 @@ Presented the HaaS lever presentation to Rob and Amr. They were happy with the r
 ~={red}	- Why do they insulate themselves from the energy procurement risk=~
 ~={red}- Apply risk framework to specific technologies, currently risk agnostic.=~
 ~={red}- Find more case studies (>50) and do a heat map of value chain against risk values (this would be after quantification)=~
+~={red}- Look at Eurosun for Viessmann ancillary services=~
 
 Another example is Qantas with general Electric who owns their engines which can be looked into.
 

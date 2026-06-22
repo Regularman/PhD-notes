@@ -19,4 +19,4 @@ Contains information about the material distribution of various heat pumps (air 
 
 [28] Material difference between the air-to-water and ground source heat pump
 [34] Bosch Group published a sustainability report that includes a circular economy strategy. Furthermore, the operating manuals for heat pumps include instructions for the disposal of refrigerants and disposal of packaging, and WEEE)
-[35] 
+[35] Viessmann published their approaches to LCA and Reverse Engineering of their heat pumps.
