@@ -140,9 +140,12 @@ Presented the HaaS lever presentation to Rob and Amr. They were happy with the r
 - identify and quantify the risk through Monte Carlo analysis (as an example)
 - interesting to set up market research interviews with Antora or Johnson's Control or ClimaTech to learn more about their business model. Some questions to ask might be 
 	- Why everyone does the finance+D&C+maintenance part of the HaaS contract
-	- 
-- Apply risk framework to specific technologies
+	- Why do they insulate themselves from the energy procurement risk
+- Apply risk framework to specific technologies, currently risk agnostic.
+- Find more case studies (>50) and do a heat map of value chai
 
-Another example is Qantas with general Electric who owns their engines.
+Another example is Qantas with general Electric who owns their engines which can be looked into.
+
+There is a report due in September, HaaS information can
 
 RACE was not able to award the top up as they are no longer accepting any more PhD students.
