@@ -15,6 +15,6 @@
 | How can the lifecycle emissions of heat pumps be mitigated through the procurement of renewable energy or flexible operation. | Current assumption is that the heat pump will source electricity from the grid. What about a flexibly operated heat pump or a heat pump that is paired with renewable generation such as solar thermal? |             |                             |
 ## Topic 3: Technological considerations 
 
-| Research Questions                          | Context | Methodology | Potentially relevant papers |
-| ------------------------------------------- | ------- | ----------- | --------------------------- |
-| What technological modifications is needed  |         |             |                             |
+| Research Questions                                                                                                                  | Context | Methodology | Potentially relevant papers |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | --------------------------- |
+| What technological modifications is needed for heat pumps or other thermal technologies to participate in the primary FCAS reserve? |         |             |                             |
