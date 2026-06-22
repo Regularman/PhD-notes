@@ -13,15 +13,17 @@ The share of heat pumps in new residential buildouts increased from 0.8% in 2000
 
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
 
-Table compiling the text information from this paper
+Table compiling the text information from this paper 
 
-|             | Air to Water | Brine to Water | Water to Water |
-| ----------- | ------------ | -------------- | -------------- |
-| Weight      |              |                |                |
-| Material %s |              |                |                |
-| Steel       |              |                |                |
-| Copper      |              |                |                |
-|             |              |                |                |
+Air sourced heat pumps.
+
+|             | 7kW | 10kW | 15kW |
+| ----------- | --- | ---- | ---- |
+| Weight      |     |      |      |
+| Material %s |     |      |      |
+| Steel       |     |      |      |
+| Copper      |     |      |      |
+|             |     |      |      |
 
 ## Questions
 
