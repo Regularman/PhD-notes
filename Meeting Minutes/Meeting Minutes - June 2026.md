@@ -136,4 +136,4 @@ Iberdrola is only worried about the use phase carbon emissions.
 
 Attendees: Amr and Rob 
 
-Presented the 
+Presented the HaaS lever presentation to Rob and Amr. They were happy with the risk framework around identifying the value chain
