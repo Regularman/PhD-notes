@@ -73,7 +73,12 @@ This mostly pertains to water source systems, and adheres to VDI 4640-2 standard
 
 ### Recycling rates
 
-The recycling rate is the rate at which material 
+The recycling rate is the rate at which material can be recovered from the recycling process.
+
+| Material | Recycling rate |
+| -------- | -------------- |
+|          | 75-96%         |
+
 ## Questions
 
 ## Limitations
