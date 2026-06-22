@@ -43,15 +43,15 @@ Example is for a 10kW air sourced heat pump
 
 The refrigerants to consider are 
 
-| Refrigerant | Viessmann      | Bosch          | Vaillant | Stiebel Eltron |
-| ----------- | -------------- | -------------- | -------- | -------------- |
-| R290        | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
-| R410A       | ~={red}No=~    | ~={green}Yes=~ |          |                |
-| R32         | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
-| R407C       | ~={green}Yes=~ | ~={green}Yes=~ |          |                |
-| R449A       | ~={green}Yes=~ |                |          |                |
-| R407C       | ~={green}Yes=~ |                |          |                |
-
+| Refrigerant | Viessmann      | Bosch          | Vaillant       | Stiebel Eltron |
+| ----------- | -------------- | -------------- | -------------- | -------------- |
+| R290        | ~={green}Yes=~ | ~={green}Yes=~ | ~={green}Yes=~ | ~={red}No=~    |
+| R410A       | ~={red}No=~    | ~={green}Yes=~ | ~={green}Yes=~ | ~={red}No=~    |
+| R32         | ~={green}Yes=~ | ~={green}Yes=~ | ~={red}No=~    | ~={red}No=~    |
+| R407C       | ~={green}Yes=~ | ~={green}Yes=~ | ~={green}Yes=~ | ~={green}Yes=~ |
+| R449A       | ~={green}Yes=~ | ~={red}No=~    | ~={red}No=~    | ~={red}No=~    |
+| R407C       | ~={green}Yes=~ | ~={red}No=~    | ~={red}No=~    | ~={red}No=~    |
+Study shows that air sourced heat pumps are on average 1.6 times heavier across size.
 
 ## Questions
 
