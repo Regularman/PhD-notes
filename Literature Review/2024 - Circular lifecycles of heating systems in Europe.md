@@ -73,7 +73,7 @@ This mostly pertains to water source systems, and adheres to VDI 4640-2 standard
 
 ### Recycling rates
 
-T
+The recycling rate is the rate at which material 
 ## Questions
 
 ## Limitations
