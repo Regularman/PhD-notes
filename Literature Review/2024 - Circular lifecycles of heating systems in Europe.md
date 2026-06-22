@@ -75,11 +75,13 @@ This mostly pertains to water source systems, and adheres to VDI 4640-2 standard
 
 The recycling rate is the rate at which material can be recovered from the recycling process. They reflect efficiency challenges in material separation. They are not consistently effective, especially if other complex materials are present.
 
-| Material | Recycling rate |
-| -------- | -------------- |
-| Steel    | 75-96%         |
-| Copper   | 61-90%         |
-
+| Material | Recycling rate                         |
+| -------- | -------------------------------------- |
+| Steel    | 75-96%                                 |
+| Copper   | 61-90%                                 |
+| Brass    | 90%                                    |
+| Plastivs | 23% (additional 20% with incineration) |
+**The manufacturer Bosch has indicated in its sustainability report how much recycled material is used within the company: recycled steel around 56 % across all products; recycled aluminum 35 %; recycled content in plastics is around 5 % [34].**
 ## Questions
 
 ## Limitations
