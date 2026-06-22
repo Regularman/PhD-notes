@@ -73,15 +73,18 @@ This mostly pertains to water source systems, and adheres to VDI 4640-2 standard
 
 ### Recycling rates
 
-The recycling rate is the rate at which material can be recovered from the recycling process.
+The recycling rate is the rate at which material can be recovered from the recycling process. They reflect efficiency challenges in material separation. They are not consistently effective, especially if other complex materials are present.
 
 | Material | Recycling rate |
 | -------- | -------------- |
-|          | 75-96%         |
+| Steel    | 75-96%         |
+| Copper   | 61-90%         |
 
 ## Questions
 
 ## Limitations
+
+1. Provide recycling rates of materials in heat pumps?
 
 ## Further reading
 
