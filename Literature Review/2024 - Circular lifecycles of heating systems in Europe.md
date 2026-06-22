@@ -13,7 +13,7 @@ The share of heat pumps in new residential buildouts increased from 0.8% in 2000
 
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
 
-Example is for a 10kW air sourced heat pump
+Example is for a 10kW air sourced heat pump. Note that the lifespan of a
 
 | Component           | Material                                            | Mass % |
 | ------------------- | --------------------------------------------------- | ------ |
@@ -61,6 +61,8 @@ Study shows that air sourced heat pumps are on average 1.6 times heavier across 
 	- Backfill (cement and bentonite)
 
 Environmental Product Declarations (EPDs) and Product Environmental Profiles (PEPs) are good starting points for circularity and traceability of heat pumps.
+
+
 ## Questions
 
 ## Limitations
