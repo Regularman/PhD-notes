@@ -165,4 +165,4 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 ### Prep and Questions
 
 - Auditing GSOE9340
-- 
+- Show him the possible research questions
