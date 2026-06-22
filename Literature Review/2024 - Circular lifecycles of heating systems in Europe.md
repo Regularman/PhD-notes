@@ -14,12 +14,12 @@ The share of heat pumps in new residential buildouts increased from 0.8% in 2000
 Contains information about the material distribution of various heat pumps (water to air, brine to water, and water to water) heat pumps at various sizes.
 
 
-|             | Air to Water | Brine to  |
-| ----------- | ------------ | --------- |
-| Weight      |              |           |
-| Material %s |              |           |
-|             |              |           |
-|             |              |           |
+|             | Air to Water | Brine to Water | Water to Water |
+| ----------- | ------------ | -------------- | -------------- |
+| Weight      |              |                |                |
+| Material %s |              |                |                |
+|             |              |                |                |
+|             |              |                |                |
 
 ## Questions
 
