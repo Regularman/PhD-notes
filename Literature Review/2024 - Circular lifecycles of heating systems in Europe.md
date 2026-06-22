@@ -82,6 +82,14 @@ The recycling rate is the rate at which material can be recovered from the recyc
 | Brass    | 90%                                    |
 | Plastivs | 23% (additional 20% with incineration) |
 **The manufacturer Bosch has indicated in its sustainability report how much recycled material is used within the company: recycled steel around 56 % across all products; recycled aluminum 35 %; recycled content in plastics is around 5 % [34].**
+
+### Renewable certification scheme
+
+[52] BREEAM evaluates the impacts of the refrigerant life-cycle equivalent CO2 emissions and mandates leak detection measures. BREEAM is a sustainability scheme that offers renewable certificates
+
+[53] LEED encompasses a mandate for reuse components within all installed products
+
+While Minergie ECO performed a potential analysis on circularity and maintains
 ## Questions
 
 ## Limitations
@@ -94,4 +102,4 @@ The recycling rate is the rate at which material can be recovered from the recyc
 [34] Bosch Group published a sustainability report that includes a circular economy strategy. Furthermore, the operating manuals for heat pumps include instructions for the disposal of refrigerants and disposal of packaging, and WEEE)
 [35] Viessmann published their approaches to LCA and Reverse Engineering of their heat pumps.
 [42] Mitsubishi management of old heating units with selected heat pumps in certain areas suggests an emerging trend in recycling programmes.
-[52] BREEAM evaluates the impacts of the refrigerant life-cycle equivalent CO2 emissions and mandates leak detection measures. BREEAM is a sustainability scheme that offers renewable certificates
+
