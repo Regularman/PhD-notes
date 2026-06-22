@@ -41,7 +41,17 @@ Example is for a 10kW air sourced heat pump
 
 ### Refrigerants
 
-The refri
+The refrigerants to consider are 
+
+| Refrigerant | Viessmann | Bosch |
+| ----------- | --------- | ----- |
+| R290        |           |       |
+| R410A       |           |       |
+| R32         |           |       |
+| R407C       |           |       |
+| R449        |           |       |
+|             |           |       |
+
 ## Questions
 
 ## Limitations
