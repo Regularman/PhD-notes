@@ -9,6 +9,7 @@ This work contributed to literature by providing the
 - the study also looked at various sustainability assessment system in regards to heat supply systems
 ## Content
 
+Contains information about the material distribution of various heat pumps (air to water, air to air, water to water) heat pumps at various sizes.
 
 ## Questions
 
