@@ -72,7 +72,7 @@ Secondary
 
 ### Ambient loop
 
-A centralized water loop which is maintained at a certain temperature to be used as a so
+A centralized water loop which is maintained at a certain temperature to be used as a source loop that heat pump can draw heat from and chillers can reject heat into. This type of centralization allow the opportunity to use **large scale** renewables
 
 ### Cascade
 # Questions
