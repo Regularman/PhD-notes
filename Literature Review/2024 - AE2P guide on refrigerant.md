@@ -37,7 +37,8 @@ These classifications restricts the quantity of refrigerant that can be used
 
 - Class I: Refrigerant containing parts located in occupied space
 - Class II: Compressors and pressure vessels in machinery room or open air
-- 
+- Class III: Refrigerant containing parts located in machinery room or open air
+- Class IV: Refrigerant containing parts located in ventilated locations
 
 # Questions
 
