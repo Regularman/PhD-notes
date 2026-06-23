@@ -168,3 +168,9 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 - Show him the possible research questions
 - Explored some take-back schemes and reverse logistics in the context of a heat as a service system where the ESCO (Iberdrola), will take on several roles in the value chains. What kind of dynamics and opportunities will that open up
 	- Talked about that fitting in with Module 4 of the wider Iberdrola project
+
+## Notes
+
+### Dite
+
+When considering closing the life-cycle loop, we have to consider 
