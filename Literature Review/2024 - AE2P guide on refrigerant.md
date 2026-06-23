@@ -25,6 +25,8 @@ The GWP of refrigerants come from the emission of greenhouse gases
 
 ![[Screenshot 2026-06-24 090708.png]]
 
+## Usage classification
+
 # Questions
 
 How is global warming potential for refrigerants calculated
