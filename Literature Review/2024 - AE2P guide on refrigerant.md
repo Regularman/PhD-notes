@@ -58,6 +58,7 @@ Primary
 1. AS/NZS 5149: Safety and environmental requirements of refrigerating systems and heat pumps
 2. AS/NZS ISO 817:2016 Identifies the designation and safety classification for refrigerants
 3. AS/NZS 60335: includes charge limits for appliances
+4. SAA HB40.1: The Australian Refrigeration and Air Conditioning Code of Good Practice - developed to reduce emissions from refrigerants
 
 Secondary 
 
@@ -66,7 +67,6 @@ Secondary
 3. AS4343: Pressure equipment - hazard levels
 4. AS/NZS3788: Repair of boilers and pressure vessels and safety controls
 5. AS1319 and AS/NZS60417: Signage standards
-6. SAA HB40.1: The Australian Refrigeration and Air Conditioning Code 
 
 # Questions
 
