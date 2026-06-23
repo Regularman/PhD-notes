@@ -72,9 +72,11 @@ Secondary
 
 ### Ambient loop
 
-A centralized water loop which is maintained at a certain temperature to be used as a source loop that heat pump can draw heat from and chillers can reject heat into. This type of centralization allow the opportunity to use **large scale** renewables
+A centralized water loop which is maintained at a certain temperature to be used as a source loop that heat pump can draw heat from and chillers can reject heat into. This type of centralization allow the opportunity to use **large scale** renewables, since all the heat pumps and chillers are in the same place
 
 ### Cascade
+
+To address technology or space limitations. For example,the winter ambient temperature may be too cold for one heat pump, so we connect an air sourced heat pump, using the outlet loop as the source loop for a water
 # Questions
 
 How is global warming potential for refrigerants calculated
