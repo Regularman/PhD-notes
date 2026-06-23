@@ -74,12 +74,17 @@ Secondary
 
 A centralized water loop which is maintained at a certain temperature to be used as a source loop that heat pump can draw heat from and chillers can reject heat into. This type of centralization allow the opportunity to use **large scale** renewables, since all the heat pumps and chillers are in the same place
 
+![[Screenshot 2026-06-24 094654.png]]
 ### Cascade
 
-To address technology or space limitations. For example,the winter ambient temperature may be too cold for one heat pump, so we connect an air sourced heat pump, using the outlet loop as the source loop for a water
+To address technology or space limitations. For example, the winter ambient temperature may be too cold for one heat pump, so we connect an air sourced heat pump, using the outlet loop as the source loop for a water sourced heat pump to produced the desire temperature of hot water.
+
+![[Screenshot 2026-06-24 094757.png]]
 # Questions
 
-How is global warming potential for refrigerants calculated
+How is global warming potential for refrigerants calculated.
+
+Why is it that only ammonia allows double cycle heat pumps
 
 # Further Readings
 
