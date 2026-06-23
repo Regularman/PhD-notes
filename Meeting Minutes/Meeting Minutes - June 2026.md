@@ -194,5 +194,7 @@ A life-cycle PhD topic is a PhD in itself, and can include topics such as
 - How can heat pumps or other technologies be redesigned so that they can fit into a servitisation model (such as with GE and jet engines)
 - Capacity strategies for semi-centralised/centralised heating in Australia (focusing on a particular region)
 
+He believes that HaaS is decoupled from grid, and what the industry/factory think is separate from the interface between the grid and the factory.
 
+I need to talk to Rob about what to do, as I'm still interested in looking at how thermal electrification can provide g
 
