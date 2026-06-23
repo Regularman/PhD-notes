@@ -6,12 +6,20 @@ https://www.a2ep.org.au/publications
 | CFC - Chlorofluorocarbons and HCFC - hydrochlorofluorocarbons |                                                       |            | High leakage rate (high GWP) and high Ozone Depletion Potential (ODP) |
 | HFO                                                           |                                                       |            | Large PFAS contamination potential                                    |
 | Natural refrigerants                                          | Such as ammonia, propane and carbon dioxide, or water |            |                                                                       |
+
+| Refrigerant Type | Description | Advantages | Disadvantages |
+| ---------------- | ----------- | ---------- | ------------- |
+| Water            |             |            |               |
+| CO2              |             |            |               |
+| Ammonia          |             |            |               |
+
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
 - Global Warming Potential (GWP)
 - Toxicity and flammability (mitigated through ventilation)
 - PFAS contamination potential
 - Boiling point for efficiency and performance
+
 ![[Screenshot 2026-06-24 090959.png]]
 ## Global Warming Potential
 
