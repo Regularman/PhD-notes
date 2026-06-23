@@ -27,7 +27,13 @@ The GWP of refrigerants come from the emission of greenhouse gases
 
 ## Usage classification
 
-These classifications 
+These classifications restricts the quantity of refrigerant that can be used
+
+- Category 1: General occupancy
+- Category 2: Supervised occupancy
+- Category 3: Authorised occupancy
+
+
 
 # Questions
 
