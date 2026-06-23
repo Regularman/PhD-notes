@@ -7,12 +7,12 @@ https://www.a2ep.org.au/publications
 | HFO                                                           |                                                       |            | Large PFAS contamination potential                                    |
 | Natural refrigerants                                          | Such as ammonia, propane and carbon dioxide, or water |            |                                                                       |
 
-| Refrigerant Type | Description | Advantages                                              | Disadvantages                                                                                                           |
-| ---------------- | ----------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Water            |             | Can absorb a lot of heat and have a high cooling effect | High boiling point, which requires lower pressure and specialised compressor                                            |
-| Ammonia          |             | High efficiency, lower quantities needed                | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit. It is also toxic and flammable |
-| Carbon Dioxide   |             |                                                         | Requires high operating pressure and speic                                                                              |
-| Propane          |             |                                                         |                                                                                                                         |
+| Refrigerant Type | Description | Advantages                                                                                           | Disadvantages                                                                                                           |
+| ---------------- | ----------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Water            |             | Can absorb a lot of heat and have a high cooling effect                                              | High boiling point, which requires lower pressure and specialised compressor                                            |
+| Ammonia          |             | High efficiency, lower quantities needed                                                             | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit. It is also toxic and flammable |
+| Carbon Dioxide   |             | Efficiency advantage at both low and high temperature, as well as high heat transfer rating          | Requires high operating pressure and specialised compressor to accommodate this. This is a operating as well as costs.  |
+| Propane          |             | Higher efficiency at high temperatures. It is also a byproduct of natural gas processing and petrole |                                                                                                                         |
 
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
