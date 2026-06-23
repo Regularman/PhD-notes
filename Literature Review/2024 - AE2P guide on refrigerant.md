@@ -1,5 +1,10 @@
 https://www.a2ep.org.au/publications
 
+When installing/replacing legacy equipment with heat pumps, it is important to think about
+1. Ventilation
+2. Adequate signage
+3. Technology type
+4. Occupancy category
 
 | Refrigerant Type                                              | Description                                           | Advantages | Disadvantages                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
@@ -84,7 +89,7 @@ To address technology or space limitations. For example, the winter ambient temp
 
 How is global warming potential for refrigerants calculated.
 
-Why is it that only ammonia allows double cycle heat pumps
+Why is it that only ammonia allows double cycle heat pumps.
 
 # Further Readings
 
