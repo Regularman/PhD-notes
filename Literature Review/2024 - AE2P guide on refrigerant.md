@@ -53,7 +53,8 @@ These classifications restricts the quantity of refrigerant that can be used
 
 According to the classifications above, various standards addresses the control and use of these heat pumps.
 
-1. Design
+1. AS/NZS 5149: Safety and environmental requirements of refrigerating systems and heat pumps
+2. AS/NZS ISO 817:2016 Identifies the 
 
 # Questions
 
