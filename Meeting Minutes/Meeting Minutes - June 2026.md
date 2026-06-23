@@ -196,5 +196,10 @@ A life-cycle PhD topic is a PhD in itself, and can include topics such as
 
 He believes that HaaS is decoupled from grid, and what the industry/factory think is separate from the interface between the grid and the factory.
 
-I need to talk to Rob about what to do, as I'm still interested in looking at how thermal electrification can provide g
+### To do's
+~={red}I need to talk to Rob about what to do, as I'm still interested in looking at how thermal electrification can provide grid ancillary services.
+
+I also need to email Sami about auditing GSOE9340
+
+Read slides that Sami sent=~
 
