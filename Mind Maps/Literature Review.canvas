@@ -33,7 +33,6 @@
 		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-2874,"y":515,"width":250,"height":50,"color":"5"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3949,"y":-1440,"width":480,"height":138,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3709,"y":-1720,"width":371,"height":108,"color":"4"},
-		{"id":"35cb1aba6cac9e74","type":"text","text":"# Life-cycle Assessments","x":-3394,"y":-1979,"width":250,"height":99,"color":"4"},
 		{"id":"0ddc5405c5c10558","type":"file","file":"PhD-notes/Literature Review/2020 - Heat as a Service - What is it and what's on the market today.md","x":-1823,"y":-1512,"width":400,"height":102,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1290,"y":-1588,"width":400,"height":127,"color":"1"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1165,"y":-1300,"width":385,"height":140,"color":"1"},
@@ -43,7 +42,9 @@
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3269,"y":-1408,"width":400,"height":106,"color":"4"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3000,"y":-1545,"width":400,"height":84,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3580,"y":-1140,"width":400,"height":131,"color":"4"},
-		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3812,"y":135,"width":400,"height":185,"color":"6"}
+		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3812,"y":135,"width":400,"height":185,"color":"6"},
+		{"id":"35cb1aba6cac9e74","type":"text","text":"# Life-cycle Assessments","x":-3400,"y":-2120,"width":250,"height":99,"color":"4"},
+		{"id":"1b48af96d03fb765","x":-4354,"y":-1772,"width":400,"height":106,"color":"4","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -83,6 +84,7 @@
 		{"id":"f80de8ff74b36aa9","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"0ddc5405c5c10558","toSide":"bottom"},
 		{"id":"d31f8251b8f6220c","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"26ba5f34b3b41cab","toSide":"bottom"},
 		{"id":"659e288ad0b1fe70","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"9916da21f07d1671","toSide":"top"},
-		{"id":"a670fdd9fd2e0659","fromNode":"95007cf31a39eec9","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"}
+		{"id":"a670fdd9fd2e0659","fromNode":"95007cf31a39eec9","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"},
+		{"id":"d73683b2f85d112f","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"1b48af96d03fb765","toSide":"top"}
 	]
 }
