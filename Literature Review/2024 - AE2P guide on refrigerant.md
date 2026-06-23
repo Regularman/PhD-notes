@@ -1,14 +1,15 @@
 https://www.a2ep.org.au/publications
 
 
-| Refrigerant Type | Description | Advantages | Disadvantages |
-| ---------------- | ----------- | ---------- | ------------- |
-|                  |             |            |               |
-|                  |             |            |               |
+| Refrigerant Type                           | Description | Advantages | Disadvantages |
+| ------------------------------------------ | ----------- | ---------- | ------------- |
+| CFC - Chlorofluorocarbons and HCFC - Hydro |             |            |               |
+|                                            |             |            |               |
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
 - Global Warming Potential (GWP)
 - Toxicity and flammability (mitigated through ventilation)
+- PFAS contamination potential
 ## Global Warming Potential
 
 The GWP of refrigerants come from the emission of greenhouse gases
