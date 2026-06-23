@@ -184,4 +184,7 @@ The ultimate goal is to circulate to reduce impacts on the global boundaries.
 
 ### Direction of the PhD 
 
-Sami thinks the scope of the PhD is too big
+Sami thinks the scope of the PhD is too big. The LCA needs to be done anyways, and the value of that might be a new methodology or framework to think about the LCA.
+- Think of LCA as FEA, it's just a method to frame the environmental impact of the new design
+
+He belie
