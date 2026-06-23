@@ -178,6 +178,10 @@ When considering closing the life-cycle loop, we have to consider the upstream p
 
 This is where the idea of the optimal take back time is implemented. If you wait 15-20 years to take back the heat pump, then it will be obsolete as all the components are at the end of life. 
 - Therefore, earlier takeback allows us to recirculate the material
-- However, there is a secodn order efffect where older technologies remain in circulation and have a negative impact due to energy efficiency
+- However, there is a second order effect where older technologies remain in circulation and have a negative impact due to energy efficiency
 
-T
+The ultimate goal is to circulate to reduce impacts on the global boundaries.
+
+### Direction of the PhD 
+
+Sami thinks the scope of the PhD is too big
