@@ -61,8 +61,10 @@ Primary
 
 Secondary 
 
-1. AS/NZS: Australian Hazardous Area Standards
-2. 
+1. AS/NZS 60079: Australian Hazardous Area Standards
+2. AS/NZS1200:2000: Pressure equipment design, manufacture, examination, installation, and maintenance
+3. AS4343: Pressure equipment - hazard levels
+4. AS/NZS 3
 
 # Questions
 
