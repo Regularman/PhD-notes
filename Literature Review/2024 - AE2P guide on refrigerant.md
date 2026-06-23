@@ -19,3 +19,5 @@ The GWP of refrigerants come from the emission of greenhouse gases
 - Scope 1: Refrigerant leak 
 - Scope 2: Electricity consumption related to the equipment containing the heat pump
 - Scope 3: Equipment manufacturing, transportation, installation, and future recycling
+
+## Toxicity vs Flammability matrix 
