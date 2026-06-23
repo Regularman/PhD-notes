@@ -5,6 +5,8 @@ When installing/replacing legacy equipment with heat pumps, it is important to t
 2. Adequate signage
 3. Technology type
 4. Occupancy category
+5. Refrigerant location in design
+6. Review standards for commissioning.
 
 | Refrigerant Type                                              | Description                                           | Advantages | Disadvantages                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
