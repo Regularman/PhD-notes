@@ -72,6 +72,8 @@ Secondary
 
 ### Ambient loop
 
+A centralized water loop which is maintained at a certain temperature to be used as a so
+
 ### Cascade
 # Questions
 
