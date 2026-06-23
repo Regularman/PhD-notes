@@ -21,3 +21,9 @@ The GWP of refrigerants come from the emission of greenhouse gases
 - Scope 3: Equipment manufacturing, transportation, installation, and future recycling
 
 ## Toxicity vs Flammability matrix 
+
+![[Screenshot 2026-06-24 090708.png]]
+
+## Questions
+
+How is global warming potential for refrigerants calculated
