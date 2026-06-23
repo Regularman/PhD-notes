@@ -32,3 +32,5 @@ How is global warming potential for refrigerants calculated
 # Further Readings
 
 International Institute of Refrigeration (IIR) publishes ODP and GWP of refrigerants
+
+ATMOsphere, Refrigerants is also good for understanding GWP and PFAS
