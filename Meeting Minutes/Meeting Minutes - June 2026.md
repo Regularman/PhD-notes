@@ -176,4 +176,8 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 When considering closing the life-cycle loop, we have to consider the upstream processes. The thinking has evolved from a circular lifecycle, and more towards system decoupling; How can we meet the same demand and not use more material?
 - This is where the servitisation part comes in. For example GE/Rolls Royce owns the engine of the plane and performs maintenance service on it. The flight company pays for trouble-free flight hours. GE actually comes in with a maintained engine and replaces it on each service period. This allows them to shift their business model from producing and manufacturing more plane engines to refurbishing, reusing, and remanufacturing these plane engines.
 
-This is where the idea of the optimal take back time is implemented. If you wait 
+This is where the idea of the optimal take back time is implemented. If you wait 15-20 years to take back the heat pump, then it will be obsolete as all the components are at the end of life. 
+- Therefore, earlier takeback allows us to recirculate the material
+- However, there is a secodn order efffect where older technologies remain in circulation and have a negative impact due to energy efficiency
+
+T
