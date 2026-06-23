@@ -7,11 +7,12 @@ https://www.a2ep.org.au/publications
 | HFO                                                           |                                                       |            | Large PFAS contamination potential                                    |
 | Natural refrigerants                                          | Such as ammonia, propane and carbon dioxide, or water |            |                                                                       |
 
-| Refrigerant Type | Description | Advantages | Disadvantages |
-| ---------------- | ----------- | ---------- | ------------- |
-| Water            |             |            |               |
-| CO2              |             |            |               |
-| Ammonia          |             |            |               |
+| Refrigerant Type | Description | Advantages                                              | Disadvantages                                                                           |
+| ---------------- | ----------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Water            |             | Can absorb a lot of heat and have a high cooling effect | High boiling point, which requires lower pressure and specialised compressor            |
+| CO2              |             |                                                         | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit |
+| Ammonia          |             |                                                         |                                                                                         |
+| Propane          |             |                                                         |                                                                                         |
 
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
