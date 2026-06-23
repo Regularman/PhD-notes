@@ -171,6 +171,6 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 
 ## Notes
 
-### Dite
+### Direction of Life-cycle assessment 
 
 When considering closing the life-cycle loop, we have to consider 
