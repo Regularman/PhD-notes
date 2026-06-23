@@ -174,4 +174,4 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 ### Direction of Life-cycle assessment 
 
 When considering closing the life-cycle loop, we have to consider the upstream processes. The thinking has evolved from a circular lifecycle, and more towards system decoupling; How can we meet the same demand and not use more material?
-- This is where the servitisation part comes in. For example GE/Rolls Royce owns the engine of the plane, and the 
+- This is where the servitisation part comes in. For example GE/Rolls Royce owns the engine of the plane and performs maintenance service on it. The flight company pays for trouble-free flight hours. GE actually comes in with a
