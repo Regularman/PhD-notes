@@ -68,6 +68,11 @@ Secondary
 4. AS/NZS3788: Repair of boilers and pressure vessels and safety controls
 5. AS1319 and AS/NZS60417: Signage standards
 
+## Types of heat pump arrangement
+
+### Ambient loop
+
+### Cascade
 # Questions
 
 How is global warming potential for refrigerants calculated
