@@ -64,7 +64,9 @@ Secondary
 1. AS/NZS 60079: Australian Hazardous Area Standards
 2. AS/NZS1200:2000: Pressure equipment design, manufacture, examination, installation, and maintenance
 3. AS4343: Pressure equipment - hazard levels
-4. AS/NZS 3
+4. AS/NZS3788: Repair of boilers and pressure vessels and safety controls
+5. AS1319 and AS/NZS60417: Signage standards
+6. SAA HB40.1: The Australian Refrigeration and Air Conditioning Code 
 
 # Questions
 
