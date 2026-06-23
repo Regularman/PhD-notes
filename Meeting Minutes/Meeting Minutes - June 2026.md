@@ -173,4 +173,5 @@ With Sami, take notes of what he says and questions he asks, and in the next mee
 
 ### Direction of Life-cycle assessment 
 
-When considering closing the life-cycle loop, we have to consider the upstream processes. The thinking has evolved from a circular lifecycle, and more towards system decoupling; How can we 
+When considering closing the life-cycle loop, we have to consider the upstream processes. The thinking has evolved from a circular lifecycle, and more towards system decoupling; How can we meet the same demand and not use more material?
+- This is where the servitisation part comes in. For example 
