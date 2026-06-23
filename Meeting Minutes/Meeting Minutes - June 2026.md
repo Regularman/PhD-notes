@@ -191,4 +191,8 @@ He believes that module 3 and module 2 are linked together.
 
 A life-cycle PhD topic is a PhD in itself, and can include topics such as 
 - What is the optimal takeback time for different types of technologies
+- How can heat pumps or other technologies be redesigned so that they can fit into a servitisation model (such as with GE and jet engines)
+- Capacity strategies for semi-centralised/centralised heating in Australia (focusing on a particular region)
+
+
 
