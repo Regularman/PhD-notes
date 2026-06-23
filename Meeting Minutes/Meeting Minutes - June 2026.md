@@ -180,11 +180,15 @@ This is where the idea of the optimal take back time is implemented. If you wait
 - Therefore, earlier takeback allows us to recirculate the material
 - However, there is a second order effect where older technologies remain in circulation and have a negative impact due to energy efficiency
 
-The ultimate goal is to circulate to reduce impacts on the global boundaries.
+The ultimate goal is to circulate to reduce impacts on the global boundaries. Heat, for many industrial processes, is an auxillary.
 
 ### Direction of the PhD 
 
 Sami thinks the scope of the PhD is too big. The LCA needs to be done anyways, and the value of that might be a new methodology or framework to think about the LCA.
 - Think of LCA as FEA, it's just a method to frame the environmental impact of the new design
 
-He belie
+He believes that module 3 and module 2 are linked together. 
+
+A life-cycle PhD topic is a PhD in itself, and can include topics such as 
+- What is the optimal takeback time for different types of technologies
+
