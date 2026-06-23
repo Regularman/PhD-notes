@@ -11,7 +11,8 @@ The type of refrigerant considered is a balance between the following risks
 - Global Warming Potential (GWP)
 - Toxicity and flammability (mitigated through ventilation)
 - PFAS contamination potential
-- Boiling point for efficiency
+- Boiling point for efficiency and performance
+![[Screenshot 2026-06-24 090959.png]]
 ## Global Warming Potential
 
 The GWP of refrigerants come from the emission of greenhouse gases
@@ -24,8 +25,10 @@ The GWP of refrigerants come from the emission of greenhouse gases
 
 ![[Screenshot 2026-06-24 090708.png]]
 
-## Questions
+# Questions
 
 How is global warming potential for refrigerants calculated
 
 # Further Readings
+
+International Institute of Refrigeration (IIR) publishes ODP and GWP of refrigerants
