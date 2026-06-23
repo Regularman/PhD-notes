@@ -33,7 +33,7 @@ Some heat pumps in Germany are manufactured with an SG-ready label. This label g
 - A switching recommendation is sent to the heat pump to alter its electrical consumption pattern by modifying the setpoint of the room/thermal storage temperature
 - Compulsory signal to change compressor or setpoint temperature.
 
-However, non of these allows for use participation in the market.
+However, non of these allows for user participation in the market.
 ## Further Readings
 
 ## Questions
