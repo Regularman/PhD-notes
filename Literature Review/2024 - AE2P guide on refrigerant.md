@@ -1,10 +1,11 @@
 https://www.a2ep.org.au/publications
 
 
-| Refrigerant Type                                              | Description | Advantages | Disadvantages                                              |
-| ------------------------------------------------------------- | ----------- | ---------- | ---------------------------------------------------------- |
-| CFC - Chlorofluorocarbons and HCFC - hydrochlorofluorocarbons |             |            | High leakage rate and high Ozone Depletion Potential (ODP) |
-|                                                               |             |            |                                                            |
+| Refrigerant Type                                              | Description | Advantages | Disadvantages                                                         |
+| ------------------------------------------------------------- | ----------- | ---------- | --------------------------------------------------------------------- |
+| CFC - Chlorofluorocarbons and HCFC - hydrochlorofluorocarbons |             |            | High leakage rate (high GWP) and high Ozone Depletion Potential (ODP) |
+| HFO                                                           |             |            | Large PFAS contamination potential                                    |
+| Natural refrigerants                                          |             |            |                                                                       |
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
 - Global Warming Potential (GWP)
