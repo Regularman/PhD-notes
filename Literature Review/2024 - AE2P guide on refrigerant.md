@@ -51,7 +51,8 @@ These classifications restricts the quantity of refrigerant that can be used
 
 ## Standards
 
-According to the classifications above, various standards addressed the 
+According to the classifications above, various standards addresses the control and use of these heat pumps.
+
 
 # Questions
 
