@@ -7,12 +7,12 @@ https://www.a2ep.org.au/publications
 | HFO                                                           |                                                       |            | Large PFAS contamination potential                                    |
 | Natural refrigerants                                          | Such as ammonia, propane and carbon dioxide, or water |            |                                                                       |
 
-| Refrigerant Type | Description | Advantages                                                                                           | Disadvantages                                                                                                           |
-| ---------------- | ----------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Water            |             | Can absorb a lot of heat and have a high cooling effect                                              | High boiling point, which requires lower pressure and specialised compressor                                            |
-| Ammonia          |             | High efficiency, lower quantities needed                                                             | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit. It is also toxic and flammable |
-| Carbon Dioxide   |             | Efficiency advantage at both low and high temperature, as well as high heat transfer rating          | Requires high operating pressure and specialised compressor to accommodate this. This is a operating as well as costs.  |
-| Propane          |             | Higher efficiency at high temperatures. It is also a byproduct of natural gas processing and petrole |                                                                                                                         |
+| Refrigerant Type | Description | Advantages                                                                                                       | Disadvantages                                                                                                           |
+| ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Water            |             | Can absorb a lot of heat and have a high cooling effect                                                          | High boiling point, which requires lower pressure and specialised compressor                                            |
+| Ammonia          |             | High efficiency, lower quantities needed                                                                         | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit. It is also toxic and flammable |
+| Carbon Dioxide   |             | Efficiency advantage at both low and high temperature, as well as high heat transfer rating                      | Requires high operating pressure and specialised compressor to accommodate this. This is a operating as well as costs.  |
+| Propane          |             | Higher efficiency at high temperatures. It is also a byproduct of natural gas processing and petroleum refining. | Highly flammable                                                                                                        |
 
 The type of refrigerant considered is a balance between the following risks
 - Ozone Depleting Potential (ODP)
@@ -48,6 +48,10 @@ These classifications restricts the quantity of refrigerant that can be used
 - Class II: Compressors and pressure vessels in machinery room or open air
 - Class III: Refrigerant containing parts located in machinery room or open air
 - Class IV: Refrigerant containing parts located in ventilated locations
+
+## Standards
+
+According to the classifications above, various standards addressed the 
 
 # Questions
 
