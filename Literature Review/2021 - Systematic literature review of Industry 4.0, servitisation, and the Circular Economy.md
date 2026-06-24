@@ -1,7 +1,7 @@
 https://www.mdpi.com/2071-1050/13/11/6501
 ## Contributions
 
-Industry 4.0 involves the inclusion of digital transformations into manufacturing. This includes the use of IoT, cloud computing, cyber-physical systems, smart manufacturing, AI, and big data analytics. This is used for predictive analysis to 
+Industry 4.0 involves the inclusion of digital transformations into manufacturing. This includes the use of IoT, cloud computing, cyber-physical systems, smart manufacturing, AI, and big data analytics. This is used for predictive analysis to help businesses navigate operational uncertainties.
 
 This study looks at breakthroughs in
 - IOT 4.0
