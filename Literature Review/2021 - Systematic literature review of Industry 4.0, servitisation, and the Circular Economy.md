@@ -37,7 +37,8 @@ Use cases are,
 ## Circular Economy and Servitisation
 
 [40] Opportunities of sustainable manufacturing in Industry 4.0
-
+[60] Strategic Development of Product-Service Systems (PSS) through Archetype Assessment
+[66] On the adoption of circular economy practices by small and medium-size enterprises (SMEs): Does “financing-as-usual” still matter?
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
