@@ -30,6 +30,8 @@ Use cases are,
 
 [52] Risk management for PSS operation
 [69] Sustainable development in Asian manufacturing SMEs: Progress and directions
+[75] A Business Model to Implement Closed-loop Material Flow in IoT-enabled Environments
+[79] From Linear to Circular Economy: PSS Conducting the Transition
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
