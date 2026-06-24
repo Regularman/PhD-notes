@@ -205,7 +205,9 @@ He believes that HaaS is decoupled from grid, and what the industry/factory thin
 
 # 24-06-2026 Quick meeting with Rob: Discussion about thesis topic
 
-Attendees: Rob, Amr, and 
+Attendees: Rob, Amr, and I
+
+Extended on Sami's idea of semi-centralised heating in Australia
 
 
 
