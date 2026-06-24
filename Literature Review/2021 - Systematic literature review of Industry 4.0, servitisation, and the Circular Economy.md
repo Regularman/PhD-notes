@@ -18,6 +18,10 @@ This literature review looks at how Industry 4.0 can help with servitisation and
 Use cases are,
 - provision of online scheduling and monitoring systems
 - cloud operated dashboard that aids timely service interference
+
+[10] for integrated PSS from a life-cycle perspective to reduce costs and associated service disruptions
+[78,79] shows that adopting a lease first then sell concept enhances profit from a remanufacturing point of view
+
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
