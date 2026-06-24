@@ -6,7 +6,7 @@ Industry 4.0 involves the inclusion of digital transformations into manufacturin
 - servitisation
 - CE
 
-This literature review looks at how Industry 4.0 can help with servitisation and the circular economy. This was done through a Systematic Literature Review framework (SLR)
+This literature review looks at how Industry 4.0 can help with servitisation and the circular economy. This was done through a Systematic Literature Review framework (SLR). Through this, 139 papers were reveiwed.
 ## Content
 
 ## Questions
