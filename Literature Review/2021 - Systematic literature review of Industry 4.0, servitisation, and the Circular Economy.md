@@ -19,5 +19,6 @@ How can we classify the technologies needed for digitalisation in servitisation 
 ## Further Readings
 
 We can also use Product System Services as a keyword in search engine. 
+[10,32,49] supports the usage of advanced prediction devices
 
 ## Limitations
