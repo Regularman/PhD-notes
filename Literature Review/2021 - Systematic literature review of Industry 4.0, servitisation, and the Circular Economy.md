@@ -23,7 +23,8 @@ Use cases are,
 [78,79] shows that adopting a lease first then sell concept enhances profit from a remanufacturing point of view
 [1] Case study of IoT in servitisation
 [9] Integrating PSS into manufacturing industry, Industry 4.0 perspectives
-[78] smart grids and indust
+[78] smart grids and industry 4.0
+[87] Case study on the drivers and barriers for the adoption of use-orientated PSS with young consumers
 
 ## Questions
 
