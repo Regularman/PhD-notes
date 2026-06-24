@@ -26,6 +26,10 @@ Use cases are,
 [78] smart grids and industry 4.0
 [87] Case study on the drivers and barriers for the adoption of use-orientated PSS with young consumers
 
+## Industry 4.0 and Circular Economy
+
+[52] Risk management for PSS operation
+[69] Sustainable development in Asian manufacturing SMEs: Progress and directions
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
