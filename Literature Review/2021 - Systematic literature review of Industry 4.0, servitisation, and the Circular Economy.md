@@ -18,6 +18,6 @@ How can we classify the technologies needed for digitalisation in servitisation 
 
 ## Further Readings
 
-We can also use Product System Services as a keyword in search engine
+We can also use Product System Services as a keyword in search engine. 
 
 ## Limitations
