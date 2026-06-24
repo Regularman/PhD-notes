@@ -35,6 +35,9 @@ Use cases are,
 [124] Big data supply chain analytics: Ethical, privacy and security challenges posed to business, industries and society
 
 ## Circular Economy and Servitisation
+
+[40] Opportunities of sustainable manufacturing in Industry 4.0
+
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
