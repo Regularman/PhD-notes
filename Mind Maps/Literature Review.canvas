@@ -25,7 +25,6 @@
 		{"id":"1cf45a755ba9c9d4","type":"text","text":"## *E-boilers*","x":-2874,"y":515,"width":250,"height":50,"color":"5"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3949,"y":-1440,"width":480,"height":138,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *Life cycle assessments of Heat as a Service*","x":-3709,"y":-1720,"width":371,"height":108,"color":"4"},
-		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-4360,"y":-752,"width":452,"height":163,"color":"2"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3269,"y":-1408,"width":400,"height":106,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3580,"y":-1140,"width":400,"height":131,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# Life-cycle Assessments","x":-3400,"y":-2120,"width":250,"height":99,"color":"4"},
@@ -45,7 +44,8 @@
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *HaaS Industry Case Studies*","x":-1665,"y":-1495,"width":302,"height":70,"color":"1"},
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-703,"y":-1302,"width":400,"height":152,"color":"1"},
 		{"id":"f7941ba914721902","type":"text","text":"# Industry 4.0","x":-930,"y":-1023,"width":250,"height":60,"color":"#27107f"},
-		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3780,"y":-670,"width":400,"height":185,"color":"6"}
+		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-4386,"y":-705,"width":452,"height":163,"color":"2"},
+		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3858,"y":-752,"width":400,"height":185,"color":"2"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -86,6 +86,7 @@
 		{"id":"d31f8251b8f6220c","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"26ba5f34b3b41cab","toSide":"bottom"},
 		{"id":"659e288ad0b1fe70","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"9916da21f07d1671","toSide":"top"},
 		{"id":"d73683b2f85d112f","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"1b48af96d03fb765","toSide":"top"},
-		{"id":"dbb52f492b0afda1","fromNode":"ecaee4a912a8ed76","fromSide":"bottom","toNode":"f7941ba914721902","toSide":"top"}
+		{"id":"dbb52f492b0afda1","fromNode":"ecaee4a912a8ed76","fromSide":"bottom","toNode":"f7941ba914721902","toSide":"top"},
+		{"id":"24d1c0303596216f","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"}
 	]
 }
