@@ -212,12 +212,12 @@ Extended on Sami's idea of semi-centralised heating in Australia, I can look at 
 - Another scale is environmental management at different levels of centralisation, looking at LCAs and material inputs. This is where Sami can come in
 
 I will have to think about a mind map of how my thesis topics will fit together.
-
+![[Screenshot 2026-06-24 142831.png]]
 
 Some additional problems to think about are 
 - Time of use of industries and co-location due to seasonal and intraday variance
 - How to size BTM technologies
-envir
+
 
 
 
