@@ -15,7 +15,9 @@ This literature review looks at how Industry 4.0 can help with servitisation and
 
 ## Industry 4.0 and Servitisation
 
-
+Use cases are,
+- provision of online scheduling and monitoring systems
+- cloud operated dashboard that aids timely service interference
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
