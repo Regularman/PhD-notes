@@ -22,7 +22,8 @@ Use cases are,
 [10] for integrated PSS from a life-cycle perspective to reduce costs and associated service disruptions
 [78,79] shows that adopting a lease first then sell concept enhances profit from a remanufacturing point of view
 [1] Case study of IoT in servitisation
-[9] In
+[9] Integrating PSS into manufacturing industry, Industry 4.0 perspectives
+[78] smart grids and indust
 
 ## Questions
 
