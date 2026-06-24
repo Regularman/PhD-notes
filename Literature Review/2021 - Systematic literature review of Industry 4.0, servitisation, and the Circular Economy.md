@@ -9,6 +9,8 @@ This study looks at breakthroughs in
 - CE
 
 This literature review looks at how Industry 4.0 can help with servitisation and the circular economy. This was done through a Systematic Literature Review framework (SLR). Through this, 139 papers were reviewed.
+- 40 describe the relationship between I4.0 and servitisation
+- 31 describes the relationship between servitisation and the circular economy
 ## Content
 
 ## Questions
