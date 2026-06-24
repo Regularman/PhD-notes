@@ -32,6 +32,9 @@ Use cases are,
 [69] Sustainable development in Asian manufacturing SMEs: Progress and directions
 [75] A Business Model to Implement Closed-loop Material Flow in IoT-enabled Environments
 [79] From Linear to Circular Economy: PSS Conducting the Transition
+[124] Big data supply chain analytics: Ethical, privacy and security challenges posed to business, industries and society
+
+## Circular Economy and Servitisation
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
