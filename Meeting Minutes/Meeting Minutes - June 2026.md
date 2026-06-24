@@ -218,6 +218,11 @@ Some additional problems to think about are
 - Time of use of industries and co-location due to seasonal and intraday variance
 - How to size BTM technologies
 
+## To do
+
+- [ ] Think about modelling
+- [ ] Update Sami
+- [ ] Add Amr as co-supervisor
 
 
 
