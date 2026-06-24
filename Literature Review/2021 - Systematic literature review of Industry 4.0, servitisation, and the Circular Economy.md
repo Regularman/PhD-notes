@@ -13,6 +13,9 @@ This literature review looks at how Industry 4.0 can help with servitisation and
 - 31 describes the relationship between servitisation and the circular economy
 ## Content
 
+## Industry 4.0 and Servitisation
+
+
 ## Questions
 
 How can we classify the technologies needed for digitalisation in servitisation at different tiers (i.e. from maintenance to energy performance guarantee to building/outcome performance guarantee)
