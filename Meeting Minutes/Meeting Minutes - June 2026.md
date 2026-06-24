@@ -224,7 +224,7 @@ Some additional problems to think about are
 - [ ] Update Sami
 - [ ] Add Amr as co-supervisor
 
-## Date - Module 2 Meeting
+# Date - Module 2 Meeting
 
 ## Questions and Prep
 
