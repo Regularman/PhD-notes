@@ -209,7 +209,7 @@ Attendees: Rob, Amr, and I
 
 Extended on Sami's idea of semi-centralised heating in Australia, I can look at the scale of centralisation vs decentralisation.
 - Through doing this, I can look at ancillary services from a grid perspective as well, adding another sliding scale.
-- Another scale is environmental management at differ
+- Another scale is environmental management at different levels of centralisation, looking at LCAs and material inputs. This is where Sami can come in
 
 I will have to think about a mind map of how my thesis topics will fit together.
 
