@@ -207,7 +207,7 @@ He believes that HaaS is decoupled from grid, and what the industry/factory thin
 
 Attendees: Rob, Amr, and I
 
-Extended on Sami's idea of semi-centralised heating in Australia
+Extended on Sami's idea of semi-centralised heating in Australia, I can look
 
 
 
