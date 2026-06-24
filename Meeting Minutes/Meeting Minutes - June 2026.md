@@ -203,7 +203,11 @@ He believes that HaaS is decoupled from grid, and what the industry/factory thin
 
 ~={red}Read slides that Sami sent=~
 
-# 24-06-2026 Quick meeting wit
+# 24-06-2026 Quick meeting with Rob: Discussion about thesis topic
+
+Attendees: Rob, Amr, and 
+
+
 
 
 
