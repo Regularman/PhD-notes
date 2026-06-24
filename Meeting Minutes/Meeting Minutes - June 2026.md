@@ -207,7 +207,9 @@ He believes that HaaS is decoupled from grid, and what the industry/factory thin
 
 Attendees: Rob, Amr, and I
 
-Extended on Sami's idea of semi-centralised heating in Australia, I can look at the scale of centralisation vs decentralisation
+Extended on Sami's idea of semi-centralised heating in Australia, I can look at the scale of centralisation vs decentralisation.
+
+I will have to think about a mind map of how my thesis topics will fit together,
 
 
 
