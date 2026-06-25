@@ -41,7 +41,9 @@ Interestingly, it is shown that large firms and institutions find it harder to a
 
 ### Company A: Sheet metal
 
-### Company B: Lifecycle power solutions for energy markes
+### Company B: Lifecycle power solutions for energy markets
+
+### Company C: large multi-national company offering power and automation technologies
 ## Further Readings
 
 ## Questions
