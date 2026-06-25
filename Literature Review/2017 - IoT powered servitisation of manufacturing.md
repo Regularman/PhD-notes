@@ -48,6 +48,7 @@ IoT provides an opportunity to see actual production and daily KPIs, that is col
 - This enables performance based contracts to ensure the availability of machinery as the customer's needs change to reduce their operating costs.
 
 ### Company B: Lifecycle power solutions for energy markets
+Sells power generators to gas-operated power plant, which must be available most of the time to address grid services. The company redeveloped communication and data analytic networks to replace scheduled maintenance activities with maintenance that is based on the actual performance of the product.
 
 ### Company C: large multi-national company offering power and automation technologies
 ## Further Readings
