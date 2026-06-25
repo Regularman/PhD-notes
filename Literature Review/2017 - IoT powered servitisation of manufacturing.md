@@ -61,6 +61,8 @@ Company C built an automated logging device with an Internet to monitor the tran
 - Data is shared with the local external maintenance personnel of the utility. Company C an also ask for data access and provide insights on usage metrics
 
 ![[Screenshot 2026-06-25 103200.png]]
+
+In all of the examples above, new business models and revenue streams were made possible through the advent of cheap digital 
 ## Further Readings
 
 ## Questions
