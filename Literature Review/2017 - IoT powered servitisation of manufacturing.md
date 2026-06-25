@@ -49,10 +49,13 @@ IoT provides an opportunity to see actual production and daily KPIs, that is col
 
 ### Company B: Lifecycle power solutions for energy markets
 Sells power generators to gas-operated power plant, which must be available most of the time to address grid services. The company redeveloped communication and data analytic networks to replace scheduled maintenance activities with maintenance that is based on the actual performance of the product.
-- Periodic reports are sent to customers to demonstrate performance
+- Periodic reports are sent to customers to demonstrate performance, providing energy produced, f
 - Used to advice on optimal plant operation to improve the owner's total cost of ownership
 
 ### Company C: large multi-national company offering power and automation technologies
+Provides power transformers. The correct use of the product, in terms of transmitted power, ambient temperature, quality of electricity, and proper maintenance guarantees reliable operations.
+
+Company C built an automated logging device with an Internet
 ## Further Readings
 
 ## Questions
