@@ -57,7 +57,8 @@ The data can also be used for R&D purposes
 ### Company C: large multi-national company offering power and automation technologies
 Provides power transformers. The correct use of the product, in terms of transmitted power, ambient temperature, quality of electricity, and proper maintenance guarantees reliable operations.
 
-Company C built an automated logging device with an Internet to monitor the transformer operation. This can improve the product lifecycle of the tran
+Company C built an automated logging device with an Internet to monitor the transformer operation. This can improve the product lifecycle of the transformer.
+- Data is shared with the local external maintenance personnel of the utility. Company C an also ask for data access and provide insights on usage metrics
 ## Further Readings
 
 ## Questions
