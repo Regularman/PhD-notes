@@ -43,6 +43,8 @@ Interestingly, it is shown that large firms and institutions find it harder to a
 The focal areas have been designing and building high quality machines for cutting, punching, shearing, and bending sheet metal.
 - Focus shifted over the years from individual machines to systems of machines in the production line
 
+IoT provides an opportunity to see actual production and daily KPIs, that is collected to a centralised cloud system.
+
 ### Company B: Lifecycle power solutions for energy markets
 
 ### Company C: large multi-national company offering power and automation technologies
