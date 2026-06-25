@@ -32,7 +32,7 @@
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2065,"y":-2126,"width":400,"height":159,"color":"1"},
 		{"id":"d62e74d72a632b60","type":"text","text":"#### Connected Responses - Smart metering for Heat with Rent","x":-1946,"y":-2379,"width":312,"height":103,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *Residential Heating*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
-		{"id":"26ba5f34b3b41cab","type":"file","file":"PhD-notes/Literature Review/2016 - DEA Heat as a Service Subsidy program.md","x":-2373,"y":-2370,"width":308,"height":94,"color":"1"},
+		{"id":"26ba5f34b3b41cab","type":"file","file":"PhD-notes/Literature Review/2016 - DEA Heat as a Service Subsidy program.md","x":-2373,"y":-2600,"width":308,"height":120,"color":"1"},
 		{"id":"fe208ab0ba2805e1","type":"text","text":"#### Energiesprong - Comfort as a service","x":-1546,"y":-2386,"width":272,"height":110,"color":"1"},
 		{"id":"0ddc5405c5c10558","type":"file","file":"PhD-notes/Literature Review/2020 - Heat as a Service - What is it and what's on the market today.md","x":-1546,"y":-2018,"width":400,"height":102,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1013,"y":-2094,"width":400,"height":127,"color":"1"},
@@ -46,7 +46,7 @@
 		{"id":"f7941ba914721902","type":"text","text":"# Industry 4.0","x":-930,"y":-1023,"width":250,"height":60,"color":"#afe6ee"},
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-4386,"y":-705,"width":452,"height":163,"color":"2"},
 		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3858,"y":-752,"width":400,"height":185,"color":"2"},
-		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing.md","x":-860,"y":-900,"width":400,"height":120,"color":"#85aaaf"}
+		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-440,"y":-862,"width":400,"height":120,"color":"#85aaaf"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
