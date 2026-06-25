@@ -59,6 +59,8 @@ Provides power transformers. The correct use of the product, in terms of transmi
 
 Company C built an automated logging device with an Internet to monitor the transformer operation. This can improve the product lifecycle of the transformer.
 - Data is shared with the local external maintenance personnel of the utility. Company C an also ask for data access and provide insights on usage metrics
+
+![[Screenshot 2026-06-25 103200.png]]
 ## Further Readings
 
 ## Questions
