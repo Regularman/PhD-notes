@@ -40,6 +40,8 @@ Interestingly, it is shown that large firms and institutions find it harder to a
 - How can I ensure that the company's scope will not be constrained
 
 ### Company A: Sheet metal
+The focal areas have been designing and building high quality machines for cutting, punching, shearing, and bending sheet metal.
+- Focus shifted over the years from individual machines to systems of machines in the production line
 
 ### Company B: Lifecycle power solutions for energy markets
 
