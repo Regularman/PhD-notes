@@ -38,6 +38,10 @@ Interestingly, it is shown that large firms and institutions find it harder to a
 - How should I balance data capture vs post processing and analytics
 - Management of access rights to product data
 - How can I ensure that the company's scope will not be constrained
+
+### Company A: Sheet metal
+
+### Company B: Lifecycle power solutions for energy markes
 ## Further Readings
 
 ## Questions
