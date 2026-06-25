@@ -34,7 +34,7 @@ Interestingly, it is shown that large firms and institutions find it harder to a
 
 #### Questions to ask when considering the data layer of Servitisation
 - Should i embed functionalities in the product or in the cloud
-- Should capabilities be developed i house or externally
+- Should capabilities be developed I house or externally
 - How should I balance data capture vs post processing and analytics
 - What is the data that needs to be monitored?
 - Management of access rights to product data (open or closed system, how is the data circulated within the internet of things, is that data used in-house or presented back to the users?)
