@@ -6,7 +6,7 @@ Provide case studies of how IoT has been successfully implemented in metal proce
 - The process itself
 - Potential for improved value proposition for the customer
 
-This was done in the form of an interview with managers of each manufacturing plant and cross referenced with software companies who provided the service.
+This was done in the form of an interview with managers of each manufacturing plant and cross referenced with software companies who provided the service. All companies chosen were in a B2B context and have started selling service as a product.
 ## Content 
 
 In addition to IoT enabling a better value proposition for manufacturing companies, there is also the option of digital servitisation, in which digital services are offered to end consumers
