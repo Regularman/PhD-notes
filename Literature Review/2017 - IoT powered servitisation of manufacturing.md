@@ -45,6 +45,7 @@ The focal areas have been designing and building high quality machines for cutti
 
 IoT provides an opportunity to see actual production and daily KPIs, that is collected to a centralised cloud system. 
 - Thus, the manufacturing company's model shifted from manufacturing to fleet management system.
+- This enables performance based contracts to ensure the availability of machinery as the customer's needs change to reduce their operating costs.
 
 ### Company B: Lifecycle power solutions for energy markets
 
