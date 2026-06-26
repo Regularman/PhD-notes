@@ -87,5 +87,7 @@ Check out the Deep Dive Session highlighted in the document.
 
 Look at HP-COM for report on ICT of heat pumps.  https://www.teknologisk.dk/projekter/projekt-hpcom/37449 
 
+Look at EnergyFlexLab in Denmark for what they're doing with heat pumps
+
 
 
