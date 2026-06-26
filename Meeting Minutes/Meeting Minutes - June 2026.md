@@ -232,7 +232,7 @@ Need to have a meeting with Iberdrola showing them the tool and a feasibility of
 - GUI with the sankey charts and the load profiles
 - Potentially a dashboard for the results (Present one or two technology results)
 
-
+Amr has done a simple techno-economic assessment of solar thermal collectors based on the the 
 
 
 
