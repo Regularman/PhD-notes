@@ -22,4 +22,4 @@
 
 1. Total cost of ownership/transition of thermal electrification in Australia at different levels of centralisation
 2. Potential synergies between different industries (such as dairy and breweries)
-3. 
+3. Impacts on the grid at different levels of centralisation, in terms of FCAS regulation
