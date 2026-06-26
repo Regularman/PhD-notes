@@ -89,5 +89,7 @@ Look at HP-COM for report on ICT of heat pumps.  https://www.teknologisk.dk/proj
 
 Look at EnergyFlexLab in Denmark for what they're doing with heat pumps
 
+Look at In
+
 
 
