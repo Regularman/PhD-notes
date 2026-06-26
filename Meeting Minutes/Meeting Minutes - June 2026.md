@@ -228,7 +228,9 @@ Some additional problems to think about are
 
 Attendees: Amr, Anchala, Myself
 
-Need to have a meeting with Iberdrola showing them the tool and a
+Need to have a meeting with Iberdrola showing them the tool and a feasibility of the AI tool.
+- GUI with the sankey charts and the load profiles
+- Potentially a dashboard for the results (Present one or two technology results)
 
 
 
