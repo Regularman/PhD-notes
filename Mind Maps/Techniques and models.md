@@ -5,6 +5,10 @@
 - PVsyst: models PV systems
 - T$*$Sol: Customisable solar thermal models
 - INSEL: simulation, monitoring, and visualisation of energy systems. Customisable in C/C++ or FORTRAN.
+
+## Modelling tools
+
+Centre Denmark provides a Trusted Data sharing platform 
 ## Australian market modelling
 - EZview - Spot market pricing (FCAS and ancillary market included) Check out Watt Clarity article for example [https://wattclarity.com.au/articles/2026/06/06june-regulation-fcas-trend/?_gl=1*ujguto*_ga*MTUyMDYyOTAyMy4xNzgwNTI2NzEy*_ga_4ZTT9PF6TR*czE3ODA5NjA0NzUkbzIkZzAkdDE3ODA5NjA0NzUkajYwJGwwJGgw]
 
