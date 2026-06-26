@@ -18,3 +18,6 @@
 | Research Questions                                                                                                                  | Context | Methodology | Potentially relevant papers |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | --------------------------- |
 | What technological modifications is needed for heat pumps or other thermal technologies to participate in the primary FCAS reserve? |         |             |                             |
+### Potential Thesis: Thermal electrification
+
+1. Total cost of ownership of thermal electrification
