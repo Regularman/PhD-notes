@@ -234,6 +234,8 @@ Need to have a meeting with Iberdrola showing them the tool and a feasibility of
 
 Amr has done a simple techno-economic assessment of solar thermal collectors based on the database. 
 
+Anchala has implemented a load profile to the online decarb t
+
 
 
 
