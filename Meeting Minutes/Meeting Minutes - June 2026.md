@@ -224,9 +224,11 @@ Some additional problems to think about are
 - [ ] Update Sami
 - [ ] Add Amr as co-supervisor
 
-# Date - Module 2 Meeting
+# 26.06.2026 - Module 2 Meeting
 
-## Questions and Prep
+Attendees: Amr, Anchala, Myself
+
+Need to have a meeting with Iberdrola showing them the tool and a
 
 
 
