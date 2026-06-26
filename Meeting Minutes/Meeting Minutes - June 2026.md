@@ -236,6 +236,8 @@ Amr has done a simple techno-economic assessment of solar thermal collectors bas
 
 Anchala has implemented a load profile to the online decarb tool. 
 
+What's happening with the Sankey diagram.
+
 
 
 
