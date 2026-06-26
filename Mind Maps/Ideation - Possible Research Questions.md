@@ -18,6 +18,8 @@
 | Research Questions                                                                                                                  | Context | Methodology | Potentially relevant papers |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------- | --------------------------- |
 | What technological modifications is needed for heat pumps or other thermal technologies to participate in the primary FCAS reserve? |         |             |                             |
-### Potential Thesis: Thermal electrification
+### Potential Thesis: Thermal electrification on the spectrum of centralisation
 
-1. Total cost of ownership of thermal electrification
+1. Total cost of ownership/transition of thermal electrification in Australia at different levels of centralisation
+2. Potential synergies between different industries (such as dairy and breweries)
+3. 
