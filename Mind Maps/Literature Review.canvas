@@ -38,7 +38,6 @@
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1013,"y":-2094,"width":400,"height":127,"color":"1"},
 		{"id":"c44852c5b85257cc","type":"text","text":"## *Viessmann*\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-888,"y":-1806,"width":385,"height":140,"color":"1"},
 		{"id":"9e942d00e165b765","type":"text","text":"## *Heineken*","x":-1013,"y":-1495,"width":250,"height":70,"color":"1"},
-		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-2723,"y":-2051,"width":400,"height":84,"color":"4"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *Economic modelling and feasibility of low carbon heat*","x":-2235,"y":-917,"width":353,"height":109,"color":"3"},
 		{"id":"25b4e01170985df8","type":"text","text":"## *Heat as a Service business cases*","x":-2653,"y":-963,"width":260,"height":100,"color":"3"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *HaaS Industry Case Studies*","x":-1665,"y":-1495,"width":302,"height":70,"color":"1"},
@@ -46,7 +45,9 @@
 		{"id":"f7941ba914721902","type":"text","text":"# Industry 4.0","x":-930,"y":-1023,"width":250,"height":60,"color":"#afe6ee"},
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-4386,"y":-705,"width":452,"height":163,"color":"2"},
 		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-3858,"y":-752,"width":400,"height":185,"color":"2"},
-		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-440,"y":-862,"width":400,"height":120,"color":"#85aaaf"}
+		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3017,"y":-1790,"width":400,"height":84,"color":"4"},
+		{"id":"c8c213062d86c1e4","x":-580,"y":-551,"width":400,"height":111,"color":"#637d80","type":"file","file":"2024 - IEA report - Digitalisation and IoT for heat pumps.md"},
+		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-580,"y":-860,"width":400,"height":162,"color":"#85aaaf"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -89,6 +90,7 @@
 		{"id":"d73683b2f85d112f","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"1b48af96d03fb765","toSide":"top"},
 		{"id":"dbb52f492b0afda1","fromNode":"ecaee4a912a8ed76","fromSide":"bottom","toNode":"f7941ba914721902","toSide":"top"},
 		{"id":"24d1c0303596216f","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"},
-		{"id":"8d36b385e4daf5aa","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"326c9db62b1bd97e","toSide":"top"}
+		{"id":"8d36b385e4daf5aa","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"326c9db62b1bd97e","toSide":"top"},
+		{"id":"6e303d040bb94511","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"c8c213062d86c1e4","toSide":"top"}
 	]
 }
