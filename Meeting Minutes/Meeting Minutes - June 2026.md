@@ -255,7 +255,9 @@ Deadline in September/October!
 
 ## Meeting Notes
 
-Think about
+Deadline 28th of August, an extended abstract 4 pages. Doesn't need final results, just some preliminary findings.
+
+Would be interesting 
 
 
 
