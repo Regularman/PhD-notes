@@ -260,7 +260,8 @@ Deadline 28th of August, an extended abstract 4 pages. Doesn't need final result
 
 Would be interesting to look at map of industrial heat demands and the level of centralisation
 
-- [ ] Need to firm up the PhD thesis th
+- [ ] Need to firm up the PhD thesis
+- [ ] Meeting with John Fletcher and Sami on scope and methods
 
 
 
