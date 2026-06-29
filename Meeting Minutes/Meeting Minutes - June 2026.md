@@ -251,6 +251,8 @@ Deadline in September/October!
 	- Check with Rob first
 	- Amr says that the first half of the presentation should be about my thesis and why I'm looking at and how they fit in
 	- Need to include supervisors for credibility, so that they can work with me and Sami and Rob for free
+- APVI conference
+- 
 
 
 
