@@ -262,6 +262,7 @@ Would be interesting to look at map of industrial heat demands and the level of 
 
 - [ ] Need to firm up the PhD thesis
 - [ ] Meeting with John Fletcher and Sami on scope and methods
+- [ ] Look at PhD fund for travel
 
 
 
