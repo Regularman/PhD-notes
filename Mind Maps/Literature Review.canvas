@@ -52,7 +52,8 @@
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-589,"y":2110,"width":452,"height":163,"color":"2"},
 		{"id":"e8a2bd3a6ba9418c","type":"text","text":"## *Droplet formation in suction pipe during loading change*\n\nDuring the ramp down of the heat pump, the saturation temperature increases above the wall temperature. This causes the condensation of droplets in the compressor and suction line walls. This is due to the increase in evaporation pressure in heat pump.\n- A small increase in evaporation temperature causes a large increase in saturation temperature\n\nThe change with evaporation pressure is due to the power uptake being the proportional to the condensation pressure.\n![[Screenshot 2026-06-15 at 7.02.11 pm.png]]\n\nWe then consult the pressure temperature graph for the refrigerant. \n- Note that at higher pressures, the gradient of the saturation temperature is also lower.\n\nThe constraining of ramping rate of power uptake helps solves the issue\n\nFor other refrigerants, superheating the suction line might actually INCREASE the COP, and therefore not pose a significant issue to heat pump design.","x":-483,"y":2321,"width":422,"height":91,"color":"2"},
 		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-61,"y":2063,"width":400,"height":185,"color":"2"},
-		{"id":"affb23c73cfc37db","type":"text","text":"# Regina Hemm - AIT\n\n","x":-1600,"y":1330,"width":474,"height":249}
+		{"id":"affb23c73cfc37db","type":"text","text":"# Regina Hemm - AIT\n\n","x":-1600,"y":1330,"width":474,"height":249},
+		{"id":"5102b0c404df57a6","x":1000,"y":467,"width":600,"height":60,"type":"text","text":"# EnergyLab Nordhavn"}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -101,6 +102,7 @@
 		{"id":"6bec5c179d491150","fromNode":"977051ee1d6aecd8","fromSide":"top","toNode":"affb23c73cfc37db","toSide":"bottom"},
 		{"id":"100c9bbe13053d15","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"e5e2e8594e137234","toSide":"top"},
 		{"id":"4600385fc273ccff","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"24b71499885e961d","toSide":"top"},
-		{"id":"6ba0e4312520f78e","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"30504c64ff09f987","toSide":"top"}
+		{"id":"6ba0e4312520f78e","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"30504c64ff09f987","toSide":"top"},
+		{"id":"b76ae6581c6ab042","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"5102b0c404df57a6","toSide":"top"}
 	]
 }
