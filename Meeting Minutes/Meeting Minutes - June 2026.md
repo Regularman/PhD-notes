@@ -243,6 +243,12 @@ Assigned Daniel to look at Sankey diagram flowchart of process flow
 
 Deadline in September/October! 
 
+# 29.06.2026 Weekly meeting with Rob
+
+## Prep and questions
+
+- How to connect with companies - tiko energy - interested to learn why they failed.
+
 
 
 
