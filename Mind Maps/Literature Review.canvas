@@ -50,7 +50,7 @@
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":440,"y":459,"width":440,"height":56,"color":"2"},
 		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-330,"y":-880,"width":400,"height":162,"color":"2"},
 		{"id":"e5e2e8594e137234","type":"file","file":"2023 - Communication for demand response of heat pumps to support the national power system in Sweden -.md","x":-240,"y":-400,"width":400,"height":165,"color":"2"},
-		{"id":"fda52721f32fcb2f","x":-200,"y":579,"width":400,"height":481,"color":"2","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md"},
+		{"id":"fda52721f32fcb2f","x":-200,"y":579,"width":400,"height":121,"color":"2","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md"},
 		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":240,"y":231,"width":400,"height":124}
 	],
 	"edges":[
