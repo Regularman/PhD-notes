@@ -59,7 +59,7 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - Comfort was defined through customer survey and questionnaires
 
 However, the simulation and case studies did not match up due to differing time periods and durations. The real world data only lasted for days or weeks and therefore does not represent worst case scenarios.
-- They also did not co
+- They also did not collect reference data in the real world scenario, therefore, in the base case they assumed perfect demand forecasting. How can we add imperfect demand data into the model?
 
 ## Limitations
 
