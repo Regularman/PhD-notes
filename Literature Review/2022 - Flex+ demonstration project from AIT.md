@@ -61,8 +61,10 @@ Ultimately found that revenue is the greatest from the secondary control market.
 However, the simulation and case studies did not match up due to differing time periods and durations. The real world data only lasted for days or weeks and therefore does not represent worst case scenarios.
 
 For example, real world data showed that there was a net negative savings with participation in the secondary reserve market.
+- This was also due to the demand forecasting being much higher than the actual demand, which meant that the energy has to be resold on the intraday market at a less favorable price.
 - They also did not collect reference data in the real world scenario, therefore, in the base case they assumed perfect demand forecasting. How can we add imperfect demand data into the model?
 
+### Co
 ## Limitations
 
 - Statistically averages out case and does not do stress testing
