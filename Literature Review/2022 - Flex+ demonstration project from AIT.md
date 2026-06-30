@@ -64,7 +64,7 @@ For example, real world data showed that there was a net negative savings with p
 - This was also due to the demand forecasting being much higher than the actual demand, which meant that the energy has to be resold on the intraday market at a less favorable price.
 - They also did not collect reference data in the real world scenario, therefore, in the base case they assumed perfect demand forecasting. How can we add imperfect demand data into the model?
 
-### Co
+### Consumer feedback
 ## Limitations
 
 - Statistically averages out case and does not do stress testing
