@@ -81,6 +81,7 @@ Out of the 9 heat pump users interviewed, almost half were concerned with the va
 - For heat pumps, they were simulated weekly and therefore showed higher revenue potential in the secondary reserve market
 - The study also does not show the control of aggregated heat pumps to meet both heat demand and revenue concisely. The pool of heat pumps more so reflects a technology mix of battery. 
 
+Encountered the problem of not having enough time to solve all the optimization problem as the number of heat pumps increased.
 ## Question
 
 ## Further Readings
