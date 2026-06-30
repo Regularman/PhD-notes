@@ -59,6 +59,7 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - Comfort was defined through customer survey and questionnaires
 
 However, the simulation and case studies did not match up due to differing time periods and durations. The real world data only lasted for days or weeks and therefore does not represent worst case scenarios.
+- They also did not co
 
 ## Limitations
 
