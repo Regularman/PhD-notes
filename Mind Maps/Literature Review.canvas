@@ -50,8 +50,8 @@
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":440,"y":459,"width":440,"height":56,"color":"2"},
 		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-330,"y":-880,"width":400,"height":162,"color":"2"},
 		{"id":"e5e2e8594e137234","type":"file","file":"2023 - Communication for demand response of heat pumps to support the national power system in Sweden -.md","x":-240,"y":-400,"width":400,"height":165,"color":"2"},
-		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":40,"y":285,"width":400,"height":124},
-		{"id":"fda52721f32fcb2f","x":-53,"y":649,"width":400,"height":74,"color":"2","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md"}
+		{"id":"fda52721f32fcb2f","x":-200,"y":579,"width":400,"height":74,"color":"2","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md"},
+		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":240,"y":231,"width":400,"height":124}
 	],
 	"edges":[
 		{"id":"15328092010f5d0f","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"9e942d00e165b765","toSide":"left"},
@@ -96,6 +96,7 @@
 		{"id":"1219ddf69468cf13","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"1da15cb43944a89b","toSide":"top"},
 		{"id":"b203a7249d50d08f","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"e3aee0d727fb02cd","toSide":"top"},
 		{"id":"5e935179d48fe937","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"},
-		{"id":"14785c17443302e3","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"e5e2e8594e137234","toSide":"top"}
+		{"id":"14785c17443302e3","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"e5e2e8594e137234","toSide":"top"},
+		{"id":"79d7e25186875811","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"fda52721f32fcb2f","toSide":"top"}
 	]
 }
