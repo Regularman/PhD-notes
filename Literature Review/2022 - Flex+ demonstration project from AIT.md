@@ -66,7 +66,7 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - There are only 3 heat pumps that are scheduled at a time, so the study does not look into the flexibility that aggregating many heat pumps can provide. 
 - Case study from the result does not show comparative revenue with and without the heat pump participation.
 - A lot of papers highlights that heat pumps cannot participate in the primary response/reserve market (60s)
-- For heat pumps, 
+- For heat pumps, they were simulated weekly and therefore showed higher revenue potential in the secondary reserve market
 
 ## Question
 
