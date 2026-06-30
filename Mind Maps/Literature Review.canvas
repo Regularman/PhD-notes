@@ -50,7 +50,7 @@
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1146,"y":-1360,"width":400,"height":50,"color":"1"},
 		{"id":"c44852c5b85257cc","type":"text","text":"# Viessmann\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1600,"y":-1284,"width":385,"height":50,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
-		{"id":"670df2149b5006fa","x":-2460,"y":480,"width":400,"height":182,"type":"file","file":"2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md"}
+		{"id":"670df2149b5006fa","x":-2460,"y":480,"width":400,"height":220,"color":"6","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
