@@ -67,6 +67,8 @@ For example, real world data showed that there was a net negative savings with p
 ### Consumer feedback
 
 There were user satisfaction concerns regarding hot water availability and temperature, as well as storage management,
+
+Out of the 9 heat pump users interviewed, almost half were concerned with the value case and data security of their heat pumps participating in ancillary services.
 ## Limitations
 
 - Statistically averages out case and does not do stress testing
