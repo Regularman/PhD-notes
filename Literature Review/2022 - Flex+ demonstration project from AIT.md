@@ -55,7 +55,8 @@ This is a wastewater treatment plant consisting of 2 PV systems, a battery, 2 EV
 Data obtained from historical measurements from 2017-2019.
 
 Ultimately found that revenue is the greatest from the secondary control market.
-- **Furthermore, it is shown that heat pumps offer negative control energy in the secondary reserve market and positive control energy in the tertiary market. (WHY?)**. There is also almost no participation of heat pumps in the positive energy control of the secondary reserve market
+- ~={orange}**Furthermore, it is shown that heat pumps offer negative control energy in the secondary reserve market and positive control energy in the tertiary market. (WHY?)**. =~There is also almost no participation of heat pumps in the positive energy control of the secondary reserve market
+- Comfort was defined through customer survey and questionnaires
 
 ## Limitations
 
@@ -68,7 +69,6 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - A lot of papers highlights that heat pumps cannot participate in the primary response/reserve market (60s)
 - For heat pumps, they were simulated weekly and therefore showed higher revenue potential in the secondary reserve market
 - The study also does not show the control of aggregated heat pumps to meet both heat demand and revenue concisely. The pool of heat pumps more so reflects a technology mix of battery. 
-- E
 
 ## Question
 
