@@ -65,6 +65,8 @@ For example, real world data showed that there was a net negative savings with p
 - They also did not collect reference data in the real world scenario, therefore, in the base case they assumed perfect demand forecasting. How can we add imperfect demand data into the model?
 
 ### Consumer feedback
+
+There were user satisfaction concerns regarding hot water availability and temperature, as well as storage management,
 ## Limitations
 
 - Statistically averages out case and does not do stress testing
