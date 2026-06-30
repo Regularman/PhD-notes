@@ -58,7 +58,7 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - ~={orange}**Furthermore, it is shown that heat pumps offer negative control energy in the secondary reserve market and positive control energy in the tertiary market. (WHY?)**. =~There is also almost no participation of heat pumps in the positive energy control of the secondary reserve market
 - Comfort was defined through customer survey and questionnaires
 
-However, the simulation and case studies did not match up due to differing time periods and durations. The real world data onlu 
+However, the simulation and case studies did not match up due to differing time periods and durations. The real world data only lasted for days or weeks and therefore does not represent worst case scenarios.
 
 ## Limitations
 
