@@ -67,7 +67,8 @@ Ultimately found that revenue is the greatest from the secondary control market.
 - Case study from the result does not show comparative revenue with and without the heat pump participation.
 - A lot of papers highlights that heat pumps cannot participate in the primary response/reserve market (60s)
 - For heat pumps, they were simulated weekly and therefore showed higher revenue potential in the secondary reserve market
-- The study also does not show the control of aggregated heat pumps to meet both heat demand and revenue concisely. The pool of heat pumps more so reflects a technology mix of battery, 
+- The study also does not show the control of aggregated heat pumps to meet both heat demand and revenue concisely. The pool of heat pumps more so reflects a technology mix of battery. 
+- E
 
 ## Question
 
