@@ -35,7 +35,14 @@ Hydraulic imbalance occurs when the heating area of a single heating substation 
 - Improve heat consumption and power consumption
 The paper models hydraulic imbalance as a function of the SG, but how do you quantify the actual level of ~={orange}hydraulic imbalance=~ in the system?
 
-The cities and provinces they chose were 10-18.5$\degree$C below 
+The cities and provinces they chose were 10-18.5$\degree$C below $0$.
+
+|                          | Hebei          | Heilongjiang |
+| ------------------------ | -------------- | ------------ |
+| Temperature              | $-10\degree C$ | $-1.         |
+| Heating area             |                |              |
+| Length of heating season |                |              |
+
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
