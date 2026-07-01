@@ -24,10 +24,10 @@ Annual cost is lower in selected case under BHS compared to CDHS.
 To assess the feasibility of each scale of solution, the paper uses three indices,
 
 
-| Index    | Method             | Details                                                                                                                                                                                                   |
-| -------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Economic | Annual cost method | $C_a = \alpha C_{in} + C_{run}$, where the investment coefficient is determined by the internal recovery ratio, set to 0.1. $$\alpha = \frac{I(1+I)^n}{(1+I)^n-1}$$The project lifecycle $n$ is 15 years. |
-|          |                    |                                                                                                                                                                                                           |
+| Index              | Method             | Details                                                                                                                                                                                                   |
+| ------------------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Economic           | Annual cost method | $C_a = \alpha C_{in} + C_{run}$, where the investment coefficient is determined by the internal recovery ratio, set to 0.1. $$\alpha = \frac{I(1+I)^n}{(1+I)^n-1}$$The project lifecycle $n$ is 15 years. |
+| Energy consumption |                    | Splits into the heat consumption, power consumption, and water consumption index calculated in (consumption/$m^2$).                                                                                       |
 
 ## Question
 
