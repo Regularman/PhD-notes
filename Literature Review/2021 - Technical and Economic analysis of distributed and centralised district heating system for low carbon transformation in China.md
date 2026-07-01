@@ -15,7 +15,7 @@ Annual cost is lower in selected case under BHS compared to CDHS.
 
 - CDHS transfers high temperature hot water of heat source to teh DHS through a primary network to heating substation, then to terminal users through a secondary network (soviet).
 - BHS is more nordic. The primary network connects directly to intelligent buildings and heats the users through heat exchange substations
-- HHS is one heating substation per household, used pe
+- HHS is one heating substation per household, used predominantly in Germany and Denmark
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
