@@ -24,9 +24,9 @@ Annual cost is lower in selected case under BHS compared to CDHS.
 To assess the feasibility of each scale of solution, the paper uses three indices,
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Index    | Method             | Details                 |
+| -------- | ------------------ | ----------------------- |
+| Economic | Annual cost method | $C_a = C_{in} + C_{run} |
 
 ## Question
 
