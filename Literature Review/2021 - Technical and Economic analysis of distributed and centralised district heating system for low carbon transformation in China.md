@@ -3,7 +3,7 @@ https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&ar
 
 ## Contributions
 
-Reviews current studies in distributed versus region level district heating. The paper then proposes a comparison of district heating substation and building wise substation and household wise heating stations in terms of 
+Reviews current studies in distributed versus region level district heating. The paper then proposes a comparison of district heating substation ($SG > 20000$) and building wise substation ($20000 \ge SG \ge 1000$) and household wise heating stations  ($1000>SG$) in terms of 
 - economic
 - energy
 - carbon emissions
