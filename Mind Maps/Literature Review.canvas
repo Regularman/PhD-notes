@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2352bd83f5699f28","x":-2448,"y":434,"width":250,"height":60,"type":"text","text":""},
 		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":609,"y":723,"width":400,"height":78},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":353,"height":151,"color":"3"},
 		{"id":"58b7394b2271650b","type":"text","text":"# *~={yellow}Industrial Applications=~*","x":-3017,"y":-808,"width":343,"height":56,"color":"3"},
@@ -51,9 +50,10 @@
 		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1146,"y":-1360,"width":400,"height":50,"color":"1"},
 		{"id":"c44852c5b85257cc","type":"text","text":"# Viessmann\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1600,"y":-1284,"width":385,"height":50,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
-		{"id":"813f632c1385de6d","x":-2660,"y":715,"width":400,"height":86,"color":"6","type":"file","file":"2023 - Modelling Centralised Heating Systems based on hybrid drive (between mechanistic and data driven approach).md"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2240,"y":900,"width":400,"height":220,"color":"6"},
-		{"id":"cc8c9ed595204327","x":-1912,"y":640,"width":400,"height":188,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md"}
+		{"id":"cc8c9ed595204327","x":-1912,"y":640,"width":400,"height":188,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md"},
+		{"id":"2352bd83f5699f28","x":-2674,"y":519,"width":314,"height":69,"color":"6","type":"text","text":"# M~={purple}odelling Techniques=~\n"},
+		{"id":"813f632c1385de6d","x":-2680,"y":742,"width":400,"height":173,"color":"6","type":"file","file":"2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -98,6 +98,8 @@
 		{"id":"95c5b7e8c0609293","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"2bbcb5f505cd9afd","toSide":"top"},
 		{"id":"789ed932717f8add","fromNode":"ecaee4a912a8ed76","fromSide":"bottom","toNode":"c44852c5b85257cc","toSide":"top"},
 		{"id":"898e0d9ec44b9d2f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"670df2149b5006fa","toSide":"top"},
-		{"id":"e5a5e454b9abfbe3","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"top"}
+		{"id":"e5a5e454b9abfbe3","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"top"},
+		{"id":"0d9351e4fedbd59f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"2352bd83f5699f28","toSide":"top"},
+		{"id":"1ac90e6114e5eb00","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"813f632c1385de6d","toSide":"top"}
 	]
 }
