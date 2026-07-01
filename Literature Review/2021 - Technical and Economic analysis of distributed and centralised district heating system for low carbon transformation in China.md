@@ -51,7 +51,7 @@ Ultimately quantified the heat consumption saving using W/$m^2$
 2. Over the past decade, Chinese district heating has grown by 13% p.a, reaching 11 billion square meters by the end of 2019.
 	- ~={green}What has the impact of this been? =~Paper cited problems with low heating efficiency, high hydraulic imbalance rate, and serious heat waste. This is compounded by complex pipelines, serious water loss, and high power consumption
 3. What is the difference between 4th and 5th generation district heating and cooling systems?
-4. ~={green}How does different heating behaviour affect the system? How about different load profiles?=~ The study only looked at resi
+4. ~={green}How does different heating behaviour affect the system? How about different load profiles?=~ The study only looked at residential heating demand. Is more flexible heating using the BHS model more optimal?
 
 ## Limitation
 
