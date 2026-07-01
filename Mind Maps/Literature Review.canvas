@@ -52,8 +52,8 @@
 		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria for peak shaving.md","x":-890,"y":211,"width":400,"height":177,"color":"2"},
 		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-1490,"y":51,"width":400,"height":185,"color":"2"},
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":260,"y":388,"width":440,"height":56,"color":"2"},
-		{"id":"813f632c1385de6d","x":-3108,"y":984,"width":400,"height":174,"color":"6","type":"file","file":"2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"},
-		{"id":"6597184fe4d4e728","x":-2636,"y":1016,"width":400,"height":142,"color":"6","type":"file","file":"2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md"},
+		{"id":"813f632c1385de6d","x":-3108,"y":984,"width":400,"height":174,"color":"6","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"},
+		{"id":"6597184fe4d4e728","x":-2636,"y":1016,"width":400,"height":142,"color":"6","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2312,"y":667,"width":400,"height":110,"color":"6"}
 	],
 	"edges":[
