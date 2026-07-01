@@ -29,7 +29,10 @@ To assess the feasibility of each scale of solution, the paper uses three indice
 | Carbon emission    | Bottom up LCA approach | Built from bottom up using life cycle inventory analysis. Uses coal as the default fuel for energy supply, rather than any other renewable options.                                                                                                                                                                                                                                 |
 The index base price of heating area for CDHS is based on [19]. While BHS is only based on the equipment costa and is area agnostic.
 
-Hydraulic imbalance occurs when the heating area of a single heating substation is too big. This is caused by irregular flow within the network 
+Hydraulic imbalance occurs when the heating area of a single heating substation is too big. This is caused by irregular flow within the network, and has always been a major factor in heating energy consumption. This can be fixed by 
+- Increasing the flow of heating,
+- improve average temperature of overall supply and return
+- Improve heat consum
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
