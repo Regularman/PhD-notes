@@ -37,11 +37,11 @@ The paper models hydraulic imbalance as a function of the SG, but how do you qua
 
 The cities and provinces they chose were 10-18.5$\degree$C below $0$.
 
-|                          | Hebei          | Heilongjiang |
-| ------------------------ | -------------- | ------------ |
-| Temperature              | $-10\degree C$ | $-1.         |
-| Heating area             |                |              |
-| Length of heating season |                |              |
+|                          | Hebei                 | Heilongjiang      |
+| ------------------------ | --------------------- | ----------------- |
+| Temperature              | $-10\degree C$        | $-18.5 \degree C$ |
+| Heating area             | $1.5 \times 10^5 m^2$ | $1.8 \times 10^5$ |
+| Length of heating season | 120 days              | 180 days          |
 
 ## Question
 
