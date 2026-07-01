@@ -32,7 +32,8 @@ The index base price of heating area for CDHS is based on [19]. While BHS is onl
 Hydraulic imbalance occurs when the heating area of a single heating substation is too big. This is caused by irregular flow within the network, and has always been a major factor in heating energy consumption. This can be fixed by 
 - Increasing the flow of heating,
 - improve average temperature of overall supply and return
-- Improve heat consum
+- Improve heat consumption and power consumption
+The paper models hydraulic imbalance as a function of the SG, but how do you quantify the actual level of ~={orange}hydraulic imbalance=~ in the system?
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
