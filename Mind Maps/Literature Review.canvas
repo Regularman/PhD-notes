@@ -44,17 +44,17 @@
 		{"id":"c44852c5b85257cc","type":"text","text":"# Viessmann\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1600,"y":-1284,"width":385,"height":50,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
 		{"id":"2352bd83f5699f28","x":-2674,"y":519,"width":314,"height":69,"color":"6","type":"text","text":"# ~={purple}Modelling Techniques=~\n"},
-		{"id":"813f632c1385de6d","x":-2822,"y":708,"width":400,"height":173,"color":"6","type":"file","file":"2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"},
 		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":-200,"y":871,"width":400,"height":178},
 		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":260,"y":871,"width":400,"height":89},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2304,"y":696,"width":400,"height":220,"color":"6"},
-		{"id":"6597184fe4d4e728","x":-1992,"y":978,"width":400,"height":142,"color":"6","type":"file","file":"2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md"},
 		{"id":"cc8c9ed595204327","x":-1746,"y":638,"width":400,"height":139,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md"},
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-782,"y":795,"width":452,"height":159,"color":"2"},
 		{"id":"e8a2bd3a6ba9418c","type":"text","text":"## *Droplet formation in suction pipe during loading change*\n\nDuring the ramp down of the heat pump, the saturation temperature increases above the wall temperature. This causes the condensation of droplets in the compressor and suction line walls. This is due to the increase in evaporation pressure in heat pump.\n- A small increase in evaporation temperature causes a large increase in saturation temperature\n\nThe change with evaporation pressure is due to the power uptake being the proportional to the condensation pressure.\n![[Screenshot 2026-06-15 at 7.02.11 pm.png]]\n\nWe then consult the pressure temperature graph for the refrigerant. \n- Note that at higher pressures, the gradient of the saturation temperature is also lower.\n\nThe constraining of ramping rate of power uptake helps solves the issue\n\nFor other refrigerants, superheating the suction line might actually INCREASE the COP, and therefore not pose a significant issue to heat pump design.","x":-827,"y":1200,"width":422,"height":91,"color":"2"},
 		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria for peak shaving.md","x":-890,"y":211,"width":400,"height":177,"color":"2"},
 		{"id":"67cf763c7682bde8","type":"file","file":"PhD-notes/Literature Review/2024 - Research on Strategies for Air-Source Heat Pump Load Aggregation to participate in Multi-Scenario Demand Response.md","x":-1490,"y":51,"width":400,"height":185,"color":"2"},
-		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":260,"y":388,"width":440,"height":56,"color":"2"}
+		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":260,"y":388,"width":440,"height":56,"color":"2"},
+		{"id":"813f632c1385de6d","x":-3108,"y":984,"width":400,"height":174,"color":"6","type":"file","file":"2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"},
+		{"id":"6597184fe4d4e728","x":-2636,"y":1016,"width":400,"height":142,"color":"6","type":"file","file":"2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -102,6 +102,6 @@
 		{"id":"e5a5e454b9abfbe3","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"top"},
 		{"id":"0d9351e4fedbd59f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"2352bd83f5699f28","toSide":"top"},
 		{"id":"1ac90e6114e5eb00","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"813f632c1385de6d","toSide":"top"},
-		{"id":"da8080282bb36aab","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"6597184fe4d4e728","toSide":"top"}
+		{"id":"88cdea4855f2edae","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"6597184fe4d4e728","toSide":"top"}
 	]
 }
