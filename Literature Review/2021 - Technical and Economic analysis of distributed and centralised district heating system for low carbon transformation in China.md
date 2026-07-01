@@ -57,6 +57,7 @@ Ultimately quantified the heat consumption saving using W/$m^2$
 
 1. Uses coal as the main fuel source.
 2. Does not consider the length of the pipe network to be a consideration.
+3. Does not quantify the effect of hydraulic imbalance in the network
 
 ## Further Readings
 
