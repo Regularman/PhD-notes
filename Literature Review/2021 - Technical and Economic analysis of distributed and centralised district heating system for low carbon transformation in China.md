@@ -3,13 +3,14 @@ https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&ar
 
 ## Contributions
 
-Reviews current studies in distributed versus region level district heating. The paper then proposes a comparison of district heating substation and building wise substation in terms of 
+Reviews current studies in distributed versus region level district heating. The paper then proposes a comparison of district heating substation and building wise substation and household wise heating stations in terms of 
 - economic
 - energy
 - carbon emissions
 Under a range of heating areas based on 2 real heating systems in Northern China
 
-This idea of system sizing is termed Substation Granularity (SG) $$SG=\frac{\text{Total Heating Area}}{\text{Heati}}$$
+This idea of system sizing is termed Substation Granularity (SG) $$SG=\frac{\text{Total Heating Area}}{\text{Heating Substation Area}}$$
+
 ## Content
 
 Annual cost is lower in selected case under BHS compared to CDHS
