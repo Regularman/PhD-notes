@@ -28,6 +28,8 @@ To assess the feasibility of each scale of solution, the paper uses three indice
 | Energy consumption |                        | Splits into the heat consumption, power consumption, and water consumption index calculated in (consumption/$m^2$). Heat loss is related to heat dissipation and hydraulic imbalance of the pipe network. Water consumption is related to the water supplement level and the circulating flow of the pipe netowrk. Power consumption is related to circulating water and pump head. |
 | Carbon emission    | Bottom up LCA approach | Built from bottom up using life cycle inventory analysis. Uses coal as the default fuel for energy supply, rather than any other renewable options.                                                                                                                                                                                                                                 |
 The index base price of heating area for CDHS is based on [19]. While BHS is only based on the equipment costa and is area agnostic.
+
+Hydraulic imbalance occurs when the heating area of a single heating substation is too big. This is caused by irregular flow within the network 
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
