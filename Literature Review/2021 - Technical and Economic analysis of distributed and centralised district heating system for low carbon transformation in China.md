@@ -42,7 +42,7 @@ The cities and provinces they chose were 10-18.5$\degree$C below $0$.
 | Temperature              | $-10\degree C$        | $-18.5 \degree C$ |
 | Heating area             | $1.5 \times 10^5 m^2$ | $1.8 \times 10^5$ |
 | Length of heating season | 120 days              | 180 days          |
-Ultimately showed that BHS has a lower consumption index compared to centralised district heating systems. However, this does not account for the pipe netwo
+Ultimately showed that BHS has a lower consumption index compared to centralised district heating systems. However, this does not account for the pipe networks and use linearly extrapolated data.
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
