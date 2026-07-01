@@ -19,7 +19,7 @@ Annual cost is lower in selected case under BHS compared to CDHS.
 - BHS is more nordic. The primary network connects directly to intelligent buildings and heats the users through heat exchange substations
 - HHS is one heating substation per household, used predominantly in Germany and Denmark
 
-To find the temperature of any node in the heating network, we can use the equation provided in the paper, which is sourced from [22]
+To find the temperature of any node in the heating network, we can use the equation provided in the paper, which is sourced from [22]. Note that the temperature of each node is is dependent on the surface heat dissipation coefficient of the radiator, which changes based on temperature. This needs to be solved iteratively.
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
