@@ -44,6 +44,6 @@ However, in the results, the paper DOES NOT show how they optimised the technolo
 Grid temperature is assumed to be constant
 ## Further Readings
 
-[5] [6] [7] Real world integration fo district heating networks
+[5] [6] [7] Real world integration of district heating networks
 [8] [9] [10] Energy savings, economic advantage, and renewable energy integration in a multi-energy system approach.
 [11] describes the multi-criteria optimisation framework used in this study
