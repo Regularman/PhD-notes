@@ -39,7 +39,7 @@ The index base price of heating area for CDHS is based on [19]. While BHS is onl
 ## Limitation
 
 1. Uses coal as the main fuel source.
-2. Does not consider the 
+2. Does not consider the length of the pipe network to be a consideration.
 
 ## Further Readings
 
