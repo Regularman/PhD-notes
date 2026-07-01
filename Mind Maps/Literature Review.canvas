@@ -50,10 +50,11 @@
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
 		{"id":"2352bd83f5699f28","x":-2674,"y":519,"width":314,"height":69,"color":"6","type":"text","text":"# ~={purple}Modelling Techniques=~\n"},
 		{"id":"813f632c1385de6d","x":-2822,"y":708,"width":400,"height":173,"color":"6","type":"file","file":"2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md"},
-		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2312,"y":881,"width":400,"height":220,"color":"6"},
-		{"id":"cc8c9ed595204327","x":-1890,"y":772,"width":400,"height":188,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md"},
 		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":-200,"y":871,"width":400,"height":89},
-		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":260,"y":871,"width":400,"height":89}
+		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":260,"y":871,"width":400,"height":89},
+		{"id":"6597184fe4d4e728","x":-1882,"y":959,"width":400,"height":142,"color":"6","type":"file","file":"2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md"},
+		{"id":"cc8c9ed595204327","x":-1882,"y":461,"width":400,"height":235,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md"},
+		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2304,"y":696,"width":400,"height":220,"color":"6"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -100,6 +101,7 @@
 		{"id":"898e0d9ec44b9d2f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"670df2149b5006fa","toSide":"top"},
 		{"id":"e5a5e454b9abfbe3","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"top"},
 		{"id":"0d9351e4fedbd59f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"2352bd83f5699f28","toSide":"top"},
-		{"id":"1ac90e6114e5eb00","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"813f632c1385de6d","toSide":"top"}
+		{"id":"1ac90e6114e5eb00","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"813f632c1385de6d","toSide":"top"},
+		{"id":"da8080282bb36aab","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"6597184fe4d4e728","toSide":"top"}
 	]
 }
