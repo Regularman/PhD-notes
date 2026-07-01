@@ -43,13 +43,15 @@ The cities and provinces they chose were 10-18.5$\degree$C below $0$.
 | Heating area             | $1.5 \times 10^5 m^2$ | $1.8 \times 10^5$ |
 | Length of heating season | 120 days              | 180 days          |
 Ultimately showed that BHS has a lower consumption index compared to centralised district heating systems. However, this does not account for the pipe networks and use linearly extrapolated data.
+
+Ultimately quantified the heat consumption saving using W/$m^2$ 
 ## Question
 
 1. ~={green}Would be interesting to also look at base case (do nothing), district heating, and centralised heating.=~
 2. Over the past decade, Chinese district heating has grown by 13% p.a, reaching 11 billion square meters by the end of 2019.
 	- ~={green}What has the impact of this been? =~Paper cited problems with low heating efficiency, high hydraulic imbalance rate, and serious heat waste. This is compounded by complex pipelines, serious water loss, and high power consumption
 3. What is the difference between 4th and 5th generation district heating and cooling systems?
-4. ~={green}How does different heating behaviour affect the system?=~
+4. ~={green}How does different heating behaviour affect the system? How about different load profiles?=~ The study only looked at resi
 
 ## Limitation
 
