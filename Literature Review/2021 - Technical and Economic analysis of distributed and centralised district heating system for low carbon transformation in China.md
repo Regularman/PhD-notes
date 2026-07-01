@@ -9,7 +9,9 @@ Reviews current studies in distributed versus region level district heating. The
 - carbon emissions
 Under a range of heating areas based on 2 real heating systems in Northern China
 
-This idea of system sizing is termed Substation Granularity (SG) $$SG=\frac{\text{Total Heating Area}}{\text{Heating Substation Area}}$$## Content
+This idea of system sizing is termed Substation Granularity (SG) $$SG=\frac{\text{Total Heating Area}}{\text{Heating Substation Area}}$$
+
+## Content
 
 Annual cost is lower in selected case under BHS compared to CDHS.
 
