@@ -56,7 +56,7 @@
 		{"id":"0f24fc6f0fc487c1","x":-1935,"y":847,"width":334,"height":124,"color":"6","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-1818,"y":555,"width":400,"height":197,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-1401,"y":555,"width":400,"height":197,"color":"6"},
-		{"id":"1b5b85ef57710e6e","x":-1880,"y":1380,"width":400,"height":147,"color":"6","type":"file","file":"2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md"}
+		{"id":"1b5b85ef57710e6e","x":-1880,"y":1380,"width":400,"height":147,"color":"6","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
