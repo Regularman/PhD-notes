@@ -8,10 +8,8 @@
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1546,"y":-592,"width":400,"height":192,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":158,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2874,"y":-298,"width":400,"height":79,"color":"3"},
-		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3949,"y":-1440,"width":480,"height":600,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-3709,"y":-1720,"width":371,"height":108,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3269,"y":-1408,"width":400,"height":106,"color":"4"},
-		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3580,"y":-1748,"width":400,"height":739,"color":"4"},
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-4354,"y":-2160,"width":454,"height":146,"color":"4"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2065,"y":-2160,"width":400,"height":193,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
@@ -54,7 +52,9 @@
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md","x":-3108,"y":984,"width":400,"height":174,"color":"6"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2636,"y":1016,"width":400,"height":142,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-2312,"y":667,"width":400,"height":110,"color":"6"},
-		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3669,"y":-2135,"width":1169,"height":830,"color":"4"}
+		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3100,"y":-1845,"width":400,"height":97,"color":"4"},
+		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3709,"y":-1343,"width":400,"height":82,"color":"4"},
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3818,"y":-1520,"width":480,"height":80,"color":"4"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
