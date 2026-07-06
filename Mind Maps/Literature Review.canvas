@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":353,"height":151,"color":"3"},
+		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":575,"height":151,"color":"3"},
 		{"id":"58b7394b2271650b","type":"text","text":"# *~={yellow}Industrial Applications=~*","x":-3017,"y":-808,"width":343,"height":56,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3275,"y":-635,"width":515,"height":186,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":128,"color":"3"},
@@ -56,7 +56,7 @@
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-1401,"y":555,"width":400,"height":197,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-1880,"y":1380,"width":400,"height":147,"color":"6"},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1701,"y":-552,"width":400,"height":172,"color":"3"},
-		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Carribeans.md","x":-3767,"y":-542,"width":435,"height":372,"color":"3"}
+		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":435,"height":372,"color":"3"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
