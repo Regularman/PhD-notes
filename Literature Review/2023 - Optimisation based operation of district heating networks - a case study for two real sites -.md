@@ -90,12 +90,14 @@ Considers in-depth constraint models for each of the technology
 
 DH1 - The final results shows that the power-to-heat system can only be operated in limited extent. (Only feasible when the day-ahead pricing is -1.157 cents/kWh). And the biomass burner takes most of the heating demand.
 
-DH2 - graph only shows the average power, would be interested to see what happens during black swan events? With the increase in electricity prices in 2022, the gas portion of the energy system increased, and the biomass and wind generation became less volatile. The high electricity prices led to a lower usage of the heat p
+DH2 - graph only shows the average power, would be interested to see what happens during black swan events? With the increase in electricity prices in 2022, the gas portion of the energy system increased, and the biomass and wind generation became less volatile. The high electricity prices led to a lower usage of the heat pumps. This is displaced by gas and biomass.
+
 ![[Screenshot 2026-07-06 161813.png]]
 ## Limitations
 
 - Does not show the optimisation of size and technology
 - Does not consider different demand profiles, although limitation/constraints are naturally represented through the residential heating demand of the network.
+- Would be interesting to look at black swan events in the final analysis.
 ## Questions
 
 ## Further Readings
