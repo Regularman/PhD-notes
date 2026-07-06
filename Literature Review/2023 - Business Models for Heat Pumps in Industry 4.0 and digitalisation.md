@@ -45,7 +45,8 @@ It should be noted that more IoT devices and digitalisation can lead to longer c
 In terms of flexibility aggregation, who is responsible for the frequency deviations?
 
 From the grid perspective, there are concerns of complex dynamics due to regeneration phases after the disconnection of grid connected heat pumps.
-- When the penetration of heat pumps is high, they can be a risk to the power system (see sweden)
+- When the penetration of heat pumps is high, they can be a risk to the power system (see Sweden)
+- Furthermore, heat pumps will use more electricity when being controlled.
 ## Further Readings
 
 Energie Burgenland for integrated wind with district heating in Austria
