@@ -50,7 +50,10 @@ The heating profile of the district heating plant has a maximum heat demand of 4
 ### DH 2: Wind integrated district heating network
 
 The district heating network in Neusiedl is originally consisting of a Biomass Plant and a gas boiler, which both fed the DHN via a buffer. 
-- Directly connected to the DHN via a local wind farm with 30MW peak powert
+- Directly connected to the DHN via a local wind farm with 30MW peak power
+- HP cascade consisting of 2x air to water and 2x water to water heat pumps, which feeds into a buffer (power comes from the wind park.)
+
+A flue gas condenser was also added to the BMP
 ## Limitations
 
 ## Questions
