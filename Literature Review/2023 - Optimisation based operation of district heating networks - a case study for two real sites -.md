@@ -22,7 +22,7 @@ Ultimately analysis shows that a reduction in fossil fuel based energy can be ac
 Mixed Integer Linear Programming is used to model the two District Heating network under consideration. The paper is interested in the economic efficiencies of a power to heat system.
 - Additionally, increased electricity and gas prices from 2022 (due to the Ukraine crisis) is also considered to account for sensitivities.
 
-The study was inspired by the instability caused by the Russo-Ukraine war and covid 19
+The study was inspired by the instability caused by the Russo-Ukraine war and covid 19. The 2-3x increase in electricity production price had lead on effects to heat production. Gas prices also increased by a factor of 7.5 from 2019, and 1.3 by biomass
 ## Content
 
 Sector coupling is an important concept in the European Green Deal. This is where power industry also helps with heat production to achieve efficiencies.
