@@ -12,6 +12,8 @@ As a result, there was
 - 2% optimisation in the DH system to reduce losses
 
 As part of the project, Energie Burgenland developed wind to heat models, and a business model for wind to hydrogen.
+
+The whole prohect was 1.28 million euros and lasted from 2019-2023.
 ## Contribution
 
 This paper investigate the effects of integration of intermittent wind energy via a direct cable (which reduces the grid usage fee) or a boiler powered by biomass. There are also 2x water to water heat pumps and 2x air to water heat pumps.

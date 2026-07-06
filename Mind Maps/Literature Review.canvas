@@ -58,7 +58,7 @@
 		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":1260,"y":377,"width":400,"height":89},
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":1260,"y":146,"width":440,"height":56,"color":"2"},
 		{"id":"fda52721f32fcb2f","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md","x":800,"y":85,"width":400,"height":216,"color":"2"},
-		{"id":"cbb07725c283369d","x":-1418,"y":1363,"width":400,"height":164,"color":"6","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites -.md"}
+		{"id":"cbb07725c283369d","x":-1418,"y":1363,"width":400,"height":757,"color":"6","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites -.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
