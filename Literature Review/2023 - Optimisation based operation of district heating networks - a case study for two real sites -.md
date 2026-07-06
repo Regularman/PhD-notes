@@ -60,6 +60,12 @@ In the summer, they would turn the BMP off, and use ambient air to heat up a "co
 In the winter, the cold storage tank is supplied by the flue gas condensor of the BMP. Gas boiler is used as a backup system, predetermined by the operator.
 
 ![[Screenshot 2026-07-06 160222.png]]
+
+- BMP had a power limit of 520kW to 2600kW. 
+- The maximum change in power is 780kW
+- biomass price is 4 cents / kWh
+- Electricity prices from Jan 2019 to December 2019 from the day ahead market
+- The gas boiler is 3.9MW with an e
 ## Limitations
 
 ## Questions
