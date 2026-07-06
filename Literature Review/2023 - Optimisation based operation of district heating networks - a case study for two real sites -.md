@@ -90,7 +90,7 @@ Considers in-depth constraint models for each of the technology
 
 DH1 - The final results shows that the power-to-heat system can only be operated in limited extent. (Only feasible when the day-ahead pricing is -1.157 cents/kWh). And the biomass burner takes most of the heating demand.
 
-DH2 - 
+DH2 - graph only shows the average power, would be interested to see what happens during black swan events? With the 
 ![[Screenshot 2026-07-06 161813.png]]
 ## Limitations
 
