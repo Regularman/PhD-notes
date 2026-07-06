@@ -21,7 +21,7 @@ Examples of companies that offer heat-pump related ancillary services are
 Highlights that market integration of flexibility services will still have to be proven 
 ### HaaS Examples
 
-[8] Austrian Utility Kelay Energie & Warme operates a large number of district heating grids and decentralised heat stations in Austria.
+[8] Austrian Utility Kelag Energie & Warme operates a large number of district heating grids and decentralised heat stations in Austria.
 Look at [9] for example where heat pump is installed to recover waste heat from fermentation and provide heat for residential area.
 
 Aeno provides Energy as a Service agreement for steam production guaranteeing annual operation and uptime to the consumers [10]
