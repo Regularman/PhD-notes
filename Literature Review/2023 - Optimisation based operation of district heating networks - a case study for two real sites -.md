@@ -104,7 +104,7 @@ DH2 - graph only shows the average power, would be interested to see what happen
 - What happens when there are sudden changes in temperatures (can we model that to look at the instability of demand compared to the grid?)
 	- Integration of the FPP equation into the MILP equation?
 
-Ultimately, the paper does not show the business case for somone coming in to
+Ultimately, the paper does not show the business case for somone coming in to install the transmission lines or BTM assets.
 ## Questions
 
 ## Further Readings

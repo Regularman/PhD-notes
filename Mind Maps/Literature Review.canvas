@@ -42,7 +42,6 @@
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":467,"height":162,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3172,"y":-473,"width":515,"height":186,"color":"3"},
-		{"id":"73d1cb01cf1bb285","type":"text","text":"# Energie Burgenland \n\nProject in Austria. \n\nExisting infrastructure of a district heating network and biomass bouler was extracted by direct line to the nearby wind park, battery storage and 4 heat pumps. Used flue gas from biomass boiler and air as a heat source","x":-1574,"y":1135,"width":347,"height":131},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1992,"y":-600,"width":400,"height":172,"color":"3"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *~={yellow}Economic modelling and feasibility of low carbon heat=~*","x":-1971,"y":-1102,"width":353,"height":109,"color":"3"},
 		{"id":"f7941ba914721902","type":"text","text":"# ~={orange}Industry 4.0=~","x":-785,"y":-1175,"width":250,"height":50,"color":"2"},
@@ -58,7 +57,8 @@
 		{"id":"c5ed5e8c19d88327","type":"file","file":"PhD-notes/Literature Review/2014 - Aggregation and Control of flexible consumers - A real life demonstration.md","x":800,"y":377,"width":400,"height":178},
 		{"id":"cd191c3af19fb78a","type":"file","file":"PhD-notes/Literature Review/2023 - Flexible Energy Denmark.md","x":1260,"y":377,"width":400,"height":89},
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":1260,"y":146,"width":440,"height":56,"color":"2"},
-		{"id":"fda52721f32fcb2f","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md","x":800,"y":85,"width":400,"height":216,"color":"2"}
+		{"id":"fda52721f32fcb2f","type":"file","file":"PhD-notes/Literature Review/2022 - Flex+ demonstration project from AIT.md","x":800,"y":85,"width":400,"height":216,"color":"2"},
+		{"id":"cbb07725c283369d","x":-1418,"y":1363,"width":400,"height":164,"color":"6","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites -.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -109,8 +109,8 @@
 		{"id":"286dedfdfd39866c","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"0f24fc6f0fc487c1","toSide":"top"},
 		{"id":"9b683213b6a1bb28","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"1b5b85ef57710e6e","toSide":"top"},
 		{"id":"84c7b1e2b9b471b8","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"top"},
-		{"id":"99148fffbc5b7e94","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"73d1cb01cf1bb285","toSide":"top"},
 		{"id":"9230d5ab62420026","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"e6b80da1d51c4c03","toSide":"top"},
-		{"id":"30d01f2f04666e2c","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b80da1d51c4c03","toSide":"top"}
+		{"id":"30d01f2f04666e2c","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b80da1d51c4c03","toSide":"top"},
+		{"id":"db7c228a8be3c72c","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"cbb07725c283369d","toSide":"top"}
 	]
 }
