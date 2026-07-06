@@ -81,7 +81,7 @@ MILP was chosen and implemented with an object orientated approach. Some options
 #### Assumptions
 
 - No storage losses as storage is not designed to be inter-day
-- The 
+- The state of charge is calculated using the specific heat capacity, the volume and the temperature difference witht eh ambient
 
 
 ## Limitations
