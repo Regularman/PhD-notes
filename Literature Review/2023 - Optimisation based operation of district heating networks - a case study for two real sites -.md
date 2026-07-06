@@ -21,13 +21,15 @@ Ultimately analysis shows that a reduction in fossil fuel based energy can be ac
 
 Mixed Integer Linear Programming is used to model the two District Heating network under consideration. The paper is interested in the economic efficiencies of a power to heat system.
 - Additionally, increased electricity and gas prices from 2022 (due to the Ukraine crisis) is also considered to account for sensitivities.
+
+The study was inspired by the instability caused by the Russo-Ukraine war and covid 19
 ## Content
 
 Sector coupling is an important concept in the European Green Deal. This is where power industry also helps with heat production to achieve efficiencies.
 
 Note that there are already many existing research on combined heat and power systems. 
 
-## DH 1 - Biomas burner
+### DH 1 - Biomas burner
 
 Located in Oberwart with a biomass plant which feeds a district heating network via a heat storage unit. The plant is extended by a boiler to the local public grid with additional grid feeds
 
@@ -69,7 +71,7 @@ In the winter, the cold storage tank is supplied by the flue gas condensor of th
 - The maximum capacity of the buffer is 300$m^2$
 - Heat pumps have a maximum thermal power of 2MW-th 
 
-The network has a max demand of 5290kW, with an average load of 1706.43kW and a standard deviaito
+The network has a max demand of 5290kW, with an average load of 1706.43kW and a standard deviation of 1091.61 kW.
 ## Limitations
 
 ## Questions
