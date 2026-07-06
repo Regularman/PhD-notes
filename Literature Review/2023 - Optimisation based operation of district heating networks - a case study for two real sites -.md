@@ -86,6 +86,9 @@ MILP was chosen and implemented with an object orientated approach. Some options
 
 Considers in-depth constraint models for each of the technology
 
+### Results
+
+The final results shows that the power-to-heat system can only be operated in limited extent
 
 ## Limitations
 
