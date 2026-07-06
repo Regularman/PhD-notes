@@ -65,7 +65,11 @@ In the winter, the cold storage tank is supplied by the flue gas condensor of th
 - The maximum change in power is 780kW
 - biomass price is 4 cents / kWh
 - Electricity prices from Jan 2019 to December 2019 from the day ahead market
-- The gas boiler is 3.9MW with an e
+- The gas boiler is 3.9MW with an efficiency of 93%. The gas price is assumed to be 15 cents/kWh
+- The maximum capacity of the buffer is 300$m^2$
+- Heat pumps have a maximum thermal power of 2MW-th 
+
+The network has a max demand of 5290kW, with an average load of 1706.43kW and a standard deviaito
 ## Limitations
 
 ## Questions
