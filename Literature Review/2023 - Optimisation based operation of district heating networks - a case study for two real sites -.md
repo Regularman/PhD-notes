@@ -98,6 +98,7 @@ DH2 - graph only shows the average power, would be interested to see what happen
 - Does not show the optimisation of size and technology
 - Does not consider different demand profiles, although limitation/constraints are naturally represented through the residential heating demand of the network.
 - Would be interesting to look at black swan events in the final analysis.
+- You can also look at the installation of a PV plant and how that affects the system. (behind the meter PV plant can be more efficient)
 ## Questions
 
 ## Further Readings
