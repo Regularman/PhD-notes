@@ -54,6 +54,8 @@ The district heating network in Neusiedl is originally consisting of a Biomass P
 - HP cascade consisting of 2x air to water and 2x water to water heat pumps, which feeds into a buffer (power comes from the wind park.)
 
 A flue gas condenser was also added to the BMP
+
+In the winter, they would turn the BMP off, and use ambient air to heat up a "cold" storage tank. This is then used for a water sourced heat pump that feeds directly into the hot storage tank. The cold storage tank is supplied by the flue gas condensor of the 
 ## Limitations
 
 ## Questions
