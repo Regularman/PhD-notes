@@ -100,7 +100,8 @@ DH2 - graph only shows the average power, would be interested to see what happen
 - Would be interesting to look at black swan events in the final analysis.
 - You can also look at the installation of a PV plant and how that affects the system. (behind the meter PV plant can be more efficient). 
 	- This study does not look at the installation of BTM systems.
-- The study doe
+- The study does not show the climate and emission impacts
+- What happens when there are sudden changes in
 ## Questions
 
 ## Further Readings
