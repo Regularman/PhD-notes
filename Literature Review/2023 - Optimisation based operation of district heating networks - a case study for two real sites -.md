@@ -90,6 +90,7 @@ Considers in-depth constraint models for each of the technology
 ## Limitations
 
 - Does not show the optimisation of size and technology
+- Does not consider different demand profiles, although limitation/constraints are naturally represented through the residential heating demand of the network.
 ## Questions
 
 ## Further Readings
