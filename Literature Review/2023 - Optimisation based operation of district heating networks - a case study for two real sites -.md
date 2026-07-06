@@ -80,7 +80,8 @@ MILP was chosen and implemented with an object orientated approach. Some options
 - solves for the lowest opex operation in discrete time components.
 #### Assumptions
 
--
+- No storage losses as storage is not designed to be inter-day
+- The 
 
 
 ## Limitations
