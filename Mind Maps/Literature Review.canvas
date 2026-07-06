@@ -58,7 +58,7 @@
 		{"id":"f7941ba914721902","type":"text","text":"# ~={orange}Industry 4.0=~","x":-785,"y":-1175,"width":250,"height":50,"color":"2"},
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *~={orange}Using low carbon heat for ancillary services and demand management*=~","x":-660,"y":-600,"width":371,"height":120,"color":"2"},
 		{"id":"c8c213062d86c1e4","type":"file","file":"PhD-notes/Literature Review/2024 - IEA report - Digitalisation and IoT for heat pumps.md","x":-1185,"y":-964,"width":400,"height":84,"color":"2"},
-		{"id":"e6b80da1d51c4c03","x":-1418,"y":-718,"width":400,"height":134,"color":"2","type":"file","file":"2023 - Business Models for Heat Pumps in Industry 4.0 and digitalisation.md"}
+		{"id":"e6b80da1d51c4c03","x":-1418,"y":-718,"width":400,"height":134,"color":"2","type":"file","file":"PhD-notes/Literature Review/2023 - Business Models for Heat Pumps in Industry 4.0 and digitalisation.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
