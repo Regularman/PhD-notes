@@ -57,7 +57,8 @@
 		{"id":"324e29a4f61a1423","x":-343,"y":-227,"width":483,"height":219,"type":"text","text":"# Heat as a Service using IoT"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3172,"y":-473,"width":515,"height":186,"color":"3"},
-		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":260,"y":640,"width":440,"height":56,"color":"2"}
+		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions\n","x":260,"y":640,"width":440,"height":56,"color":"2"},
+		{"id":"73d1cb01cf1bb285","x":-1574,"y":1135,"width":347,"height":131,"type":"text","text":"# Energie Burgenland \nExisting infrastructure of a district heating network and biomass bouler was extracted by direct line to the nearby wind park, battery storage and 4 heat pumps. Used flue gas from biomass boiler and air as a heat source"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -108,6 +109,7 @@
 		{"id":"286dedfdfd39866c","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"0f24fc6f0fc487c1","toSide":"top"},
 		{"id":"9b683213b6a1bb28","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"1b5b85ef57710e6e","toSide":"top"},
 		{"id":"84c7b1e2b9b471b8","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"top"},
-		{"id":"d4637859531231b9","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"324e29a4f61a1423","toSide":"top"}
+		{"id":"d4637859531231b9","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"324e29a4f61a1423","toSide":"top"},
+		{"id":"99148fffbc5b7e94","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"73d1cb01cf1bb285","toSide":"top"}
 	]
 }
