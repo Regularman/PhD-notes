@@ -40,7 +40,11 @@ Includes SWOT analysis for different business models across all stakeholders inv
 - Preventative maintenance business model
 - HaaS
 
-It should be noted that more IoT devices and digitalisation can lead to longer commissioning times. (Additional )
+It should be noted that more IoT devices and digitalisation can lead to longer commissioning times. (Additional IoTs also increases fault potential.)
+
+In terms of flexibility aggregation, who is responsible for the frequency deviations?
+
+From the grid perspective, there are concerns of complex dynamics 
 ## Further Readings
 
 Energie Burgenland for integrated wind with district heating in Austria
