@@ -55,7 +55,11 @@ The district heating network in Neusiedl is originally consisting of a Biomass P
 
 A flue gas condenser was also added to the BMP
 
-In the winter, they would turn the BMP off, and use ambient air to heat up a "cold" storage tank. This is then used for a water sourced heat pump that feeds directly into the hot storage tank. The cold storage tank is supplied by the flue gas condensor of the 
+In the summer, they would turn the BMP off, and use ambient air to heat up a "cold" storage tank. This is then used for a water sourced heat pump that feeds directly into the hot storage tank. 
+
+In the winter, the cold storage tank is supplied by the flue gas condensor of the BMP. Gas boiler is used as a backup system, predetermined by the operator.
+
+![[Screenshot 2026-07-06 160222.png]]
 ## Limitations
 
 ## Questions
