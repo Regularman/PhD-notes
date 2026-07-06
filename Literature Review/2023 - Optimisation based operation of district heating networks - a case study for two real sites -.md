@@ -77,9 +77,15 @@ The network has a max demand of 5290kW, with an average load of 1706.43kW and a 
 
 MILP was chosen and implemented with an object orientated approach. Some options for this in python is Pyomo. Another option might be the Oemof framework. However, they implemented their own ESMAS framework.
 - Constraint equations for energy balance/conservation
-- solves for the lowest opex
+- solves for the lowest opex operation in discrete time components.
+#### Assumptions
+
+-
+
+
 ## Limitations
 
+- Does not show the optimisation of size and technology
 ## Questions
 
 ## Further Readings
