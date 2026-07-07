@@ -15,3 +15,6 @@ Process of the beer process was simulated with DWSIM which is a chemical process
 
 Representing demand at an hourly resolution lead to substantial computational burden. K-mean clustering algorithm was used to aggregate the demand profiles into 15 representative operating points distributed across the year. The clusters had a silhouette score of 0.73, showing good separation.
 
+- Assumes constant energy requirements
+- 
+
