@@ -4,7 +4,7 @@ Report
 
 Energy System catapult conducted a series of trials to determine the value proposition for Heat as a Service. This document will summarise those attempts. Relevant information are also posted on the industry case study worksheet.
 
-In October 2017 to June 2018, each of 108 household received smart heat control that can control the temperature of individual room through a web based server.
+In October 2017 to June 2018, each of 108 household in the living lab received smart heat control that can control the temperature of individual room through a web based server.
 - Spring 2018, households were introduced to HaaS with three possible Heat Plans
 
 https://es.catapult.org.uk/what-we-do/living-lab/
