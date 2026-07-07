@@ -11,5 +11,5 @@ This highlights the significant potential for cross sectoral heat integration be
 There was also a carbon negative solution in which it was economically feasible to capture biogenic $CO_2$
 ## Content
 
-Starts off with 
+
 
