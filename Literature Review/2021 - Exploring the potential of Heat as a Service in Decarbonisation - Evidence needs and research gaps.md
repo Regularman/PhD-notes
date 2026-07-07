@@ -67,12 +67,14 @@ The key consumer risk for EaaS are
 Complex energy markets needs to be simplified to enable access to low carbon technologies and enable demand response.
 ### Workshop
 
-| Questions                                             | Consumer | Policy | Technology | Business Models |
-| ----------------------------------------------------- | -------- | ------ | ---------- | --------------- |
-| What work has already been done in HaaS               |          |        |            |                 |
-| What are the ambitions and opportunities for HaaS     |          |        |            |                 |
-| What are the barriers and knowledge gaps              |          |        |            |                 |
-| How can these barriers and knowledge gaps be overcome |          |        |            |                 |
+We can have a framework such as this to look at the current literature review
+
+| Questions                                             | Consumer        | Policy | Technology | Business Models |
+| ----------------------------------------------------- | --------------- | ------ | ---------- | --------------- |
+| What work has already been done in HaaS               | ESC found that  |        |            |                 |
+| What are the ambitions and opportunities for HaaS     |                 |        |            |                 |
+| What are the barriers and knowledge gaps              |                 |        |            |                 |
+| How can these barriers and knowledge gaps be overcome |                 |        |            |                 |
 
 ## Questions
 
@@ -81,5 +83,5 @@ Complex energy markets needs to be simplified to enable access to low carbon tec
 Need to update this review to a 2026 version. We need a concise, exhaustive list of HaaS case studies and operations.
 ## Further Reading
 
-Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
+Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report. a through to e should be viewed
 
