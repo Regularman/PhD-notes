@@ -22,6 +22,7 @@ Where thermal demand is the basic services. Current research also expands to met
 ### Academic literature on HaaS
 
 There are relatively limited references to academic literature on HaaS. However, energy as a service is a much broader topic (with 13,000 documents)
+- Energy Service Companies (ESCos) that contract with large public and private sector consumers to supply energy services rather than billing directly for energy used ~={green}(e.g. Capelo, Ferreira Dias, and Pereira 2018; Hannon and Bolton 2015; Lombardi, Pazienza, and Rana 2016);=~
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
