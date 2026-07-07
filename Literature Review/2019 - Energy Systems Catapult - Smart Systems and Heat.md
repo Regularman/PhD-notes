@@ -22,6 +22,10 @@ As a result of the SSH, there are more HaaS and heat plans that are being offere
 - EDF energy launched a low carbon, hybrid heating offering
 - Baxi trialled heat as a service
 - Brigend Country Borough Council$\rightarrow$ developed a street by street Local Area Energy Precinct and found that decarbonisation of heat can be achieved at a 15% cost premium above the cost of decarbonising electricity alone.
+
+### Consumer insights
+
+Consumers were unable to 
 ## AmpX 
 
 ## Sunlab
