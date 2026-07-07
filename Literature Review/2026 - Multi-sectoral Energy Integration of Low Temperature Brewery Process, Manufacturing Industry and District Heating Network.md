@@ -19,4 +19,5 @@ Representing demand at an hourly resolution lead to substantial computational bu
 - Some heating and cooling demand is supplied for heat pumps operating at different temperature levels.
 
 The paper proposes that the waste heat from the brewery can connect directly to the manufacturing industry or to the district heating network.
+- The author creates a utility super structure built around the brewery to capture by products such as dregs, sludge, and 
 
