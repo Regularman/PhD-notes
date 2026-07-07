@@ -11,4 +11,5 @@ The results addressed issues between consumer-supplier trust, supportive policie
 
 In 2017-2018, emissions from residential heating increased by 3.8% between 2017-2018 despite
 - EU Heating and cooling strategy that provides framework for improving heating efficiency
-- EU Renewable energy directive, which sets an annual target of 1
+- EU Renewable energy directive, which sets an annual target of 1.3% increase in share of renewable per year from 2021-2030
+- UK's Renewable heat Incentive that subsidises the adoption of renewable heat technology.
