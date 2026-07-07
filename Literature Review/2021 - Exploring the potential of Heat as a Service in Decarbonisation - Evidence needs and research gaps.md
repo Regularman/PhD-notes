@@ -56,7 +56,6 @@ To properly think about the application of comfort, you will need extensive data
 - Performance of major appliances
 - Window usage
 - Consumption profiles
-### Consumer Risk
 
 Citizen Advice produced a key survey on consumer attitude toward
 The key consumer risk for EaaS are
@@ -66,6 +65,14 @@ The key consumer risk for EaaS are
 - Digital literacy
 
 Complex energy markets needs to be simplified to enable access to low carbon technologies and enable demand response.
+### Workshop
+
+| Questions                                         | Stakeholder views |
+| ------------------------------------------------- | ----------------- |
+| What work has already been done in HaaS           |                   |
+| What are the ambitions and opportunities for HaaS |                   |
+| What are the barriers and knowledge gaps          |                   |
+
 ## Questions
 
 ## Limitations
