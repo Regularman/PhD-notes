@@ -18,6 +18,8 @@ In October 2017 to June 2018, each of 108 household in the living lab received s
 As a result of the trialing heat as a service, those willing to switch to low carbon heating jumped up from 39 to 85%. 
 - There are a wide spectrum of consumers with varying involvement and interest in what heats their home
 
+As a result of the SSH, there are more HaaS and heat plans that are being offered by energy retailers
+- EDF energy launched a low carbon, hybrid heat
 ## AmpX 
 
 ## Sunlab
