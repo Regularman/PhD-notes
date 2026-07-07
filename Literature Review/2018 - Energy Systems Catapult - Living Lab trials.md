@@ -1,6 +1,4 @@
-https://esc-production-2021.s3.eu-west-2.amazonaws.com/2021/09/SSH2-Delivering-an-effective-field-trial-Lessons-from-the-Living-Lab.pdf
-
-Report
+[https://esc-production-2021.s3.eu-west-2.amazonaws.com/2021/09/SSH2-Delivering-an-effective-field-trial-Lessons-from-the-Living-Lab.pdf](https://es.catapult.org.uk/report/smart-systems-and-heat-phase-2-our-reports/)
 
 Energy System catapult conducted a series of trials to determine the value proposition for Heat as a Service. This document will summarise those attempts. Relevant information are also posted on the industry case study worksheet.
 
