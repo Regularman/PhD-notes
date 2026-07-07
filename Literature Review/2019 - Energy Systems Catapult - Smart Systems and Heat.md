@@ -35,7 +35,12 @@ To design a heat plan that people will use, it is important to
 
 ## Baxi Heating - Trial
 
-Offered 20 households in the living lab a heat plan using warm hours. The heat plan includes a replacement heating system bundled with servicing, maintenan
+Offered 20 households in the living lab a heat plan using warm hours. The heat plan includes a replacement heating system bundled with servicing, maintenance, and the energy needed to be comfortable. 
+
+- Out of the 20 households that was asked. 13 said they wanted to discuss the offer
+- 10 said they were enthusiastic
+- 1 accepted the offer and had their old, inefficient boiler replaced.
+Heat plan in bundled wtih
 
 ## Bristol Energy
 
