@@ -13,5 +13,5 @@ There was also a carbon negative solution in which it was economically feasible 
 
 Process of the beer process was simulated with DWSIM which is a chemical process simulator (free and open source), and process integration was performed with OSMOSE [8].
 
-Representing demand at an hourly resolution lead to substantial computational burden. K-mean clustering algorithm was used to aggregate the demand profiles into 15 representative operating points distribut
+Representing demand at an hourly resolution lead to substantial computational burden. K-mean clustering algorithm was used to aggregate the demand profiles into 15 representative operating points distributed across the year. The clusters had a silhouette score of 0.73, showing good separation.
 
