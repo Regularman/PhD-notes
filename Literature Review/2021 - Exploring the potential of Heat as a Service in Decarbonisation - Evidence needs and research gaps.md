@@ -18,6 +18,7 @@ In 2017-2018, emissions from residential heating increased by 3.8% between 2017-
 - EU Renewable energy directive, which sets an annual target of 1.3% increase in share of renewable per year from 2021-2030
 - UK's Renewable heat Incentive that subsidises the adoption of renewable heat technology.
 
+Where thermal demand is the basic services. Current research also expands to meta-services such as coziness and cleanliness.
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
