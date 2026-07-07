@@ -31,7 +31,7 @@ System configuration is optimised through OSMOSE, with technology selection bein
 Results are evaluated based on reduction in energy usage (efficiency) and reduction in carbon emissions. In the base system, heating requirements is met with natural gas, and the cooling requirement is met with cooling towers and refrigeration systems.
 #### Config 1 (full integration) vs config 2 (no integration)
 
-In the sensitivity analysis done, there were only two settings for carbon tax. Furthermore, self reliance is increased when the electricity price is the 
+In the sensitivity analysis done, there were only two settings for carbon tax. Furthermore, self reliance is increased when the electricity price is higher. This reduces the self reliance of the system as electric utilities are able to redistribute energy to meet both heating and cooling demand.
 
 Analyse within a lifecycle framework where sustainability is first considered for the planetary boundaries before the economics.
 
