@@ -28,6 +28,7 @@ As a result of the SSH, there are more HaaS and heat plans that are being offere
 Consumers doon't understand how much it actually costs to keep their home warm, how many hours they keep their home warm, how temperature affects heating, and other alternatives to their current heating method.
 
 To design a heat plan that people will use, it is important to 
+1. Collect data for personalised low carbon heating solutions (This started with the initial trials of installing smart meters that makes heating in each room controllable.)
 ## AmpX 
 
 ## Sunlab
