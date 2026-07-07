@@ -28,5 +28,5 @@ System configuration is optimised through OSMOSE, with technology selection bein
 
 ### Results
 
-###
+### Config 1 (full integration) vs config 2 (no integration)
 
