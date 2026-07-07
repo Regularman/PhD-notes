@@ -32,7 +32,8 @@ Some interesting articles that are relevant are
 | . A system dynamics approach to analyse the impact of energy efficiencypolicy on esco ventures in european union countries: A case study of Portugal. Energy Efficiency 11 (4):893–925.doi:10.1007/s12053-018-9617-9. | Case study of ESCO in portugal                                                 |
 | UK local authority engagement with the energy service company (ESCo) model: Key characteristics, benefits, limitations and considerations.                                                                            | Examples for the history of ESCO development to see what has already been done |
 | Prioritising business model innovation: what needs tochange in the united kingdom energy system to grow low carbon entrepreneurship? Energy Research and SocialScience 60:101317. doi:10.1016/j.erss.2019.101317      | Discussion of what is the best way to decarbonise heat                         |
-| Understanding and addressing energy poverty with behavioral econom-ics. Energy and Buildings 204:109515. doi:10.1016/j.enbuild.2019.109515.                                                                           | Interesting behavioural                                                        |
+| Understanding and addressing energy poverty with behavioral econom-ics. Energy and Buildings 204:109515. doi:10.1016/j.enbuild.2019.109515.                                                                           | Interesting behavioral study on economics                                      |
+| The energy services company (ESCo) as business model for heatentrepreneurship-a case study of North Karelia, Finland. Energy Policy 61 (October):783–87. doi:10.1016/j.enpol.2013.06.047                              | Case Study of HaaS in Karelia                                                  |
 
 
 ## Further Reading
