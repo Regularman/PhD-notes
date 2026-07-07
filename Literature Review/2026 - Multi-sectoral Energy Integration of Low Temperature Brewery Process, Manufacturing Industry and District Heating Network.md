@@ -35,7 +35,9 @@ In the sensitivity analysis done, there were only two settings for carbon tax. F
 
 Analyse within a lifecycle framework where sustainability is first considered for the planetary boundaries before the economics.
 
-Fermentation accounts of 14,440 kton/year out of 14490 kton of $CO_2$ emission
+Fermentation accounts of 14,440 k-ton/year out of 14490 k-ton of $CO_2$ emission.
+
+The solution did not fully optimise for the carbon emissions, most likely due to a lack of BTM t
 ## Questions
 
 ## Limitations
