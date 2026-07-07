@@ -19,6 +19,9 @@ In 2017-2018, emissions from residential heating increased by 3.8% between 2017-
 - UK's Renewable heat Incentive that subsidises the adoption of renewable heat technology.
 
 Where thermal demand is the basic services. Current research also expands to meta-services such as coziness and cleanliness.
+### Academic literature on HaaS
+
+There are relatively limited references to academic literature on HaaS. However, energy as a service is a much broader topic (with 13,000 documents)
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
