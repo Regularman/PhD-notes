@@ -69,12 +69,13 @@ Complex energy markets needs to be simplified to enable access to low carbon tec
 
 We can have a framework such as this to look at the current literature review
 
-| Questions                                             | Consumer                                                                                                                | Policy | Technology | Business Models |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --------------- |
-| What work has already been done in HaaS               | ESC found that HaaS is more likely to be open to new technologies.                                                      |        |            |                 |
-| What are the ambitions and opportunities for HaaS     |                                                                                                                         |        |            |                 |
-| What are the barriers and knowledge gaps              | Energy is viewed as a commodity rather than a service. Low interest due to an unfamiliarity with the value proposition. |        |            |                 |
-| How can these barriers and knowledge gaps be overcome | Large scale trials are required to explore and incentivise cosnumers.                                                   |        |            |                 |
+| Questions                                             | Consumer                                                                                                                            | Policy | Technology | Business Models |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | --------------- |
+| What work has already been done in HaaS               | ESC found that HaaS is more likely to be open to new technologies.                                                                  |        |            |                 |
+| What are the ambitions and opportunities for HaaS     |                                                                                                                                     |        |            |                 |
+| What are the barriers and knowledge gaps              | Energy is viewed as a commodity rather than a service. Low interest due to an unfamiliarity with the value proposition.             |        |            |                 |
+| How can these barriers and knowledge gaps be overcome | Large scale trials are required to explore and incentivise consumer and also for operators to better understand consumer archetypes |        |            |                 |
+|                                                       |                                                                                                                                     |        |            |                 |
 
 ## Questions
 
