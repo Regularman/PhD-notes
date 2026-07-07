@@ -35,6 +35,7 @@ In the sensitivity analysis done, there were only two settings for carbon tax. F
 
 Analyse within a lifecycle framework where sustainability is first considered for the planetary boundaries before the economics.
 
+Fermentation 
 ## Questions
 
 ## Limitations
