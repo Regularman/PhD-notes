@@ -17,5 +17,6 @@ Representing demand at an hourly resolution lead to substantial computational bu
 
 - Assumes constant energy requirements from the manufacturing industry throughout the year, which loses some level of operational complexities.
 - Some heating and cooling demand is supplied for heat pumps operating at different temperature levels.
-- 
+
+The paper proposes that the waste heat from the brewery can connect directly to the manufacturing industry or to the district heating network.
 
