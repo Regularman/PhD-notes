@@ -39,6 +39,10 @@ Some interesting articles that are relevant are
 
 
 
+| Paper                                                                                                                                                                                                                                    | Focus                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Skovshoved, S., and I. Sandqvist. 2017. “Customer value driven service innovation: identifying service opportunities inthe residential heating market based on customers’ value preferences.” Linköping, Sweden. Linköpings Universitet. | Provides a discussion of best green, which is already discussed in the industry case study |
+The different 
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
