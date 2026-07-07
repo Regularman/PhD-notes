@@ -26,12 +26,12 @@ There are relatively limited references to academic literature on HaaS. However,
 Some interesting articles that are relevant are 
 
 
-| Paper                                                                                                                                                                                                                 | Focus |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| The solar energy access in Kenya: A review focusing on pay-as-you-go solar home system. Environment, Development and Sustainability. Springer Netherlands. 10.1007/s10668-019-00372-x                                 |       |
-| . A system dynamics approach to analyse the impact of energy efficiencypolicy on esco ventures in european union countries: A case study of Portugal. Energy Efficiency 11 (4):893–925.doi:10.1007/s12053-018-9617-9. |       |
-|                                                                                                                                                                                                                       |       |
-|                                                                                                                                                                                                                       |       |
+| Paper                                                                                                                                                                                                                 | Focus                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| The solar energy access in Kenya: A review focusing on pay-as-you-go solar home system. Environment, Development and Sustainability. Springer Netherlands. 10.1007/s10668-019-00372-x                                 |                                                                                |
+| . A system dynamics approach to analyse the impact of energy efficiencypolicy on esco ventures in european union countries: A case study of Portugal. Energy Efficiency 11 (4):893–925.doi:10.1007/s12053-018-9617-9. | Case study of ESCO in portugal                                                 |
+| UK local authority engagement with the energy service company (ESCo) model: Key characteristics, benefits, limitations and considerations.                                                                            | Examples for the history of ESCO development to see what has already been done |
+|                                                                                                                                                                                                                       |                                                                                |
 
 
 ## Further Reading
