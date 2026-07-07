@@ -56,8 +56,13 @@ To properly think about the application of comfort, you will need extensive data
 - Performance of major appliances
 - Window usage
 - Consumption profiles
+### Consumer Risk
 
-###
+The key consumer risk for EaaS are
+- Unsuitable homes in terms of energy efficiency
+- Contractual uncertainty
+- lack of trust in the mdoel
+- Digital literact
 ## Questions
 
 ## Limitations
