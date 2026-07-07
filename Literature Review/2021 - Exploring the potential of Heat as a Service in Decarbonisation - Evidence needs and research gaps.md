@@ -67,12 +67,12 @@ The key consumer risk for EaaS are
 Complex energy markets needs to be simplified to enable access to low carbon technologies and enable demand response.
 ### Workshop
 
-| Questions                                             | Stakeholder views |
-| ----------------------------------------------------- | ----------------- |
-| What work has already been done in HaaS               |                   |
-| What are the ambitions and opportunities for HaaS     |                   |
-| What are the barriers and knowledge gaps              |                   |
-| How can these barriers and knowledge gaps be overcome |                   |
+| Questions                                             | Consumer | Policy | Technology | Business Models |
+| ----------------------------------------------------- | -------- | ------ | ---------- | --------------- |
+| What work has already been done in HaaS               |          |        |            |                 |
+| What are the ambitions and opportunities for HaaS     |          |        |            |                 |
+| What are the barriers and knowledge gaps              |          |        |            |                 |
+| How can these barriers and knowledge gaps be overcome |          |        |            |                 |
 
 ## Questions
 
