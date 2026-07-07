@@ -25,7 +25,7 @@ As a result of the SSH, there are more HaaS and heat plans that are being offere
 
 ### Consumer insights
 
-Consumers were unable to 
+Consumers doon't understand how much it actually costs to keep their home warm, how many hours they keep their home warm, how temperature affects heating, and other alternatives to their current heating method.
 ## AmpX 
 
 ## Sunlab
