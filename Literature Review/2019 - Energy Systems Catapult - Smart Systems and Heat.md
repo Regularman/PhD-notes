@@ -33,7 +33,7 @@ To design a heat plan that people will use, it is important to
 3. There are different people who have different use cases. For example, some households wanted temperatures as high as $26 \degree$C, which was used to dry laundry.
 4. You can also experiment with PAYG and roll-over het plans, similar to mobile plans
 
-## Baxi Heating
+## Baxi Heating - Trial
 
 ## Bristol Energy
 
