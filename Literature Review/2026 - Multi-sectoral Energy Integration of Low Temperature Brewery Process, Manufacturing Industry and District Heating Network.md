@@ -38,7 +38,7 @@ Analyse within a lifecycle framework where sustainability is first considered fo
 Fermentation accounts of 14,440 k-ton/year out of 14490 k-ton of $CO_2$ emission.
 
 The solution did not fully optimise for the carbon emissions, most likely due to a lack of BTM asset options.
-- There are also scenarios where emissions is lower in scenario 2 compared to scenario 1, when electricity price is higher than natural gas price and carbon tax is 80 euros/ton.
+- There are also scenarios where emissions is lower in scenario 2 compared to scenario 1, when electricity price is higher than natural gas price and carbon tax is 80 euros/ton. This increases the amount of available waste heat (heat pumps are more expensive to operate) to the rest of the network as it is recycled internally. This increases the reliance of natural gas.
 ## Questions
 
 ## Limitations
