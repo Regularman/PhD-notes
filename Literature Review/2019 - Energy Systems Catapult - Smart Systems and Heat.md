@@ -12,8 +12,8 @@ it is a non-for-profit entity established by the UK government in 2013. There is
 Energy System catapult conducted a series of trials to determine the value proposition for Heat as a Service. This document will summarise those attempts. Relevant information are also posted on the industry case study worksheet.
 
 In October 2017 to June 2018, each of 108 household in the living lab received smart heat control that can control the temperature of individual room through a web based server.
-- Spring 2018, households were introduced to HaaS with three possible Heat Plans
-- Consumers paid a fixed weekly amount for a warm home
+- Spring 2018, households were introduced to HaaS with three possible Heat Plans (Fixed time, flexitime, and unlimited.)
+- Consumers paid a fixed weekly amount for a warm home and warm hours, with options to buy more warm hours if they run out.
 
 As a result of the trialing heat as a service, those willing to switch to low carbon heating jumped up from 39 to 85%. 
 - There are a wide spectrum of consumers with varying involvement and interest in what heats their home
@@ -23,7 +23,7 @@ As a result of the SSH, there are more HaaS and heat plans that are being offere
 - Baxi trialled heat as a service
 - Brigend Country Borough Council$\rightarrow$ developed a street by street Local Area Energy Precinct and found that decarbonisation of heat can be achieved at a 15% cost premium above the cost of decarbonising electricity alone.
 
-### Consumer insights
+#### Consumer insights
 
 Consumers doon't understand how much it actually costs to keep their home warm, how many hours they keep their home warm, how temperature affects heating, and other alternatives to their current heating method.
 ## AmpX 
