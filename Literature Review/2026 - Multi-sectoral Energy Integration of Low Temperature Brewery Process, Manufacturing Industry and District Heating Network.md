@@ -8,7 +8,7 @@ Research on the value of an industrial energy eco-system, using waste heat from 
 
 This highlights the significant potential for cross sectoral heat integration between breweries, manufacturing industry (low grade heat of ~80$\degree$C)
 
-There was also a carbon negative solution in which it was economically feasible to capture biogenic $CO_2$
+There was also a carbon negative solution in which it was economically feasible to capture biogenic $CO_2$, which is released by as a by-product of the brewery
 ## Content
 
 Process of the beer process was simulated with DWSIM which is a chemical process simulator (free and open source), and process integration was performed with OSMOSE [8].
