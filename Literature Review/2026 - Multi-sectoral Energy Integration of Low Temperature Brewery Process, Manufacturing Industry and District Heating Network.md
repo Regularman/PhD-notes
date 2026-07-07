@@ -11,5 +11,5 @@ This highlights the significant potential for cross sectoral heat integration be
 There was also a carbon negative solution in which it was economically feasible to capture biogenic $CO_2$
 ## Content
 
-Process of the beer process was simulated with DWSIM which is a chemical process simulator, and process integration was performed with OSMOSE.
+Process of the beer process was simulated with DWSIM which is a chemical process simulator (free and open source), and process integration was performed with OSMOSE [8].
 
