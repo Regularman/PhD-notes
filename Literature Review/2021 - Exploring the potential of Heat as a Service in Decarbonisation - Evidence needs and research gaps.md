@@ -49,6 +49,13 @@ DeltaEE suggests a risk framework comprising of
 - performance risk
 - behavioral risk
 - energy price risk
+
+To properly think about the application of comfort, you will need extensive data on
+- Building archetypes, 
+- home fabric
+- Performance of major appliances
+- Window usage
+- 
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
