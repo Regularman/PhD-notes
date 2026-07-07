@@ -15,7 +15,8 @@ In October 2017 to June 2018, each of 108 household in the living lab received s
 - Spring 2018, households were introduced to HaaS with three possible Heat Plans
 - Consumers paid a fixed weekly amount for a warm home
 
-As a result of the trialling heat as a service, those willing to switch to low carbon heating jumped up from 39 to 85%. 
+As a result of the trialing heat as a service, those willing to switch to low carbon heating jumped up from 39 to 85%. 
+- There are a wide spectrum of consumers with varying involvement and interest in what heats their home
 
 ## AmpX 
 
