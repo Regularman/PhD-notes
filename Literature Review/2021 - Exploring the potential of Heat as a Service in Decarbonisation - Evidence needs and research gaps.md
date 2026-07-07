@@ -34,6 +34,9 @@ Some interesting articles that are relevant are
 | Prioritising business model innovation: what needs tochange in the united kingdom energy system to grow low carbon entrepreneurship? Energy Research and SocialScience 60:101317. doi:10.1016/j.erss.2019.101317      | Discussion of what is the best way to decarbonise heat                         |
 | Understanding and addressing energy poverty with behavioral econom-ics. Energy and Buildings 204:109515. doi:10.1016/j.enbuild.2019.109515.                                                                           | Interesting behavioral study on economics                                      |
 | The energy services company (ESCo) as business model for heatentrepreneurship-a case study of North Karelia, Finland. Energy Policy 61 (October):783–87. doi:10.1016/j.enpol.2013.06.047                              | Case Study of HaaS in Karelia                                                  |
+| “Energy-as-a-Service : A business model for expanding deployment of low-carbontechnologies.” Washington DC.                                                                                                           |                                                                                |
+### HaaS Models in practice
+
 
 
 ## Further Reading
