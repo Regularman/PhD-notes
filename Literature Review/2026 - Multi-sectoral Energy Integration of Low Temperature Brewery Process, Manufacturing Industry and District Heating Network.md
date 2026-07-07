@@ -23,5 +23,10 @@ The paper proposes that the waste heat from the brewery can connect directly to 
 - Furthermore, the brewery also creates anergy, which is low grade heat that cannot be used directly for district heating. This anergy can be used as a source of heat for the decentralised or centralised heat pump.
 
 System configuration is optimised through OSMOSE, with technology selection being driven by the total cost (sum of annual investment and operating cost.
-- Factors in electricity price, natural gas price, and carbon tax level;.
+- Factors in electricity price, natural gas price, and carbon tax level
+- Sensitivity analysis is then performed to look at the influence of these factors 
+
+### Results
+
+###
 
