@@ -30,7 +30,8 @@ Consumers doon't understand how much it actually costs to keep their home warm, 
 To design a heat plan that people will use, it is important to 
 1. Collect data for personalised low carbon heating solutions (This started with the initial trials of installing smart meters that makes heating in each room controllable. What are the temperature they liked and how many hours do they want their homes to be warm?)
 2. Warm hours was used instead of kWh as a service language that people will understand
-3. There are different people who 
+3. There are different people who have different use cases. For example, some households wanted temperatures as high as $26 \degree$C, which was used to dry laundry.
+4. 
 ## AmpX 
 
 ## Sunlab
