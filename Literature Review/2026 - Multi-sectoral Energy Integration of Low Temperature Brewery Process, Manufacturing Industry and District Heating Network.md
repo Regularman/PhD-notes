@@ -39,7 +39,8 @@ Fermentation accounts of 14,440 k-ton/year out of 14490 k-ton of $CO_2$ emission
 
 The solution did not fully optimise for the carbon emissions, most likely due to a lack of BTM asset options.
 - There are also scenarios where emissions is lower in scenario 2 compared to scenario 1, when electricity price is higher than natural gas price and carbon tax is 80 euros/ton. This increases the amount of available waste heat (heat pumps are more expensive to operate) to the rest of the network as it is recycled internally. This increases the reliance of natural gas.
-- There is also scenarios where there are net negative carbon emissions due to the capture of biogenic $CO_2$, and converting it into e-methane. And increasing carbon tax level increased carbon negative performance. However 
+- There is also scenarios where there are net negative carbon emissions due to the capture of biogenic $CO_2$, and converting it into e-methane. And increasing carbon tax level increased carbon negative performance. However, this is based on a certain grid electricity emissions intensity, which changes between regions.
+	- Methanation and electrolysis are exothermic,. and the resulting heat generation constrains the maximum $CO_2$ capture due to cooling capacity limits. (Cn )
 ## Questions
 
 ## Limitations
