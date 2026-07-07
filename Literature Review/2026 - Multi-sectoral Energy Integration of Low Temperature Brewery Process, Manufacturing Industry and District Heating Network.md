@@ -20,4 +20,5 @@ Representing demand at an hourly resolution lead to substantial computational bu
 
 The paper proposes that the waste heat from the brewery can connect directly to the manufacturing industry or to the district heating network.
 - The author creates a utility super structure built around the brewery to capture by products such as dregs, sludge, and biogenic $CO_2$, which can all be converted into Synthetic natural gas.
+- Furthermore, the brewery also creates anergy, which is low grade heat that cannot be used directly for district heating. This anergy can be used as a source of heat for the decentralised or ce
 
