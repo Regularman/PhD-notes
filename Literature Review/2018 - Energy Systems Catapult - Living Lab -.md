@@ -9,6 +9,8 @@ https://es.catapult.org.uk/what-we-do/living-lab/
 The living lab is a network of 5000 UK households ready to participate in renewable energy trials. They capture the data from smart meters, batteries, EV meter, heat control systems via a Digital Integration Platform. 
 - They partner with PNDC to utilise their simulation capabilities to look at network impacts of renewable technology integration
 
+it is a non-for-profit entity established by the UK government in 2013. There is a $1/3$ funding model
+
 ## AmpX 
 
 ## Sunlab
