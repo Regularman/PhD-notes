@@ -45,6 +45,6 @@ The solution did not fully optimise for the carbon emissions, most likely due to
 
 ## Limitations
 
-need to do analysis from a environemntal framework first (locating planetary boundaries...etc, before we lok )
+Need to do analysis from a environmental framework first (locating planetary boundaries...etc, before we look at economic and technical feasibility!)
 
 ## Further Reading
