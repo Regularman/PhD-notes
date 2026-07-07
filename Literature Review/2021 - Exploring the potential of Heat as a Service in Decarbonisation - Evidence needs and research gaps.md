@@ -24,7 +24,15 @@ Where thermal demand is the basic services. Current research also expands to met
 There are relatively limited references to academic literature on HaaS. However, energy as a service is a much broader topic (with 13,000 documents)
 
 Some interesting articles that are relevant are 
-- The solar energy access in Kenya: A review focusing on pay-as-you-go solar home system.Environment, Development and Sustainability. Springer Netherlands. 10.1007/s10668-019-00372-x .
+
+
+| Paper                                                                                                                                                                                                                 | Focus |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| The solar energy access in Kenya: A review focusing on pay-as-you-go solar home system. Environment, Development and Sustainability. Springer Netherlands. 10.1007/s10668-019-00372-x                                 |       |
+| . A system dynamics approach to analyse the impact of energy efficiencypolicy on esco ventures in european union countries: A case study of Portugal. Energy Efficiency 11 (4):893–925.doi:10.1007/s12053-018-9617-9. |       |
+|                                                                                                                                                                                                                       |       |
+|                                                                                                                                                                                                                       |       |
+
 
 ## Further Reading
 
