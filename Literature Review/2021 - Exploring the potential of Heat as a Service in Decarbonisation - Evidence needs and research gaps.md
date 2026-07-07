@@ -26,3 +26,4 @@ There are relatively limited references to academic literature on HaaS. However,
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
+
