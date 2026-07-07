@@ -37,12 +37,16 @@ Some interesting articles that are relevant are
 | “Energy-as-a-Service : A business model for expanding deployment of low-carbontechnologies.” Washington DC.                                                                                                           |                                                                                |
 ### HaaS Models in practice
 
-
-
 | Paper                                                                                                                                                                                                                                    | Focus                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | Skovshoved, S., and I. Sandqvist. 2017. “Customer value driven service innovation: identifying service opportunities inthe residential heating market based on customers’ value preferences.” Linköping, Sweden. Linköpings Universitet. | Provides a discussion of best green, which is already discussed in the industry case study |
-DeltaEE suggests a risk framewrk compr
+|                                                                                                                                                                                                                                          |                                                                                            |
+DeltaEE suggests a risk framework comprising of 
+- financial risk
+- technical risk of maintenance and repairs
+- performance risk
+- behavioral risk
+- energy price risk
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
