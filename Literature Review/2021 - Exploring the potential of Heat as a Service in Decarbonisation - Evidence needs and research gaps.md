@@ -2,7 +2,7 @@ https://www.tandfonline.com/doi/full/10.1080/15567249.2021.1873460?scroll=top&ne
 
 ## Contribution
 
-This explores HaaS based on insights from facilitated group discussions with key stakeholders. 
+This explores HaaS based on insights from facilitated group discussions with key stakeholders in the UK in 2019. Participants were sampled from academia, industry, government
 - Also explores existing HaaS trials
 
 The results addressed issues between consumer-supplier trust, supportive policies, financing business models, and interoperability of data. The paper will look at 
