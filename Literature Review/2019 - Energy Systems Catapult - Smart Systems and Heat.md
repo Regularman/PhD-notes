@@ -19,7 +19,8 @@ As a result of the trialing heat as a service, those willing to switch to low ca
 - There are a wide spectrum of consumers with varying involvement and interest in what heats their home
 
 As a result of the SSH, there are more HaaS and heat plans that are being offered by energy retailers
-- EDF energy launched a low carbon, hybrid heat
+- EDF energy launched a low carbon, hybrid heating offering
+- Baxi trialled heat as a service
 ## AmpX 
 
 ## Sunlab
