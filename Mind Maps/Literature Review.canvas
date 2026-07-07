@@ -24,8 +24,6 @@
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-3039,"y":278,"width":331,"height":80,"color":"5"},
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-2236,"y":240,"width":396,"height":118,"color":"6"},
 		{"id":"0d7df2dbe8da32ea","type":"text","text":"# ~={cyan}Molten salt storage=~","x":-4280,"y":308,"width":250,"height":60},
-		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-1146,"y":-1360,"width":400,"height":50,"color":"1"},
-		{"id":"c44852c5b85257cc","type":"text","text":"# Viessmann\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-1600,"y":-1284,"width":385,"height":50,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3100,"y":-1845,"width":400,"height":97,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3709,"y":-1343,"width":400,"height":82,"color":"4"},
@@ -63,7 +61,9 @@
 		{"id":"dc8ec32ab08f4374","type":"text","text":"# Tiko Energy Solutions -when financing risk outweighs market revenue\n\nhttps://kurrant.com/kurrantly-news/engie-subsidiary-tiko-shuts-down-in-france-leaving-thousands-without-smart-heating-controls/\n\nDemand response is necessary, IEA forecast that 500GW of demand response is needed globally by 2030, requiring an investment of 2030. \n\nTiko energy solution was a built on government subsidies. Originally founded in 2012 as Swisscom Energy Solutions, was acquired by Engie in March 2019.\n\nFlexibility was sold to RTE, the French transmission operator. Revenue flowed from France's Energy Savings Certificates and from the government's Coup de Pouce Pilotage connecte du chauffage piece par piece bonus scheme.\n- This bonus scheme was terminated in November 2024, after the Ministry of Energy Transition detected widespread fraud across the broader thermostate subsidy sector.\n- Within weeks, tiko liquidated\n\nIssue further compounded when internal quality assessment identified overheating risks that could cause fires. Items were recalled without replacement since the manufacturer had already shut down.\n- But this was in December 2025, long after tiko had liquidated\n\nConsumers are left with thermostats and contorl devices that are unable to connect to third party systems. \n- There are also regulatory pressure for smart metering, with deadlines by January 2030 for all homes to convert.\n- Consumers are starting to convert to Voltais, which has 250,000 equipped buildings and 1.5 million connected appliance across $8$ European countries. They signed a 721 MW, 10 year demand response contract. In 2024, Voltais secured 215 million euros to rollout 1.4GWp of demand response.\n\nThey collaborated with EVN in Austria to propose Joulie is an intelligent assisstant that continuously learns your consumption habits so that electricity sonumption is optimised and revenue is optimised. It comes with a PV system that is managed along with a battery. Joulie can be monitored through an online interface.\n\nThe energy assistant was developed in collaboration with tiko to decentralise energy supplies. Taking advantage of the flexibility of heat pumps and EVs to perform grid services whilst sharing that benefit with consumers.\n","x":-309,"y":118,"width":329,"height":162,"color":"2"},
 		{"id":"ff0d9bea75f1d19e","x":-351,"y":338,"width":371,"height":122,"type":"text","text":"# Voltalis - Largest European Demand Response Aggregator"},
 		{"id":"25b4e01170985df8","type":"text","text":"## *~={yellow}Heat as a Service business cases=~*","x":-2580,"y":-1047,"width":260,"height":100,"color":"3"},
-		{"id":"b499a57d38d08989","x":-2320,"y":-1455,"width":400,"height":112,"color":"1","type":"file","file":"PhD-notes/Literature Review/2021 - Exploring the potential of Heat as a Service in Decarbonisation - Evidence needs and research gaps.md"}
+		{"id":"c44852c5b85257cc","type":"text","text":"# Viessmann\n\nViessmann is a heat pump and heating solution OEM that also offers maintenance contracts for the consumers. Website outlines that they service primarily for the commercial and residential sector at a larger scale, but only provide the equipment (and installation), but does not go into system operation.","x":-522,"y":-1604,"width":385,"height":109,"color":"1"},
+		{"id":"2bbcb5f505cd9afd","type":"file","file":"PhD-notes/Literature Review/Heineken-Engie Seville.md","x":-529,"y":-1408,"width":400,"height":50,"color":"1"},
+		{"id":"b499a57d38d08989","x":-1660,"y":-1287,"width":400,"height":112,"color":"1","type":"file","file":"PhD-notes/Literature Review/2021 - Exploring the potential of Heat as a Service in Decarbonisation - Evidence needs and research gaps.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -104,8 +104,6 @@
 		{"id":"5e935179d48fe937","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"67cf763c7682bde8","toSide":"top"},
 		{"id":"79d7e25186875811","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"fda52721f32fcb2f","toSide":"top"},
 		{"id":"6865da40b623b66d","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"0d7df2dbe8da32ea","toSide":"top"},
-		{"id":"95c5b7e8c0609293","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"2bbcb5f505cd9afd","toSide":"top"},
-		{"id":"789ed932717f8add","fromNode":"ecaee4a912a8ed76","fromSide":"bottom","toNode":"c44852c5b85257cc","toSide":"top"},
 		{"id":"898e0d9ec44b9d2f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"670df2149b5006fa","toSide":"top"},
 		{"id":"e5a5e454b9abfbe3","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"top"},
 		{"id":"0d9351e4fedbd59f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"2352bd83f5699f28","toSide":"top"},
@@ -121,6 +119,8 @@
 		{"id":"b4a56ea4aa70c513","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"e565e22128666908","toSide":"top"},
 		{"id":"0e7b249d224dad57","fromNode":"7b84fa3680a61f71","fromSide":"bottom","toNode":"5e9f83f6b5f9c4b8","toSide":"top"},
 		{"id":"c40efe761e32a046","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"dc8ec32ab08f4374","toSide":"top"},
-		{"id":"c0edfbc7b79fa4dd","fromNode":"dc8ec32ab08f4374","fromSide":"bottom","toNode":"ff0d9bea75f1d19e","toSide":"top"}
+		{"id":"c0edfbc7b79fa4dd","fromNode":"dc8ec32ab08f4374","fromSide":"bottom","toNode":"ff0d9bea75f1d19e","toSide":"top"},
+		{"id":"c00893f9fa807924","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"c44852c5b85257cc","toSide":"left"},
+		{"id":"8452b7014d6c028c","fromNode":"ecaee4a912a8ed76","fromSide":"right","toNode":"2bbcb5f505cd9afd","toSide":"left"}
 	]
 }
