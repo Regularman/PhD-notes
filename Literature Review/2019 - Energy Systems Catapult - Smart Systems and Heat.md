@@ -39,8 +39,8 @@ Offered 20 households in the living lab a heat plan using warm hours. The heat p
 
 - Out of the 20 households that was asked. 13 said they wanted to discuss the offer
 - 10 said they were enthusiastic
-- 1 accepted the offer and had their old, inefficient boiler replaced.
-Heat plan in bundled wtih
+- 1 accepted the offer and had their old, inefficient boiler replaced. (Does not)
+Heat plan in bundled with service and maintenance.
 
 ## Bristol Energy
 
