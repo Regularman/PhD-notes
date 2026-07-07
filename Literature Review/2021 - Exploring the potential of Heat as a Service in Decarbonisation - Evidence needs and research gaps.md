@@ -58,10 +58,11 @@ To properly think about the application of comfort, you will need extensive data
 - Consumption profiles
 ### Consumer Risk
 
+Citizen Advice produced a key survey on consumer attitude toward
 The key consumer risk for EaaS are
 - Unsuitable homes in terms of energy efficiency
 - Contractual uncertainty
-- lack of trust in the model
+- lack of trust in the model (losing control)
 - Digital literacy
 
 Complex energy markets needs to be simplified to enable access to low carbon technologies and enable demand response.
