@@ -25,7 +25,6 @@ There are relatively limited references to academic literature on HaaS. However,
 
 Some interesting articles that are relevant are 
 
-
 | Paper                                                                                                                                                                                                                 | Focus                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | The solar energy access in Kenya: A review focusing on pay-as-you-go solar home system. Environment, Development and Sustainability. Springer Netherlands. 10.1007/s10668-019-00372-x                                 |                                                                                |
@@ -57,6 +56,13 @@ To properly think about the application of comfort, you will need extensive data
 - Performance of major appliances
 - Window usage
 - Consumption profiles
+
+###
+## Questions
+
+## Limitations
+
+Need to update this review to a 2026 version
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
