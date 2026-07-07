@@ -31,6 +31,8 @@ System configuration is optimised through OSMOSE, with technology selection bein
 Results are evaluated based on reduction in energy usage (efficiency) and reduction in carbon emissions. In the base system, heating requirements is met with natural gas, and the cooling requirement is met with cooling towers and refrigeration systems.
 #### Config 1 (full integration) vs config 2 (no integration)
 
+In the sensitivity analysis done, there were only two settings for carbon tax. Furthermore, self reliance is increased when the electricity pric
+
 ## Questions
 
 ## Limitations
