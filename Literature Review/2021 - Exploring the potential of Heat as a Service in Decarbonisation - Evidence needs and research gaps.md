@@ -42,7 +42,7 @@ Some interesting articles that are relevant are
 | Skovshoved, S., and I. Sandqvist. 2017. “Customer value driven service innovation: identifying service opportunities inthe residential heating market based on customers’ value preferences.” Linköping, Sweden. Linköpings Universitet.   | Provides a discussion of best green, which is already discussed in the industry case study                                    |
 | ERA-NET Smart Grids Plus project - "Market, Actor, and Technologu: A comparative study of smart grid solution" and Case study report denmark: findings from case studies of projectzero, renewableenergy island samso and innovation fur.” | Focus on GreenCom, which studied remotely controlled demand side management via heat pumps and PV                             |
 | Smart Systems and Heat Programme ran by Energy Systems Catapult                                                                                                                                                                            | Trial of 30 homes for their Home Energy Management system which allows multi-zone control of heating via a consumer interface |
-|                                                                                                                                                                                                                                            |                                                                                                                               |
+| ESC - Living Lab                                                                                                                                                                                                                           | 100 homes to test HaaS in 2017-2019. They can buy warm hours instead of kWh in their hea                                      |
 DeltaEE suggests a risk framework comprising of 
 - financial risk
 - technical risk of maintenance and repairs
@@ -55,7 +55,7 @@ To properly think about the application of comfort, you will need extensive data
 - home fabric
 - Performance of major appliances
 - Window usage
-- 
+- Consumption profiles
 ## Further Reading
 
 Catapult energy systems is doing a lot of work with HaaS that should be looked at. See ESC reports in the references of this report.
