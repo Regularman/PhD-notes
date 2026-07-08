@@ -33,10 +33,12 @@ Using the data from the Bristol Energy Living Lab HaaS trial, the paper investig
 ### Policy impacts
 
 The different phenomenological use cases of heating identified in this trial shows that heat practises vary as one moves across different space, age, and between different people for child rearing and social signalling. People aren't really aware of their heating patterns and their preferences, and needs arises based on different situations.
+
 ## Questions
 
 ## Limitations
 
 There are no data on the economic outcome of the living labs trial, as it was more concerned with identifying consumer experience in the HaaS model.
+- Research needs to be extended on the more vulnerable consumers
 
 ## Further Reading
