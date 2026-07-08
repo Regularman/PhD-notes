@@ -24,7 +24,6 @@
 		{"id":"dbdc28cb7aed2592","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-3039,"y":278,"width":331,"height":80,"color":"5"},
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-2236,"y":240,"width":396,"height":118,"color":"6"},
 		{"id":"0d7df2dbe8da32ea","type":"text","text":"# ~={cyan}Molten salt storage=~","x":-4280,"y":308,"width":250,"height":60},
-		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1260,"y":-1793,"width":400,"height":127,"color":"1"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3100,"y":-1845,"width":400,"height":97,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-3709,"y":-1343,"width":400,"height":82,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3818,"y":-1520,"width":480,"height":80,"color":"4"},
@@ -65,7 +64,9 @@
 		{"id":"b499a57d38d08989","type":"file","file":"PhD-notes/Literature Review/2021 - Exploring the potential of Heat as a Service in Decarbonisation - Evidence needs and research gaps.md","x":-1303,"y":-1380,"width":383,"height":143,"color":"1"},
 		{"id":"8167b526beb01ed4","type":"text","text":"# Performance of Heat Geek HP in English home 2026\n\nhttps://www.youtube.com/watch?v=CFSZViBzlIQ \n\nYoutube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days for a Vaillant HP.\n\t- It's very hard to quantify the heat quality change\n\t- There is a behavior change as they didn't need to adjust the heat pump based of usage needs (It was just on the time)\n\t- Did not need emergency heaters and the water tank upgrades and radiator upgrades were not necessary.\n\nHeat Geek has a performance guarantee for 5 years. They also do energy consultations for the proper design of heat pumps.\n- Vibration of wall mounted units was a problem. Can be prevented through ground mounted units.","x":-3722,"y":760,"width":362,"height":260,"color":"5"},
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-530,"y":-1857,"width":400,"height":151,"color":"1"},
-		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-393,"y":-1324,"width":400,"height":174,"color":"1"}
+		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-393,"y":-1324,"width":400,"height":174,"color":"1"},
+		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1018,"y":-2223,"width":400,"height":127,"color":"1"},
+		{"id":"105f615de74ce3fd","x":-1060,"y":-1747,"width":400,"height":121,"color":"1","type":"file","file":"2022 - Something is sustainable in the state of Denmark - A review of the Danish district heating sector.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -126,6 +127,7 @@
 		{"id":"b6c8b19a2d9fc72f","fromNode":"b499a57d38d08989","fromSide":"right","toNode":"170168a084fa3f55","toSide":"left"},
 		{"id":"cca8a763fb04a6a9","fromNode":"c31919e41644c217","fromSide":"bottom","toNode":"8167b526beb01ed4","toSide":"top"},
 		{"id":"c69c6619ecc5cf18","fromNode":"170168a084fa3f55","fromSide":"top","toNode":"b4b89eba0f727907","toSide":"bottom"},
-		{"id":"74c47ba93712764d","fromNode":"b499a57d38d08989","fromSide":"right","toNode":"34bc062e097f5e6d","toSide":"left"}
+		{"id":"74c47ba93712764d","fromNode":"b499a57d38d08989","fromSide":"right","toNode":"34bc062e097f5e6d","toSide":"left"},
+		{"id":"169ca4c224258206","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"105f615de74ce3fd","toSide":"bottom"}
 	]
 }
