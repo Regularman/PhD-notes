@@ -43,8 +43,10 @@ Offered 20 households in the living lab a heat plan using warm hours. The heat p
 
 Heat plan in bundled with service and maintenance. However, the heat plan offer is no longer on Baxi Energy's website.
 
+Would be interested to und
 ## Bristol Energy
 
+Trialled heat plan option for heat and hot water, with variations pn
 ## AmpX 
 
 ## Sunlab
