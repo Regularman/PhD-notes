@@ -31,6 +31,7 @@ The paper presents a model to calculate the profitability of the ESCO ownership,
 - The NPV is calculated based on the net revenue between the old system and new system, the subsidies involved.
 	- This NPV is split between the ESCO and customer. This allows us to recalculate the necessary fees for ESCO payments. The study adjusts the risk premium value and see how they affect real data from the the Finish case study.
 
+Ultimately 
 ### Case Study
 
 The case study just looks at consumption data for each housing association. However, it does not show how they chose the system sizing.
