@@ -52,7 +52,7 @@ Trialled heat plan option for heat and hot water, with variations in payments.
 
 Participants were asked to undergo a year long trial across 85 households. However, it is important to note that all of these households already have smart metering installed. Again, Bristol energy bundled boiler servicing, maintenance, and energy sue into a single package.
 
-As of 2026, Bristol Energy have shifted towards heat network the
+As of 2026, Bristol Energy have shifted towards heat networks rather than fully pursuing the idea of the warm hours.
 
 ## AmpX 
 
