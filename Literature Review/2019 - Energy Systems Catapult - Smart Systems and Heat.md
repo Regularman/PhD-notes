@@ -72,7 +72,8 @@ However the project was delivered with gas boilers and not heat pumps. They also
 
 ## Content
 
-Cost certainty was more important than comfort certainty. Issue about the quality of service was not discussed as most assumed that they would received the recequired amount of heat.
+Cost certainty was more important than comfort certainty. Issue about the quality of service was not discussed as most assumed that they would received the required amount of heat.
+- In general consumers were receptive to flexible heat demand when they understood the concept of how flexibility generated revenue.
 ## AmpX 
 
 ## Sunlab
