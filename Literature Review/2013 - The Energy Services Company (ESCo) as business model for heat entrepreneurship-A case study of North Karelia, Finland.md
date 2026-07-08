@@ -44,7 +44,8 @@ However, they assume
 - Interest rate is 5% and we assume 50/50 split
 
 Case study showed that all options were attractive. However, it would be interesting to show what is feasible from the customer perspective.
-- Also interesting to k
+- Also interesting to know what would be the profit split between the ESCO and consumer which is suitable for both parties. How does this change when you look at the value chain between the different stakeholders of the ESCO?
+- To expand operation, you may need economies of scale.
 ## Questions
 
 Where does the consumer expectation and 
