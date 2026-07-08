@@ -83,7 +83,7 @@ Out of the winter trial 5/18 home owners installed a heat pump (However, it shou
 
 ## Limitation
 
-There was very few data collected about the thermal performance of buildings
+~={red}There was very few data collected about the thermal performance of buildings=~
 ## AmpX 
 
 ## Sunlab
