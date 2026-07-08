@@ -81,6 +81,8 @@ One of the reasons for the customers not adopting the heat plan after is the lac
 
 Out of the winter trial 5/18 home owners installed a heat pump (However, it should be noted that the cost of operation is different and you can't just take a gas boiler out and install a heat pump. (lower water temperatures means you might need underfloor heating or a larger radiator unit.)
 - https://www.youtube.com/watch?v=CFSZViBzlIQ Youtube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days.
+	- It's very hard to quantify the heat quality change
+	- There is a behaviour change as they
 
 
 ## Limitation
