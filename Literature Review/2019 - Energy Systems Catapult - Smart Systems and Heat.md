@@ -60,6 +60,9 @@ As of 2026, Bristol Energy have shifted towards heat networks rather than fully 
 # Final Evaluation Report
 
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://esc-production-2021.s3.eu-west-2.amazonaws.com/2021/08/SSH2-Evaluation-Report-FINAL.pdf
+
+The aim of the project was to ultimately develop a Home Energy Services Gateway that can also provide ancillary services as payment support.
+- Also interested in how people 
 ## AmpX 
 
 ## Sunlab
