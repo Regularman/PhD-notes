@@ -43,10 +43,13 @@ However, they assume
 - Price of heating oil is 109.1 euros/MWh
 - Interest rate is 5% and we assume 50/50 split
 
+Case study showed that all options were attractive.
 ## Questions
 
 ## Limitation
 
 Essentially, this paper just presents how to calculate the fees of an ESCO model using the NPV method.
+
+Did not conduct sensitivity analysis
 
 ## Further Readings
