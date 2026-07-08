@@ -31,6 +31,8 @@ Using the data from the Bristol Energy Living Lab HaaS trial, the paper investig
 |                           | One user likes a cold bedroom, and open the windows upstairs                                                                                                                     |
 | Pets                      | Pets will affect consideration for heating profiles of houses as they are in homes 24/7                                                                                          |
 ### Policy impacts
+
+The different phenomenological use cas
 ## Questions
 
 ## Limitations
