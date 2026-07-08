@@ -76,6 +76,8 @@ Cost certainty was more important than comfort certainty. Issue about the qualit
 - In general consumers were receptive to flexible heat demand when they understood the concept of how flexibility generated revenue.
 
 One of the reasons for the customers not adopting the heat plan after is the lack of flexibility with roll over. Also Summer was approaching, which made consumers less receptive to change as the heat plan will not have an immediate impact.
+- However, they found a small subsector of people who was actually willing to pay more for a heat plan than conventional heating methods.
+- HaaS was concluded to be a gateway for low carbon heating options
 
 ## Limitation
 
