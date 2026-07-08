@@ -65,6 +65,8 @@ The aim of the project was to ultimately develop a Home Energy Services Gateway 
 - Also interested in how people interacted with the system
 - How to structure and price the system
 - ~={red}Relative cost and performance risk=~
+
+However the project was delivered with gas boilers and not heat pumps.
 ## AmpX 
 
 ## Sunlab
