@@ -86,9 +86,9 @@ Out of the winter trial 5/18 home owners installed a heat pump (However, it shou
 The trial also served to highlight that HaaS is technically achievable, commercially viable, and desirable for consumers. Hwoever, this is the triple bottom line framework that we need to move away from.
 
 
-| Bottom Line            | Comments                                                                                                                                                                                                                                     |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Technically achievable | Low carbon heating systems were no tested in the 2017-2018 winter trial. However, SSH2 provided opportunities to show consumer interest in low carbon heating after the trial of the HaaS module, showing that the warm hours was able to ad |
+| Bottom Line            | Comments                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Technically achievable | Low carbon heating systems were no tested in the 2017-2018 winter trial. However, SSH2 provided opportunities to show consumer interest in low carbon heating after the trial of the HaaS module, showing that the warm hours was able to adapt people more towards new innovation in how their heat is delivered. However, heat pumps have been integrated in the 2017/2018 winter trial |
 
 
 ## Limitation
