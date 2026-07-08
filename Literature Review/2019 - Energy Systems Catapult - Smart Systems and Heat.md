@@ -79,6 +79,8 @@ One of the reasons for the customers not adopting the heat plan after is the lac
 - However, they found a small subsector of people who was actually willing to pay more for a heat plan than conventional heating methods.
 - HaaS was concluded to be a gateway for low carbon heating options
 
+Out of the winter trial 5/18 home owners installed a heat pump (However, it should be noted that the cost of operation is different and you )
+
 ## Limitation
 
 There was very few data collected about the thermal performance of buildings
