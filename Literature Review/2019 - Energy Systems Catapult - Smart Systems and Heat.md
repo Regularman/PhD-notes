@@ -44,13 +44,16 @@ Offered 20 households in the living lab a heat plan using warm hours. The heat p
 Heat plan in bundled with service and maintenance. However, the heat plan offer is no longer on Baxi Energy's website.
 
 Would be interested to understand the outcome of the trial and how you can deal with homes that aren't as insulated as others.
-## Bristol Energy
+## Bristol Energy - Trial
 
 Trialled heat plan option for heat and hot water, with variations in payments.
 1. Fixed number of warm hours
 2. Pay as you go with a price per warm hour
 
-Participants were asked to undergo a year long trial across 85 households. However, it is important to note that all of these households already have smart metering installed. Again, Bristol energy bundled boiler servicing, maintenance, and energy sue into a single packahe
+Participants were asked to undergo a year long trial across 85 households. However, it is important to note that all of these households already have smart metering installed. Again, Bristol energy bundled boiler servicing, maintenance, and energy sue into a single package.
+
+As of 2026, Bristol Energy have shifted towards heat network the
+
 ## AmpX 
 
 ## Sunlab
