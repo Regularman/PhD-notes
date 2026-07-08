@@ -97,7 +97,7 @@ The trial also served to highlight that HaaS is technically achievable, commerci
 ## Further Readings
 
 The ESC team also looked at market transition abroad in their D7 report, looking at how heat network may roll out across the UK. SHH2 D7 search may yield results.
-- This compares 28 different business mdoels and distills them into 
+- This compares 28 different business models and distills them into 5 based on selection criteria, considering benefits to society, benefits to the energy system, robustness, and benefits to sustainability.
 
 ## AmpX 
 
