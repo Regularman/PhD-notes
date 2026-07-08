@@ -46,6 +46,8 @@ However, they assume
 Case study showed that all options were attractive.
 ## Questions
 
+Where does the consumer expectation and 
+
 ## Limitation
 
 Essentially, this paper just presents how to calculate the fees of an ESCO model using the NPV method.
