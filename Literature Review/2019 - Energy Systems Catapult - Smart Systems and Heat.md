@@ -81,7 +81,8 @@ One of the reasons for the customers not adopting the heat plan after is the lac
 
 Out of the winter trial 5/18 home owners installed a heat pump (However, it should be noted that the cost of operation is different and you can't just take a gas boiler out and install a heat pump. (lower water temperatures means you might need underfloor heating or a larger radiator unit.)
 
-- The D28 report found that integrated packages of smar
+- The D28 report found that integrated packages of smart technologies can be delivered to help break the siloed low carbon heat market and low uptake of the technology. 
+- 
 
 ## Limitation
 
