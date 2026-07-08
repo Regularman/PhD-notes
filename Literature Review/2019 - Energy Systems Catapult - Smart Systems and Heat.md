@@ -83,7 +83,7 @@ Out of the winter trial 5/18 home owners installed a heat pump (However, it shou
 - https://www.youtube.com/watch?v=CFSZViBzlIQ Youtube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days.
 	- It's very hard to quantify the heat quality change
 	- There is a behavior change as they didn't need to adjust the heat pump based of usage needs (It was just on the time)
-	- Did not need emergency heaters
+	- Did not need emergency heaters and the water tank upgrades and radiator upgrades were not necessary.
 
 
 ## Limitation
