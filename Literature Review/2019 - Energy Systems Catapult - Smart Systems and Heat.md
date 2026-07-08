@@ -87,7 +87,7 @@ Out of the winter trial 5/18 home owners installed a heat pump (However, it shou
 
 ## Further Readings
 
-The ESC team also looked at market transition abroad in their D7 report 
+The ESC team also looked at market transition abroad in their D7 report, looking at how heat network may roll out across the UK. SHH2 D7 search may yield results.
 
 ## AmpX 
 
