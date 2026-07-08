@@ -61,12 +61,13 @@ As of 2026, Bristol Energy have shifted towards heat networks rather than fully 
 
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://esc-production-2021.s3.eu-west-2.amazonaws.com/2021/08/SSH2-Evaluation-Report-FINAL.pdf
 
+## Contribution
 The aim of the project was to ultimately develop a Home Energy Services Gateway that can also provide ancillary services as payment support.
 - Also interested in how people interacted with the system
 - How to structure and price the system
 - ~={red}Relative cost and performance risk=~
 
-However the project was delivered with gas boilers and not heat pumps. They also had stringent criterias on who could participate in the trial. Out of 20,000 homes, of which 50% did not complete the survey, around 3% were eligible.
+However the project was delivered with gas boilers and not heat pumps. They also had stringent criterias on who could participate in the trial. Out of 45,000 homes, of which 50% did not complete the survey, around 3% were eligible.
 ## AmpX 
 
 ## Sunlab
