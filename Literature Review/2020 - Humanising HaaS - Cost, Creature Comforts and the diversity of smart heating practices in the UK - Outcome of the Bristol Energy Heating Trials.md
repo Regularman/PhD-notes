@@ -32,13 +32,14 @@ Using the data from the Bristol Energy Living Lab HaaS trial, the paper investig
 | Pets                      | Pets will affect consideration for heating profiles of houses as they are in homes 24/7                                                                                          |
 ### Policy impacts
 
-The different phenomenological use cases of heating identified in this trial shows that heat practises vary as one moves across different space, age, and between different people for child rearing and social signalling. People aren't really aware of their heating patterns and their preferences, and needs arises based on different situations.
+The different phenomenological use cases of heating identified in this trial shows that heat practises vary as one moves across different space, age, and between different people for child rearing and social signaling. People aren't really aware of their heating patterns and their preferences, and needs arises based on different situations.
+- These preferences and habit are important when setting net zero targets. Understanding now people use heat can use used to promote different business models that accounts for this ever-changing and liquid behaviour.
 
 ## Questions
 
 ## Limitations
 
 There are no data on the economic outcome of the living labs trial, as it was more concerned with identifying consumer experience in the HaaS model.
-- Research needs to be extended on the more vulnerable consumers
+- Research needs to be extended on the more vulnerable consumers and those living with energy poverty
 
 ## Further Reading
