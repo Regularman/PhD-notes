@@ -43,7 +43,8 @@ However, they assume
 - Price of heating oil is 109.1 euros/MWh
 - Interest rate is 5% and we assume 50/50 split
 
-Case study showed that all options were attractive.
+Case study showed that all options were attractive. However, it would be interesting to show what is feasible from the customer perspective.
+- Also interesting to k
 ## Questions
 
 Where does the consumer expectation and 
