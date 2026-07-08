@@ -46,6 +46,9 @@ Heat plan in bundled with service and maintenance. However, the heat plan offer 
 Would be interested to understand the outcome of the trial and how you can deal with homes that aren't as insulated as others.
 ## Bristol Energy - Trial
 
+This paper 
+https://www.sciencedirect.com/science/article/pii/S266627872030012X?via%3Dihub
+
 Trialled heat plan option for heat and hot water, with variations in payments.
 1. Fixed number of warm hours
 2. Pay as you go with a price per warm hour
