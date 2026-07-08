@@ -50,7 +50,7 @@ Trialled heat plan option for heat and hot water, with variations in payments.
 1. Fixed number of warm hours
 2. Pay as you go with a price per warm hour
 
-Participants were asked to undergo a year long trial across 85 households. However, it is important to note that all of these households already have smart metering installed.
+Participants were asked to undergo a year long trial across 85 households. However, it is important to note that all of these households already have smart metering installed. Again, Bristol energy bundled boiler servicing, maintenance, and energy sue into a single packahe
 ## AmpX 
 
 ## Sunlab
