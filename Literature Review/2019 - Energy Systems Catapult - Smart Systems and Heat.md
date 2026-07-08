@@ -50,7 +50,7 @@ Trialled heat plan option for heat and hot water, with variations in payments.
 1. Fixed number of warm hours
 2. Pay as you go with a price per warm hour
 
-Participants were asked to undergo a year long trial across 85 households. 
+Participants were asked to undergo a year long trial across 85 households. However, it i
 ## AmpX 
 
 ## Sunlab
