@@ -67,7 +67,7 @@
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-393,"y":-1324,"width":400,"height":174,"color":"1"},
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1018,"y":-2223,"width":400,"height":127,"color":"1"},
 		{"id":"105f615de74ce3fd","type":"file","file":"PhD-notes/Literature Review/2022 - Something is sustainable in the state of Denmark - A review of the Danish district heating sector.md","x":-1060,"y":-1747,"width":400,"height":121,"color":"1"},
-		{"id":"b5f4da6cb8c5a5ec","x":-858,"y":-214,"width":400,"height":124,"type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md"}
+		{"id":"b5f4da6cb8c5a5ec","x":-858,"y":-214,"width":400,"height":124,"color":"2","type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
