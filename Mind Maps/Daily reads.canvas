@@ -33,7 +33,8 @@
 		{"id":"bf5517aacc74491c","type":"text","text":"# Shifting to renewables due to supply chain risks - 26.06.2026\n\nInconsistency in fossil fuel prices caused by the war on Iran. \n- 200% swings in energy supply is unsustainable and encourages people to switch to independent fuel source\n\nLook to Fortescue in the Pilbara region\n- >1 GW of solar \n- Hundreds of MW of wind, \n- GW of battery storage\n- Hundreds of kms of transmission infrastructure\nThis will lift the renewable share in supplying energy to its Pilbara mine operations from 2% to 25%. \n\nAdopted self-lifting wind turbines and modular battery storage, and automatic solar pilings to help deploy renewable technologies at scale.","x":-1312,"y":-196,"width":342,"height":123,"color":"4"},
 		{"id":"66f564d0b0fd8f8a","type":"text","text":"# ~={green}Heat Market=~","x":0,"y":-1260,"width":250,"height":60,"color":"4"},
 		{"id":"bbc7719d5d686be2","type":"text","text":"# The ABC of Electrified District Heating - Large Scale Heat Pumps 01.2026\n\nhttps://hotcool.dbdh.dk/no-1-2026-power-up-district-heating/16/\n\nelectricity based heat generation offers stronger coupling between power and electricity sectors. The load of a district heating system can be divided into \n\n- base, year round load\n- mid, seasonal load\n- peak load during the coldest days of the year\n\nElectric heat pumps are expensive to install and cheap to operate (therefore need a high utilisation rate). Therefore, it is rarely feasible or cost effective to meet the entire demand of the district heating system with heat pumps alone.\n- Other alternatives might be an e-boiler\n\nThus, there will be a shift of district heating from net producers to net consumers. How will this affect the electricity grid\n## Further readings\n\nLook at Sdr Felding, which has a 2.5MW het pump, a 10MW electric boiler, and 3000 $m^2$ of storage. Although max demand is only 5MW. They make a lot of money offering services to the electricity grid.\n- Billund district heating system\n","x":78,"y":-1480,"width":402,"height":120,"color":"4"},
-		{"id":"6dfa8d78bb019714","x":180,"y":-1720,"width":320,"height":160,"color":"4","type":"text","text":"# Electrification, Flexibility, and Thermal Storage - How the Billund District Heating reduce heat prices by 25% through ancillary services\n\nhttps://hotcool.dbdh.dk/no-1-2026-power-up-district-heating/4/\n\n"}
+		{"id":"6dfa8d78bb019714","type":"text","text":"# Electrification, Flexibility, and Thermal Storage - How the Billund District Heating reduce heat prices by 25% through ancillary services\n\nhttps://hotcool.dbdh.dk/no-1-2026-power-up-district-heating/4/\n\n","x":279,"y":-1720,"width":320,"height":120,"color":"4"},
+		{"id":"8dace9e1e8ea6f1e","x":-345,"y":-1705,"width":250,"height":60,"type":"text","text":"# Industrial District Heating in Denmark for the "}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
@@ -66,6 +67,7 @@
 		{"id":"a961102be5552e39","fromNode":"d699e9c47f97fa2b","fromSide":"bottom","toNode":"6def6446c4a2e46a","toSide":"top"},
 		{"id":"d5e2f8ca4a2fd373","fromNode":"6def6446c4a2e46a","fromSide":"bottom","toNode":"819df4c1245018c5","toSide":"top"},
 		{"id":"4b7358eef733dbd1","fromNode":"66f564d0b0fd8f8a","fromSide":"top","toNode":"bbc7719d5d686be2","toSide":"bottom"},
-		{"id":"e0ef1e73beb9f223","fromNode":"bbc7719d5d686be2","fromSide":"top","toNode":"6dfa8d78bb019714","toSide":"bottom"}
+		{"id":"e0ef1e73beb9f223","fromNode":"bbc7719d5d686be2","fromSide":"top","toNode":"6dfa8d78bb019714","toSide":"bottom"},
+		{"id":"74575737fdd93402","fromNode":"66f564d0b0fd8f8a","fromSide":"top","toNode":"8dace9e1e8ea6f1e","toSide":"bottom"}
 	]
 }
