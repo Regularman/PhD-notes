@@ -1,5 +1,6 @@
 https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&arnumber=9960562
 
+Cited by 1
 ## Contribution
 
 Looks at a multi-criteria optimisation procedure to minimise costs and $CO_2$ equivalent emissions
