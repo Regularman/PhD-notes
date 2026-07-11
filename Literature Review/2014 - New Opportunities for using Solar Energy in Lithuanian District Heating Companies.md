@@ -15,9 +15,9 @@ Solar thermal technology has the advantage of low operating cost and constant he
 - However, solar thermal technologies have high initial investment and is very seasonal.
 
 Data shows that heat losses are very high in the network, especially in the Summer across 17 heat substations investigated. This is mostly due to inefficient fuel lost. The installation of solar heating collectors at the heat production site would allow the decrease in total heat price by avoiding inefficient fuel use in summer seasons.
-- What is the optimal position to place the solar thermal plant to minimise this heat loss effect
+- What is the optimal position to place the solar thermal plant to minimise this heat loss effect?
 
-From 2014, investment of 250 euro$/m^2$ was used for solar collectors based on existing projects. Modelling based on solar heat cost shows that even without subsidies, solar heat cost will beat 
+From 2014, investment of 250 euro$/m^2$ was used for solar collectors based on existing projects. Modelling based on solar heat cost shows that even without subsidies, solar heat cost will beat biomass price
 ## Question
 
 What is the split of district heating in Europe for industry and for households? In Europe for example, district heating are used to supply hot-water in households or separate public buildings.
