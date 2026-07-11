@@ -18,6 +18,9 @@ Data shows that heat losses are very high in the network, especially in the Summ
 - What is the optimal position to place the solar thermal plant to minimise this heat loss effect?
 
 From 2014, investment of 250 euro$/m^2$ was used for solar collectors based on existing projects. Modelling based on solar heat cost shows that even without subsidies, solar heat cost will beat biomass price
+
+Showed that without subsidies, solar thermal technologies were only feasible for six out of seventeen DH systems, and that $50\%$ subsidies are required for the project to the feasible for all participants. 
+- Carbon emissions dropped from $3-14$%, but this was in Summer only, which limited the impact of solar thermal application
 ## Question
 
 What is the split of district heating in Europe for industry and for households? In Europe for example, district heating are used to supply hot-water in households or separate public buildings.
