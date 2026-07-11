@@ -31,7 +31,6 @@
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-2306,"y":606,"width":314,"height":69,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-drive PSO to supplement thermodynamic model of a centralised hot water system.md","x":-2607,"y":867,"width":400,"height":174,"color":"6"},
 		{"id":"0f24fc6f0fc487c1","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~","x":-1935,"y":847,"width":334,"height":124,"color":"6"},
-		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-1880,"y":1380,"width":400,"height":780,"color":"6"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":467,"height":162,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3172,"y":-473,"width":515,"height":186,"color":"3"},
@@ -67,7 +66,8 @@
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1018,"y":-2223,"width":400,"height":127,"color":"1"},
 		{"id":"105f615de74ce3fd","type":"file","file":"PhD-notes/Literature Review/2022 - Something is sustainable in the state of Denmark - A review of the Danish district heating sector.md","x":-1060,"y":-1747,"width":400,"height":121,"color":"1"},
 		{"id":"b5f4da6cb8c5a5ec","type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md","x":-898,"y":-214,"width":400,"height":124,"color":"2"},
-		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2280,"y":1129,"width":400,"height":142,"color":"6"}
+		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2280,"y":1129,"width":400,"height":142,"color":"6"},
+		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-1890,"y":1380,"width":400,"height":780,"color":"6"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
