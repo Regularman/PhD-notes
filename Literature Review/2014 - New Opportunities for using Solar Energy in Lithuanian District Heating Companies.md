@@ -28,7 +28,7 @@ What is the benefit of adding in a new district heating eco-system?
 Does not justify the optimization of storage, and combined power and heat.
 - If you do solar thermal, you will coincide with the low price period of the duck curve
 - You can sign PPA with wind farms to take advantage of wind variability? 
-- The study only simulates the operation of solar thermal in Summer, when the heat loss is the highest. Therefore, it shows very low emission impact between the gas boilers and solar district options. Also does not outline the methodology conducted.
+- The study only simulates the operation of solar thermal in Summer, when the heat loss is the highest and demand is the . Therefore, it shows very low emission impact between the gas boilers and solar district options. Also does not outline the methodology conducted.
 
 ## Further Reading
 
