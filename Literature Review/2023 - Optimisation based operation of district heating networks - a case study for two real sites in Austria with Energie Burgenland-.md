@@ -1,5 +1,6 @@
 https://www.mdpi.com/1996-1073/16/5/2120
 
+cited by 10
 
 https://greenenergylab.at/projects/hybrid-dh-demo/?lang=en
 

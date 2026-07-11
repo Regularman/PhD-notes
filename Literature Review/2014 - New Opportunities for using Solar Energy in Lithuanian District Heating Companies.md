@@ -1,5 +1,5 @@
 [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6844140&tag=1](https://ieeexplore.ieee.org/document/6844140/)
-
+cited by 1
 ## Contribution
 
 Analyses the opportunities for solar district heating in Lithuania using sustainable design principles. There are already established solar thermal plants across Europe. In 2013, Germany takes up to 34% of the solar thermal market in EU.
