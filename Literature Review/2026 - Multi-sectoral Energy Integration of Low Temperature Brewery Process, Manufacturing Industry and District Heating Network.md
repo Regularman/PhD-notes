@@ -1,4 +1,6 @@
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://infoscience.epfl.ch/server/api/core/bitstreams/4cfa7087-c9fa-4613-bfda-0e02e5a38beb/content
+
+cited by 0
 ## Contribution
 
 Research on the value of an industrial energy eco-system, using waste heat from beer and whisky making (0.061 kWh/L and 2.2kWh/L at 95$\degree$ respectively)
