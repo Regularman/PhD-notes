@@ -60,6 +60,8 @@ Ultimately quantified the heat consumption saving using W/$m^2$
 2. Does not consider the length of the pipe network to be a consideration.
 3. Does not quantify the effect of hydraulic imbalance in the network
 
+There are also several problems with this paper 
+
 ## Further Readings
 
 [3] [4] Look at these papers for district cooling and smart thermal grids.
