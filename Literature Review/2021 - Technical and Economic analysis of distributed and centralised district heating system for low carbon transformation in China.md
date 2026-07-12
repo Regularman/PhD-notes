@@ -1,6 +1,7 @@
 
 https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&arnumber=9736089
 
+cited by 0
 ## Contributions
 
 Reviews current studies in distributed versus region level district heating. The paper then proposes a comparison of district heating substation ($SG > 20000$) and building wise substation ($20000 \ge SG \ge 1000$) and household wise heating stations  ($1000>SG$) in terms of 
