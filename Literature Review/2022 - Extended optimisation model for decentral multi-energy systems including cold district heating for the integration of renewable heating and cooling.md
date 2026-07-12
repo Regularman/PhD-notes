@@ -44,7 +44,7 @@ However, in the results, the paper DOES NOT show how they optimised the technolo
 
 Grid temperature is assumed to be constant
 
-Does not consider the location of the district heating plant 
+Does not consider the location of the district heating plant and the type of technology used to heat the plant.
 ## Further Readings
 
 [5] [6] [7] Real world integration of district heating networks
