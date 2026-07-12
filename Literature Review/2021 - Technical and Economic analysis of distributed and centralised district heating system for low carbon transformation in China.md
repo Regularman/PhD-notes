@@ -60,7 +60,10 @@ Ultimately quantified the heat consumption saving using W/$m^2$
 2. Does not consider the length of the pipe network to be a consideration.
 3. Does not quantify the effect of hydraulic imbalance in the network
 
-There are also several problems with this paper 
+There are also several problems with this paper
+
+- The calculation of the economic impacts are done so through empirical data of other heating substations based on coal, and is not relevant to other technologies
+- 
 
 ## Further Readings
 
