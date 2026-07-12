@@ -63,7 +63,6 @@ Ultimately quantified the heat consumption saving using W/$m^2$
 There are also several problems with this paper
 
 - The calculation of the economic impacts are done so through empirical data of other heating substations based on coal, and is not relevant to other technologies
-- 
 
 ## Further Readings
 
