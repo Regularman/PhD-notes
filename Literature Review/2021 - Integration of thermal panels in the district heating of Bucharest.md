@@ -1,5 +1,6 @@
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9614716
 
+cited by 3
 ## Contribution
 
 Proposes the installation of solar thermal panels at district heating substations, looking at the impacts of reducing the cost of domestic hot water production for the end user, and reducing impact of energy production on the environment.
