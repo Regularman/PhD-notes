@@ -1,5 +1,6 @@
 https://www.mdpi.com/1996-1073/18/16/4313
 
+cited by 10
 ## Contributions
 
 Recognised gap in the application of hydrogen heating in industry in the UK, as most projects are focused on residential heating. The paper aims to propose the integration of hydrogen with existing solutions as well as waste heat recovery systems. The Organic Rankine Cycle (ORC) is used to recover power from waste heat. 
