@@ -18,6 +18,9 @@ The solar thermal panel is directly connected to the storage tank. Cold water fr
 - The storage tank is a Viessman Vitocell 340-M
 
 Note that wind is an external factor that influences the efficiency of solar panels, as it cools and ventilate the collecting surface of the solar radiator.
+### Results
+
+
 ## Questions
 
 ## Limitations
