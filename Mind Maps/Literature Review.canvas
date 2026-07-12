@@ -68,7 +68,8 @@
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-1890,"y":1380,"width":400,"height":164,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-1620,"y":421,"width":400,"height":185,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-1180,"y":426,"width":400,"height":114,"color":"6"},
-		{"id":"fce65472aef71176","x":-2340,"y":1420,"width":400,"height":124,"color":"6","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md"}
+		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-2340,"y":1420,"width":400,"height":124,"color":"6"},
+		{"id":"cc911c35c8d729d8","x":-1745,"y":1701,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2025 - Integration of PV-T systems for Hot Water and Heating - Literature Review and Future Directions.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -132,6 +133,7 @@
 		{"id":"74c47ba93712764d","fromNode":"b499a57d38d08989","fromSide":"right","toNode":"34bc062e097f5e6d","toSide":"left"},
 		{"id":"169ca4c224258206","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"105f615de74ce3fd","toSide":"bottom"},
 		{"id":"61378cee09249524","fromNode":"977051ee1d6aecd8","fromSide":"bottom","toNode":"b5f4da6cb8c5a5ec","toSide":"top"},
-		{"id":"cee00ccbb1c30dae","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"fce65472aef71176","toSide":"top"}
+		{"id":"cee00ccbb1c30dae","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"fce65472aef71176","toSide":"top"},
+		{"id":"a7226a49e8ea9c4d","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"cc911c35c8d729d8","toSide":"top"}
 	]
 }
