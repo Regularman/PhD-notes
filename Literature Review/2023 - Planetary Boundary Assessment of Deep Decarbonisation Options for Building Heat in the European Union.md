@@ -49,8 +49,10 @@ The scenarios have the following variables
 - a combination of the two
 - hydrogen only allows hydrogen for heating
 
-Also includes the heat roadmap scenario
+Also includes the heat roadmap scenario, which shows that current European heat roadmap does not align with top down planetary boundaries.
 ### Results
+
+
 ## Questions
 
 ## Limitations
