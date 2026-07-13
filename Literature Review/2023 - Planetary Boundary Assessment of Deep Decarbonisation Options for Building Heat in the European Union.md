@@ -56,3 +56,5 @@ The model then tries to minimize average transgressional level and total cost si
 
 [10] How sectoral coupling and international cooperation can reduce costs and create synergy.
 - [14] Danish case study on the same topic
+
+[49] European Commission data portal gives the cost of delivered electricity, heating oil, natural gas and district heat
