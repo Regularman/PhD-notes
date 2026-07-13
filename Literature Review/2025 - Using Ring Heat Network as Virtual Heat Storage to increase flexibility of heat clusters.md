@@ -1,5 +1,6 @@
 
 https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&arnumber=11096009&tag=1
+cited by 2
 ## Contribution
 
 Develops an optimal dispatch strategy based on virtual heat storage modelling of a ring heat network to improve heat sharing amongst clusters. The virtual heat storage is an intermediate component that engages in dispatch optimisation, coordinating between small clusters.This enables heat interaction amongst clusters and promotes energy efficiency.
