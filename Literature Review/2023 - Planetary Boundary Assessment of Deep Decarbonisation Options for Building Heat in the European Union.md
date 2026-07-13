@@ -56,6 +56,8 @@ Showed that the share of hydrogen for heating has 0 share when optimised for imp
 - However the blue hydrogen case is better than BAU
 
 In the transgression level optimised scenario, heat demand is primarily addressed through the large scale deployment of heat pumps. 
+
+Costs in the hydrogen scenario is primarily driven by 
 ## Questions
 
 ## Limitations
