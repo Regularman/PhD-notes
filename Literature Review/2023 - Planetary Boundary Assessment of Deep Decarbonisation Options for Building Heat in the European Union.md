@@ -48,6 +48,8 @@ The scenarios have the following variables
 - capacity constraints on nuclear or on-shore wind trade
 - a combination of the two
 - hydrogen only allows hydrogen for heating
+
+Also includes the heat roadmap scenario
 ### Results
 ## Questions
 
