@@ -29,7 +29,7 @@
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3818,"y":-1520,"width":378,"height":80,"color":"4"},
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-4120,"y":-1967,"width":340,"height":122,"color":"4"},
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-2306,"y":606,"width":314,"height":69,"color":"6"},
-		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-2607,"y":867,"width":400,"height":677,"color":"6"},
+		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-2607,"y":867,"width":400,"height":713,"color":"6"},
 		{"id":"0f24fc6f0fc487c1","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~","x":-1935,"y":847,"width":334,"height":124,"color":"6"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":467,"height":162,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
@@ -68,7 +68,7 @@
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-1890,"y":1380,"width":400,"height":164,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-1620,"y":421,"width":400,"height":185,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-1180,"y":426,"width":400,"height":114,"color":"6"},
-		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-2340,"y":1420,"width":400,"height":124,"color":"6"}
+		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-2340,"y":1420,"width":400,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
