@@ -53,6 +53,7 @@ Also includes the heat roadmap scenario, which shows that current European heat 
 ### Results
 
 Showed that the share of hydrogen for heating has 0 share when optimised for impact and a very small share when optimised for costs. Highest when purely optimising for cost. It is not possible to stay within planetary boundaries when only using hydrogen. 
+- However the blue hydrogen case is better than BAU
 ## Questions
 
 ## Limitations
