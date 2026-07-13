@@ -62,6 +62,8 @@ Costs in the hydrogen scenario is primarily driven by hydrogen storage costs and
 The prohibition of international trade and storage also greatly increased cost when optimising for the transgression levels.
 
 Found that investment cost of a ground source heat pump used for district heating results in higher costs, not making up for the efficiency gains compared with air sourced heat pumps.
+
+Also compared total cost of meeting heat demand using gas grid, district heating and individual. Found that district heating was the most expensive, and then individual, and then gas grid. However, should perform sensit
 ## Questions
 
 ## Limitations
