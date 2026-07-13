@@ -47,7 +47,7 @@ The scenarios have the following variables
 - no trade
 - no nuclear or on-shore wind
 - a combination of the two
-- hydrogen only allows hydorgen for hea
+- hydrogen only allows hydrogen for heating
 ### Results
 ## Questions
 
@@ -56,6 +56,7 @@ The scenarios have the following variables
 - Excluded e-boilers, geothermal, and solar thermal heating options due to limited universal applicability and lower COP for e-boilers.
 - Did not consider interactions with incumbent power systems, but included low carbon technologies as well as nuclear, coal, and gas turbines.
 - Does not consider residential and industry synergy and how they will perform in terms of the transgressional level
+- Does not fully consider a comparison of the different heating technologies
 ## Further Readings
 
 [9] [8] How future heating systems can meet certain emissions targets through electrification, biomass combustion, fossil fuel and the utilization of alternative energy carriers.
