@@ -14,6 +14,8 @@ Looks at the optimal technology mix for decarbonising building heat in the EU an
 
 Saying that literature largely ignores the impact of hydrogen on decarbonising the heat industry
 
+### Set-up
+
 Looks at the residential space heating, hot water heating, and service sector building heating (excluding industrial and process heating). Also considered three different centralisation scenarios.
 - connected to gas grid
 - connected to central district heating
@@ -39,6 +41,8 @@ Uses SimaPro to extract each elements' impact values, and then collated in the 9
 
 The model then tries to minimize average transgressional level and total cost simultaneously using epsilon constraint method.
 - The impact category is minimised first, and then cost was the secondary minimisation done
+- Introduced a slack variable which penalises the optimisation function when exceeding the boundary
+### Results
 ## Questions
 
 ## Limitations
