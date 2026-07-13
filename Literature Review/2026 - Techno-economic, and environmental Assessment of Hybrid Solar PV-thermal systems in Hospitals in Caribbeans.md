@@ -1,4 +1,5 @@
 https://www.mdpi.com/2673-4117/7/2/85
+Cited by 2
 ## Contributions
 
 Addresses the gap in literature in the integration of PV-solar thermal systems as a CHP option, as well as its interaction with hospital HVAC systems.
