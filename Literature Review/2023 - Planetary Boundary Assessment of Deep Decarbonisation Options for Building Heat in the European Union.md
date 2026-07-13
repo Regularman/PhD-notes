@@ -1,5 +1,5 @@
 https://www.sciencedirect.com/science/article/pii/S0196890422013802
-Cited by 36
+Cited by 49
 ## Contributions
 
 Looks at the optimal technology mix for decarbonising building heat in the EU and staying within planetary boundaries.
