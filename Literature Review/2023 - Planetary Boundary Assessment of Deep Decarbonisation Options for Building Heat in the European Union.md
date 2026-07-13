@@ -52,6 +52,7 @@ The scenarios have the following variables
 Also includes the heat roadmap scenario, which shows that current European heat roadmap does not align with top down planetary boundaries.
 ### Results
 
+Showed that the share of hydrogen for heating 
 
 ## Questions
 
