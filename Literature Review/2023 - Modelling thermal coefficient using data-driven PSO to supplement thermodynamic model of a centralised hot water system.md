@@ -1,3 +1,4 @@
+https://ieeexplore.ieee.org/document/10476556
 ## Contribution 
 
 Uses a mechanistic model and particle swarm optimisation (This is used to optimise the parameters in real time to improve the accuracy of the model) to visualise thermal behaviour and energy flow of district heating system. This connects the heat network, the heat users, and the exchange stations, with the variables being 
