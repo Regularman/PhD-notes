@@ -37,7 +37,7 @@ Uses SimaPro to extract each elements' impact values, and then collated in the 9
 
 ### Bi-criteria optimisation
 
-The model then tries to minimise average transgressional level and total cost simultaneously the 
+The model then tries to minimize average transgressional level and total cost simultaneously using epsilon constraint method.
 ## Questions
 
 ## Limitations
