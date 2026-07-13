@@ -63,7 +63,8 @@ The prohibition of international trade and storage also greatly increased cost w
 
 Found that investment cost of a ground source heat pump used for district heating results in higher costs, not making up for the efficiency gains compared with air sourced heat pumps.
 
-Also compared total cost of meeting heat demand using gas grid, district heating and individual. Found that district heating was the most expensive, and then individual, and then gas grid. However, should perform sensit
+Also compared total cost of meeting heat demand using gas grid, district heating and individual. Found that district heating was the most expensive, and then individual, and then gas grid. However, should perform sensitivities to understand why this is so.
+- In the electrification scenario, a large portion of the 
 ## Questions
 
 ## Limitations
