@@ -44,8 +44,8 @@ The model then tries to minimize average transgressional level and total cost si
 - Introduced a slack variable which penalises the optimisation function when exceeding the boundary
 
 The scenarios have the following variables
-- no trade
-- no nuclear or on-shore wind
+- no trade and collaboration in energy carriers, shared geological storage capacity
+- capacity constraints on nuclear or on-shore wind trade
 - a combination of the two
 - hydrogen only allows hydrogen for heating
 ### Results
