@@ -42,6 +42,12 @@ Uses SimaPro to extract each elements' impact values, and then collated in the 9
 The model then tries to minimize average transgressional level and total cost simultaneously using epsilon constraint method.
 - The impact category is minimised first, and then cost was the secondary minimisation done
 - Introduced a slack variable which penalises the optimisation function when exceeding the boundary
+
+The scenarios have the following variables
+- no trade
+- no nuclear or on-shore wind
+- a combination of the two
+- hydrogen only allows hydorgen for hea
 ### Results
 ## Questions
 
