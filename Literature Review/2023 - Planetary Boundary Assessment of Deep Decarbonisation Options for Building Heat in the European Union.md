@@ -37,7 +37,7 @@ Uses SimaPro to extract each elements' impact values, and then collated in the 9
 - Safe Operating Space is assigned based on an egilitarian approach
 - A single score is then created through an equal weighting approach (equal weighting to equally consider all impact categories)
 
-Simulation was done in a reference year in 2040, with the tech
+Simulation was done in a reference year in 2040, with the technology mix being a linear intrapolation of the 2030 and 2050 technology mix.
 ### Bi-criteria optimisation
 
 The model then tries to minimize average transgressional level and total cost simultaneously using epsilon constraint method.
