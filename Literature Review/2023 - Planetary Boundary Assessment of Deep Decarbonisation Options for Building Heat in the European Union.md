@@ -60,6 +60,8 @@ In the transgression level optimised scenario, heat demand is primarily addresse
 Costs in the hydrogen scenario is primarily driven by hydrogen storage costs and the significant amount of electricity required for green hydrogen production.
 
 The prohibition of international trade and storage also greatly increased cost when optimising for the transgression levels.
+
+Found that investment cost of a ground source heat pump used for district heating results in higher costs, not making up for the efficiency gains compared with air sourced heat pumps.
 ## Questions
 
 ## Limitations
