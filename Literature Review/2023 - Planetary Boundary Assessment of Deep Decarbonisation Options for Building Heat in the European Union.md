@@ -57,7 +57,7 @@ Showed that the share of hydrogen for heating has 0 share when optimised for imp
 
 In the transgression level optimised scenario, heat demand is primarily addressed through the large scale deployment of heat pumps. 
 
-Costs in the hydrogen scenario is primarily driven by 
+Costs in the hydrogen scenario is primarily driven by hydrogen storage costs and the significant amount of electricity required for green hydrogen production.
 ## Questions
 
 ## Limitations
