@@ -31,7 +31,7 @@
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-2306,"y":606,"width":314,"height":69,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-2607,"y":867,"width":400,"height":133,"color":"6"},
 		{"id":"0f24fc6f0fc487c1","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~","x":-1935,"y":847,"width":334,"height":124,"color":"6"},
-		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":498,"height":157,"color":"3"},
+		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":498,"height":308,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3172,"y":-473,"width":412,"height":175,"color":"3"},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1992,"y":-600,"width":400,"height":172,"color":"3"},
@@ -68,7 +68,7 @@
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-1620,"y":421,"width":400,"height":185,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-1180,"y":426,"width":400,"height":114,"color":"6"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2540,"y":1093,"width":400,"height":142,"color":"6"},
-		{"id":"755cbf38b35c5729","x":-2349,"y":1520,"width":400,"height":149,"color":"6","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md"},
+		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-2349,"y":1520,"width":400,"height":149,"color":"6"},
 		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-2340,"y":1350,"width":400,"height":90,"color":"6"}
 	],
 	"edges":[
