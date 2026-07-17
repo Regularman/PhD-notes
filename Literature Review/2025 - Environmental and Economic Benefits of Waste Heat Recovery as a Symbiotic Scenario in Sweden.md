@@ -23,3 +23,4 @@ Performed using Eco-Invent v3.8
 ## Limitations
 
 - Does not look at all the planetary boundaries.
+- Does not consider the piping
