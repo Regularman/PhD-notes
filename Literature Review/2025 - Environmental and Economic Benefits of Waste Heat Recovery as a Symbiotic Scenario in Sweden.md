@@ -26,12 +26,14 @@ Performed using Eco-Invent v3.8
 
 ### Impact Assessment
 
-SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 midpoint method for data analysis. In this sense, does not talk about the safe operating space of the greenhouse/tomato growing process
+SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 midpoint method for data analysis. In this sense, does not talk about the safe operating space of the greenhouse/tomato growing process, only the midpoint environmental impacts.
+
+- Characterisation identifies the impacts of different processes to the midpoints
 ## Further Readings
 
 [11] [15] [16] Highlights environmental impacts of other symbiotic relationships.
 [18] Methodological aspect of applying eco-efficiency indicators to industrial symbiosis networks.
 ## Limitations
 
-- Does not look at all the planetary boundaries.
+- Looked at midpoint impacts rather than planetary boundari
 - Does not consider the piping
