@@ -19,5 +19,6 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 - Ignored geothermal and solar thermal due to limited universal applicability
 - Ignored biomass utilization for electricity or hydrogen
 - Transportation incorporated by simplified country level representations
-- HV, MV, LC grids are modelled for 
+- HV, MV, LC grids are modelled for electricity distribution
+- Hydrogen distribution networks are modelled along gas networks.
 
