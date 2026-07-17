@@ -53,5 +53,9 @@ WTL = Transgression level optimised
 The scenario analysis allows different futures to be analysed within the framework of cost and planetary boundary transgression levels.
 
 Showed that green hydrogen and blue hydrogen is more expensive and still impedes on several planetary boundary.
+
+![[Screenshot 2026-07-17 153922.png]]
+
+Ultimately showed that over 75% blue hydrogen is required for cost competitiveness. But this is not the most environmentally friendly option. 
 ## Limitations
 
