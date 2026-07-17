@@ -18,7 +18,10 @@ The boundary covers the supply chain of infrastructure and fuel from outside EU2
 **~={green}Reference Year=~**: Reference year was split up into $12$ time periods, characterized by average  heating demands, capacity factors for renewable energy and COP of heat pumps.
 
 Life cycle assessment is done through the normal ISO14040 methodology.
-- The full lifecycle impact per unit of capacity was chosen to take into account 
+- The full lifecycle impact per unit of capacity was chosen to take into account the variability of VRE. This is sourced from Eco-invent and other data sources
+- Impact values are extracted from SimaPro
+
+**~={green}aSOS=~:**
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
