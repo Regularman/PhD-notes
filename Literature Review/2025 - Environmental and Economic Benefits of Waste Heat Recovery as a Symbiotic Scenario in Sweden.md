@@ -5,7 +5,10 @@ https://www.scopus.com/pages/publications/105002283497?origin=resultslist
 The contribution of this paper is that it highlights if waste heat recovery is comparable economically to fossil fuel, and what are the environmental and financial impacts?
 - This is validated using a real case example of greenhouse in Sweden, the Frovi demonstration case (First large scale vegetable greenhouse in Sweden to repurpose low-grade industrial waste heat.)
 
-The study analyses 
+The study analyses 5 different scenarios:
+
+- 1.1: Frovi greenhouse with all electricity from hydropower, and all heat is supplied by pulp and paper mill
+- 1.2 electricity from grid and heat from biomass. Water is supplied from municipal supply, lake, and rain.
 SimaPro is used for mapping the impacts of each process.
 ## Method
 
