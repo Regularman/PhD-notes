@@ -14,7 +14,7 @@ The study analyses 5 different scenarios:
 - 2: Tomato from sweden: Grid electricity, heat from natural gas, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface)
 - 3:  Tomato from Netherlands: Grid electricity, heat from natural gas, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface), includes transport from Netherlands to Sweden. CO2 is from CHP system onsite.
 
-SimaPro is used for mapping the impacts of each process. Note that the last two are in Eco-invent database already
+Note that the last two are in Eco-invent database already
 ## Method
 
 Cradle to gate approach, evaluating environmental impacts from raw material extraction to the product facility's gate, excluding use and disposal phases.
@@ -24,6 +24,9 @@ Function unit: heat demand of greenhouse to produce 1 kg of tomato, over the tot
 
 Performed using Eco-Invent v3.8
 
+### Impact Assessment
+
+SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 midpoint method for data analysis. In this sense, does not talk about the safe operating space of the greenhouse/tomato growing process
 ## Further Readings
 
 [11] [15] [16] Highlights environmental impacts of other symbiotic relationships.
