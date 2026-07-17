@@ -47,7 +47,9 @@ no-N/O = capacity constraint on international transmission of nuclear and offsho
 PG - Political gridlock 
 Hyd = hydrogen only
 Cost = cost minimisation
-cost+ = Transgression level and then cost
-WTL = Transgression leevl optimised
+cost+ = Transgression level and then cost optimised
+WTL = Transgression level optimised
+
+th
 ## Limitations
 
