@@ -22,6 +22,8 @@ Life cycle assessment is done through the normal ISO14040 methodology.
 - Impact values are extracted from SimaPro
 
 **~={green}aSOS:=~** The assigned safe operating space is downscaled through grandfathering principles of share of GHG emissions of the heating sector.
+
+**~={green}Optimisation:=~** Ultimately
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
