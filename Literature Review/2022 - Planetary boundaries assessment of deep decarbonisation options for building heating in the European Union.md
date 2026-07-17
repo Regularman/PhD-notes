@@ -10,7 +10,10 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 ## Method
 
 ~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
+
+~={green}**System Boundaries:**=~ 
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
+- Ignored electricity resistive heaters 
 
