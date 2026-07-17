@@ -13,6 +13,7 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 
 ~={green}**System Boundaries:**=~ 
 
+**~={green}Reference Year=~**: Reference year was split up into $12$ time periods, characterised by 
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
