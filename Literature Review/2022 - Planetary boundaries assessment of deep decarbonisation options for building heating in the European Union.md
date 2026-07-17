@@ -63,4 +63,4 @@ The WTL case is driven by extended electrification through heat pumping technolo
 
 ## Further Readings
 
-Look at 
+Look at PyPSA-Eur-Sec [9] and JRC-EU-TIMES [8] for how heating systems can satisfy continent wide demands. 
