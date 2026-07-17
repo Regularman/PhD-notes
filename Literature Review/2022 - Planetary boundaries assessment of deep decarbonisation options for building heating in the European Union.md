@@ -16,4 +16,5 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
 - Ignored electricity resistive heaters 
+- Ignored geothermal and solar thermal due to limited universal applicability
 
