@@ -8,7 +8,10 @@ The contribution of this paper is that it highlights if waste heat recovery is c
 SimaPro is used for mapping the impacts of each process and Ecoinvent v3.8 as a database for the inputs, outputs, energy, materials, and expenses
 ## Method
 
+Cradle to gate approach, evaluating environmental impacts from 
 ### LCI
+
+Performed using Eco-Invent v3.8
 
 ## Further Readings
 
@@ -17,4 +20,3 @@ SimaPro is used for mapping the impacts of each process and Ecoinvent v3.8 as a 
 ## Limitations
 
 - Does not look at all the planetary boundaries.
-- Does not define the functional unit?
