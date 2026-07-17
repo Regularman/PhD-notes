@@ -7,6 +7,7 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 - Addresses the gap of the lack of consideration for green and blue hydrogen 
 - Looks at the impacts of three centralisation scenarios. Connected to the gas grid, connected to a district heating grid, and individual users (biomass or electrical heat pumps).
 
+Highlights that current plans such as the European Heat Roadmap is insufficient to keep under the planetary boundaries.
 ## Method
 
 ~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
@@ -24,8 +25,8 @@ Life cycle assessment is done through the normal ISO14040 methodology.
 **~={green}aSOS:=~** The assigned safe operating space is downscaled through grandfathering principles of share of GHG emissions of the heating sector.
 
 **~={green}Optimisation:=~** Ultimately, the LP is formulated as a bi-criteria optimisation problem that solves for transgression level and total cost simultaneously
-1. First solve for transgression level, then optimise cost of operating within the safe operating space
-2. If planetary boundaries cannot be kept und
+1. First solve for transgression level, then optimise cost of operating within the safe operating space by introducing a slack variable
+2. If planetary boundaries cannot be kept under carrying capacity, just minimise the cost.
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
