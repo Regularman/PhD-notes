@@ -11,7 +11,8 @@ The study analyses 5 different scenarios:
 - 1.2 electricity from grid and heat from biomass. Water is supplied from municipal supply, lake, and rain
 - 1.3: Grid electricity, natural gas heat, and water from local supplies
 - 2: Grid electricity, heat from biomass, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface)
-- 
+- 2: Tomato from sweden: Grid electricity, heat from natural gas, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface)
+- 3:  Tomato from Netherlands: Grid electricity, heat from natural gas, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface), includes transport from Netherlands to Sweden. CO2 is from CHP system 
 SimaPro is used for mapping the impacts of each process.
 ## Method
 
