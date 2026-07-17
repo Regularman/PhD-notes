@@ -8,7 +8,10 @@ The contribution of this paper is that it highlights if waste heat recovery is c
 The study analyses 5 different scenarios:
 
 - 1.1: Frovi greenhouse with all electricity from hydropower, and all heat is supplied by pulp and paper mill
-- 1.2 electricity from grid and heat from biomass. Water is supplied from municipal supply, lake, and rain.
+- 1.2 electricity from grid and heat from biomass. Water is supplied from municipal supply, lake, and rain
+- 1.3: Grid electricity, natural gas heat, and water from local supplies
+- 2: Grid electricity, heat from biomass, and water is from generic irrigation (6% drip, 24% sprinkler, 70% surface)
+- 
 SimaPro is used for mapping the impacts of each process.
 ## Method
 
