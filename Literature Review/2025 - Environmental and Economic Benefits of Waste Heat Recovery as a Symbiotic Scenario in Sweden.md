@@ -35,5 +35,6 @@ SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 mi
 [18] Methodological aspect of applying eco-efficiency indicators to industrial symbiosis networks.
 ## Limitations
 
-- Looked at midpoint impacts rather than planetary boundari
+- Looked at midpoint impacts rather than planetary boundaries
 - Does not consider the piping
+- Did not perform optimisation to see what technology mix will best decarbonise the greenhouse, rather focusing on investigating the Frovis case study
