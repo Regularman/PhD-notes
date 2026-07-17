@@ -19,7 +19,7 @@ SimaPro is used for mapping the impacts of each process. Note that the last two 
 
 Cradle to gate approach, evaluating environmental impacts from raw material extraction to the product facility's gate, excluding use and disposal phases.
 
-Function unit: heat demand of greenhouse to produce 1 kg of tomato, over the total impact of the 
+Function unit: heat demand of greenhouse to produce 1 kg of tomato, over the total lifetime (30years) of the greenhouse
 ### LCI
 
 Performed using Eco-Invent v3.8
