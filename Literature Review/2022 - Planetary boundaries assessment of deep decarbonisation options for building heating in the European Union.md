@@ -50,6 +50,8 @@ Cost = cost minimisation
 cost+ = Transgression level and then cost optimised
 WTL = Transgression level optimised
 
-th
+The scenario analysis allows different futures to be analysed within the framework of cost and planetary boundary transgression levels.
+
+Showed that green hydrogen and blue hydrogen is more expensive and still impedes on several planetary b
 ## Limitations
 
