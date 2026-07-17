@@ -21,7 +21,7 @@ Life cycle assessment is done through the normal ISO14040 methodology.
 - The full lifecycle impact per unit of capacity was chosen to take into account the variability of VRE. This is sourced from Eco-invent and other data sources
 - Impact values are extracted from SimaPro
 
-**~={green}aSOS=~:**
+**~={green}aSOS:=~** The assigned safe operating space is downscaled through grandfathering principles of share of GHG emissions of the heating sector.
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
