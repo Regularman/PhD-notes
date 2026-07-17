@@ -60,5 +60,5 @@ The figure above showed the total cost per unit of heating demand met for differ
 
  ![[Screenshot 2026-07-17 154201.png]]
 The WTL case is driven by extended electrification through heat pumping technologies.
-## Limitations
+
 
