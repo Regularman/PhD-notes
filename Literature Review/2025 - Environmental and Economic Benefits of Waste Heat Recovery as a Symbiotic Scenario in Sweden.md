@@ -3,6 +3,7 @@ https://www.scopus.com/pages/publications/105002283497?origin=resultslist
 ## Contributions
 
 The contribution of this paper is that it highlights if waste heat recovery is comparable economically to fossil fuel, and what are the environmental and financial impacts?
+- This is validated using a real case example of greenhouse in Sweden, the Frovi demonstration case (First large scale vegetable greenhouse in Sweden to repurpo)
 ## Method
 
 
