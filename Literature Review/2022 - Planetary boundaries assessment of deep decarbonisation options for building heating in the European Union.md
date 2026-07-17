@@ -11,7 +11,7 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 
 ~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
 
-~={green}**System Boundaries:**=~ Analysis is done at the country level. Average values for natural resource availability
+~={green}**System Boundaries:**=~ Analysis is done at the country level. Average values for natural resource availability and heating demand, area and population density dependent transmission infrastructure and country specific geological storage
 
 **~={green}Reference Year=~**: Reference year was split up into $12$ time periods, characterized by average  heating demands, capacity factors for renewable energy and COP of heat pumps.
 ### Assumptions
