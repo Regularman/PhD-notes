@@ -23,7 +23,7 @@ Life cycle assessment is done through the normal ISO14040 methodology.
 
 **~={green}aSOS:=~** The assigned safe operating space is downscaled through grandfathering principles of share of GHG emissions of the heating sector.
 
-**~={green}Optimisation:=~** Ultimately
+**~={green}Optimisation:=~** Ultimately, the LP is formulated as a bi-criteria optimisation probelm that solves for transgression level and total cost simultaneously
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
