@@ -11,9 +11,12 @@ Looks at the optimal technology mix to stay within the planetary boundaries for 
 
 ~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
 
-~={green}**System Boundaries:**=~ Analysis is done at the country level. Average values for natural resource availability and heating demand, area and population density dependent transmission infrastructure and country specific geological storage
+~={green}**System Boundaries:**=~ Analysis is done at the country level. Average values for natural resource availability and heating demand, area and population density dependent transmission infrastructure and country specific geological storage.
 ![[Screenshot 2026-07-17 151645.png]]
+The boundary covers the supply h
 **~={green}Reference Year=~**: Reference year was split up into $12$ time periods, characterized by average  heating demands, capacity factors for renewable energy and COP of heat pumps.
+
+Life cycle assessment is done through the normal ISO14040 methdology.
 ### Assumptions
 
 - Includes all residential space heating, hot water heating, and service sector building heating 
