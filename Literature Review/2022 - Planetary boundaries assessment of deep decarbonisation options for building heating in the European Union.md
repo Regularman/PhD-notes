@@ -5,11 +5,12 @@ https://www.sciencedirect.com/science/article/pii/S0196890422013802
 Looks at the optimal technology mix to stay within the planetary boundaries for residential heating needs, with the influence of international trade and cooperation (for transmission and storage sharing)
 
 - Addresses the gap of the lack of consideration for green and blue hydrogen 
+- Looks at the impacts of three centralisation scenarios. Connected to the gas grid, connected to a district heating grid, and individual users (biomass or electrical heat pumps).
 
 ## Method
 
 ~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
 ### Assumptions
 
-- Includes 
+- Includes all residential space heating, hot water heating, and service sector building heating 
 
