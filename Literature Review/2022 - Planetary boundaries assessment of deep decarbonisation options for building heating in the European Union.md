@@ -57,5 +57,8 @@ Showed that green hydrogen and blue hydrogen is more expensive and still impedes
 ![[Screenshot 2026-07-17 153922.png]]
 
 The figure above showed the total cost per unit of heating demand met for different end user types. Ultimately showed that over 75% blue hydrogen is required for cost competitiveness. But this is not the most environmentally friendly option, given the proportion connected to each technology,
+
+ ![[Screenshot 2026-07-17 154201.png]]
+The WTL case is driven by extended electrification through heat pumping technologies.
 ## Limitations
 
