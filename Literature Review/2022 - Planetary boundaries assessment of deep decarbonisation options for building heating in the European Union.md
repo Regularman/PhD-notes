@@ -63,7 +63,7 @@ The WTL case is driven by extended electrification through heat pumping technolo
 
 ## Limitations
 
-Does not look at the coupling between power and heat sectors which can drive sy
+Does not look at the coupling between power and heat sectors which can drive synergy in carbon emission reductions. 
 ## Further Readings
 
 Look at PyPSA-Eur-Sec [9] and JRC-EU-TIMES [8] for how heating systems can satisfy continent wide demands. 
