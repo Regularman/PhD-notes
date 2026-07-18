@@ -22,7 +22,7 @@ Cradle to gate approach, evaluating environmental impacts from raw material extr
 Function unit: heat demand of greenhouse to produce 1 kg of tomato, over the total lifetime (30years) of the greenhouse
 ### LCI
 
-Performed using Eco-Invent v3.8. the study also identified all upstream and downs
+Performed using Eco-Invent v3.8. the study also identified all upstream and downstream processes to include within the boundary of the industry. 
 
 ### Impact Assessment
 
