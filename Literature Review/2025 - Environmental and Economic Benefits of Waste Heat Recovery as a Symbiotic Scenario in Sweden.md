@@ -33,6 +33,8 @@ SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 mi
 
 [11] [15] [16] Highlights environmental impacts of other symbiotic relationships.
 [18] Methodological aspect of applying eco-efficiency indicators to industrial symbiosis networks.
+[43] How waste heat can help algae biofuel
+
 ## Limitations
 
 - Looked at midpoint impacts rather than planetary boundaries
