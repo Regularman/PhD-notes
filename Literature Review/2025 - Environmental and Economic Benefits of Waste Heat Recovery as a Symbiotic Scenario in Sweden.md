@@ -22,16 +22,19 @@ Cradle to gate approach, evaluating environmental impacts from raw material extr
 Function unit: heat demand of greenhouse to produce 1 kg of tomato, over the total lifetime (30years) of the greenhouse
 ### LCI
 
-Performed using Eco-Invent v3.8
+Performed using Eco-Invent v3.8. the study also identified all upstream and downs
 
 ### Impact Assessment
 
 SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 midpoint method for data analysis. In this sense, does not talk about the safe operating space of the greenhouse/tomato growing process, only the midpoint environmental impacts.
 
 - Characterisation identifies the impacts of different processes to the midpoints
--Showed that the industrial symbiosis case has a lower environmental impact in 17/18 of the categories compared to traditional cases. However, it is more expensive that the if the Frovis greenhouse was supplied by natural gas.
->> Comments on the high capex required for the industrial case, which is a barrier for entry
->> Ultimately showed other hotspots in the midpoint impacts such as the construction and materials of the greenhouse. Subsequently, in my own study, I need to consider if these should be included in the system boundary.
+
+Showed that the industrial symbiosis case has a lower environmental impact in 17/18 of the categories compared to traditional cases. However, it is more expensive that the if the Frovis greenhouse was supplied by natural gas.
+
+Comments on the high capex required for the industrial case, which is a barrier for entry
+
+Ultimately showed other hotspots in the midpoint impacts such as the construction and materials of the greenhouse. Subsequently, in my own study, I need to consider if these should be included in the system boundary.
 ## Further Readings
 
 [11] [15] [16] Highlights environmental impacts of other symbiotic relationships.
@@ -43,6 +46,4 @@ SimaPro is used for mapping the impacts of each process. Used the ReCiPe 2016 mi
 - Looked at midpoint impacts rather than planetary boundaries
 - Does not consider the piping
 - Did not perform optimisation to see what technology mix will best decarbonise the greenhouse, rather focusing on investigating the Frovis case study
-- Showed that the industrial symbiosis case has a lower environmental impact in 17/18 of the categories compared to traditional cases. However, it is more expensive that the if the Frovis greenhouse was supplied by natural gas.
-- Comments on the high capex required for the industrial case, which is a barrier for entry
-- Ultimately showed other hotspots in the midpoint impacts such as the construction and materials of the greenhouse. Subsequently, in my own study, I need to consider if these should be included in the system boundary.
+- The Industrial Symbiosis case had electricity supplied by local hydropower, which increased freshwater usage impact. Can explore other renewable energy types?
