@@ -72,7 +72,8 @@
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2335,"y":1048,"width":400,"height":252,"color":"6"},
 		{"id":"b0c96b0fb44522b2","x":-3860,"y":-2694,"width":400,"height":188,"color":"4","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md"},
 		{"id":"dab74b6c50026f51","x":-3715,"y":-2383,"width":250,"height":60,"color":"4","type":"text","text":"# ~={green} LCA of 5GDH=~"},
-		{"id":"e8db92b4073c7240","x":-2932,"y":1250,"width":400,"height":180,"color":"6","type":"file","file":"2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md"}
+		{"id":"e8db92b4073c7240","x":-2932,"y":1250,"width":400,"height":180,"color":"6","type":"file","file":"2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md"},
+		{"id":"d48b6c74b5c5bf39","x":-3309,"y":-2588,"width":400,"height":148,"color":"4","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
