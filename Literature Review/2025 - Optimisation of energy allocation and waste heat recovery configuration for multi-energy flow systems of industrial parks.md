@@ -40,3 +40,7 @@ The model is solved for the intraplant model first and then the integrated desig
 ## Results
 
 Analysed under two case studies. Case 1 has 8 plants and Case 2 is a 6 plant industrial park that removes two from case 1 and reduces a significant amount of waste heat and a part of the cooling demand.
+
+Leaving heat exchange integration to the intra-plant level will leave significant amount of waste heat under-utilised, which results in energy inefficiencies.
+
+Furthermore, different waste heat
