@@ -16,4 +16,4 @@ https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 [53] Dynamic modeling of local district heating grids with prosumers, a case study for norway. Looks at how a low temperature energy grid is able to reduce heating demand.
 
 [55] Compares optimised DH with gas fired systems in Cologne and San Francisco.
-[64] Uses a solar thermal trough and organic rankine cycle to produce drinkable water nd electrci
+[64] Uses a solar thermal trough and organic rankine cycle to produce drinkable water and electricity for a district.
