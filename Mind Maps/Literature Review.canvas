@@ -73,10 +73,11 @@
 		{"id":"e8db92b4073c7240","type":"file","file":"2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-2932,"y":1250,"width":400,"height":180,"color":"6"},
 		{"id":"cabd4f6f1b11d73e","type":"text","text":"# ~={cyan}Industrial Symbiosis=~","x":-3113,"y":-2302,"width":296,"height":79,"color":"5"},
 		{"id":"3d883f1f28782585","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-2869,"y":-2694,"width":400,"height":148,"color":"5"},
-		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} LCA of 5GDH=~","x":-3710,"y":-2322,"width":250,"height":60,"color":"4"},
 		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3217,"y":-2920,"width":400,"height":148,"color":"5"},
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3745,"y":-3040,"width":400,"height":163,"color":"5"},
-		{"id":"b0c96b0fb44522b2","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-4150,"y":-2772,"width":400,"height":188,"color":"4"}
+		{"id":"2196cdc67e2fd38d","x":-3709,"y":-2677,"width":400,"height":197,"color":"5","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md"},
+		{"id":"b0c96b0fb44522b2","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-4560,"y":-2846,"width":400,"height":188,"color":"4"},
+		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} LCA of 5GDH=~","x":-3995,"y":-2362,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
