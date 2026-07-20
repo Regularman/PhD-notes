@@ -49,4 +49,7 @@ Furthermore, different waste heat recovery configurations are proposed.
 - Distributed WHRC
 - Distributed WHRC without any cold sharing
 
-Ultimately shows that purely centralised and 
+Ultimately shows that purely centralised and purely distributed system is suboptimal within complex industrial parks. Hybrid mode saves 2-8.5% in total cost compared to using a single predefined configuration mode.
+
+Does not look at operational variability.
+- Need to discuss resilience!
