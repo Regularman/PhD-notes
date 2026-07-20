@@ -9,6 +9,10 @@ Does not perform optimisation of the technology mix or sizing, rather the study 
 
 Ultimately showed carbon emission savings of up to 133% and project payback period of 27 years, which shows that the project is not very feasible due to the high capex investment required.
 
+![[Screenshot 2026-07-20 170324.png]]
+
+The size of the solar and wind were chosen to maximise the amount of s
+
 ## Limitations
 
 The study also does not consider dynamic demand portfolios and use trace data of weather to simulate renewable production. It looks at the performance and operation of the system on a typical winter's day.
