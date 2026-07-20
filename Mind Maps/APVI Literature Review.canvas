@@ -1,13 +1,17 @@
 {
 	"nodes":[
-		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":247,"width":400,"height":163},
-		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":841,"y":-840,"width":400,"height":200},
-		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":200,"y":-480,"width":520,"height":148},
-		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-400,"y":-492,"width":400,"height":160},
-		{"id":"ef3a740c238fd978","x":93,"y":-789,"width":203,"height":98,"type":"text","text":"# LCA"}
+		{"id":"ef3a740c238fd978","x":93,"y":-789,"width":203,"height":98,"type":"text","text":"# LCA"},
+		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-367,"y":-320,"width":460,"height":148},
+		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":195,"y":-320,"width":400,"height":160},
+		{"id":"fde0c37cc41dc5f1","x":73,"y":160,"width":322,"height":111,"type":"text","text":"# Industrial Symbiosis"},
+		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":480,"width":400,"height":163},
+		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-327,"y":-1200,"width":400,"height":200}
 	],
 	"edges":[
-		{"id":"f919326c25a27a16","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"ac1d7044b18b349d","toSide":"top"},
-		{"id":"ab94fe5b277fd17e","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"3cf06d37fcf84374","toSide":"top"}
+		{"id":"568681f562466958","fromNode":"ef3a740c238fd978","fromSide":"top","toNode":"19d5b4ca686b5e92","toSide":"bottom"},
+		{"id":"a23262030a90d284","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"3cf06d37fcf84374","toSide":"top"},
+		{"id":"3e76834e0f3bc8fe","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"ac1d7044b18b349d","toSide":"top"},
+		{"id":"26fae3b6e97e8835","fromNode":"fde0c37cc41dc5f1","fromSide":"top","toNode":"3cf06d37fcf84374","toSide":"bottom"},
+		{"id":"82c4b0d333176c4a","fromNode":"fde0c37cc41dc5f1","fromSide":"top","toNode":"ac1d7044b18b349d","toSide":"bottom"}
 	]
 }
