@@ -1,11 +1,9 @@
 {
 	"nodes":[
-		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":441,"y":99,"width":400,"height":148,"color":"2"},
-		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":247,"width":400,"height":163,"color":"2"},
-		{"id":"d448c4bc68e61749","type":"text","text":"# Industrial Symbiosis","x":168,"y":-509,"width":392,"height":60},
-		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-307,"y":-160,"width":400,"height":188,"color":"2"},
-		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-1040,"y":-127,"width":400,"height":226,"color":"2"},
-		{"id":"c8bdce9d02bd07e0","type":"text","text":"# LCA","x":-600,"y":-509,"width":160,"height":60}
+		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":441,"y":99,"width":400,"height":148},
+		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":247,"width":400,"height":163},
+		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-307,"y":-160,"width":400,"height":188},
+		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-360,"y":-840,"width":400,"height":160}
 	],
 	"edges":[]
 }
