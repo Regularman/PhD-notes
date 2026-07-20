@@ -70,12 +70,13 @@
 		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-2340,"y":1350,"width":400,"height":130,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-1690,"y":456,"width":400,"height":124,"color":"6"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-2335,"y":1048,"width":400,"height":130,"color":"6"},
-		{"id":"b0c96b0fb44522b2","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-3860,"y":-2694,"width":400,"height":188,"color":"4"},
-		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} LCA of 5GDH=~","x":-3715,"y":-2383,"width":250,"height":60,"color":"4"},
 		{"id":"e8db92b4073c7240","type":"file","file":"2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-2932,"y":1250,"width":400,"height":180,"color":"6"},
-		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3309,"y":-2694,"width":400,"height":148,"color":"4"},
-		{"id":"cabd4f6f1b11d73e","x":-3113,"y":-2302,"width":268,"height":79,"color":"4","type":"text","text":"# ~={green}Industrial Symbiosis=~"},
-		{"id":"3d883f1f28782585","x":-2869,"y":-2694,"width":400,"height":148,"color":"4","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md"}
+		{"id":"cabd4f6f1b11d73e","type":"text","text":"# ~={green}Industrial Symbiosis=~","x":-3113,"y":-2302,"width":268,"height":386,"color":"5"},
+		{"id":"3d883f1f28782585","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-2869,"y":-2694,"width":400,"height":148,"color":"4"},
+		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} LCA of 5GDH=~","x":-3710,"y":-2322,"width":250,"height":60,"color":"4"},
+		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3217,"y":-2920,"width":400,"height":148,"color":"4"},
+		{"id":"9760a039016c0b98","type":"file","file":"2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3745,"y":-3040,"width":400,"height":163,"color":"4"},
+		{"id":"b0c96b0fb44522b2","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-4109,"y":-2600,"width":400,"height":188,"color":"4"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -144,8 +145,8 @@
 		{"id":"9f7ec513d4cf4424","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"dab74b6c50026f51","toSide":"bottom"},
 		{"id":"a66226f99ab639b7","fromNode":"dab74b6c50026f51","fromSide":"top","toNode":"b0c96b0fb44522b2","toSide":"bottom"},
 		{"id":"afa304a0a8b50706","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"top"},
-		{"id":"1eeb8373e0794d8b","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"cabd4f6f1b11d73e","toSide":"bottom"},
 		{"id":"207291e04eaedf1e","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"d48b6c74b5c5bf39","toSide":"bottom"},
-		{"id":"b7aa1bcc6fc9608d","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"3d883f1f28782585","toSide":"bottom"}
+		{"id":"b7aa1bcc6fc9608d","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"3d883f1f28782585","toSide":"bottom"},
+		{"id":"4956964ca2b9a03d","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"9760a039016c0b98","toSide":"bottom"}
 	]
 }
