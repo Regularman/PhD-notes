@@ -1,5 +1,6 @@
 https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
+Demonstrates 
 ## Contribution
 
 Proposes a 5GDHC network composed of a 2 ring system with seawater source heat pump that supplies a residential area in the Mediterranean. The system is backed by solar PV, wind turbines, and grid electricity. The study does not include the use of thermal or battery storage. Uses TRNSYS modelling to show economic and environmental (carbon emissions and renewable energy consumed) through the operation of the network.
@@ -11,13 +12,14 @@ Ultimately showed carbon emission savings of up to 133% and project payback peri
 
 ![[Screenshot 2026-07-20 170324.png]]
 
-The size of the solar and wind were chosen to maximise the amount of s
+The size of the solar and wind were chosen to maximise the amount of self consumed electrical energy and minimise the excess energy required.
 
 ## Limitations
 
 The study also does not consider dynamic demand portfolios and use trace data of weather to simulate renewable production. It looks at the performance and operation of the system on a typical winter's day.
 - Again, it would be very interesting to look at the resilience of the system under abnormal weather conditions and various demand scenarios.
 
+Ultimately only shows a relative environmental impact (carbon emissions) comparison with the natural gas and grid electricity base case. 
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
 [23] Investigates district heating in 100% renewable system, showing how industrial waste heat and heat pumps can be combined in a 5GDH system, considering a wealth of renewable technology types. Confirms that this setting reduces operative cost by 8%
