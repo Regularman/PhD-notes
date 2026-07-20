@@ -11,7 +11,8 @@ Ultimately showed carbon emission savings of up to 133% and project payback peri
 
 ## Limitations
 
-The study
+The study also does not consider dynamic demand portfolios and use trace data of weather to simulate renewable production. It looks at the performance and operation of the system on a typical winter's day.
+- Again, it would be very interesting to look at the resilience of the system under abnormal weather conditions and various demand scenarios.
 
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
