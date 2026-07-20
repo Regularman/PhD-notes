@@ -1,6 +1,6 @@
 https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
-This paper demonstrates how a 5GDH system can be implemented to integrate low grade waste heat and renewable energy in a district heating system. 
+This paper demonstrates how a 5GDH system can be implemented to integrate low grade waste heat and renewable energy in a district heating system. Performs simulation of the modelled network over a year to demonstrate emissions savings relative to a base case. Ultimately showed good emission reduction potential but high payback periods due to high CAPEX of piping, heat pumps, solar PV, and wind turbines. 
 ## Contribution
 
 Proposes a 5GDHC network composed of a 2 ring system with seawater source heat pump that supplies a residential area in the Mediterranean. The system is backed by solar PV, wind turbines, and grid electricity. The study does not include the use of thermal or battery storage. Uses TRNSYS modelling to show economic and environmental (carbon emissions and renewable energy consumed) through the operation of the network.
@@ -21,7 +21,7 @@ The study also does not consider dynamic demand portfolios and use trace data of
 
 Ultimately only shows a relative environmental impact (carbon emissions) comparison with the natural gas and grid electricity base case. 
 
-- The study also does not look at the integration of waste heat from other industries to achieve demand profile
+- The study also does not look at the integration of waste heat from other industries to achieve demand profile synergy.
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
 [23] Investigates district heating in 100% renewable system, showing how industrial waste heat and heat pumps can be combined in a 5GDH system, considering a wealth of renewable technology types. Confirms that this setting reduces operative cost by 8%
