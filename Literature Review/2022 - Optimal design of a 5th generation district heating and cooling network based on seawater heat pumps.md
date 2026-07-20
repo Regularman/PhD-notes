@@ -2,7 +2,7 @@ https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
-[23] Investigates district heating in 100% renewable system, showing how industrial waste heat and heat pumps can be combined in a $GDH system, considering a wealth of renewable technology types
+[23] Investigates district heating in 100% renewable system, showing how industrial waste heat and heat pumps can be combined in a 5GDH system, considering a wealth of renewable technology types. Confirms that this setting reduces operative cost by 8%
 [26] A techno-economic analysis of an optimal self-sufficient district. Looking at renewable systems for local centralised wind, solar, battery, heat storage, and heat pumps. (showed high capital required to reach energy self sufficiency.
 [28] tsimulated and designed a new arrangement system based on a bifunctional solar assissted absorption chiller DHC network in a University Hospital in Denmark. Showed GHG emission reduction (relative) and a 2 year payback time
 
