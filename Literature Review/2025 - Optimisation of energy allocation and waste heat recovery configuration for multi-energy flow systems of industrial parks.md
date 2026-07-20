@@ -48,3 +48,5 @@ Furthermore, different waste heat recovery configurations are proposed.
 - Centralised WHRC: Case two and three were configured to highlight the benefits of hybrid waste heat recovery configurations.
 - Distributed WHRC
 - Distributed WHRC without any cold sharing
+
+Ultimately shows that purely centralised and 
