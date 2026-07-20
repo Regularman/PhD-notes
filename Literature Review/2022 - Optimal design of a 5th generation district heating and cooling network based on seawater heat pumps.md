@@ -7,8 +7,11 @@ Proposes a 5GDHC network composed of a 2 ring system with seawater source heat p
 Does not perform optimisation of the technology mix or sizing, rather the study just implements set point controllers for the ring heat network to demonstrate renewable energy self consumption.
 - However, the paper does perform sensitivity analysis to show the impact of solar and wind capacity to project economics and renewable energy self consumption
 
-Ultimately showed carbon emission savings of up to 133% and project payback period of 27 years, which shows that the project is not very feasible due to the high cap
+Ultimately showed carbon emission savings of up to 133% and project payback period of 27 years, which shows that the project is not very feasible due to the high capex investment required.
 
+## Limitations
+
+The study
 
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
