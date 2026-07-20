@@ -45,6 +45,6 @@ Leaving heat exchange integration to the intra-plant level will leave significan
 
 Furthermore, different waste heat recovery configurations are proposed. 
 - Optimal (cost)
-- Centralised WHRC
+- Centralised WHRC: Case two and three were configured to highlight the benefits of hybrid waste heat recovery configurations.
 - Distributed WHRC
 - Distributed WHRC without any cold sharing
