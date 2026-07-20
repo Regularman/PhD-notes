@@ -1,5 +1,8 @@
 https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
+## Contribution
+
+Proposes a 5GDHC network composed of a 2 ring system with seawater source heat pump that supplies a residential area in 
 ## Further Reading
 [21] Study on how electric boiler, gas boiler, and air source heat pump supplied by PVT can save cost.
 [23] Investigates district heating in 100% renewable system, showing how industrial waste heat and heat pumps can be combined in a 5GDH system, considering a wealth of renewable technology types. Confirms that this setting reduces operative cost by 8%
