@@ -17,3 +17,5 @@ https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
 [55] Compares optimised DH with gas fired systems in Cologne and San Francisco.
 [64] Uses a solar thermal trough and organic rankine cycle to produce drinkable water and electricity for a district.
+
+[68] Provides models for thermodynamic systems
