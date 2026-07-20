@@ -1,11 +1,12 @@
 {
 	"nodes":[
-		{"id":"ef3a740c238fd978","x":93,"y":-789,"width":203,"height":98,"color":"4","type":"text","text":"# LCA"},
+		{"id":"ef3a740c238fd978","type":"text","text":"# LCA","x":93,"y":-789,"width":203,"height":98,"color":"4"},
 		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-367,"y":-320,"width":460,"height":148},
 		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":195,"y":-320,"width":400,"height":160},
-		{"id":"fde0c37cc41dc5f1","x":73,"y":160,"width":322,"height":111,"color":"2","type":"text","text":"# Industrial Symbiosis"},
+		{"id":"fde0c37cc41dc5f1","type":"text","text":"# Industrial Symbiosis","x":73,"y":160,"width":322,"height":111,"color":"2"},
 		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":480,"width":400,"height":163},
-		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-327,"y":-1200,"width":400,"height":200}
+		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-327,"y":-1200,"width":400,"height":200},
+		{"id":"140e9be9818b0846","x":-702,"y":-299,"width":400,"height":179,"type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md"}
 	],
 	"edges":[
 		{"id":"568681f562466958","fromNode":"ef3a740c238fd978","fromSide":"top","toNode":"19d5b4ca686b5e92","toSide":"bottom"},
