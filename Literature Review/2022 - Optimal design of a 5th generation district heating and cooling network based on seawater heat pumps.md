@@ -2,13 +2,12 @@ https://www.scopus.com/pages/publications/85132909221?origin=resultslist
 
 ## Contribution
 
-Proposes a 5GDHC network composed of a 2 ring system with seawater source heat pump that supplies a residential area in the Mediterranean. The system is backed by solar PV, wind turbines, and grid electricity. The study does not include the use of thermal or battery stor
-
-
-Uses TRNSYS modelling to show economic and environmental (carbon emissions and renewable energy consumed) through the operation of the network.
+Proposes a 5GDHC network composed of a 2 ring system with seawater source heat pump that supplies a residential area in the Mediterranean. The system is backed by solar PV, wind turbines, and grid electricity. The study does not include the use of thermal or battery storage. Uses TRNSYS modelling to show economic and environmental (carbon emissions and renewable energy consumed) through the operation of the network.
 
 Does not perform optimisation of the technology mix or sizing, rather the study just implements set point controllers for the ring heat network to demonstrate renewable energy self consumption.
-- However, the paper does perform sensitivity analysis to show the impact 
+- However, the paper does perform sensitivity analysis to show the impact of solar and wind capacity to project economics and renewable energy self consumption
+
+Ultimately showed carbon emission savings of up to 133% and project payback period of 27 years, which shows that the project is not very feasible due to the high cap
 
 
 ## Further Reading
