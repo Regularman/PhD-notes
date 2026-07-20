@@ -43,4 +43,8 @@ Analysed under two case studies. Case 1 has 8 plants and Case 2 is a 6 plant ind
 
 Leaving heat exchange integration to the intra-plant level will leave significant amount of waste heat under-utilised, which results in energy inefficiencies.
 
-Furthermore, different waste heat
+Furthermore, different waste heat recovery configurations are proposed. 
+- Optimal (cost)
+- Centralised WHRC
+- Distributed WHRC
+- Distributed WHRC without any cold sharing
