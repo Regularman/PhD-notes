@@ -7,12 +7,14 @@ Models  the interaction between solar thermal prosumer using a matrix based grap
 The district network is used to supply the hot water and space heating demand of 20 residential and commercial buildings. The size of the pipes decreases as it reaches the end of the network.
 - The prosumers are modelled to be in two branches of radial networks
 
+Tweaks the variable of solar thermal penetration, looking at 
+- Building by building scenario, where only one buil
 ## Results
 
-Ultimately achieved a solar fraction of 15% given the non-optimised settings of the heat network. Does not answer the question of if the system cna be 
+Ultimately achieved a solar fraction of 15% given the non-optimised settings of the heat network. Does not answer the question of if the system can be optimised to increase this solar fraction? Furthermore, what is the cost and emission impacts of this system compared to the base case.
 ## Limitations
 
 Does not size the storage or solar thermal capacity. 
 - Also does not look at optimising the network temperature of the heating network
 
-Again only models the operational aspect of solar thermal, does not look at the 
+Again only models the operational aspect of solar thermal, does not look at the life cycle impacts
