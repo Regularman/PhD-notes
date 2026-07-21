@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ef3a740c238fd978","type":"text","text":"# LCA","x":93,"y":-789,"width":203,"height":98,"color":"4"},
+		{"id":"ef3a740c238fd978","type":"text","text":"# LCA (On a scale from optimisation )","x":-840,"y":-789,"width":1136,"height":98,"color":"4"},
 		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-367,"y":-320,"width":460,"height":148},
 		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":195,"y":-320,"width":400,"height":160},
 		{"id":"fde0c37cc41dc5f1","type":"text","text":"# Industrial Symbiosis","x":73,"y":160,"width":322,"height":80,"color":"2"},
@@ -8,7 +8,8 @@
 		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-327,"y":-1200,"width":400,"height":200},
 		{"id":"c952063cb162fa7c","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":296,"y":472,"width":400,"height":171},
 		{"id":"140e9be9818b0846","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-767,"y":480,"width":400,"height":179},
-		{"id":"8c10a6b226cbc4b4","x":-1480,"y":-380,"width":250,"height":134,"color":"3","type":"text","text":"# Solar Technologies"}
+		{"id":"8c10a6b226cbc4b4","x":-1480,"y":-380,"width":250,"height":134,"color":"3","type":"text","text":"# Solar Technologies"},
+		{"id":"f7633ad3128cc93f","x":-1120,"y":-376,"width":400,"height":126,"type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md"}
 	],
 	"edges":[
 		{"id":"a23262030a90d284","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"3cf06d37fcf84374","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"a24e546e887b9299","fromNode":"fde0c37cc41dc5f1","fromSide":"bottom","toNode":"47d347843a46e5ba","toSide":"top"},
 		{"id":"b21a02c2eb31649e","fromNode":"fde0c37cc41dc5f1","fromSide":"bottom","toNode":"c952063cb162fa7c","toSide":"top"},
 		{"id":"568681f562466958","fromNode":"ef3a740c238fd978","fromSide":"top","toNode":"19d5b4ca686b5e92","toSide":"bottom"},
-		{"id":"54255a1a071aae7a","fromNode":"fde0c37cc41dc5f1","fromSide":"bottom","toNode":"140e9be9818b0846","toSide":"top"}
+		{"id":"54255a1a071aae7a","fromNode":"fde0c37cc41dc5f1","fromSide":"bottom","toNode":"140e9be9818b0846","toSide":"top"},
+		{"id":"4b3460b545c6416a","fromNode":"8c10a6b226cbc4b4","fromSide":"right","toNode":"f7633ad3128cc93f","toSide":"left"}
 	]
 }
