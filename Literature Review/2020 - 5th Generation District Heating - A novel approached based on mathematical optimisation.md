@@ -2,11 +2,18 @@ https://www.sciencedirect.com/science/article/pii/S0306261919318458
 
 ## Contributions
 
-LP optimisation for designing distributed energy systems with a Bidirectional Low Temperature Network, considering waste heat recoveries to the network. Sizing and technology mix is considered to optimise this.
+LP optimisation for designing distributed energy systems with a Bidirectional Low Temperature Network, considering waste heat recoveries to the network. Sizing and technology mix is considered to optimise this. Case study is done on 17 builidngs on a German university campus. Considers data centres, commercial buildings and office buildings as heat source within the energy hub.
 
 ## Content/Results
 
 Ultimately showed that with the implementation of the Bidirectional Low Temperature Network that the total annualised cost is -42% and 56% less carbon emissions compared to the base case. However, this is highly dependent on the grid mix. There is a higher gas consumption in the BLTN scenario due to installation of gas boilers for the CHP plant
+
+Also looks at the exergy efficiency.
+- The reference year data is split into design days
+- Lighting and technical building services are not considered
+
+The LP 
+
 ## Limitations
 
 - Thermal storage is only charged by electric boilers
