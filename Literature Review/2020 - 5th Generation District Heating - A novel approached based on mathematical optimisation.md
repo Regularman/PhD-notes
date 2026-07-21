@@ -6,7 +6,7 @@ LP optimisation for designing distributed energy systems with a Bidirectional Lo
 
 For cooling, considers the option of absorption refrigeration cycle, cooling towers, compression chillers, and direct cooling. 
 
-The super structure is a 2 pipe ring heat network that is supplied by a central enegry 
+The super structure is a 2 pipe ring heat network that is supplied by a central energy hub, with waste heat and cooling capacity from 17 buildings, data centres, commercial buildings, and office buildings.
 ## Content/Results
 
 Ultimately showed that with the implementation of the Bidirectional Low Temperature Network that the total annualised cost is -42% and 56% less carbon emissions compared to the base case. However, this is highly dependent on the grid mix. There is a higher gas consumption in the BLTN scenario due to installation of gas boilers for the CHP plant
@@ -24,6 +24,7 @@ The LP looks to optimise the TAC.
 - Only looks at operational performance, rather than whole of life embodied environmental impact
 - Assumes deterministic perfect knowledge of all conditions
 - Does not consider the optimal set of buildings participating within the BLTN 
+- Does not look at the network topology, and the cost and emission of pipes are calculated a priori and does not change with optimisation, when network topology is heavily related to performance. 
 ## Further Reading
 
 [9] Agent based control
