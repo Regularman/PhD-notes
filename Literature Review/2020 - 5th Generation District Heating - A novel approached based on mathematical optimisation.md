@@ -1,5 +1,19 @@
 https://www.sciencedirect.com/science/article/pii/S0306261919318458
 
+## Contributions
+
+LP optimisation for designing distributed energy systems with a Bidirectional Low Temperature Network, considering waste heat recoveries to the network. Sizing and technology mix is considered to optimise this.
+
+## Content/Results
+
+Ultimately showed that with the implementation of the Bidirectional Low Temperature Network that the total annualised cost is -42% and 56% less carbon emissions compared to the base case. However, this is highly dependent on the grid mix. There is a higher gas consumption in the BLTN scenario due to installation of gas boilers for the CHP plant
+## Limitations
+
+- Thermal storage is only charged by electric boilers
+- Does not look at variable network ring heat temperature 
+- Only looks at operational performance, rather than whole of life embodied environmental impact
+- Assumes detemrinistic perfect knowledge of all conditions
+- Does not consider the optimal set of buildings participating within the BLTN 
 ## Further Reading
 
 [9] Agent based control
