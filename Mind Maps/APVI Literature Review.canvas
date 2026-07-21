@@ -7,7 +7,8 @@
 		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-307,"y":480,"width":400,"height":163},
 		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-327,"y":-1200,"width":400,"height":200},
 		{"id":"c952063cb162fa7c","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":296,"y":472,"width":400,"height":171},
-		{"id":"140e9be9818b0846","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-767,"y":480,"width":400,"height":179}
+		{"id":"140e9be9818b0846","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-767,"y":480,"width":400,"height":179},
+		{"id":"8c10a6b226cbc4b4","x":-1480,"y":-380,"width":250,"height":134,"color":"3","type":"text","text":"# Solar Technologies"}
 	],
 	"edges":[
 		{"id":"a23262030a90d284","fromNode":"ef3a740c238fd978","fromSide":"bottom","toNode":"3cf06d37fcf84374","toSide":"top"},
