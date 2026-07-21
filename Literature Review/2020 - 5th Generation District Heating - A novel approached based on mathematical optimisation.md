@@ -12,7 +12,7 @@ Ultimately showed that with the implementation of the Bidirectional Low Temperat
 - Thermal storage is only charged by electric boilers
 - Does not look at variable network ring heat temperature 
 - Only looks at operational performance, rather than whole of life embodied environmental impact
-- Assumes detemrinistic perfect knowledge of all conditions
+- Assumes deterministic perfect knowledge of all conditions
 - Does not consider the optimal set of buildings participating within the BLTN 
 ## Further Reading
 
