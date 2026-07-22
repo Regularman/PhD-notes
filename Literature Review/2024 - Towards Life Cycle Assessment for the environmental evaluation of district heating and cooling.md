@@ -42,6 +42,7 @@ Characterisation methods are published methodologies used to assess midpoint imp
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ReCiPe                  | Has the ability to provide comprehensive information and a balanced approach between detail and synthesis, even at a global scale, thanks to its proposed indicators |
 | CML                     | Chosen for academic purposes and applications related to industrial research and development.                                                                        |
+Note that there are only the 6 studies that looks at 5GDH.
 ## Scenarios
 
 Scenarios are usually compared with the existing district heating system or the fossil fuel based system. Scenario comparison is not provided only when the paper serves to prove a more general concept.
@@ -50,6 +51,9 @@ Scenarios are usually compared with the existing district heating system or the 
 
 Consequential approach is about how we can change the consumption system to change the environmental impact. While the attributional approach describes environmental impact at a given point in time given a system. There are significantly less consequential approaches in the assessed literature due to its complexity.
 
+## Multifunctionality
+
+When there are multiple products out of the system , such as electricity and heat out of 
 ## Limitations
 
 - In its definition of network typology, it highlights that 5GDHC is only low temperature and not bidirectional.
