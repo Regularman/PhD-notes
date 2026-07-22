@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"ef3a740c238fd978","type":"text","text":"# LCA (On a scale from optimisation (left) to absolute planetary assessment (right))","x":-960,"y":-760,"width":1774,"height":98,"color":"4"},
 		{"id":"fde0c37cc41dc5f1","type":"text","text":"# Industrial Symbiosis (On a scale of industry (top) and Sector (bottom))","x":1134,"y":-560,"width":186,"height":1720,"color":"2"},
-		{"id":"3cf06d37fcf84374","type":"file","file":"2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-35,"y":255,"width":460,"height":148},
+		{"id":"3cf06d37fcf84374","type":"file","file":"PhD-notes/Literature Review/2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-35,"y":255,"width":460,"height":148},
 		{"id":"ac1d7044b18b349d","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-507,"y":-473,"width":400,"height":97},
 		{"id":"19d5b4ca686b5e92","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":496,"y":203,"width":400,"height":200},
 		{"id":"c952063cb162fa7c","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-567,"y":520,"width":400,"height":171,"color":"1"},
