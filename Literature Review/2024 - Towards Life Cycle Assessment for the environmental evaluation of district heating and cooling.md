@@ -9,6 +9,8 @@ Provides 66 case studies from 58 papers on the LCAs on District heating. The pri
 - Multifunctionality
 - Modelling approach (attributional or consequential)
 
-The study highlights that many papers that currently exists is confined to perfroming
+The study highlights that many papers that currently exists is confined to performing a carbon footprint analysis of the use phase. Therefore, this study only looks at papers with LCA. 
+
+The study also converte
 
 ## Further Readings 
