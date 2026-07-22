@@ -57,6 +57,10 @@ Consequential approach is about how we can change the consumption system to chan
 
 PV backed heat pumps
 - [41], [45], [2], [49]
+- [15] - Solar thermal
+
+5GDH
+- [44]
 
 Data centre
 [55]
@@ -66,3 +70,5 @@ Carbon reduction over the whole life cycle
 
 Industrial ecology and how sustinable forest management can interplay with biomass heating
 [66] 
+
+
