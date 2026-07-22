@@ -12,6 +12,8 @@ Provides 66 case studies from 58 papers on the LCAs on District heating. The pri
 The study highlights that many papers that currently exists is confined to performing a carbon footprint analysis of the use phase. Therefore, this study only looks at papers with LCA. 
 
 The study also converted the results of each study into $GWP/kWh_{th}$ to compare across the 66 case studies.
+
+It should be noted that there are few literature that combines LCA w
 ## Content
 
 ### Functional Unit
