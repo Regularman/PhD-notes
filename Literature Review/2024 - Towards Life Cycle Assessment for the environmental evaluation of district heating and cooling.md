@@ -52,5 +52,5 @@ Consequential approach is about how we can change the consumption system to chan
 
 ## Limitations
 
-- In its 
+- In its definition of network typology, it highlights that 5GDHC is only low te
 ## Further Readings 
