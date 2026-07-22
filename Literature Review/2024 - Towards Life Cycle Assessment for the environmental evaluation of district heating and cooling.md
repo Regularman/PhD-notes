@@ -53,13 +53,13 @@ Consequential approach is about how we can change the consumption system to chan
 
 ## Multifunctionality
 
-When there are multiple products out of the system , such as electricity and heat out of a CHP plant, we have to allocate the emissions based on different strategies.
+When there are multiple products out of the system , such as electricity and heat out of a CHP plant, we have to allocate the emissions based on different strategies. Also relevant tot he production of steam, hot water, electricity ..etc
 
 
 | Allocation method              | Descriptions                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Substitution method (ISO14044) | The impact of the primary product is determined by the different between the emission factors associated with that specific product and the emissions factor associated with the marginal production of the by-product (the impact the by-product will incur on the external system if it were produced by an independent activity out of context) |
-| Partition method (ISO14044)    |                                                                                                                                                                                                                                                                                                                                                    |
+| Partition method (ISO14044)    | Allocation factors come from economic or physical characteristics of the generation system. The allocation of the factors is heavily debated.                                                                                                                                                                                                      |
 | Surplus method (ISO14044)      |                                                                                                                                                                                                                                                                                                                                                    |
 
 ## Limitations
