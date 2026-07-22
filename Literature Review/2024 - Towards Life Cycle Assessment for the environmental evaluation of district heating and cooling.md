@@ -16,12 +16,14 @@ The study also converted the results of each study into $GWP/kWh_{th}$ to compar
 
 ### Functional Unit
 
-Functional unit is chosen based on the goal and scope of the study.
+Functional unit is chosen based on the goal and scope of the study. The authors highlight that functional were chosen 
 
-
-|     |     |
-| --- | --- |
-|     |     |
+| Functional Unit                                      |     |
+| ---------------------------------------------------- | --- |
+| Unit of energy generated                             |     |
+| Unit of energy distributed                           |     |
+| Unit of input energy to the generators               |     |
+| Unit of input combustion material to the generators  |     |
 
 
 ## Further Readings 
