@@ -36,6 +36,13 @@ Either used Eco-invent, GaBi or independent sources. Using different databases  
 | Primary and secondary sources | Primary sources are measurements and collected data and company record. While secondary sources are general estimates, scientific literature, and dtaabses. |
 ### Characterisation method
 
-Characterisation methods are published methodologies used to assess mid
+Characterisation methods are published methodologies used to assess midpoint impacts from the industrial activities.
+
+| Characterisation Method |                 |
+| ----------------------- | --------------- |
+| ReCiPe                  | Has the ability |
+| CML                     |                 |
+
+
 
 ## Further Readings 
