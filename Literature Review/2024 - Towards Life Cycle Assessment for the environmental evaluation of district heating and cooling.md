@@ -38,11 +38,13 @@ Either used Eco-invent, GaBi or independent sources. Using different databases  
 
 Characterisation methods are published methodologies used to assess midpoint impacts from the industrial activities.
 
-| Characterisation Method |                 |
-| ----------------------- | --------------- |
-| ReCiPe                  | Has the ability |
-| CML                     |                 |
+| Characterisation Method |                                                                                                                                                                      |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ReCiPe                  | Has the ability to provide comprehensive information and a balanced approach between detail and synthesis, even at a global scale, thanks to its proposed indicators |
+| CML                     | Chosen for academic purposes and applications related to industrial research and development.                                                                        |
+## Scenarios
 
+Scen
 
 
 ## Further Readings 
