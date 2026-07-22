@@ -62,4 +62,7 @@ Data centre
 [55]
 
 Carbon reduction over the whole life cycle 
-[65]
+[65], [67]
+
+Industrial ecology and how sustinable forest management can interplay with biomass heating
+[66] 
