@@ -29,8 +29,8 @@ Functional unit is chosen based on the goal and scope of the study. The authors 
 
 Either used Eco-invent, GaBi or independent sources
 
-| Database | Descirptions |
-| -------- | ------------ |
-|          |              |
+| Database   | Descriptions |
+| ---------- | ------------ |
+| Eco-Invent |              |
 
 ## Further Readings 
