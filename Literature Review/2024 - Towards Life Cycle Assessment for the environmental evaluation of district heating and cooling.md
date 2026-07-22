@@ -29,10 +29,13 @@ Functional unit is chosen based on the goal and scope of the study. The authors 
 
 Either used Eco-invent, GaBi or independent sources. Using different databases  can result in significantly different results, which makes data unreliable.
 
-| Database                      | Descriptions                                                                                                                        |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Eco-Invent                    | High geographic data coverage                                                                                                       |
-| GaBi                          | Used for specific                                                                                                                   |
-| Primary and secondary sources | Primary sources are measurements and collected data and company record. While secondary sources are general estimates, scientific l |
+| Database                      | Descriptions                                                                                                                                                |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eco-Invent                    | High geographic data coverage                                                                                                                               |
+| GaBi                          | Used for specific                                                                                                                                           |
+| Primary and secondary sources | Primary sources are measurements and collected data and company record. While secondary sources are general estimates, scientific literature, and dtaabses. |
+### Characterisation method
+
+Characterisation methods are published methodologies used to assess mid
 
 ## Further Readings 
