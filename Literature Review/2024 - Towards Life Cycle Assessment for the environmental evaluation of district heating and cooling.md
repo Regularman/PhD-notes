@@ -44,8 +44,10 @@ Characterisation methods are published methodologies used to assess midpoint imp
 | CML                     | Chosen for academic purposes and applications related to industrial research and development.                                                                        |
 ## Scenarios
 
-Scenarios are usually compared with the existing district heating system or the fossil fuel based system.
+Scenarios are usually compared with the existing district heating system or the fossil fuel based system. Scenario comparison is not provided only when the paper serves to prove a more general concept.
 
 ## Attributional vs Consequential approach
+
+Conseuqential approach is about how we can change the concumption system to change the environmental im
 
 ## Further Readings 
