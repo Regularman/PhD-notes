@@ -61,8 +61,7 @@ There are significantly less consequential approaches in the assessed literature
 
 When there are multiple products out of the system , such as electricity and heat out of a CHP plant, we have to allocate the emissions based on different strategies. Also relevant tot he production of steam, hot water, electricity ..etc. 
 
-The choice of allocation affects t
-
+The choice of allocation affects the emission intensity factor.
 
 | Allocation method                                    | Descriptions                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
