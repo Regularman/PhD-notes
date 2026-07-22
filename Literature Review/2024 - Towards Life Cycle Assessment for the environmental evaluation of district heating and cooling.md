@@ -53,7 +53,13 @@ Consequential approach is about how we can change the consumption system to chan
 
 ## Multifunctionality
 
-When there are multiple products out of the system , such as electricity and heat out of a CHOP
+When there are multiple products out of the system , such as electricity and heat out of a CHP plant, we have to allocate the emissions based on different strategies.
+
+
+| Allocation method | Descriptions |
+| ----------------- | ------------ |
+| Substitu          |              |
+
 ## Limitations
 
 - In its definition of network typology, it highlights that 5GDHC is only low temperature and not bidirectional.
