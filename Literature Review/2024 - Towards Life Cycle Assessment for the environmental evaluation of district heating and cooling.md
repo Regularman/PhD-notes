@@ -16,14 +16,14 @@ The study also converted the results of each study into $GWP/kWh_{th}$ to compar
 
 ### Functional Unit
 
-Functional unit is chosen based on the goal and scope of the study. The authors highlight that functional were chosen 
+Functional unit is chosen based on the goal and scope of the study. The authors highlight that functional were chosen based on if the LCA results were integral to subsequent district level considerations, or on optimization, or comparison of production facilities.
 
-| Functional Unit                                      |     |
-| ---------------------------------------------------- | --- |
-| Unit of energy generated                             |     |
-| Unit of energy distributed                           |     |
-| Unit of input energy to the generators               |     |
-| Unit of input combustion material to the generators  |     |
+| Functional Unit                                     | Use cases                                                                    |
+| --------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Unit of energy generated                            |                                                                              |
+| Unit of energy distributed                          |                                                                              |
+| Unit of input energy to the generators              | Technical optimisation of the district heating system to maximise efficiency |
+| Unit of input combustion material to the generators |                                                                              |
 
 
 ## Further Readings 
