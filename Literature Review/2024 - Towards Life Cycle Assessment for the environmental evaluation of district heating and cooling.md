@@ -60,15 +60,16 @@ PV backed heat pumps
 - [15] - Solar thermal
 
 5GDH
-- [44]
+- [44], [57]
 
 Data centre
 [55]
 
 Carbon reduction over the whole life cycle 
-[65], [67]
+[65], [67], [50]
 
 Industrial ecology and how sustinable forest management can interplay with biomass heating
 [66] 
 
+[71] Climate profile of 4GDH in sweden
 
