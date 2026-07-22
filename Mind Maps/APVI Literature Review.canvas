@@ -10,7 +10,8 @@
 		{"id":"f7633ad3128cc93f","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-1040,"y":240,"width":400,"height":126,"color":"3"},
 		{"id":"8c10a6b226cbc4b4","type":"text","text":"# ~={yellow}Solar Technologies=~","x":-1480,"y":-443,"width":250,"height":134,"color":"3"},
 		{"id":"7000dfc328b04167","type":"text","text":"# ~={red}5GDH=~","x":-1480,"y":-250,"width":250,"height":82,"color":"1"},
-		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-567,"y":760,"width":400,"height":170}
+		{"id":"47d347843a46e5ba","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-567,"y":760,"width":400,"height":170},
+		{"id":"c6e46fd9d5c3a25b","x":-73,"y":40,"width":400,"height":122,"color":"3","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md"}
 	],
 	"edges":[]
 }
