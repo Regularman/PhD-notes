@@ -51,9 +51,10 @@ Scenarios are usually compared with the existing district heating system or the 
 
 ## Attributional vs Consequential approach
 
-Consequential approach is about how we can change the consumption system to change the environmental impact. It seeks to capture the exchange in environmental exchanges the occur as a consequence of adding or removing a specific human activity.
+Consequential approach is about how we can change the consumption system to change the environmental impact. It seeks to capture the change in material flow that occur as a consequence of adding or removing a specific human activity.
 
-While the attributional approach describes environmental impact at a given point in time given a system. It seeks to assign the environmental impact of the specified human activity.
+While the attributional approach describes environmental impact at a given point in time given a system. It seeks to assign the environmental impact of the specified human activity within a given material flow in a system.
+- We want to monitor every step of the system and find the hotspot within the product life cycle.
 
 There are significantly less consequential approaches in the assessed literature due to its complexity.
 
