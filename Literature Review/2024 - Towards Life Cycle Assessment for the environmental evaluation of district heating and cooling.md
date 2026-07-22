@@ -27,12 +27,12 @@ Functional unit is chosen based on the goal and scope of the study. The authors 
 | No Functional Unit                                  | Focused on the amount of $CO_2$ saved without actually delving into the granular detail. Used in global on country level decarbonization strategy.   |
 ## Databases
 
-Either used Eco-invent, GaBi or independent sources
+Either used Eco-invent, GaBi or independent sources. Using different databases  can result in significantly different results, which makes data unreliable.
 
-| Database                      | Descriptions                                                             |
-| ----------------------------- | ------------------------------------------------------------------------ |
-| Eco-Invent                    | High geographic data coverage                                            |
-| GaBi                          | Used for specific                                                        |
-| Primary and secondary sources | Primary sources are measurements and collected data and company record.  |
+| Database                      | Descriptions                                                                                                                        |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Eco-Invent                    | High geographic data coverage                                                                                                       |
+| GaBi                          | Used for specific                                                                                                                   |
+| Primary and secondary sources | Primary sources are measurements and collected data and company record. While secondary sources are general estimates, scientific l |
 
 ## Further Readings 
