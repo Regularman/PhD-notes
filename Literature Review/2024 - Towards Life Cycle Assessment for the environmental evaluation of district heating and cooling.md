@@ -20,11 +20,11 @@ Functional unit is chosen based on the goal and scope of the study. The authors 
 
 | Functional Unit                                     | Use cases                                                                                                                                          |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Unit of energy generated                            |                                                                                                                                                    |
+| Unit of energy generated                            | Used to focus on what is the carbo                                                                                                                 |
 | Unit of energy distributed                          |                                                                                                                                                    |
 | Unit of input energy to the generators              | Technical optimisation of the district heating system to maximise efficiency.                                                                      |
 | Unit of input combustion material to the generators | Technical optimisation of the district heating system to maximise efficiency. Typically used for                                                   |
-| No Functional Unit                                  | Focused on the amount of $CO_2$ saved without actually delving into the granular detail. Used in global on country level decarbonisation strategy. |
+| No Functional Unit                                  | Focused on the amount of $CO_2$ saved without actually delving into the granular detail. Used in global on country level decarbonization strategy. |
 
 
 ## Further Readings 
