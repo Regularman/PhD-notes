@@ -56,9 +56,11 @@ Consequential approach is about how we can change the consumption system to chan
 When there are multiple products out of the system , such as electricity and heat out of a CHP plant, we have to allocate the emissions based on different strategies.
 
 
-| Allocation method | Descriptions |
-| ----------------- | ------------ |
-| Substitu          |              |
+| Allocation method              | Descriptions |
+| ------------------------------ | ------------ |
+| Substitution method (ISO14044) |              |
+| Partition method (ISO14044)    |              |
+| Surplus method (ISO14044)      |              |
 
 ## Limitations
 
