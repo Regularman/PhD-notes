@@ -13,7 +13,7 @@ The study highlights that many papers that currently exists is confined to perfo
 
 The study also converted the results of each study into $GWP/kWh_{th}$ to compare across the 66 case studies.
 
-It should be noted that there are few literature that combines LCA w
+It should be noted that there are few literature that combines LCA with optimisation techniques.
 ## Content
 
 ### Functional Unit
