@@ -29,8 +29,10 @@ Functional unit is chosen based on the goal and scope of the study. The authors 
 
 Either used Eco-invent, GaBi or independent sources
 
-| Database   | Descriptions |
-| ---------- | ------------ |
-| Eco-Invent |              |
+| Database                      | Descriptions                                                             |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| Eco-Invent                    | High geographic data coverage                                            |
+| GaBi                          | Used for specific                                                        |
+| Primary and secondary sources | Primary sources are measurements and collected data and company record.  |
 
 ## Further Readings 
