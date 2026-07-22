@@ -18,13 +18,19 @@ The study also converted the results of each study into $GWP/kWh_{th}$ to compar
 
 Functional unit is chosen based on the goal and scope of the study. The authors highlight that functional were chosen based on if the LCA results were integral to subsequent district level considerations, or on optimization, or comparison of production facilities.
 
-| Functional Unit                                     | Use cases                                                                                                                                          |
-| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Unit of energy generated                            | Used to focus on what is the carbo                                                                                                                 |
-| Unit of energy distributed                          |                                                                                                                                                    |
-| Unit of input energy to the generators              | Technical optimisation of the district heating system to maximise efficiency.                                                                      |
-| Unit of input combustion material to the generators | Technical optimisation of the district heating system to maximise efficiency. Typically used for                                                   |
-| No Functional Unit                                  | Focused on the amount of $CO_2$ saved without actually delving into the granular detail. Used in global on country level decarbonization strategy. |
+| Functional Unit                                     | Use cases                                                                                                                                            |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Unit of energy generated                            | Used to focus on what is the carbon emission impact of produce that unit of energy, which is the functional requirement of district heating systems. |
+| Unit of energy distributed                          | Used to focus on what is the carbon emission impact of produce that unit of energy, which is the functional requirement of district heating systems. |
+| Unit of input energy to the generators              | Technical optimisation of the district heating system to maximise efficiency.                                                                        |
+| Unit of input combustion material to the generators | Technical optimisation of the district heating system to maximise efficiency. Typically used for                                                     |
+| No Functional Unit                                  | Focused on the amount of $CO_2$ saved without actually delving into the granular detail. Used in global on country level decarbonization strategy.   |
+## Databases
 
+Either used Eco-invent, GaBi or independent sources
+
+| Database | Descirptions |
+| -------- | ------------ |
+|          |              |
 
 ## Further Readings 
