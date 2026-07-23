@@ -18,7 +18,9 @@ If data centres were to connect to district heating, an additional requirement w
 #### Cooling
 
 Data centers can cool through two options
-- the
+- Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers
+- Chilled air cooling.
+- Liquid cooling
 ### Metrics used to quantify waste heat potential in data centers
 
 ### How is waste heat collected in data center
