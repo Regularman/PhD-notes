@@ -5,7 +5,8 @@ Cited by 338
 
 Outlines the pathways of waste heat utilisation for data centers, outlining how it can be implemented as well as a back of the envelope LCA analysis on its integration to district heating. It is a good reference to consider the different levers when optimising waste heat from data centers, as it presents its own risks and opportunities.
 
-There are many studies that looks at the economic potential of data centre waste heat utilisation, but barriers are in place which prevents implementation. 
+There are many studies that looks at the economic potential of data center waste heat utilization, but barriers are in place which prevents implementation. ]
+
 Ultimately found that emission reduction depends on the emission and technology mix that is used as a reference. As well as consequential vs attributional standpoint.
 ## Content
 
@@ -16,7 +17,7 @@ Data center locations are chosen based on 4 factors
 - Proximity to cheap renewable electricity
 - Geopolitical stability
 - Abundance of cheap renewable energy that is reliable
-If data centres were to connect to district heating, an additional requirement will be
+If data centers were to connect to district heating, an additional requirement will be
 - Proximity to heat demands
 #### Cooling
 
@@ -38,8 +39,9 @@ In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 | -------------------------------------- | ---------- |
 | Low temperature (low grade waste heat) |            |
 | High capex investments                 |            |
-
 ### LCA
+
+Consequential L
 ### Levers
 
 ## Further Readings
