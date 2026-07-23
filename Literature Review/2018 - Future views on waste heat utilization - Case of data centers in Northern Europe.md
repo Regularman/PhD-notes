@@ -27,6 +27,13 @@ Data centers can cool through two options.
 - Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers. Return temperature of $25-30\degree$C
 - Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply. Return temperature of $25-30\degree$C
 - Liquid cooling. Used for on the chip cooling, which enables more efficient heat transfer. Return temperature of $50-60\degree$C
+
+
+| Type of cooling | Return Temperature |     |
+| --------------- | ------------------ | --- |
+|                 |                    |     |
+
+However, air cooli
 #### How is waste heat collected in data center
 
 Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.
