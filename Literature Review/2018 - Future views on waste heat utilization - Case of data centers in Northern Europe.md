@@ -83,7 +83,7 @@ Attribution LCA (ALCA) looks at total emissions of the activity over a certain t
 Performs back of the envelope calculation for emission calculations, but only for the operational aspect? Therefore, not fully cradle to grave.
 
 **Table is for DC heat utilised as DH**
-*Note that the CLCA considers displa* 
+*Note that the CLCA considers displacement of CHP as marginal production unit* 
 
 | Factor                                                     | Consequential | Attributional | Reason for difference |
 | ---------------------------------------------------------- | ------------- | ------------- | --------------------- |
