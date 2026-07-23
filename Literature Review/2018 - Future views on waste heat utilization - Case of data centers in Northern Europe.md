@@ -129,6 +129,14 @@ Furthermore, data centres also have the option to use direct air cooling during 
 - What if we use direct heat exchangers using 5GDHC low temperature grids?
 
 We might need a DH spot market with dynamic pricing to incentivise DC participation.
+
+#### Legacy Data Centres
+
+There are 4 options for data centres that have insufficient power and cooling capacity.
+1. Modernise existing DC
+2. Invest in a new DC
+3. Migrate workload to a larger DC
+4. Do nothing
 ## Limitations
 
 ## Further Readings
