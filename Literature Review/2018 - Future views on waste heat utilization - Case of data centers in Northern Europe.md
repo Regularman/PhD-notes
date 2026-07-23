@@ -41,7 +41,7 @@ In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 | High capex investments                 |            |
 ### LCA
 
-Consequential L
+Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation.
 ### Levers
 
 ## Further Readings
