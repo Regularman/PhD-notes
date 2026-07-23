@@ -88,7 +88,10 @@ Waste heat can be used for own consumption such as space heating, domestic heati
 
 While external uses are drying biomass, preheating water in power plants, district heating, water desalination, and electricity production (low conversion rate).
 
-Currently,
+Currently, in European DH most are 3GDH operating at $70-120\degree C$.
+#### Tradeoffs
+
+
 
 
 ## Further Readings
