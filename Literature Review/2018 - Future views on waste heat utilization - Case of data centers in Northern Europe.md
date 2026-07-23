@@ -76,7 +76,12 @@ Attribution LCA (ALCA) looks at total emissions of the activity over a certain t
 
 #### Where to use waste heat
 
-There are man
+There are many different places to use waste heat. Most studies only look at the optimisation of technology for a use case, but not the optimisation of use case for a particular technology such as data centre,
+
+Waste heat can be used for own consumption
+
+
+
 
 
 ## Further Readings
