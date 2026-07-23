@@ -5,7 +5,7 @@ Cited by 338
 
 Outlines the pathways of waste heat utilisation for data centers, outlining how it can be implemented as well as a back of the envelope LCA analysis on its integration to district heating. It is a good reference to consider the different levers when optimising waste heat from data centers, as it presents its own risks and opportunities.
 
-There are many studies that looks at the economic potential of data center waste heat utilization, but barriers are in place which prevents implementation. ]
+There are many studies that looks at the economic potential of data center waste heat utilization, but barriers are in place which prevents implementation. With increasing energy demand of chips, it is more reasonable to look towards cooling requirements in data center power usage.
 
 Ultimately found that emission reduction depends on the emission and technology mix that is used as a reference. As well as consequential vs attributional standpoint.
 ## Content
@@ -26,6 +26,12 @@ Data centers can cool through two options
 - Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply.
 - Liquid cooling
 ### Metrics used to quantify waste heat potential in data centers
+
+Metrics needs to be 
+- Intuitive
+- Definitive and purposeful
+- Measurable
+- Scales to technology, econom
 
 ### How is waste heat collected in data center
 
