@@ -95,10 +95,10 @@ Currently, in European DH most are 3GDH operating at $70-120\degree C$. They als
 
 Pros and cons of selling DC waste heat to DH.
 
-| Pros                                                           | Cons                                                                     |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Revenue from selling waste heat to District heating companies. | Increased electricity consumption due to the operation of the heat pumps |
-| Increases base load heat generation                            |                                                                          |
+| Pros                                                                              | Cons                                                                     |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Revenue from selling waste heat to District heating companies.                    | Increased electricity consumption due to the operation of the heat pumps |
+| Increases base load heat generation, and can operate flexibly during maintenance. | It can lower utilisation of ancillary heat production units              |
 One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built). Otherwise, data centres will just reduce utilisation of existing ancillary heat production plants.
 
 ## Further Readings
