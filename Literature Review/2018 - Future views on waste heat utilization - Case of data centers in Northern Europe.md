@@ -88,9 +88,9 @@ Performs back of the envelope calculation for emission calculations, but only fo
 | Factor                                                     | Consequential | Attributional | Reason for difference                                                                                                                                                                                                                     |
 | ---------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Avoided CHP production                                     | -95           | -38           | There is higher avoided CHP production in the consequential case as we are assuming that CHP is only activated during low renewable high pricing events. Compared to attribution, where emission is just a weighted sum of technology mix |
-| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             | Higher level of CO2 emissions from the consequential case due to CHP during high pricing event?                                                                                                                                           |
+| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             | Higher level of CO2 emissions from the consequential case due to CHP during high pricing event. Assuming that biomass duels CHP and the emission in 0.                                                                                    |
 | Net DH emissions                                           | 102           | 194           | There is higher avoided CHP production in the consequential case as we are assuming that CHP is only activated during low renewable high pricing events. Compared to attribution, where emission is just a weighted sum of technology mix |
-
+The study also highlights that the cost LCA is very dependent on fuel prices and electricity prices, which are volatile to global supply chains. Therefore, the
 ### Levers
 
 #### Where to use waste heat
