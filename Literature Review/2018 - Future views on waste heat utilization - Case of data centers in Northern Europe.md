@@ -91,15 +91,13 @@ While external uses are drying biomass, preheating water in power plants, distri
 Currently, in European DH most are 3GDH operating at $70-120\degree C$. They also do not have dynamic heat pricing.
 #### Tradeoffs
 
-![[Screenshot 2026-07-23 at 2.32.49 pm.png]]
-
-
+![[Screenshot 2026-07-23 at 2.32.49 pm.png|363]]
 
 | Pros                                                           | Cons                                                                     |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Revenue from selling waste heat to District heating companies. | Increased electricity consumption due to the operation of the heat pumps |
 |                                                                |                                                                          |
-
+One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built)
 
 ## Further Readings
 
