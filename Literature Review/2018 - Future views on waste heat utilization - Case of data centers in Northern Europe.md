@@ -42,7 +42,10 @@ The study makes recommendations for metrics to be used for data center to catego
 | Power Usage Effectiveness        | Total energy/IT energy, which is the energy used to maintain server racks rather than cooling.                       |
 | Energy Reuse Effectiveness       | Total energy - reuse energy/IT energy                                                                                |
 | Power Density Efficiency         | Takes into account improvements in IT and cooling systems. It reflects inefficiencies in air flow thermal management |
-| Data Centrer Energy Productivity |                                                                                                                      |
+| Data Centrer Energy Productivity | How much work does IT equipment actually in the DC                                                                   |
+| Network Power Usage Effectveness | Power consumed by network equipment                                                                                  |
+| Fixed to Variable Energy Ratio   |                                                                                                                      |
+|                                  |                                                                                                                      |
 
 
 
