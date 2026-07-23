@@ -140,6 +140,8 @@ The first three options gives you options to implement new waste heat recovery t
 4. Do nothing
 ## Limitations
 
+- Only back of the envelope calculation of data center waste heat recovery 
+
 ## Further Readings
 
 There are many case studies that already looks at waste heat utilisation. Look particularly in example of Apple in Vyborg, Denmark. These case studies provide examples of waste heat that is available at different sizes.
