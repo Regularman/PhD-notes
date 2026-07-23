@@ -63,15 +63,15 @@ The study makes recommendations for metrics to be used for data center to catego
 | Performance Per Watt                  | Actual energy efficiency of a device and how it is used, allowing for a global evaluation                                              |
 ### Barriers to entry
 
-| Barriers and Risk                                   | Mitigation                                                                                                                                                              |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Low temperature (low grade waste heat)              | 5GDHC                                                                                                                                                                   |
-| High capex investments                              | HAAS. What happens in co-located data centres where the space is rented and cost is not borne by the users?                                                             |
-| Need for ancillary heat production                  | Heat storage                                                                                                                                                            |
-| Differing financial outcomes of DC and DH operators | HAAS. There is also the lack of data and transparency.                                                                                                                  |
-| Cybersecurity                                       |                                                                                                                                                                         |
-| Optimisation of thermodynamics                      | Mixing cooling and heat sources complicates the heat transference and fluid mechanics. Applying closed system principles to open systems oversizes the cooling capacity |
-| Thermal losses                                      | DC must be located close to DH and heat demand                                                                                                                          |
+| Barriers and Risk                                   | Mitigation                                                                                                                                                                                                                                                    |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Low temperature (low grade waste heat)              | 5GDHC                                                                                                                                                                                                                                                         |
+| High capex investments                              | HAAS. What happens in co-located data centres where the space is rented and cost is not borne by the users?                                                                                                                                                   |
+| Need for ancillary heat production                  | Heat storage                                                                                                                                                                                                                                                  |
+| Differing financial outcomes of DC and DH operators | HAAS. There is also the lack of data and transparency.                                                                                                                                                                                                        |
+| Cybersecurity                                       |                                                                                                                                                                                                                                                               |
+| Optimisation of thermodynamics                      | Mixing cooling and heat sources complicates the heat transference and fluid mechanics. Applying closed system principles to open systems oversizes the cooling capacity. Furthermore, there are dynamic power allocation based on the usage of a data centre. |
+| Thermal losses                                      | DC must be located close to DH and heat demand                                                                                                                                                                                                                |
 The cost of entry is dependent on the marginal production unit. Therefore, most likely only feasible for plants with expensive fuel such as natural gas. 
 ### LCA
 
@@ -88,7 +88,9 @@ Waste heat can be used for own consumption such as space heating, domestic heati
 
 While external uses are drying biomass, preheating water in power plants, district heating, water desalination, and electricity production (low conversion rate).
 
+Currently,
+
 
 ## Further Readings
 
-There are many case studies that already looks at waste heat utilisation
+There are many case studies that already looks at waste heat utilisation. Look particularly in 
