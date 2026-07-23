@@ -37,9 +37,10 @@ Metrics needs to be
 
 The study makes recommendations for metrics to be used for data center to categorise them and identify waste heat potentials. Changes in metrics also allow us to measure improvements from energy efficiency implementations. 
 
-| Metrics          | Description |
-| ---------------- | ----------- |
-| Power Usage Effi |             |
+| Metrics                    | Description                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------- |
+| Power Usage Effectiveness  | Total energy/IT energy, which is the energy used to maintain server racks rather than cooling. |
+| Energy Reuse Effectiveness | Total energy - reuse energy/IT energy                                                          |
 
 
 
