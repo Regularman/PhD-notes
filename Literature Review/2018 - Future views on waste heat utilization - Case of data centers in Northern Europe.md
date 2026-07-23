@@ -41,7 +41,7 @@ In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 | High capex investments                 |            |
 ### LCA
 
-Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation.
+Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation. The emission factor for electricity is higher as the first plant to reach to the changes are those that have the highest marginal cost. As long as these plants are running enough, then CLCA gives you an estimate of the short term impact. 
 ### Levers
 
 ## Further Readings
