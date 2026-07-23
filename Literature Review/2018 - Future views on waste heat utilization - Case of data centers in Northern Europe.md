@@ -93,6 +93,8 @@ Performs back of the envelope calculation for emission calculations, but only fo
 The study also highlights that the cost LCA is very dependent on fuel prices and electricity prices, which are volatile to global supply chains. It depends on electricity build out 
 
 - Assumes investment cost of $500EUR/KW_{heat}$ 
+
+Ultimately, the decarbonisation potential is
 ### Levers
 
 #### Where to use waste heat
@@ -118,7 +120,7 @@ Pros and cons of selling DC waste heat to DH.
 One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built). Otherwise, data centres will just reduce utilisation of existing ancillary heat production plants.
 - The cost of waste heat must also be cheaper than the next marginal unit of production.
 - The greatest benefit comes from avoiding the building of new natural gas peaking production units.
-- Fluct
+- Waste heat recovery will have to answer to fluctuation in IT loads on the intraday and on the longer time frame. 
 
 Furthermore, data centres also have the option to use direct air cooling during winter (when heat demand in districts is actually the highest). Without dynamic pricing, there is no incentive for DC to participate in selling waste heat using heat pump booster.
 - What if we use direct heat exchangers using 5GDHC low temperature grids?
