@@ -25,6 +25,11 @@ Data centers can cool through two options
 - Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers
 - Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply.
 - Liquid cooling
+#### How is waste heat collected in data center
+
+Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.
+
+In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 ### Metrics used to quantify waste heat potential in data centers
 
 Metrics needs to be 
@@ -50,14 +55,8 @@ The study makes recommendations for metrics to be used for data center to catego
 | Return Heat Index                     | Measures the ratio of the heat extracted by the cooling system compared to the heat at the rack exit to under heat transfer efficiency |
 | system Power Usage Effectiveness      | Effectiveness of a specific Computing Unit (cooling power and power consumed by specific computing equipment)                          |
 | Data Centre Workload Power Efficiency | The specific workload, running on a specific HPC system                                                                                |
+| Performance Per Watt                  | Actual energy efficiency of a device and how it is used, allowing for a global evaluation                                              |
 
-
-
-### How is waste heat collected in data center
-
-Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.
-
-In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 
 ### Barriers to entry
 
