@@ -124,4 +124,4 @@ Furthermore, data centres also have the option to use direct air cooling during 
 
 ## Further Readings
 
-There are many case studies that already looks at waste heat utilisation. Look particularly in 
+There are many case studies that already looks at waste heat utilisation. Look particularly in example of Apple in Vyborg, Denmark. These case studies provide examples of waste heat that is available at different sizes.
