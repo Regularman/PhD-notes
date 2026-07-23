@@ -35,7 +35,13 @@ Metrics needs to be
 - Precise
 - Granular
 
-The study makes recommendations for metrics to be used for data center to categorise them
+The study makes recommendations for metrics to be used for data center to categorise them and identify waste heat potentials. Changes in metrics also allow us to measure improvements from energy efficiency implementations. 
+
+| Metrics          | Description |
+| ---------------- | ----------- |
+| Power Usage Effi |             |
+
+
 
 ### How is waste heat collected in data center
 
