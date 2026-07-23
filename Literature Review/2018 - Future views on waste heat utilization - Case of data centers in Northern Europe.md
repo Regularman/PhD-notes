@@ -63,16 +63,16 @@ The study makes recommendations for metrics to be used for data center to catego
 | Performance Per Watt                  | Actual energy efficiency of a device and how it is used, allowing for a global evaluation                                              |
 ### Barriers to entry
 
-| Barriers and Risk                                   | Mitigation                                     |
-| --------------------------------------------------- | ---------------------------------------------- |
-| Low temperature (low grade waste heat)              | 5GDHC                                          |
-| High capex investments                              | HAAS                                           |
-| Need for ancillary heat production                  | Heat storage                                   |
-| Differing financial outcomes of DC and DH operators | HAAS                                           |
-| Cybersecurity                                       |                                                |
-| Optimisation of thermodynamics                      |                                                |
-| Thermal losses                                      | DC must be located close to DH and heat demand |
-
+| Barriers and Risk                                   | Mitigation                                             |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Low temperature (low grade waste heat)              | 5GDHC                                                  |
+| High capex investments                              | HAAS                                                   |
+| Need for ancillary heat production                  | Heat storage                                           |
+| Differing financial outcomes of DC and DH operators | HAAS. There is also the lack of data and transparenct. |
+| Cybersecurity                                       |                                                        |
+| Optimisation of thermodynamics                      |                                                        |
+| Thermal losses                                      | DC must be located close to DH and heat demand         |
+The cost of entry is dependent on the marginal production unit. Therefore, most likely only feasible for plants with expensive fuel such as natural gas. 
 ### LCA
 
 Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation. The emission factor for electricity is higher as the first plant to reach to the changes are those that have the highest marginal cost. As long as these plants are running enough, then CLCA gives you an estimate of the short term impact. If the portfolio remains constant over time, then CLCA also provides the right resource for future. 
