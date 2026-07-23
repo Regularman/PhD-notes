@@ -73,6 +73,7 @@ The study makes recommendations for metrics to be used for data center to catego
 | Optimisation of thermodynamics                      | Mixing cooling and heat sources complicates the heat transference and fluid mechanics. Applying closed system principles to open systems oversizes the cooling capacity. Furthermore, there are dynamic power allocation based on the usage of a data centre. |
 | Thermal losses                                      | DC must be located close to DH and heat demand                                                                                                                                                                                                                |
 The cost of entry is dependent on the marginal production unit. Therefore, most likely only feasible for plants with expensive fuel such as natural gas. 
+- The study considers the the emission factor of biomass to be $0$, highlighting that carbon dioxide will be released through decomposition anyways,
 ### LCA
 
 Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation. The emission factor for electricity is higher as the first plant to reach to the changes are those that have the highest marginal cost. As long as these plants are running enough, then CLCA gives you an estimate of the short term impact. If the portfolio remains constant over time, then CLCA also provides the right resource for future. 
@@ -80,6 +81,11 @@ Consequential LCA (CLCA) shows what happens when consumption or production chang
 Attribution LCA (ALCA) looks at total emissions of the activity over a certain time frame and does not consider changes in consumption.
 
 Performs back of the envelope calculation for emission calculations, but only for the operational aspect? Therefore, not fully cradle to grave.
+
+| Factor | Consequential | Attributional |
+| ------ | ------------- | ------------- |
+|        |               |               |
+
 ### Levers
 
 #### Where to use waste heat
