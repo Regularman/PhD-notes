@@ -82,12 +82,13 @@ Attribution LCA (ALCA) looks at total emissions of the activity over a certain t
 
 Performs back of the envelope calculation for emission calculations, but only for the operational aspect? Therefore, not fully cradle to grave.
 
-DC heat utilised as DH
+**Table is for DC heat utilised as DH**
 
-| Factor                 | Consequential | Attributional |
-| ---------------------- | ------------- | ------------- |
-| Avoided CHP production |               |               |
-| CO2 emiss              |               |               |
+| Factor                                                     | Consequential | Attributional |
+| ---------------------------------------------------------- | ------------- | ------------- |
+| Avoided CHP production                                     | -95           | -38           |
+| CO2 emissions from electricity usage in DC Cooling and HPs |               |               |
+| Net DH emissions                                           |               |               |
 
 ### Levers
 
