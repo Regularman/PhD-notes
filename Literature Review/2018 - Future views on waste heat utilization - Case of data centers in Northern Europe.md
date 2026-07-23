@@ -12,7 +12,13 @@ Data center locations are chosen based on 4 factors
 - Proximity to data users
 - Proximity to cheap renewable electricity
 - Geopolitical stability
-- Abundance of cheap renewab
+- Abundance of cheap renewable energy that is reliable
+If data centres were to connect to district heating, an additional requirement will be
+- Proximity to heat demands
+#### Cooling
+
+Data centers can cool through two options
+- the
 ### Metrics used to quantify waste heat potential in data centers
 
 ### How is waste heat collected in data center
