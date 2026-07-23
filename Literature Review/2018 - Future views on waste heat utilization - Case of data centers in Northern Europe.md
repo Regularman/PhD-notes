@@ -82,9 +82,12 @@ Attribution LCA (ALCA) looks at total emissions of the activity over a certain t
 
 Performs back of the envelope calculation for emission calculations, but only for the operational aspect? Therefore, not fully cradle to grave.
 
-| Factor | Consequential | Attributional |
-| ------ | ------------- | ------------- |
-|        |               |               |
+DC heat utilised as DH
+
+| Factor                 | Consequential | Attributional |
+| ---------------------- | ------------- | ------------- |
+| Avoided CHP production |               |               |
+| CO2 emiss              |               |               |
 
 ### Levers
 
