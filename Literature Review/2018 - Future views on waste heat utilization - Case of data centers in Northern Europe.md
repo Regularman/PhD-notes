@@ -8,19 +8,22 @@ Outlines the pathways of waste heat utilisation for data centers, outlining how 
 
 ### Metrics used to quantify waste heat potential in data centers
 
-Data c
+Data center locations are chosen based on 3 factors 
 
 ### How is waste heat collected in data center
 
-Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.-
+Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.
+
+In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
 
 ### Barriers to entry
 
-| Barriers and Risk | Mitigation |
-| ----------------- | ---------- |
-|                   |            |
+| Barriers and Risk                      | Mitigation |
+| -------------------------------------- | ---------- |
+| Low temperature (low grade waste heat) |            |
+| High t                                 |            |
 
-
+### LCA
 ### Levers
 
 ## Further Readings
