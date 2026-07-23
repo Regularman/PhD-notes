@@ -23,17 +23,13 @@ If data centers were to connect to district heating, an additional requirement w
 
 Server racks are set up in hot and cold aisles to prevent the mixing of hot and cold that creates energy efficiencies and thermodynamics complexities. Note that almost all waste heat in a data centre can be removed.
 
-Data centers can cool through two options. 
-- Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers. Return temperature of $25-30\degree$C
-- Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply. Return temperature of $25-30\degree$C
-- Liquid cooling. Used for on the chip cooling, which enables more efficient heat transfer. Return temperature of $50-60\degree$C
+Temperature of water in circulating water temperatur
 
-
-| Type of cooling     | Return Temperature                    | Positives                                                                                                                                                  | Negatives                                                                      |
-| ------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Direct Air Cooling  | Return temperature of $25-30\degree$C | Much less energy intensive                                                                                                                                 | Cannot be used for more modern data centres or in hotter temperatures/seasons. |
-| Chilled air cooling | Return temperature of $25-30\degree$C | Uses a chilled water supply to cool the recirculating air in the server room                                                                               |                                                                                |
-| Liquid cooling      | Return temperature of $50-60\degree$C | On the chip cooling allows for much better heat transfer. Captures waste heat much better. Liquid cooling reduces the need for chillers and compute rom ai |                                                                                |
+| Type of cooling     | Return Temperature                    | Positives                                                                                                                                                                                              | Negatives                                                                      |
+| ------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Direct Air Cooling  | Return temperature of $25-30\degree$C | Much less energy intensive                                                                                                                                                                             | Cannot be used for more modern data centres or in hotter temperatures/seasons. |
+| Chilled air cooling | Return temperature of $25-30\degree$C | Uses a chilled water supply to cool the recirculating air in the server room                                                                                                                           |                                                                                |
+| Liquid cooling      | Return temperature of $50-60\degree$C | On the chip cooling allows for much better heat transfer. Captures waste heat much better. Liquid cooling reduces the need for chillers and compute rom air chillers. Also increases chip performance. |                                                                                |
 
 However, air cooli
 #### How is waste heat collected in data center
