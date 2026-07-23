@@ -4,6 +4,8 @@ Cited by 338
 ## Contributions
 
 Outlines the pathways of waste heat utilisation for data centers, outlining how it can be implemented as well as a back of the envelope LCA analysis on its integration to district heating. It is a good reference to consider the different levers when optimising waste heat from data centers, as it presents its own risks and opportunities.
+
+Ultimately found that emission reduction depends on the emission and technology mix that is used as a reference. As well as consequential vs attributional standpoint.
 ## Content
 
 ### Data center operation
@@ -19,7 +21,7 @@ If data centres were to connect to district heating, an additional requirement w
 
 Data centers can cool through two options
 - Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers
-- Chilled air cooling.
+- Chilled air cooling. Where a
 - Liquid cooling
 ### Metrics used to quantify waste heat potential in data centers
 
