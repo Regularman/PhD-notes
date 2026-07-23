@@ -1,100 +1,89 @@
-https://www.a2ep.org.au/publications
+https://www.ait.ac.at/en/research-topics/flexibility-business-models/projects/flex
 
-When installing/replacing legacy equipment with heat pumps, it is important to think about
-1. Ventilation
-2. Adequate signage
-3. Technology type
-4. Occupancy category
-5. Refrigerant location in design
-6. Review standards for commissioning.
+This final report is not peer reviewed
+## Contribution
 
-| Refrigerant Type                                              | Description                                           | Advantages | Disadvantages                                                         |
-| ------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
-| CFC - Chlorofluorocarbons and HCFC - hydrochlorofluorocarbons |                                                       |            | High leakage rate (high GWP) and high Ozone Depletion Potential (ODP) |
-| HFO                                                           |                                                       |            | Large PFAS contamination potential                                    |
-| Natural refrigerants                                          | Such as ammonia, propane and carbon dioxide, or water |            |                                                                       |
+Individual components are connected to the component pools and send data to the pools regarding storage levels, room and water temperatures, and EV charging status.
 
-| Refrigerant Type | Description | Advantages                                                                                                       | Disadvantages                                                                                                           |
-| ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Water            |             | Can absorb a lot of heat and have a high cooling effect                                                          | High boiling point, which requires lower pressure and specialised compressor                                            |
-| Ammonia          |             | High efficiency, lower quantities needed                                                                         | Corrodes copper, so the compressor motor must be decoupled from the refrigerant circuit. It is also toxic and flammable |
-| Carbon Dioxide   |             | Efficiency advantage at both low and high temperature, as well as high heat transfer rating                      | Requires high operating pressure and specialised compressor to accommodate this. This is a operating as well as costs.  |
-| Propane          |             | Higher efficiency at high temperatures. It is also a byproduct of natural gas processing and petroleum refining. | Highly flammable                                                                                                        |
+The study implemented scalable optimization algorithms for both the prosumer and aggregator using the flex+ platform, which co-ordinates the pools and their suppliers and is responsible for aggregating and forwarding the control energy call-off signals.
 
-The type of refrigerant considered is a balance between the following risks
-- Ozone Depleting Potential (ODP)
-- Global Warming Potential (GWP)
-- Toxicity and flammability (mitigated through ventilation)
-- PFAS contamination potential
-- Boiling point for efficiency and performance
+1. Proposes market environments and developing business and compensation models/tariffs (work package 2)
+2. And in work package 3, proposes optimisation algorithms and simulation for use cases, looking at MILP, machine learning, and MPC
+3. WP-5 demonstrates these functionalities in real world projects
 
-![[Screenshot 2026-06-24 090959.png]]
-## Global Warming Potential
+![[Screenshot 2026-06-30 at 12.02.54 pm.png]]
+Looks at participation of aggregated heat pump in three markets
 
-The GWP of refrigerants come from the emission of greenhouse gases
+- Day-ahead spot market: Marginal pricing, all numbers get the same price, and every hour gets a different price.
+- Intraday market: 5 minutes before delivery, and is pay as bid
+- Primary, secondary, and tertiary reserve markets: where capacity is reserved and could be called upon. A service fee is paid for this capacity, and when energy is called up, the energy price is reimbursed, and reduced network charge in the case of a negative call up.
+	- For the primary reserve, this is only for the battery pool as symmetrical supply must be given
+	- For the secondary supply, if there is a deviation in the called energy with the expected value, then the next window must compensate for this for the equipment to return to the normal operating temperature
+	- For the tertiary reserve market, call probability is assumed to be 0.
+## Content
 
-- Scope 1: Refrigerant leak 
-- Scope 2: Electricity consumption related to the equipment containing the heat pump
-- Scope 3: Equipment manufacturing, transportation, installation, and future recycling
+### Heat pump modelling
 
-## Toxicity vs Flammability matrix 
+Used MILP to minimise cost for the heat pump pool. This optimiser runs on the day-ahead schedule as well as the intraday market, with the mechanisms discussed previously.
 
-![[Screenshot 2026-06-24 090708.png]]
+The heat pump is connected to a hot water storage tank and a building model/consumption profile.
 
-## Usage classification
+Heat pump is described with with a empirically derived heating polynomial, depending on pump revolutions, the heat source temperature, and the outside temperature. The power range of the heat pump is specified with a binary variable.
+$$Q(P(t))=\eta(t)*P(t)+d(t)*Binary(t)$$
+This heating curve is calculated at each time-step. Note that there are two modes, the heat going to the hot water tank or direct to the house model. An equation constrains the overall performance with switching between the two modes.
 
-These classifications restricts the quantity of refrigerant that can be used
+$$\frac{P(t)}{P_{max}(t)}+\frac{P_{domestic-hot-water}(t)}{P_{domestic-hot-water,max}(t)}\le 1$$
+The building is a simple capacity model (RC) represented through state space mode.
+$$\dot{x}=Ax+Bu \rightarrow x(t+1)=\phi(t)x(t)+\Gamma(t)u(t)$$which represents the amount of heat supplied (heating energy, solar radiation, and internal thermal load) and the boundary temperature (ground and ambient temperature).
+- Calibrated from past measurements, approximating the resulting state temperature to the reference curve at different thermal capacities and U values.
 
-- Category 1: General occupancy
-- Category 2: Supervised occupancy
-- Category 3: Authorised occupancy
+AIT partnered directly with iDM such that the optimiser information is forwarded directly to participating heat pumps.
 
-## Location classification
+The project optimised 4 air sourced heat pumps and 1 ground source heat pump. The heat pumps receive a new setting from a central iDM server every 15 minutes. This optimiser takes in the building's characteristic, predicted outside temperature, solar radiation, and the trend in demand and electricity prices.
+- This is used to predict the demand of hot water or heating
 
-- Class I: Refrigerant containing parts located in occupied space
-- Class II: Compressors and pressure vessels in machinery room or open air
-- Class III: Refrigerant containing parts located in machinery room or open air
-- Class IV: Refrigerant containing parts located in ventilated locations
+There are some additional constraints, such as the fact that if the difference between the target and actual room temperature exceeds 1.5$\degree$C, then an additional heating phase is activated for the next 15 minutes. 
 
-## Standards
+The heat pump is operating between different operating modes (hot water consumption or base heating)
 
-According to the classifications above, various standards addresses the control and use of these heat pumps.
+### Case study: Großschönau
 
-Primary
+This is a wastewater treatment plant consisting of 2 PV systems, a battery, 2 EV charging stations, a boiler, a heat pump, and a load.
+- The heat pump is used to heat the air in a room with an area of $100m^2$, which is kept at $20\degree$C to $25\degree$C. 
+- While the boiler is used to supply hot water.
 
-1. AS/NZS 5149: Safety and environmental requirements of refrigerating systems and heat pumps
-2. AS/NZS ISO 817:2016 Identifies the designation and safety classification for refrigerants
-3. AS/NZS 60335: includes charge limits for appliances
-4. SAA HB40.1: The Australian Refrigeration and Air Conditioning Code of Good Practice - developed to reduce emissions from refrigerants
+Data obtained from historical measurements from 2017-2019.
 
-Secondary 
+Ultimately found that revenue is the greatest from the secondary control market.
+- ~={orange}**Furthermore, it is shown that heat pumps offer negative control energy in the secondary reserve market and positive control energy in the tertiary market. (WHY?)**. =~There is also almost no participation of heat pumps in the positive energy control of the secondary reserve market
+- Comfort was defined through customer survey and questionnaires
 
-1. AS/NZS 60079: Australian Hazardous Area Standards
-2. AS/NZS1200:2000: Pressure equipment design, manufacture, examination, installation, and maintenance
-3. AS4343: Pressure equipment - hazard levels
-4. AS/NZS3788: Repair of boilers and pressure vessels and safety controls
-5. AS1319 and AS/NZS60417: Signage standards
+However, the simulation and case studies did not match up due to differing time periods and durations. The real world data only lasted for days or weeks and therefore does not represent worst case scenarios.
 
-## Types of heat pump arrangement
+For example, real world data showed that there was a net negative savings with participation in the secondary reserve market.
+- This was also due to the demand forecasting being much higher than the actual demand, which meant that the energy has to be resold on the intraday market at a less favorable price.
+- They also did not collect reference data in the real world scenario, therefore, in the base case they assumed perfect demand forecasting. How can we add imperfect demand data into the model?
 
-### Ambient loop
+### Consumer feedback
 
-A centralized water loop which is maintained at a certain temperature to be used as a source loop that heat pump can draw heat from and chillers can reject heat into. This type of centralization allow the opportunity to use **large scale** renewables, since all the heat pumps and chillers are in the same place
+There were user satisfaction concerns regarding hot water availability and temperature, as well as storage management,
 
-![[Screenshot 2026-06-24 094654.png]]
-### Cascade
+Out of the 9 heat pump users interviewed, almost half were concerned with the value case and data security of their heat pumps participating in ancillary services.
+## Limitations
 
-To address technology or space limitations. For example, the winter ambient temperature may be too cold for one heat pump, so we connect an air sourced heat pump, using the outlet loop as the source loop for a water sourced heat pump to produced the desire temperature of hot water.
+- Statistically averages out case and does not do stress testing
+- Overall the results in this study is quite poor in terms of presentation of data. Furthermore, the paper looks at the use of a reserve capacity mechanism that does not exist in the NEM.
+- The optimiser for heating demand and hot water demand shows that there is significant overestimation of demand, and is not very effective.
+	- The hot water pumps does not always behave as specified by the optimiser, and the effect of this is not discussed in its effect on energy pricing and revenue generated.
+- There are only 3 heat pumps that are scheduled at a time, so the study does not look into the flexibility that aggregating many heat pumps can provide. 
+- Case study from the result does not show comparative revenue with and without the heat pump participation.
+- A lot of papers highlights that heat pumps cannot participate in the primary response/reserve market (60s)
+- For heat pumps, they were simulated weekly and therefore showed higher revenue potential in the secondary reserve market
+- The study also does not show the control of aggregated heat pumps to meet both heat demand and revenue concisely. The pool of heat pumps more so reflects a technology mix of battery. 
 
-![[Screenshot 2026-06-24 094757.png]]
-# Questions
+Encountered the problem of not having enough time to solve all the optimization problem as the number of heat pumps increased.
 
-How is global warming potential for refrigerants calculated.
 
-Why is it that only ammonia allows double cycle heat pumps.
+## Question
 
-# Further Readings
-
-International Institute of Refrigeration (IIR) publishes ODP and GWP of refrigerants
-
-ATMOsphere, Refrigerants is also good for understanding GWP and PFAS
+## Further Readings

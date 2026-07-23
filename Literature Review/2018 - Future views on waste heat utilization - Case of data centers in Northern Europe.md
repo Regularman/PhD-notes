@@ -21,6 +21,7 @@ If data centers were to connect to district heating, an additional requirement w
 - Proximity to heat demands
 #### Cooling
 
+Server racks are set u
 Data centers can cool through two options
 - Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers
 - Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply.
