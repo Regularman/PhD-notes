@@ -81,7 +81,8 @@
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-4840,"y":-897,"width":400,"height":145},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4406,"y":-1025,"width":400,"height":135},
 		{"id":"cbb07725c283369d","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites in Austria with Energie Burgenland-.md","x":-4545,"y":-1291,"width":400,"height":180,"color":"6"},
-		{"id":"e565e22128666908","type":"file","file":"PhD-notes/Literature Review/2023 - Heat pumping and renewable energy integration for decarbonizing brewery industry and district heating.md","x":-4496,"y":-1621,"width":400,"height":215}
+		{"id":"e565e22128666908","type":"file","file":"PhD-notes/Literature Review/2023 - Heat pumping and renewable energy integration for decarbonizing brewery industry and district heating.md","x":-4496,"y":-1621,"width":400,"height":215},
+		{"id":"1a2e2b863256ec47","x":-4145,"y":-1870,"width":400,"height":127,"color":"4","type":"file","file":"PhD-notes/Literature Review/2018 - Future views on waste heat utilization - Case of data centers in Northern Europe.md"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -158,6 +159,7 @@
 		{"id":"322f45d71ce0d9f5","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"cabd4f6f1b11d73e","toSide":"bottom"},
 		{"id":"8b7105a84aa73a11","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"7daa2a201854fb02","toSide":"top"},
 		{"id":"42c35e323c5d5520","fromNode":"35cb1aba6cac9e74","fromSide":"left","toNode":"ee1b8a8eb9616fd0","toSide":"right"},
-		{"id":"41e5f404cff07b00","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"02803640b655ee4f","toSide":"top"}
+		{"id":"41e5f404cff07b00","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"02803640b655ee4f","toSide":"top"},
+		{"id":"e8a89a53c6db388f","fromNode":"35cb1aba6cac9e74","fromSide":"left","toNode":"1a2e2b863256ec47","toSide":"right"}
 	]
 }

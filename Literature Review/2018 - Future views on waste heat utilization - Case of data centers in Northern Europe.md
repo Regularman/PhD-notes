@@ -97,7 +97,7 @@ The study also highlights that the cost LCA is very dependent on fuel prices and
 Ultimately, the decarbonisation potential is very dependent on the energy mix used in district heating. In this case, the LCA study actually found that carbon emissions went up, but that was on the assumption that biomass emission is 0 over its lifecycle. However, the cost of operation will decrease due to the estimated payback time of 5 years vs 15 years of operation life.
 - This supports the many literature and paper that shows economic benefit of waste heat integration
 
-- However there have been studies showing a lack of concern of data centre operators with a sustainability and energy efficiency according to a Fujitsu report on ICT sustainability. [60]. There is also CAPEX co
+- However there have been studies showing a lack of concern of data centre operators with a sustainability and energy efficiency according to a Fujitsu report on ICT sustainability. [60]. There is also CAPEX constraints that leads to ICT manager installing inefficient, cheaper cooling system.
 ### Levers
 
 #### Where to use waste heat
