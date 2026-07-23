@@ -23,11 +23,10 @@ If data centers were to connect to district heating, an additional requirement w
 
 Server racks are set up in hot and cold aisles to prevent the mixing of hot and cold that creates energy efficiencies and thermodynamics complexities.
 
+Data centers can cool through two options. 
+- Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers.
+- Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply. Return temperature of $25-30\degree$C
 
-
-Data centers can cool through two options
-- Direct air cooling. Used when ambient temperature is low enough, and can save electricity from not operating the chillers
-- Chilled air cooling. Where a Computer Room Air Handler (CRAH) cools air with a chilled water supply.
 - Liquid cooling
 #### How is waste heat collected in data center
 
