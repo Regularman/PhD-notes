@@ -3,7 +3,7 @@ Cited by 338
 
 ## Contributions
 
-Outlines the pathways of waste heat utilisation for the 
+Outlines the pathways of waste heat utilisation for data centers, outlining how it can be implemented as well as a back of the envelope LCA analysis on its integration to district heating. It is a good reference to consider th
 
 ## Content
 
