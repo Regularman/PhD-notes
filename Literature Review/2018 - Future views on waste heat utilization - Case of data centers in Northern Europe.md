@@ -136,6 +136,7 @@ There are 4 options for data centres that have insufficient power and cooling ca
 1. Modernise existing DC
 2. Invest in a new DC
 3. Migrate workload to a larger DC
+The first three options gives you options to implement new waste heat recovery technologies.
 4. Do nothing
 ## Limitations
 
