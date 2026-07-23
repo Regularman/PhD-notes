@@ -29,9 +29,9 @@ Data centers can cool through two options.
 - Liquid cooling. Used for on the chip cooling, which enables more efficient heat transfer. Return temperature of $50-60\degree$C
 
 
-| Type of cooling | Return Temperature |     |
-| --------------- | ------------------ | --- |
-|                 |                    |     |
+| Type of cooling    | Return Temperature                    | Negative                                    |
+| ------------------ | ------------------------------------- | ------------------------------------------- |
+| Direct Air Cooling | Return temperature of $25-30\degree$C | Cannot be used for more modern data centres |
 
 However, air cooli
 #### How is waste heat collected in data center
