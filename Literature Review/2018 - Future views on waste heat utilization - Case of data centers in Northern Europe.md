@@ -104,7 +104,9 @@ Pros and cons of selling DC waste heat to DH.
 | Connecting to district heating reduces the temperature lift of heat pumps operating for district heating compared to ambient air. | Increasing condensing temperature when using DC waste heat in DH reduces heat pump efficiency |
 One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built). Otherwise, data centres will just reduce utilisation of existing ancillary heat production plants.
 
-Furthermore, 
+Furthermore, data centres also have the option to use direct air cooling during winter (when heat demand in districts is, which makes the heat provision season
+
+## Limitations
 
 ## Further Readings
 
