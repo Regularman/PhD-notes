@@ -95,6 +95,8 @@ The study also highlights that the cost LCA is very dependent on fuel prices and
 - Assumes investment cost of $500EUR/KW_{heat}$ 
 
 Ultimately, the decarbonisation potential is very dependent on the energy mix used in district heating. In this case, the LCA study actually found that carbon emissions went up, but that was on the assumption that biomass emission is 0 over its lifecycle. However, the cost of operation will decrease due to the estimated payback time of 5 years vs 15 years of operation life.
+
+- However there have been studies showing a lack of concern of data centre operators w
 ### Levers
 
 #### Where to use waste heat
@@ -133,4 +135,3 @@ Furthermore, data centres also have the option to use direct air cooling during 
 There are many case studies that already looks at waste heat utilisation. Look particularly in example of Apple in Vyborg, Denmark. These case studies provide examples of waste heat that is available at different sizes.
 
 Yandex and Telia publishes Global Reporting Initiative to understand and communicate the critical impact of businesses on sustainability.
-
