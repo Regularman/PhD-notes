@@ -78,6 +78,8 @@ The cost of entry is dependent on the marginal production unit. Therefore, most 
 Consequential LCA (CLCA) shows what happens when consumption or production changes due to technology implementation. The emission factor for electricity is higher as the first plant to reach to the changes are those that have the highest marginal cost. As long as these plants are running enough, then CLCA gives you an estimate of the short term impact. If the portfolio remains constant over time, then CLCA also provides the right resource for future. 
 
 Attribution LCA (ALCA) looks at total emissions of the activity over a certain time frame and does not consider changes in consumption.
+
+Performs back of the envelope calculation for emission calculations, but only for the operational aspect? Therefore, not fully cradle to grave.
 ### Levers
 
 #### Where to use waste heat
@@ -98,7 +100,7 @@ Pros and cons of selling DC waste heat to DH.
 | Pros                                                                              | Cons                                                                     |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Revenue from selling waste heat to District heating companies.                    | Increased electricity consumption due to the operation of the heat pumps |
-| Increases base load heat generation, and can operate flexibly during maintenance. | It can lower utilisation of ancillary heat production units              |
+| Increases base load heat generation, and can operate flexibly during maintenance. | It can lower utilisation of ancillary heat production units.             |
 One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built). Otherwise, data centres will just reduce utilisation of existing ancillary heat production plants.
 
 ## Further Readings
