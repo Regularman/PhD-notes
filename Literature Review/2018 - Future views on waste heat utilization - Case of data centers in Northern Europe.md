@@ -31,7 +31,11 @@ Metrics needs to be
 - Intuitive
 - Definitive and purposeful
 - Measurable
-- Scales to technology, econom
+- Scales to technology, economics, and environmental changes
+- Precise
+- Granular
+
+The study makes recommendations for metrics to be used for data center to categorise them
 
 ### How is waste heat collected in data center
 
