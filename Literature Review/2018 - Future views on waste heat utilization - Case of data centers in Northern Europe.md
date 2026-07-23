@@ -85,11 +85,11 @@ Performs back of the envelope calculation for emission calculations, but only fo
 **Table is for DC heat utilised as DH**
 *Note that the CLCA considers displacement of CHP as marginal production unit* 
 
-| Factor                                                     | Consequential | Attributional | Reason for difference |
-| ---------------------------------------------------------- | ------------- | ------------- | --------------------- |
-| Avoided CHP production                                     | -95           | -38           |                       |
-| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             |                       |
-| Net DH emissions                                           | 102           | 194           |                       |
+| Factor                                                     | Consequential | Attributional | Reason for difference                                                         |
+| ---------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- |
+| Avoided CHP production                                     | -95           | -38           | There is higher avoided CHP production in the consequential case as we are as |
+| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             |                                                                               |
+| Net DH emissions                                           | 102           | 194           |                                                                               |
 
 ### Levers
 
@@ -116,7 +116,7 @@ Pros and cons of selling DC waste heat to DH.
 One of the main concern is if data centres can displace peaking generation capacity (i.e. preventing new peaking plants from being built). Otherwise, data centres will just reduce utilisation of existing ancillary heat production plants.
 
 Furthermore, data centres also have the option to use direct air cooling during winter (when heat demand in districts is actually the highest). Without dynamic pricing, there is no incentive for DC to participate in selling waste heat using heat pump booster.
-- What if we use direct heat exchangers using 5GDHC low temperature grids.
+- What if we use direct heat exchangers using 5GDHC low temperature grids?
 
 ## Limitations
 
