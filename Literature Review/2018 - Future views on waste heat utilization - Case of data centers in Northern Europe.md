@@ -88,16 +88,17 @@ Waste heat can be used for own consumption such as space heating, domestic heati
 
 While external uses are drying biomass, preheating water in power plants, district heating, water desalination, and electricity production (low conversion rate).
 
-Currently, in European DH most are 3GDH operating at $70-120\degree C$.
+Currently, in European DH most are 3GDH operating at $70-120\degree C$. They also do not have dynamic heat pricing.
 #### Tradeoffs
 
 ![[Screenshot 2026-07-23 at 2.32.49 pm.png]]
 
 
-| Participation in DH                                                      | No Participation in DH |
-| ------------------------------------------------------------------------ | ---------------------- |
-| Increased electricity consumption due to the operation of the heat pumps |                        |
-|                                                                          |                        |
+
+| Pros                                                           | Cons                                                                     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Revenue from selling waste heat to District heating companies. | Increased electricity consumption due to the operation of the heat pumps |
+|                                                                |                                                                          |
 
 
 ## Further Readings
