@@ -94,7 +94,7 @@ The study also highlights that the cost LCA is very dependent on fuel prices and
 
 - Assumes investment cost of $500EUR/KW_{heat}$ 
 
-Ultimately, the decarbonisation potential is
+Ultimately, the decarbonisation potential is very dependent on the energy mix used in district heating. In this case, the LCA study actually found that carbon emissions went up, but that was on the assumption that biomass emission is 0 over its lifecycle.
 ### Levers
 
 #### Where to use waste heat
