@@ -80,6 +80,8 @@ There are many different places to use waste heat. Most studies only look at the
 
 Waste heat can be used for own consumption such as space heating, domestic heating, melting snow, producing cooling through absorption heat pumps.
 
+While external uses are drying biomass, preheating water in power plants, district heating, water desalinati
+
 
 
 
