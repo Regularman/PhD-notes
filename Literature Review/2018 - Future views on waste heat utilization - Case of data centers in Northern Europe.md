@@ -94,6 +94,11 @@ Currently, in European DH most are 3GDH operating at $70-120\degree C$.
 ![[Screenshot 2026-07-23 at 2.32.49 pm.png]]
 
 
+| Participation in DH                                                      | No Participation in DH |
+| ------------------------------------------------------------------------ | ---------------------- |
+| Increased electricity consumption due to the operation of the heat pumps |                        |
+|                                                                          |                        |
+
 
 ## Further Readings
 
