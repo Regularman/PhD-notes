@@ -85,11 +85,11 @@ Performs back of the envelope calculation for emission calculations, but only fo
 **Table is for DC heat utilised as DH**
 *Note that the CLCA considers displacement of CHP as marginal production unit* 
 
-| Factor                                                     | Consequential | Attributional | Reason for difference                                                         |
-| ---------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------- |
-| Avoided CHP production                                     | -95           | -38           | There is higher avoided CHP production in the consequential case as we are as |
-| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             |                                                                               |
-| Net DH emissions                                           | 102           | 194           |                                                                               |
+| Factor                                                     | Consequential | Attributional | Reason for difference                                                                                                                                                                                                                     |
+| ---------------------------------------------------------- | ------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avoided CHP production                                     | -95           | -38           | There is higher avoided CHP production in the consequential case as we are assuming that CHP is only activated during low renewable high pricing events. Compared to attribution, where emission is just a weighted sum of technology mix |
+| CO2 emissions from electricity usage in DC Cooling and HPs | 23            | 9             | Higher level of CO2 emissions from the                                                                                                                                                                                                    |
+| Net DH emissions                                           | 102           | 194           |                                                                                                                                                                                                                                           |
 
 ### Levers
 
