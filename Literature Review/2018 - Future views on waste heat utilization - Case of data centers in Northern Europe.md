@@ -91,6 +91,7 @@ While external uses are drying biomass, preheating water in power plants, distri
 Currently, in European DH most are 3GDH operating at $70-120\degree C$.
 #### Tradeoffs
 
+![[Screenshot 2026-07-23 at 2.32.49 pm.png]]
 
 
 
