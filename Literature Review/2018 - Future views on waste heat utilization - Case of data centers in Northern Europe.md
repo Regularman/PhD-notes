@@ -23,8 +23,6 @@ If data centers were to connect to district heating, an additional requirement w
 
 Server racks are set up in hot and cold aisles to prevent the mixing of hot and cold that creates energy efficiencies and thermodynamics complexities. Note that almost all waste heat in a data centre can be removed.
 
-Temperature of water in circulating water can be set to $60\degree$C. Waste heat can be captured from the returning waste heat stream, or the chilled water supply where the temperature is only $10-20\degree$C. 
-
 | Type of cooling     | Return Temperature                    | Positives                                                                                                                                                                                              | Negatives                                                                      |
 | ------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | Direct Air Cooling  | Return temperature of $25-30\degree$C | Much less energy intensive                                                                                                                                                                             | Cannot be used for more modern data centres or in hotter temperatures/seasons. |
@@ -35,6 +33,8 @@ Temperature of water in circulating water can be set to $60\degree$C. Waste heat
 Almost all electricity consumed is converted to heat in a DC, but in 2018, this heat is mostly not utilised, due to a lack of transparency in data center operation and inexperience of data center operators to the energy market.
 
 In 2015, waste heat was 3.3% in Finland and 8% in Sweden district heating.
+
+Temperature of water in circulating water can be set to $60\degree$C. Waste heat can be captured from the returning waste heat stream, or the chilled water supply where the temperature is only $10-20\degree$C. 
 ### Metrics used to quantify waste heat potential in data centers
 
 Metrics needs to be 
@@ -61,8 +61,6 @@ The study makes recommendations for metrics to be used for data center to catego
 | system Power Usage Effectiveness      | Effectiveness of a specific Computing Unit (cooling power and power consumed by specific computing equipment)                          |
 | Data Centre Workload Power Efficiency | The specific workload, running on a specific HPC system                                                                                |
 | Performance Per Watt                  | Actual energy efficiency of a device and how it is used, allowing for a global evaluation                                              |
-
-
 ### Barriers to entry
 
 | Barriers and Risk                      | Mitigation |
@@ -75,6 +73,11 @@ Consequential LCA (CLCA) shows what happens when consumption or production chang
 
 Attribution LCA (ALCA) looks at total emissions of the activity over a certain time frame and does not consider changes in consumption.
 ### Levers
+
+#### Where to use waste heat
+
+There are man
+
 
 ## Further Readings
 
