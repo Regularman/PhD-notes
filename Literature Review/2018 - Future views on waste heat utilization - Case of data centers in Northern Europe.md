@@ -45,8 +45,9 @@ The study makes recommendations for metrics to be used for data center to catego
 | Data Centrer Energy Productivity | How much work does IT equipment actually in the DC                                                                                |
 | Network Power Usage Effectveness | Power consumed by network equipment                                                                                               |
 | Fixed to Variable Energy Ratio   | Provides an understanding of change and determines energy use at the electrical input for any device or group of device in the DC |
-| Return temperature Index         | Evaluates cooling air bypassing rack equipment. Measure of the net reci                                                           |
-|                                  |                                                                                                                                   |
+| Return temperature Index         | Evaluates cooling air bypassing rack equipment. Measure of the net recirculation of air                                           |
+| Supply Heat Index                | Measures the separation of the hot and cold air streams. Ratio of the hot and cold aisles                                         |
+| Return Heat Index                | Measures the ratio of the heat extracted by the cooling system compared to the heat at the rack exit to under heat transfer effic |
 
 
 
