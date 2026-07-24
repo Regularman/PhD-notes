@@ -6,7 +6,7 @@ Answers the question of how much demand a solar thermal district heating system 
 - Also includes two short term storage tanks
 - seasonal borehole thermal energy storage system
 - Ground source heat pump for additional energy generation.
-This study tries to answer the question of high seasonal variability and conductive ground in high altitude communities in Finland. This fits into the larger trend of 
+This study tries to answer the question of high seasonal variability and conductive ground in high altitude communities in Finland. This fits into the larger trend of solar communities in Europe.
 
 Optimised with a genetic algorithm using the MOBO optimisation tool. The objective function was a multi-objective optimisation function looking at life cycle cost and energy performance. 
 
