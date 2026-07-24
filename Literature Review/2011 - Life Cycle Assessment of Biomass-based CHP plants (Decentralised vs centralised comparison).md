@@ -92,6 +92,7 @@ The top uncertainties were
 - Operational CHP emissions
 - Biomass procurement distance, and
 - Energy distribution distance
+- The mix of biomass sources, which will change t
 
 Low bioenergy uptake due to low electricity prices in Sweden. Other studies have found that CHP investment based on forest fuel will require a 50% reduction in investment cost and near doubling of the cost of electricity ro be viable in Norwayt.
 ## Questions
