@@ -9,6 +9,9 @@ Compares 10 environmental impact categories across three scales
 For a CHP plant to be built in Norway. This means that we are looking at a centralised vs decentralised approach and the life cycle performance of each scale.
 
 This is done in an attributional LCA format for CHP gasification with downdraft gasification for micro and medium systems and integrated gasification combined cycle technology for the medium scale.
+
+~={red}**What was the final verdict? What are the levers across the three scales?**=~
+
 ## Content
 
 Functional unit = 1MJ of electricity and 1MJ of district heating delivered to the end user.
@@ -89,12 +92,12 @@ The top uncertainties were
 - Biomass procurement distance, and
 - Energy distribution distance
 
-Low bioenergy uptake due to low electricity prices in Sweden. Other studies have found that CHP investment based on forest fuel will require a 50% reduction in investment cost and neatr dou
+Low bioenergy uptake due to low electricity prices in Sweden. Other studies have found that CHP investment based on forest fuel will require a 50% reduction in investment cost and near doubling of the cost of electricity ro be viable in Norwayt.
 ## Questions
 
 ### Limitations
 
 Static size assumptions and comparison rather than heuristic optimisation.
-- Does not compare with p
+- Does not compare with purely electric scenario?
 
 ## Further Readings
