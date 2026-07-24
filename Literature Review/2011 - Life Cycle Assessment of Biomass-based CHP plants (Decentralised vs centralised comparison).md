@@ -13,6 +13,8 @@ This is done in an attributional LCA format for CHP gasification with downdraft 
 ~={red}**What was the final verdict? What are the levers across the three scales for the production of heat?**=~
 
 There are tradeoffs inherent in the CHP plant.
+
+- The operational air emissions is the largest, and i
 ## Content
 
 Functional unit = 1MJ of electricity and 1MJ of district heating delivered to the end user.
