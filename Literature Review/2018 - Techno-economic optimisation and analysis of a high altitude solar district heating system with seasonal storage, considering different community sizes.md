@@ -50,6 +50,8 @@ We want to look at several indicators to see how effective this solar community 
 Note that the profit of the PV sold off did not affect the net energy balance. The results of the study shows promising/favourable $REF_{heat}$ compared to other solar communities in literature.
 - Compared to existing solar communities, the addition of the ground source heat pump increased $REF_{heat}$ significantly, even without solar thermal capacity due to natural borehole restoration.
 
+Ultimately showed that larger communities vs smaller communities had similar performance but was much more cost effective, found through life cycle costing.
+
 ### Trends 
 
 - Large seasonal storage volume associated with low performance (maybe because only 4 years were simulated)
