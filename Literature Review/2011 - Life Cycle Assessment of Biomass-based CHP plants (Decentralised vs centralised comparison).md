@@ -16,7 +16,8 @@ There are tradeoffs inherent in the CHP plant.
 
 - The operational air emissions is the largest, and it is larger in medium scale plants due to more district heating capital required and more biomass transport
 - In release of photochemicals, micro is the worst due to CHP operation, lower efficiency compared to the integrated gasification process that can performed at the large scale?
-- For ozone depletion, medium scale has large ozone depletion potential, associated with the use of gaseous fire suppresent in 
+- For ozone depletion, medium scale has large ozone depletion potential, associated with the use of gaseous fire suppressant in upstream crude oil and natural gas procurement process, used in the district heating capital.
+- For Eutrophication, comes from the operational air emission of CHHP plants. Lower pollution ocntrol techno
 ## Content
 
 Functional unit = 1MJ of electricity and 1MJ of district heating delivered to the end user.
