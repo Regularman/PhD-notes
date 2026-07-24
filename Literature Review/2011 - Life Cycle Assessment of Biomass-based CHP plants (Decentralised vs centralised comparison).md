@@ -10,9 +10,9 @@ For a CHP plant to be built in Norway. This means that we are looking at a centr
 
 This is done in an attributional LCA format for CHP gasification with downdraft gasification for micro and medium systems and integrated gasification combined cycle technology for the medium scale.
 
-~={red}**What was the final verdict? What are the levers across the three scales?**=~
+~={red}**What was the final verdict? What are the levers across the three scales for the production of heat?**=~
 
-Ultimately, the micro level CHP plant has the lowest environmental impact overall. 
+There are tradeoffs inherent in the CHP plant.
 ## Content
 
 Functional unit = 1MJ of electricity and 1MJ of district heating delivered to the end user.
