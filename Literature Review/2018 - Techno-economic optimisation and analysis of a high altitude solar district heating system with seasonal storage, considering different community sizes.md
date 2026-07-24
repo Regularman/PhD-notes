@@ -28,8 +28,9 @@ Buildings used a variety of windows, insulation, and heat recovery efficiency. D
 Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th}/m^2$ according to IEA data. However, there needs to be constant recirculation of water, leading to an effective use of $42 kWh_{th}/m^2$ of effective use. Space heating is variable but hot water demand remains the same over time. 
 
 Borehole storage takes several years to heat up and achieve optimal performance, therefore the system was simulated for $4$ years and the fourth year was used to estimate the cost and performance. 
-
 ### LCC consideration
+
+Looked at the initial investment cost 
 ## Result
 
 We want to look at several indicators to see how effective this solar community is
