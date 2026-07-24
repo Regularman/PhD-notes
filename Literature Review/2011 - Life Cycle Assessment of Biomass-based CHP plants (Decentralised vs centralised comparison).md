@@ -60,8 +60,9 @@ Used an economic scaling factor of 0.7. Capital was based on a small scale CHP p
 - Price allocation is region dependent
 - Energy output allocation does not take into account the quality of the energy
 - Therefore, exergy allocation was chosen for this study. The exergy based fraction of environmental impact attributed to electricity for micro, small, and medium was 0.78, 0.72, and 0.69.
-
 ### District Heating system
+
+3 pipe sizes were used
 ## Results
 
 ## Questions
