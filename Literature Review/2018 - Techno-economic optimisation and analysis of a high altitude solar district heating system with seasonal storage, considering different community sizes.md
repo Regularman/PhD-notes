@@ -69,6 +69,7 @@ The profit of the PV sold off did not affect the net energy balance.
 - As the selling price of excess electricity was significantly less than self consumption, investment in PV system stayed roughly the same
 - In the small case, higher cost performance fuelled by increased investment into buffer tanks and thermal capacity, as well as BTES.
 - As ST area increased, the heat pump utilisation decreased
+- There's a lever, where as solar thermal area increased, m
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems perspective
