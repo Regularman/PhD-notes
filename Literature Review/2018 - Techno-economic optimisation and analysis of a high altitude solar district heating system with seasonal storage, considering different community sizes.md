@@ -2,7 +2,7 @@ https://www.sciencedirect.com/science/article/pii/S0038092X18300732?pes=vor&utm_
 
 ## Contribution
 
-Answers the question of how much demand a solar thermal district heating system can provide for, simulating solar thermal and solar electric panels in TRNSYS. Finding the efficiency of scale at a large scale.
+Answers the question of how much demand a solar thermal district heating system can provide for, simulating solar thermal and solar electric panels in TRNSYS. Finding the efficiency of scale at a large scale. Tested at community sizes of 50, 100, 200, and 500 buildings
 - Also includes two short term storage tanks
 - seasonal borehole thermal energy storage system
 - Ground source heat pump for additional energy generation.
