@@ -12,6 +12,7 @@ This is done in an attributional LCA format for CHP gasification with downdraft 
 
 ~={red}**What was the final verdict? What are the levers across the three scales?**=~
 
+Ultimately, the micro level CHP plant has the lowest environmental impact overall. 
 ## Content
 
 Functional unit = 1MJ of electricity and 1MJ of district heating delivered to the end user.
