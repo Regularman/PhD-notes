@@ -77,8 +77,10 @@ For medium, small, and micro-scale CHP, electricity lost through the electrical 
 ![[Screenshot 2026-07-24 132603.png]]
 
 The small scale has the best GWP. However, smaller CHP plants also have lower pollution control.
+- The main environmental impacts were from stressors from the air and ash directly from the CHP plant
 - Ultimately found that the micro-scale plant created has the least impact on the 
-Compared LCA with previous studies for validations. 
+
+Compared LCA with previous studies for validations and found that the numbers aligned.
 
 Ultimately, impact results were sensitive to the conversion efficiencies and capacity factors. Conversion efficiency is stable but capacity factor depends on the location and network.
 
@@ -87,10 +89,12 @@ The top uncertainties were
 - Biomass procurement distance, and
 - Energy distribution distance
 
+Low bioenergy uptake due to low electricity prices in Sweden. Other studies have found that CHP investment based on forest fuel will require a 50% reduction in investment cost and neatr dou
 ## Questions
 
 ### Limitations
 
 Static size assumptions and comparison rather than heuristic optimisation.
+- Does not compare with p
 
 ## Further Readings
