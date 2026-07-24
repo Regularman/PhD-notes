@@ -57,6 +57,9 @@ Used an economic scaling factor of 0.7. Capital was based on a small scale CHP p
 
 ### Allocation problem
 
+- Price allocation is region dependent
+- Energy output allocation does not take into account the quality of the energy
+- Therefore, exergy allocation was 
 ## Results
 
 ## Questions
