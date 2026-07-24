@@ -21,7 +21,9 @@ Uses the minimal spanning tree to give the minimum length of pipes under a radia
 
 Looked at scenarios where only heating utility investments are considered, where only electric utility investments are considered, and where both electric and heating utilities are considered. However, this is not very significant
 
-### Tr
+### Results
+
+Trivial results, cheapest heating utility when its closest to the heat load and cheapest electricity utility when it is closest to the substation.
 ## Limitations
 
 - Does not consider thermal storage and environmental impact. 
