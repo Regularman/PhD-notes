@@ -49,7 +49,11 @@ This is based upon actual road distance from the sawmill to the city of Trondhei
 
 Uses technical data from BioSynergi Proces ApS for information about downdraft gasification. This uses an appropriately sized ICE for power production.
 
-Emissions and operational data of CHP plants come from the GEMNIS database for the integrated 
+Emissions and operational data of CHP plants come from the GEMNIS database for the integrated gasification process.
+
+Capacity factor of 0.51 was used. This is what makes the study attributional rather than consequential, as it does not consider the marginal production unit.
+
+Used an econ
 ## Results
 
 ## Questions
