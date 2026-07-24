@@ -24,6 +24,9 @@ Looked at scenarios where only heating utility investments are considered, where
 ### Results
 
 Trivial results, cheapest heating utility when its closest to the heat load and cheapest electricity utility when it is closest to the substation.
+When both heating and electricity costs are considered, it chooses a more middle point , showing reduction in cost.
+
+- Shows some network impact of voltage stability and congestion of 
 ## Limitations
 
 - Does not consider thermal storage and environmental impact. 
