@@ -31,7 +31,7 @@ Borehole storage takes several years to heat up and achieve optimal performance,
 
 ![[Screenshot 2026-07-24 at 3.36.38 pm.png|347]]
 
-The following decision variables were used to optimise the solar 
+The following decision variables were used to optimise the solar community at different sizes.
 ### LCC consideration
 
 Looked at the initial investment cost and operation cost for 25 years, using the Nord Pool spot price, with Finnish electricity tax and distribution price.
