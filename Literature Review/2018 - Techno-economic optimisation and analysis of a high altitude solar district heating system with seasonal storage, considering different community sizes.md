@@ -52,7 +52,7 @@ The profit of the PV sold off did not affect the net energy balance.
 ### Trends 
 
 - Large seasonal storage volume associated with low performance (maybe because only 4 years were simulated)
-- BTES efficiency is higher in large community sizes when imported electricity is high. However, there is 
+- BTES efficiency is higher in large community sizes when imported electricity is high. However, there is a lower correlation at less total imported electricity (when the renewable energy fraction is high). Note that $\nu_{BTES} = \frac{}{}$
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
