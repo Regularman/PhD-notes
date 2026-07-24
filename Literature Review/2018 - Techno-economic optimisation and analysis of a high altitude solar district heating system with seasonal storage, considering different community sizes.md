@@ -58,6 +58,7 @@ The profit of the PV sold off did not affect the net energy balance.
 	- Larger communities does not require as much borehole seasonal storage due to the larger availability of solar. Also boreholes are more expensive for larger communities. However, the paper showed that performance increased as boreholes increased. Conversely, borehole length decreased as efficiency improved, which implies that there are many shallow boreholes in a wide area.
 - Only a system above a certain minimum performance can have bypass heat from the seasonal storage. without sufficient solar heating capacity, the temperature in the boreholes will not be high enough and heat pumps will have to be utilised.
 - In terms of seasonal storage to solar thermal ratio, cluster of high $REF_{heat}$ when the value is $5-10$.
+- Low ST generation was compensated for by large seasonal storage.
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
