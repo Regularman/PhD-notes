@@ -86,6 +86,8 @@ The top uncertainties were
 - Operational CHP emissions
 - Biomass procurement distance, and
 - Energy distribution distance
+
+The main environmental impacts were from stressors from the air and ash directly from the CHP plat
 ## Questions
 
 ### Limitations
