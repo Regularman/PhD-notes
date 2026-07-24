@@ -47,6 +47,7 @@ We want to look at several indicators to see how effective this solar community 
 
 - Solar fraction. Uses renewable energy fraction instead as electricity is required for the operation of the ground source heat pump. This is defined separately for heating and electricity.
 
+The profit of the PV sold off did not affect the net energy balance.
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
