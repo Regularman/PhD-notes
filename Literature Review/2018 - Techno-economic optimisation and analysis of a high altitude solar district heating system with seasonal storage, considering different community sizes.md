@@ -49,7 +49,9 @@ We want to look at several indicators to see how effective this solar community 
 
 The profit of the PV sold off did not affect the net energy balance.
 
+### Trends 
 
+- 
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
