@@ -59,6 +59,7 @@ The profit of the PV sold off did not affect the net energy balance.
 - Only a system above a certain minimum performance can have bypass heat from the seasonal storage. without sufficient solar heating capacity, the temperature in the boreholes will not be high enough and heat pumps will have to be utilised.
 - In terms of seasonal storage to solar thermal ratio, cluster of high $REF_{heat}$ when the value is $5-10$.
 - Low ST generation was compensated for by large seasonal storage.
+- In large communities, energy performance was tied to the solar thermal area
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
