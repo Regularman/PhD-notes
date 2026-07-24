@@ -36,7 +36,7 @@ Does not look at the time of use on the spot market and aggregates the electrici
 
 Assumed economy of scale factor for solar thermal collectors, PV panels, and the storage tanks. 
 
-Assume cost of improving the energy efficiency of buildings. Additional insulative measures are required. At the lowest 
+Assume cost of improving the energy efficiency of buildings. Additional insulative measures are required. This allows us to calculate the cost required to have certain level of energy/heating efficiency in the building stock.
 ## Result
 
 We want to look at several indicators to see how effective this solar community is
