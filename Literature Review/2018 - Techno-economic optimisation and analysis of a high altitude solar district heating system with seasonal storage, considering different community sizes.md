@@ -18,7 +18,7 @@ The storage tanks were kept at two temperatures for separate purposes for energy
 
 - If tank rose $10\degree$C above the set point, then the water was discharged itno the seasonal storage until the tank has cooled down enough.
 
-Controlled flow rate to the solar collectors to keep temperature output at $
+Controlled flow rate to the solar collectors to keep temperature output at $1\degree C$ higher than the top of the target thermal storage tank.
 
 ## Result
 
