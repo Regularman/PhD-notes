@@ -76,7 +76,7 @@ For medium, small, and micro-scale CHP, electricity lost through the electrical 
 ![[Screenshot 2026-07-24 132603.png]]
 
 The small scale has the best GWP. However, smaller CHP plants also have lower pollution control.
-- Ultimately found that the micro-scale plant created has the least i
+- Ultimately found that the micro-scale plant created has the least impact on the 
 Compared LCA with previous studies for validations. 
 ## Questions
 
