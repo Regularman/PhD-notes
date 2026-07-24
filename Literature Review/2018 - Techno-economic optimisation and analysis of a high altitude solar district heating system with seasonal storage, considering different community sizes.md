@@ -30,9 +30,13 @@ Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th
 Borehole storage takes several years to heat up and achieve optimal performance, therefore the system was simulated for $4$ years and the fourth year was used to estimate the cost and performance. 
 ## Result
 
-We want to look at several indicators t
+We want to look at several indicators to see how effective this solar community is
+
+- Solar fraction. Uses renewable energy fraction instead as electricity is required for the operation of the ground source heat pump.
 
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down.
 ## Limitations
+
+- Does not look at the planetary boundary
