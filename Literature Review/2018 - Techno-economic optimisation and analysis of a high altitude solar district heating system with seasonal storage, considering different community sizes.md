@@ -43,3 +43,4 @@ We want to look at several indicators to see how effective this solar community 
 ## Limitations
 
 - Does not look at the planetary boundary
+- Does not consider time of use in spot market pricing.
