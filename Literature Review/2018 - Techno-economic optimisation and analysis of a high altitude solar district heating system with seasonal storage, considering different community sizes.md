@@ -63,6 +63,10 @@ The profit of the PV sold off did not affect the net energy balance.
 - High short term tank volume required to reduce the imported temperature
 - Most demands were met through the low temperature tank, therefore it is favoured and there is a noticeable size difference
 - Large PV area was discouraged as the value of the exported solar electricity is less than that of the self-consumed electricity. On average, best performance occurs with $50/50$ splits.
+
+### LCC Trends
+
+- As the selling price of excess electricity was significantly less than self consumption, the PV
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
