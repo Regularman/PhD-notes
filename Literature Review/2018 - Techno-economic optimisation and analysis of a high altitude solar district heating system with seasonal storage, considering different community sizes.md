@@ -28,6 +28,10 @@ Buildings used a variety of windows, insulation, and heat recovery efficiency. D
 Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th}/m^2$ according to IEA data. However, there needs to be constant recirculation of water, leading to an effective use of $42 kWh_{th}/m^2$ of effective use. Space heating is variable but hot water demand remains the same over time. 
 
 Borehole storage takes several years to heat up and achieve optimal performance, therefore the system was simulated for $4$ years and the fourth year was used to estimate the cost and performance. 
+
+![[Screenshot 2026-07-24 at 3.36.38 pm.png|347]]
+
+The following decision variables were used 
 ### LCC consideration
 
 Looked at the initial investment cost and operation cost for 25 years, using the Nord Pool spot price, with Finnish electricity tax and distribution price.
