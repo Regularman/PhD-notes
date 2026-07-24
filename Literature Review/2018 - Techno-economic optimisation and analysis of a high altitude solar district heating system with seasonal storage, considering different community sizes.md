@@ -70,7 +70,7 @@ The profit of the PV sold off did not affect the net energy balance.
 - In the small case, higher cost performance fuelled by increased investment into buffer tanks and thermal capacity, as well as BTES.
 - As ST area increased, the heat pump utilisation decreased
 - There's a lever, where as solar thermal area increased, more of the heating demand can be solved by solar energy. However, this also improves the COP of the heat pump (low temperature life), which increases COP
-- Despite costs of increasing efficiency of heat loads, all optimal cases uses the buildings with the largest set of efficiency equipment. This means that reducing heat demand is more efficient compared to impleme
+- Despite costs of increasing efficiency of heat loads, all optimal cases uses the buildings with the largest set of efficiency equipment. This means that reducing heat demand is more efficient compared to implementing new technology.
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems perspective
