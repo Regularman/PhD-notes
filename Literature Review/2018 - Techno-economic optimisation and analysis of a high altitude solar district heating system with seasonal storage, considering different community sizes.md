@@ -32,7 +32,7 @@ Borehole storage takes several years to heat up and achieve optimal performance,
 
 We want to look at several indicators to see how effective this solar community is
 
-- Solar fraction. Uses renewable energy fraction instead as electricity is required for the operation of the ground source heat pump.
+- Solar fraction. Uses renewable energy fraction instead as electricity is required for the operation of the ground source heat pump. This is defined separately for heating and electricity.
 
 ## Questions
 
