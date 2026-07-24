@@ -66,7 +66,7 @@ The profit of the PV sold off did not affect the net energy balance.
 
 ### LCC Trends
 
-- As the selling price of excess electricity was significantly less than self consumption, the PV
+- As the selling price of excess electricity was significantly less than self consumption, investment in PV system stayed roughly the same
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
