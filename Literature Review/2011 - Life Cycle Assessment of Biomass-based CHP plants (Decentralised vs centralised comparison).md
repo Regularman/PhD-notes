@@ -35,6 +35,7 @@ For forest residual
 - small = 39km 
 - Micro = 29km
 
+The plan to use local biomass is important given the large contribution of road transport towards the GWP.
 For sawdust residual
 - Medium = 110km
 - small = 15km 
