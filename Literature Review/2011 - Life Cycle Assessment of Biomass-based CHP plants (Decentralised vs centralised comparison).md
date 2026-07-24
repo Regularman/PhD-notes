@@ -65,12 +65,18 @@ Used an economic scaling factor of 0.7. Capital was based on a small scale CHP p
 3 pipe sizes were used. Used $km/GWH-yr$ as a basis for the calculation of piping requirement. 
 - $0.305km/GWH-yr$ for the Trondheim region and $0.299 km/GWh-yr$ across the Swedish system
 - Assumed a certain distribution across these three pipes in each scale based on actual pipe distribution of Trondheim Energi.
-8.1% (medium), 7.0% (small), and 5.0%(micro)
+- Network losses were 8.1% (medium), 7.0% (small), and 5.0%(micro)
+
+### Electricity System
+
+Assume that $100\%$ of energy production from the CHP is consumed or lost locally
 ## Results
 
 ## Questions
 
 ### Limitations
+
+Static size assumptions and comparison rather than heuristic optimisation
 
 
 ## Further Readings
