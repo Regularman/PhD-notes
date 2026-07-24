@@ -23,7 +23,7 @@ Direct electric heaters used for backup heating
 
 Controlled flow rate to the solar collectors to keep temperature output at $1\degree C$ higher than the top of the target thermal storage tank.
 
-Buildings used a variaety of windows, insulation, and heat recovery efficiency.
+Buildings used a variety of windows, insulation, and heat recovery efficiency.
 ## Result
 
 ## Questions
