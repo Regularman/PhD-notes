@@ -79,4 +79,5 @@ For medium, small, and micro-scale CHP, electricity lost through the electrical 
 ### Limitations
 
 Static size assumptions and comparison rather than heuristic optimisation.
+Only looks at operati
 ## Further Readings
