@@ -31,6 +31,8 @@ Borehole storage takes several years to heat up and achieve optimal performance,
 ### LCC consideration
 
 Looked at the initial investment cost and operation cost for 25 years, using the Nord Pool spot price, with Finnish electricity tax and distribution price.
+
+Does not look at the 
 ## Result
 
 We want to look at several indicators to see how effective this solar community is
@@ -39,7 +41,7 @@ We want to look at several indicators to see how effective this solar community 
 
 ## Questions
 
-- From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down.
+- From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
 ## Limitations
 
 - Does not look at the planetary boundary
