@@ -75,7 +75,7 @@ For medium, small, and micro-scale CHP, electricity lost through the electrical 
 ## Results
 ![[Screenshot 2026-07-24 132603.png]]
 
-The small
+The small scale has the best GWP.
 ## Questions
 
 ### Limitations
