@@ -22,7 +22,7 @@ The main levers at the three different scales are
 - Overall thermal and electrical efficiency
 ![[Screenshot 2026-07-24 122634.png|206]]
 
-Uses the Ecoinvent database for the majority of the foreground processes. 
+Uses the primary and secondary database for the majority of the foreground processes. 
 - Assume that all fossil fuel and electricity and biomass is sourced locally.
 - Assumes that a Scandavanian softwood forestry process was assumed
 
@@ -85,7 +85,7 @@ Ultimately, impact results were sensitive to the conversion efficiencies and cap
 The top uncertainties were
 - Operational CHP emissions
 - Biomass procurement distance, and
-- 
+- Energy distribution distance
 ## Questions
 
 ### Limitations
