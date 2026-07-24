@@ -52,6 +52,7 @@ The profit of the PV sold off did not affect the net energy balance.
 ### Trends 
 
 - large seasonal storage volume associated with low performance (maybe because only 4 years were simulated)
+- BTES efficiency increased with total imported energy
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
