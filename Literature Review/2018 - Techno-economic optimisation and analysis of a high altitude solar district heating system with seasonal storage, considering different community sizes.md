@@ -34,7 +34,7 @@ Looked at the initial investment cost and operation cost for 25 years, using the
 
 Does not look at the time of use on the spot market and aggregates the electricity spot market price to $12c/kWh$.
 
-Assumed economy of scale factor for solar thermal collectors, pV panels, and the storage tanks
+Assumed economy of scale factor for solar thermal collectors, PV panels, and the storage tanks
 ## Result
 
 We want to look at several indicators to see how effective this solar community is
