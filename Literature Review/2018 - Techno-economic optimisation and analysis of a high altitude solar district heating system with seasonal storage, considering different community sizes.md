@@ -25,7 +25,7 @@ Controlled flow rate to the solar collectors to keep temperature output at $1\de
 
 Buildings used a variety of windows, insulation, and heat recovery efficiency. Did not implement a cooling system due to low cooling needs
 
-Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th}/m^2$ accoridng to IEA data
+Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th}/m^2$ according to IEA data. However, there needs to be constant recirculation of water, leading to an effective use of $42 kWh_{th}/m^2$ of effective use.
 ## Result
 
 ## Questions
