@@ -20,6 +20,8 @@ Uses the minimal spanning tree to give the minimum length of pipes under a radia
 - Optimisation with environmental impact will look very different in terms of network topology and the types of assumptions we can make
 
 Looked at scenarios where only heating utility investments are considered, where only electric utility investments are considered, and where both electric and heating utilities are considered. However, this is not very significant
+
+### Tr
 ## Limitations
 
 - Does not consider thermal storage and environmental impact. 
