@@ -69,14 +69,14 @@ Used an economic scaling factor of 0.7. Capital was based on a small scale CHP p
 
 ### Electricity System
 
-Assume that $100\%$ of energy production from the CHP is consumed or lost locally
+Assume that $100\%$ of energy production from the CHP is consumed or lost locally.
+
+For medium, small, and micro-scale CHP, electricity lost through the electrical lines to the end user was then assumed to be 9.3%, 2.4%, and 0.68, which were calculated form the estimated line length, material, and cross section at each scale.
 ## Results
 
 ## Questions
 
 ### Limitations
 
-Static size assumptions and comparison rather than heuristic optimisation
-
-
+Static size assumptions and comparison rather than heuristic optimisation.
 ## Further Readings
