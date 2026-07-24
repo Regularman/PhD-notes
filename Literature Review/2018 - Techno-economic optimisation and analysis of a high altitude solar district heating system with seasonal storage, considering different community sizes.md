@@ -54,7 +54,7 @@ The profit of the PV sold off did not affect the net energy balance.
 - Large seasonal storage volume associated with low performance (maybe because only 4 years were simulated)
 - BTES efficiency is higher in large community sizes when imported electricity is high. However, there is a lower correlation at less total imported electricity (when the renewable energy fraction is high). Note that $\nu_{BTES} = \frac{E_{discharge}}{E_{charge}}$. This means that a lower efficiency can be caused by less discharging or more charging.
 	- A efficiency greater than $1$ means that the solar heating system is undersized and heat pumps drain so much energy that it cool down to the temperature of the ground. When this happens, the BTES naturally regenerates
-	- Shape of BTES also matters, when height to width ratio was high, the system performance was postuff
+	- Shape of BTES also matters, when height to width ratio was high, the system performance was poor
 	- 
 ## Questions
 
