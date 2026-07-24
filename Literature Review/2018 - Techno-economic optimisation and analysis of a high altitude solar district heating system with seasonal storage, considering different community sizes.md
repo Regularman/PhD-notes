@@ -61,7 +61,7 @@ The profit of the PV sold off did not affect the net energy balance.
 - Low ST generation was compensated for by large seasonal storage.
 - In large communities, energy performance was tied to the solar thermal area
 - High short term tank volume required to reduce the imported temperature
-- Most demands were met through the low temperature tank, thereo
+- Most demands were met through the low temperature tank, therefore it is favoured and there is a noticeable size difference
 ## Questions
 
 - From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down. But we need to consider it from a systems persepctive
