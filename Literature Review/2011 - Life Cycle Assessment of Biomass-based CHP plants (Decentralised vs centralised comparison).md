@@ -62,7 +62,8 @@ Used an economic scaling factor of 0.7. Capital was based on a small scale CHP p
 - Therefore, exergy allocation was chosen for this study. The exergy based fraction of environmental impact attributed to electricity for micro, small, and medium was 0.78, 0.72, and 0.69.
 ### District Heating system
 
-3 pipe sizes were used
+3 pipe sizes were used. Used $km/GWH-yr$ as a basis for the calculation of piping requirement. 
+- $0.305km/GWH-yea
 ## Results
 
 ## Questions
