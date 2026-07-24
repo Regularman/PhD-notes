@@ -24,3 +24,4 @@ Looked at scenarios where only heating utility investments are considered, where
 
 - Does not consider thermal storage and environmental impact. 
 - Does not actually calculate the operational losses of the pipelines, this is assigned by a factor that represents higher losses.
+- Does not consider other geographic and housing considerations that shows up in a GIS.
