@@ -32,3 +32,9 @@ When both heating and electricity costs are considered, it chooses a more middle
 - Does not consider thermal storage and environmental impact. 
 - Does not actually calculate the operational losses of the pipelines, this is assigned by a factor that represents higher losses.
 - Does not consider other geographic and housing considerations that shows up in a GIS.
+
+## Further Readings and Thoughts
+
+Interesting to think about the reconfiguration of the electricity system to allow load shifting across figures
+
+- Implementation of flexible demand through the heat pump
