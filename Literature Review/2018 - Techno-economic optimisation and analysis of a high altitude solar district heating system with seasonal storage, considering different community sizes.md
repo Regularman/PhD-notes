@@ -14,7 +14,11 @@ Ultimately found that large communities rely less on heat pumps, as they utilise
 - For all community size, renewable energy fraction was close to 90%, but large communities could do it at 20% of the cost
 ## Content
 
-The storage tanks were kept at two temperatures for separate purposes for energy efficiency ($40\degree C$ for space heating and high temperature tank was used to boost the district hot water to a minimum temperature of $55\degree C)
+The storage tanks were kept at two temperatures for separate purposes for energy efficiency ($40\degree C$ for space heating and high temperature tank was used to boost the district hot water to a minimum temperature of $55\degree C$)
+
+- If tank rose $10\degree$C above the set point, then the water was discharged itno the seasonal storage until the tank has cooled down enough.
+
+Controlled flow rate to the solar collectors to keep temperature output at $
 
 ## Result
 
