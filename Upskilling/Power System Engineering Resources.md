@@ -14,3 +14,4 @@ Also look at
 - MILP
 - Genetic algorithms
 - PSO
+- Multi-objective optimisation
