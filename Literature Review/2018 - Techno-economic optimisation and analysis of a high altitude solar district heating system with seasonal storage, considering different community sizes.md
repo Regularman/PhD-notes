@@ -16,7 +16,8 @@ Ultimately found that large communities rely less on heat pumps, as they utilise
 
 The storage tanks were kept at two temperatures for separate purposes for energy efficiency ($40\degree C$ for space heating and high temperature tank was used to boost the district hot water to a minimum temperature of $55\degree C$)
 
-- If tank rose $10\degree$C above the set point, then the water was discharged itno the seasonal storage until the tank has cooled down enough.
+- If tank rose $10\degree$C above the set point, then the water was discharged into the seasonal storage until the tank has cooled down enough. Flowrate into te borehole could be altered to prevent the storage tank from overheating.
+- BTES also offer charging when the tank temperature is too low and there is not enough electricity
 
 Controlled flow rate to the solar collectors to keep temperature output at $1\degree C$ higher than the top of the target thermal storage tank.
 
@@ -24,4 +25,5 @@ Controlled flow rate to the solar collectors to keep temperature output at $1\de
 
 ## Questions
 
+- From a life cycle perspective, if you never use 
 ## Limitations
