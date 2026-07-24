@@ -18,6 +18,8 @@ The storage tanks were kept at two temperatures for separate purposes for energy
 
 - If tank rose $10\degree$C above the set point, then the water was discharged into the seasonal storage until the tank has cooled down enough. Flowrate into te borehole could be altered to prevent the storage tank from overheating.
 - BTES also offer charging when the tank temperature is too low and there is not enough electricity
+	- If the temperature is not high enough in the bore hole, the heat pump can be used to boost it.
+Direct electric heaters used for backup he
 
 Controlled flow rate to the solar collectors to keep temperature output at $1\degree C$ higher than the top of the target thermal storage tank.
 
@@ -25,5 +27,5 @@ Controlled flow rate to the solar collectors to keep temperature output at $1\de
 
 ## Questions
 
-- From a life cycle perspective, if you never use 
+- From a life cycle perspective, if you never use the heat pumps, then its eco-effectiveness goes down.
 ## Limitations
