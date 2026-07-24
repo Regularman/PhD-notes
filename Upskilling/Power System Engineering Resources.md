@@ -10,4 +10,7 @@ https://electrical.eng.unimelb.edu.au/power-energy/courses
 Lecture series on Linear Programming and Duality in linear Programming
  https://www.youtube.com/watch?v=qKNkP6IfjvY&list=PLUl4u3cNGP61p2fXeXjNCrfNHFwyW-bl0&index=12
  https://www.youtube.com/watch?v=oyVZ3rao6M4&list=PLUl4u3cNGP61p2fXeXjNCrfNHFwyW-bl0&index=13
- 
+Also look at 
+- MILP
+- Genetic algorithms
+- PSO
