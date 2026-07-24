@@ -53,7 +53,6 @@
 		{"id":"b5f4da6cb8c5a5ec","type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md","x":-898,"y":-214,"width":400,"height":124,"color":"2"},
 		{"id":"cabd4f6f1b11d73e","type":"text","text":"# ~={cyan}Industrial Symbiosis=~","x":-3113,"y":-2302,"width":296,"height":79,"color":"5"},
 		{"id":"3d883f1f28782585","type":"file","file":"PhD-notes/Literature Review/2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-2869,"y":-2694,"width":400,"height":148,"color":"5"},
-		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-3710,"y":-2322,"width":250,"height":60,"color":"4"},
 		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3217,"y":-2920,"width":400,"height":148,"color":"5"},
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3745,"y":-3040,"width":400,"height":194,"color":"5"},
 		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-4840,"y":-2679,"width":400,"height":158,"color":"4"},
@@ -69,13 +68,11 @@
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-3209,"y":-1190,"width":340,"height":122,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-2966,"y":-1567,"width":400,"height":106,"color":"4"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-2817,"y":-1879,"width":400,"height":97,"color":"4"},
-		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-3645,"y":-1836,"width":371,"height":108,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-3687,"y":-1554,"width":378,"height":80,"color":"4"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6034,"y":-1111,"width":400,"height":133,"color":"6"},
 		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-5658,"y":-1378,"width":400,"height":130,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-4696,"y":-1844,"width":400,"height":101,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-4712,"y":-2223,"width":400,"height":101,"color":"6"},
-		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4145,"y":-2120,"width":400,"height":165,"color":"4"},
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-4840,"y":-897,"width":400,"height":145,"color":"6"},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4406,"y":-1025,"width":400,"height":135,"color":"6"},
 		{"id":"cbb07725c283369d","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites in Austria with Energie Burgenland-.md","x":-4545,"y":-1291,"width":400,"height":180,"color":"6"},
@@ -84,7 +81,12 @@
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-5456,"y":-2546,"width":396,"height":118,"color":"6"},
 		{"id":"65f3520a1cf42dcc","x":-6342,"y":-2129,"width":400,"height":126,"color":"6","type":"file","file":"PhD-notes/Literature Review/2017 - Optimal Placement of A Heat Pump in An Integrated  Power and Heat Energy System.md"},
 		{"id":"7b84fa3680a61f71","type":"text","text":"# ~={purple} Industry District Heating=~","x":-5986,"y":-1991,"width":352,"height":72,"color":"6"},
-		{"id":"378061b4620320ff","x":-5942,"y":-2283,"width":250,"height":60,"type":"text","text":"# ~={purple}Topography=~"}
+		{"id":"378061b4620320ff","x":-5942,"y":-2283,"width":250,"height":60,"type":"text","text":"# ~={purple}Topography=~"},
+		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-3640,"y":-1779,"width":371,"height":108,"color":"4"},
+		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-4018,"y":-2724,"width":250,"height":60,"color":"4"},
+		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4168,"y":-2365,"width":400,"height":165,"color":"4"},
+		{"id":"2860c8733c11bcd4","x":-4168,"y":-2122,"width":400,"height":124,"color":"4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md"},
+		{"id":"146c63e3e7bc0651","x":-3670,"y":-2143,"width":250,"height":60,"color":"4","type":"text","text":"# ~={green}District Heating=~"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -160,9 +162,7 @@
 		{"id":"300819431934064a","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"dab74b6c50026f51","toSide":"bottom"},
 		{"id":"322f45d71ce0d9f5","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"cabd4f6f1b11d73e","toSide":"bottom"},
 		{"id":"8b7105a84aa73a11","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"7daa2a201854fb02","toSide":"top"},
-		{"id":"42c35e323c5d5520","fromNode":"35cb1aba6cac9e74","fromSide":"left","toNode":"ee1b8a8eb9616fd0","toSide":"right"},
 		{"id":"41e5f404cff07b00","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"02803640b655ee4f","toSide":"top"},
-		{"id":"e8a89a53c6db388f","fromNode":"35cb1aba6cac9e74","fromSide":"left","toNode":"1a2e2b863256ec47","toSide":"right"},
 		{"id":"d500eac9965d8027","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"378061b4620320ff","toSide":"top"},
 		{"id":"9c3c2390f69d0d95","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"65f3520a1cf42dcc","toSide":"top"}
 	]
