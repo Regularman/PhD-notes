@@ -53,7 +53,10 @@ Emissions and operational data of CHP plants come from the GEMNIS database for t
 
 Capacity factor of 0.51 was used. This is what makes the study attributional rather than consequential, as it does not consider the marginal production unit.
 
-Used an econ
+Used an economic scaling factor of 0.7. Capital was based on a small scale CHP plant
+
+### Allocation problem
+
 ## Results
 
 ## Questions
