@@ -24,6 +24,8 @@ Direct electric heaters used for backup heating
 Controlled flow rate to the solar collectors to keep temperature output at $1\degree C$ higher than the top of the target thermal storage tank.
 
 Buildings used a variety of windows, insulation, and heat recovery efficiency. Did not implement a cooling system due to low cooling needs
+
+Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th}/m^2$ accoridng to IEA data
 ## Result
 
 ## Questions
