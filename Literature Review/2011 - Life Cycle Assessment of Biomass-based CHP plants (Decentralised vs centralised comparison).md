@@ -80,14 +80,13 @@ The small scale has the best GWP. However, smaller CHP plants also have lower po
 - Ultimately found that the micro-scale plant created has the least impact on the 
 Compared LCA with previous studies for validations. 
 
-Ultimately, impact results were sensitive to the conversion efficiencies and capacity factors. Conversion efficiency is stable by capacity factor depends on the location and network.
+Ultimately, impact results were sensitive to the conversion efficiencies and capacity factors. Conversion efficiency is stable but capacity factor depends on the location and network.
 
 The top uncertainties were
 - Operational CHP emissions
 - Biomass procurement distance, and
 - Energy distribution distance
 
-The main environmental impacts were from stressors from the air and ash directly from the CHP plat
 ## Questions
 
 ### Limitations
