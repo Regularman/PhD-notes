@@ -30,7 +30,7 @@ Space heating demand of $25-50 kWh_{th}/m^2$ and hot water demand of $35 kWh_{th
 Borehole storage takes several years to heat up and achieve optimal performance, therefore the system was simulated for $4$ years and the fourth year was used to estimate the cost and performance. 
 ### LCC consideration
 
-Looked at the initial investment cost 
+Looked at the initial investment cost and operation cost for 25 years, using the Nord Pool spot price, with Finnish electricity tax and distribution price.
 ## Result
 
 We want to look at several indicators to see how effective this solar community is
