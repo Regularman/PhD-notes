@@ -65,7 +65,6 @@
 		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-5965,"y":-1720,"width":400,"height":180,"color":"6"},
 		{"id":"5e9f83f6b5f9c4b8","type":"file","file":"PhD-notes/Literature Review/2026 - Multi-sectoral Energy Integration of Low Temperature Brewery Process, Manufacturing Industry and District Heating Network.md","x":-5965,"y":-1448,"width":400,"height":145,"color":"6"},
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-6163,"y":-2496,"width":396,"height":118,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6478,"y":-2804,"width":400,"height":180,"color":"6"},
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-6435,"y":-2169,"width":314,"height":69,"color":"6"},
 		{"id":"378061b4620320ff","type":"text","text":"# ~={purple}Topography=~","x":-7008,"y":-2258,"width":250,"height":60,"color":"6"},
 		{"id":"65f3520a1cf42dcc","type":"file","file":"PhD-notes/Literature Review/2017 - Optimal Placement of A Heat Pump in An Integrated  Power and Heat Energy System.md","x":-7480,"y":-1989,"width":400,"height":126,"color":"6"},
@@ -87,7 +86,8 @@
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1409,"width":400,"height":106,"color":"4"},
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2845,"y":-1738,"width":400,"height":122,"color":"4"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
-		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"}
+		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6167,"y":-2800,"width":400,"height":180,"color":"6"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
