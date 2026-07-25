@@ -55,7 +55,6 @@
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-4721,"y":-3261,"width":250,"height":60,"color":"4"},
 		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-5726,"y":-3577,"width":400,"height":158,"color":"4"},
 		{"id":"1a2e2b863256ec47","type":"file","file":"PhD-notes/Literature Review/2018 - Future views on waste heat utilization - Case of data centers in Northern Europe.md","x":-5526,"y":-3294,"width":400,"height":127,"color":"4"},
-		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4871,"y":-2902,"width":400,"height":165,"color":"4"},
 		{"id":"146c63e3e7bc0651","type":"text","text":"# ~={green}District Heating=~","x":-4390,"y":-2697,"width":250,"height":60,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4943,"y":-2659,"width":400,"height":124,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# ~={green}Life-cycle Assessments=~","x":-4097,"y":-2650,"width":250,"height":99,"color":"4"},
@@ -83,11 +82,12 @@
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-7100,"y":-1951,"width":400,"height":133,"color":"6"},
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-7100,"y":-3441,"width":400,"height":180,"color":"6"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4643,"y":-2091,"width":378,"height":80,"color":"4"},
-		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-4017,"y":-2011,"width":340,"height":122,"color":"4"},
-		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3572,"y":-2117,"width":400,"height":106,"color":"4"},
-		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3520,"y":-2480,"width":400,"height":97,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4643,"y":-1889,"width":400,"height":123,"color":"4"},
-		{"id":"543462e890b7dff1","x":-3962,"y":-2495,"width":250,"height":60,"type":"text","text":""}
+		{"id":"543462e890b7dff1","x":-3697,"y":-2627,"width":250,"height":60,"color":"4","type":"text","text":"# ~={green}Technology LCA=~"},
+		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3172,"y":-2675,"width":400,"height":97,"color":"4"},
+		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3172,"y":-2473,"width":400,"height":106,"color":"4"},
+		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-3172,"y":-2902,"width":400,"height":122,"color":"4"},
+		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4943,"y":-2902,"width":400,"height":165,"color":"4"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -110,11 +110,9 @@
 		{"id":"2d296e8a10796c2f","fromNode":"8ac6af62e8602e38","fromSide":"bottom","toNode":"e8a2bd3a6ba9418c","toSide":"top"},
 		{"id":"4cb6dd8b0e61f0e4","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
 		{"id":"c2c24e5e993a72ea","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"f368208cf8dea35c","toSide":"top"},
-		{"id":"e4a8881e7b94a9ba","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"e32e13e94bd2e08f","toSide":"top"},
 		{"id":"fd2c57dd45d03e64","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"bottom"},
 		{"id":"f80de8ff74b36aa9","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"0ddc5405c5c10558","toSide":"bottom"},
 		{"id":"d31f8251b8f6220c","fromNode":"8cfb6f2f27a342a2","fromSide":"top","toNode":"26ba5f34b3b41cab","toSide":"bottom"},
-		{"id":"d73683b2f85d112f","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"1b48af96d03fb765","toSide":"top"},
 		{"id":"8d36b385e4daf5aa","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"326c9db62b1bd97e","toSide":"top"},
 		{"id":"6e303d040bb94511","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"c8c213062d86c1e4","toSide":"top"},
 		{"id":"b76ae6581c6ab042","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"5102b0c404df57a6","toSide":"top"},
@@ -169,6 +167,9 @@
 		{"id":"76682e7b42f457ff","fromNode":"e8db92b4073c7240","fromSide":"bottom","toNode":"a7ef96254e4145d4","toSide":"top"},
 		{"id":"10feb0c54fbaa058","fromNode":"f368208cf8dea35c","fromSide":"bottom","toNode":"eb4740c37bbb33d3","toSide":"right"},
 		{"id":"a4009b20bc86e294","fromNode":"f368208cf8dea35c","fromSide":"bottom","toNode":"f96bbb691d6984f8","toSide":"right"},
-		{"id":"bb1a995bf8267df4","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"543462e890b7dff1","toSide":"top"}
+		{"id":"a1fafb9e4627caef","fromNode":"35cb1aba6cac9e74","fromSide":"right","toNode":"543462e890b7dff1","toSide":"left"},
+		{"id":"c221a37c37d77ec7","fromNode":"543462e890b7dff1","fromSide":"right","toNode":"9916da21f07d1671","toSide":"left"},
+		{"id":"46ed11e63a47fd31","fromNode":"543462e890b7dff1","fromSide":"right","toNode":"e32e13e94bd2e08f","toSide":"left"},
+		{"id":"fae90fb6591c8cff","fromNode":"9916da21f07d1671","fromSide":"top","toNode":"1b48af96d03fb765","toSide":"bottom"}
 	]
 }
