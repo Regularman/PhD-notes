@@ -84,7 +84,7 @@
 		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-4078,"y":-1792,"width":371,"height":108,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4378,"y":-1567,"width":378,"height":80,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4378,"y":-1365,"width":400,"height":123,"color":"4"},
-		{"id":"543462e890b7dff1","x":-3432,"y":-2103,"width":250,"height":60,"color":"4","type":"text","text":"# ~={green}Technology LCA=~"},
+		{"id":"543462e890b7dff1","type":"text","text":"# ~={green}Technology LCA=~","x":-3432,"y":-2103,"width":250,"height":60,"color":"4"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-2907,"y":-2151,"width":400,"height":97,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-2907,"y":-1949,"width":400,"height":106,"color":"4"}
 	],
