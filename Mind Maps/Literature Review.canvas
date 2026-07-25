@@ -39,7 +39,6 @@
 		{"id":"105f615de74ce3fd","type":"file","file":"PhD-notes/Literature Review/2022 - Something is sustainable in the state of Denmark - A review of the Danish district heating sector.md","x":-1060,"y":-1747,"width":400,"height":121,"color":"1"},
 		{"id":"b5f4da6cb8c5a5ec","type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md","x":-898,"y":-214,"width":400,"height":124,"color":"2"},
 		{"id":"0f24fc6f0fc487c1","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~","x":-5628,"y":-2198,"width":334,"height":103,"color":"6"},
-		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1709,"width":400,"height":135,"color":"6"},
 		{"id":"cbb07725c283369d","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites in Austria with Energie Burgenland-.md","x":-5165,"y":-1495,"width":400,"height":180,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1208,"width":400,"height":169,"color":"6"},
 		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-933,"width":400,"height":173,"color":"6"},
@@ -77,7 +76,8 @@
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1709,"width":400,"height":189,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6521,"y":-1455,"width":400,"height":180,"color":"6"}
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6521,"y":-1455,"width":400,"height":180,"color":"6"},
+		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1697,"width":400,"height":135,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
