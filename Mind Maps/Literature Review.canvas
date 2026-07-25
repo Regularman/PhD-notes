@@ -76,8 +76,8 @@
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2845,"y":-1738,"width":400,"height":122,"color":"4"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6167,"y":-2800,"width":400,"height":180,"color":"6"},
-		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1164,"width":400,"height":231,"color":"6"}
+		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1239,"width":400,"height":200,"color":"6"},
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6521,"y":-1455,"width":400,"height":180,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -140,7 +140,6 @@
 		{"id":"a1fafb9e4627caef","fromNode":"35cb1aba6cac9e74","fromSide":"right","toNode":"543462e890b7dff1","toSide":"left"},
 		{"id":"82e9d8459dec2a90","fromNode":"dab74b6c50026f51","fromSide":"left","toNode":"dd959daac0ce56db","toSide":"right"},
 		{"id":"9c3099cc66c952a9","fromNode":"dab74b6c50026f51","fromSide":"left","toNode":"efe05d64f9561f95","toSide":"right"},
-		{"id":"5deef3260ac983b4","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"e8db92b4073c7240","toSide":"bottom"},
 		{"id":"d24ee2e20d1be91a","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"670df2149b5006fa","toSide":"right"},
 		{"id":"8ffba1d7b5b8c936","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"cc8c9ed595204327","toSide":"right"},
 		{"id":"27c3c74a7847ec05","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"65f3520a1cf42dcc","toSide":"right"},
@@ -151,6 +150,7 @@
 		{"id":"eef3eebd394b7d54","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"3d883f1f28782585","toSide":"left"},
 		{"id":"e3e3b8e77204e37f","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"d48b6c74b5c5bf39","toSide":"left"},
 		{"id":"e6893c5d720e4730","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"9760a039016c0b98","toSide":"left"},
-		{"id":"e3442349d923380d","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"138cddac4942deea","toSide":"right"}
+		{"id":"e3442349d923380d","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"138cddac4942deea","toSide":"right"},
+		{"id":"d6e1a2ca05d8ac0b","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"top"}
 	]
 }
