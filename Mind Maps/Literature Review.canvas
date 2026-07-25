@@ -49,12 +49,8 @@
 		{"id":"84c3cda82107faf9","type":"file","file":"PhD-notes/Literature Review/2026 - X as a Service in Australia examples - Australian Alliance for Energy Productivity.md","x":-1018,"y":-2223,"width":400,"height":127,"color":"1"},
 		{"id":"105f615de74ce3fd","type":"file","file":"PhD-notes/Literature Review/2022 - Something is sustainable in the state of Denmark - A review of the Danish district heating sector.md","x":-1060,"y":-1747,"width":400,"height":121,"color":"1"},
 		{"id":"b5f4da6cb8c5a5ec","type":"file","file":"PhD-notes/Literature Review/2025 - Sonder Felding - Ancillary services in DH in Denmark.md","x":-898,"y":-214,"width":400,"height":124,"color":"2"},
-		{"id":"b0c96b0fb44522b2","type":"file","file":"PhD-notes/Literature Review/2022 - Planetary boundaries assessment of deep decarbonisation options for building heating in the European Union.md","x":-5271,"y":-3859,"width":400,"height":188,"color":"4"},
-		{"id":"efe05d64f9561f95","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-4799,"y":-3834,"width":400,"height":138,"color":"4"},
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-4448,"y":-3577,"width":400,"height":194,"color":"4"},
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-4721,"y":-3261,"width":250,"height":60,"color":"4"},
-		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-5726,"y":-3577,"width":400,"height":158,"color":"4"},
-		{"id":"1a2e2b863256ec47","type":"file","file":"PhD-notes/Literature Review/2018 - Future views on waste heat utilization - Case of data centers in Northern Europe.md","x":-5526,"y":-3294,"width":400,"height":127,"color":"4"},
 		{"id":"146c63e3e7bc0651","type":"text","text":"# ~={green}District Heating=~","x":-4390,"y":-2697,"width":250,"height":60,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4943,"y":-2659,"width":400,"height":124,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# ~={green}Life-cycle Assessments=~","x":-4097,"y":-2650,"width":250,"height":99,"color":"4"},
@@ -87,7 +83,10 @@
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3172,"y":-2675,"width":400,"height":97,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3172,"y":-2473,"width":400,"height":106,"color":"4"},
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-3172,"y":-2902,"width":400,"height":122,"color":"4"},
-		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4943,"y":-2902,"width":400,"height":165,"color":"4"}
+		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4943,"y":-2902,"width":400,"height":165,"color":"4"},
+		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-5526,"y":-3638,"width":400,"height":158,"color":"4"},
+		{"id":"1a2e2b863256ec47","type":"file","file":"PhD-notes/Literature Review/2018 - Future views on waste heat utilization - Case of data centers in Northern Europe.md","x":-5526,"y":-3328,"width":400,"height":127,"color":"4"},
+		{"id":"efe05d64f9561f95","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-5526,"y":-3880,"width":400,"height":138,"color":"4"}
 	],
 	"edges":[
 		{"id":"9f882e6f3d698f80","fromNode":"3b6786aa736b5308","fromSide":"bottom","toNode":"4617af30e868cf31","toSide":"top"},
@@ -140,9 +139,6 @@
 		{"id":"207291e04eaedf1e","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"d48b6c74b5c5bf39","toSide":"bottom"},
 		{"id":"b7aa1bcc6fc9608d","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"3d883f1f28782585","toSide":"bottom"},
 		{"id":"4956964ca2b9a03d","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"9760a039016c0b98","toSide":"bottom"},
-		{"id":"a66226f99ab639b7","fromNode":"dab74b6c50026f51","fromSide":"top","toNode":"b0c96b0fb44522b2","toSide":"bottom"},
-		{"id":"20bde7cb2d235e89","fromNode":"dab74b6c50026f51","fromSide":"top","toNode":"dd959daac0ce56db","toSide":"right"},
-		{"id":"174e4909901a1a2d","fromNode":"dab74b6c50026f51","fromSide":"top","toNode":"efe05d64f9561f95","toSide":"bottom"},
 		{"id":"300819431934064a","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"dab74b6c50026f51","toSide":"bottom"},
 		{"id":"322f45d71ce0d9f5","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"cabd4f6f1b11d73e","toSide":"bottom"},
 		{"id":"d500eac9965d8027","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"378061b4620320ff","toSide":"top"},
@@ -170,6 +166,8 @@
 		{"id":"a1fafb9e4627caef","fromNode":"35cb1aba6cac9e74","fromSide":"right","toNode":"543462e890b7dff1","toSide":"left"},
 		{"id":"c221a37c37d77ec7","fromNode":"543462e890b7dff1","fromSide":"right","toNode":"9916da21f07d1671","toSide":"left"},
 		{"id":"46ed11e63a47fd31","fromNode":"543462e890b7dff1","fromSide":"right","toNode":"e32e13e94bd2e08f","toSide":"left"},
-		{"id":"fae90fb6591c8cff","fromNode":"9916da21f07d1671","fromSide":"top","toNode":"1b48af96d03fb765","toSide":"bottom"}
+		{"id":"fae90fb6591c8cff","fromNode":"9916da21f07d1671","fromSide":"top","toNode":"1b48af96d03fb765","toSide":"bottom"},
+		{"id":"82e9d8459dec2a90","fromNode":"dab74b6c50026f51","fromSide":"left","toNode":"dd959daac0ce56db","toSide":"right"},
+		{"id":"9c3099cc66c952a9","fromNode":"dab74b6c50026f51","fromSide":"left","toNode":"efe05d64f9561f95","toSide":"right"}
 	]
 }
