@@ -16,7 +16,6 @@ Also looks at the exergy efficiency.
 - Lighting and technical building services are not considered
 
 The LP looks to optimise the TAC.
-
 ## Limitations
 
 - Thermal storage is only charged by electric boilers
