@@ -41,7 +41,6 @@
 		{"id":"0f24fc6f0fc487c1","type":"text","text":"# ~={purple}Integration of Renewable Energy in Centralised Heating=~","x":-5628,"y":-2198,"width":334,"height":103,"color":"6"},
 		{"id":"cbb07725c283369d","type":"file","file":"PhD-notes/Literature Review/2023 - Optimisation based operation of district heating networks - a case study for two real sites in Austria with Energie Burgenland-.md","x":-5165,"y":-1495,"width":400,"height":192,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1208,"width":400,"height":169,"color":"6"},
-		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-933,"width":400,"height":173,"color":"6"},
 		{"id":"e565e22128666908","type":"file","file":"PhD-notes/Literature Review/2023 - Heat pumping and renewable energy integration for decarbonizing brewery industry and district heating.md","x":-5165,"y":-1937,"width":400,"height":161,"color":"6"},
 		{"id":"146c63e3e7bc0651","type":"text","text":"# ~={green}District Heating=~","x":-4125,"y":-2173,"width":250,"height":60,"color":"4"},
 		{"id":"cabd4f6f1b11d73e","type":"text","text":"# ~={green}Industrial Symbiosis=~","x":-3551,"y":-2315,"width":296,"height":79,"color":"4"},
@@ -77,7 +76,8 @@
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1709,"width":400,"height":189,"color":"6"},
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1697,"width":400,"height":135,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6608,"y":-1495,"width":501,"height":175,"color":"6"}
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6608,"y":-1495,"width":501,"height":175,"color":"6"},
+		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-960,"width":400,"height":173,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
