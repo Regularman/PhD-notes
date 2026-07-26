@@ -3,7 +3,7 @@ https://ieeexplore-ieee-org.wwwproxy1.library.unsw.edu.au/stamp/stamp.jsp?tp=&ar
 Cited by 1
 ## Contribution
 
-Looks at a multi-criteria optimisation procedure to minimise costs and $CO_2$ equivalent emissions
+Looks at a multi-criteria optimisation procedure to minimise costs and $CO_2$ equivalent emissions in a low temperature grid
 
 Applied algorithm on a case study with 20 single and multi-family houses
 - You also need to consider that for direct cooling and heating to be possible, you need underfloor heat exchangers.
