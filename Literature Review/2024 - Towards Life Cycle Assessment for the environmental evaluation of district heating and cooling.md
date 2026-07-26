@@ -88,7 +88,7 @@ PV backed heat pumps
 - [15] - Solar thermal
 
 5GDH
-- [44], [57]
+- [44], [47]
 
 Data centre
 [55]
