@@ -53,7 +53,7 @@
 		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2249,"width":400,"height":165,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4678,"y":-2006,"width":400,"height":124,"color":"4"},
 		{"id":"85259a401937c2c4","type":"file","file":"PhD-notes/Literature Review/2021 - Life Cycle Assessment of District Heating Systems in Europe - Case Studies and Recommendations.md","x":-4678,"y":-2437,"width":400,"height":122,"color":"4"},
-		{"id":"3d883f1f28782585","type":"file","file":"PhD-notes/Literature Review/2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-3307,"y":-2628,"width":400,"height":148,"color":"4"},
+		{"id":"3d883f1f28782585","type":"file","file":"PhD-notes/Literature Review/2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-3307,"y":-2628,"width":400,"height":168,"color":"4"},
 		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3307,"y":-2825,"width":400,"height":148,"color":"4"},
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3120,"width":400,"height":194,"color":"4"},
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-3892,"y":-2376,"width":250,"height":60,"color":"4"},
@@ -66,7 +66,6 @@
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2845,"y":-1738,"width":400,"height":122,"color":"4"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6608,"y":-1495,"width":501,"height":175,"color":"6"},
 		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-960,"width":400,"height":173,"color":"6"},
 		{"id":"5e9f83f6b5f9c4b8","type":"file","file":"PhD-notes/Literature Review/2026 - Multi-sectoral Energy Integration of Low Temperature Brewery Process, Manufacturing Industry and District Heating Network.md","x":-5965,"y":-1268,"width":400,"height":145,"color":"6"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1495,"width":400,"height":189,"color":"6"},
@@ -76,7 +75,8 @@
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-3045,"y":-641,"width":400,"height":172,"color":"3"},
 		{"id":"8d1be414973da2bc","type":"text","text":"# ~={yellow}Operation Optimisation=~","x":-2852,"y":-832,"width":250,"height":72,"color":"3"},
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1720,"width":400,"height":166,"color":"6"},
-		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1207,"width":400,"height":168,"color":"6"}
+		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1207,"width":400,"height":168,"color":"6"},
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6558,"y":-1488,"width":501,"height":175,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
