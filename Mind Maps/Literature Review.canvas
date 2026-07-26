@@ -52,7 +52,6 @@
 		{"id":"85259a401937c2c4","type":"file","file":"PhD-notes/Literature Review/2021 - Life Cycle Assessment of District Heating Systems in Europe - Case Studies and Recommendations.md","x":-4678,"y":-2437,"width":400,"height":122,"color":"4"},
 		{"id":"3d883f1f28782585","type":"file","file":"PhD-notes/Literature Review/2021 - Synthesis and assessment of biogas-centered agricultural eco-industrial park in British Columbia.md","x":-3307,"y":-2628,"width":400,"height":168,"color":"4"},
 		{"id":"d48b6c74b5c5bf39","type":"file","file":"PhD-notes/Literature Review/2025 - Environmental and Economic Benefits of Waste Heat Recovery as a Symbiotic Scenario in Sweden.md","x":-3307,"y":-2825,"width":400,"height":148,"color":"4"},
-		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3120,"width":400,"height":194,"color":"4"},
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-3892,"y":-2376,"width":250,"height":60,"color":"4"},
 		{"id":"1a2e2b863256ec47","type":"file","file":"PhD-notes/Literature Review/2018 - Future views on waste heat utilization - Case of data centers in Northern Europe.md","x":-4678,"y":-2628,"width":400,"height":127,"color":"4"},
 		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-4678,"y":-2835,"width":400,"height":158,"color":"4"},
@@ -76,7 +75,8 @@
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6558,"y":-1488,"width":501,"height":175,"color":"6"},
 		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4278,"y":-1356,"width":400,"height":123,"color":"4"},
-		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4278,"y":-1540,"width":358,"height":131,"color":"4"}
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4278,"y":-1540,"width":358,"height":131,"color":"4"},
+		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3100,"width":400,"height":194,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
