@@ -10,7 +10,6 @@
 		{"id":"0ddc5405c5c10558","type":"file","file":"PhD-notes/Literature Review/2020 - Heat as a Service - What is it and what's on the market today.md","x":-1546,"y":-2018,"width":400,"height":102,"color":"1"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *~={red}Hass Case Studies*=~","x":-1665,"y":-1495,"width":302,"height":70,"color":"1"},
 		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-330,"y":-880,"width":400,"height":162,"color":"2"},
-		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-3767,"y":-542,"width":498,"height":114,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2857,"y":-109,"width":400,"height":122,"color":"3"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3172,"y":-473,"width":412,"height":175,"color":"3"},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1992,"y":-600,"width":400,"height":172,"color":"3"},
@@ -77,7 +76,8 @@
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6608,"y":-1495,"width":501,"height":175,"color":"6"},
 		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-960,"width":400,"height":173,"color":"6"},
 		{"id":"5e9f83f6b5f9c4b8","type":"file","file":"PhD-notes/Literature Review/2026 - Multi-sectoral Energy Integration of Low Temperature Brewery Process, Manufacturing Industry and District Heating Network.md","x":-5965,"y":-1268,"width":400,"height":145,"color":"6"},
-		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1495,"width":400,"height":189,"color":"6"}
+		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1495,"width":400,"height":189,"color":"6"},
+		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-5165,"y":-680,"width":400,"height":157,"color":"3"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -88,7 +88,6 @@
 		{"id":"d350ba0f61c1cc5a","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"71cd8a28a3fda54b","toSide":"bottom"},
 		{"id":"81a64054ffaacbde","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"8cfb6f2f27a342a2","toSide":"bottom"},
 		{"id":"996f4a5f5b7fde33","fromNode":"25b4e01170985df8","fromSide":"bottom","toNode":"58b7394b2271650b","toSide":"top"},
-		{"id":"daef9e8768a3f1f9","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"},
 		{"id":"2d296e8a10796c2f","fromNode":"8ac6af62e8602e38","fromSide":"bottom","toNode":"e8a2bd3a6ba9418c","toSide":"top"},
 		{"id":"4cb6dd8b0e61f0e4","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
 		{"id":"c2c24e5e993a72ea","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"f368208cf8dea35c","toSide":"top"},
@@ -106,7 +105,6 @@
 		{"id":"79d7e25186875811","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"fda52721f32fcb2f","toSide":"top"},
 		{"id":"0d9351e4fedbd59f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"2352bd83f5699f28","toSide":"top"},
 		{"id":"286dedfdfd39866c","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"0f24fc6f0fc487c1","toSide":"top"},
-		{"id":"84c7b1e2b9b471b8","fromNode":"58b7394b2271650b","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"top"},
 		{"id":"9230d5ab62420026","fromNode":"c8c213062d86c1e4","fromSide":"bottom","toNode":"e6b80da1d51c4c03","toSide":"top"},
 		{"id":"30d01f2f04666e2c","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b80da1d51c4c03","toSide":"top"},
 		{"id":"c40efe761e32a046","fromNode":"1da15cb43944a89b","fromSide":"bottom","toNode":"dc8ec32ab08f4374","toSide":"top"},
