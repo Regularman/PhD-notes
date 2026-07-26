@@ -39,8 +39,6 @@
 		{"id":"cabd4f6f1b11d73e","type":"text","text":"# ~={green}Industrial Symbiosis=~","x":-3551,"y":-2315,"width":296,"height":79,"color":"4"},
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# ~={green}Life-cycle Assessments=~","x":-3832,"y":-2126,"width":250,"height":99,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-4078,"y":-1792,"width":371,"height":108,"color":"4"},
-		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4378,"y":-1567,"width":378,"height":80,"color":"4"},
-		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4378,"y":-1365,"width":400,"height":123,"color":"4"},
 		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-5965,"y":-1937,"width":400,"height":161,"color":"6"},
 		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-5965,"y":-1720,"width":400,"height":180,"color":"6"},
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-6163,"y":-2496,"width":396,"height":118,"color":"6"},
@@ -76,7 +74,9 @@
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1720,"width":400,"height":166,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1207,"width":400,"height":168,"color":"6"},
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6558,"y":-1488,"width":501,"height":175,"color":"6"},
-		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"}
+		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"},
+		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4278,"y":-1356,"width":400,"height":123,"color":"4"},
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4278,"y":-1540,"width":378,"height":80,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
