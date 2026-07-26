@@ -81,7 +81,7 @@ The recycling rate is the rate at which material can be recovered from the recyc
 | Copper   | 61-90%                                 |
 | Brass    | 90%                                    |
 | Plastivs | 23% (additional 20% with incineration) |
-**The manufacturer Bosch has indicated in its sustainability report how much recycled material is used within the company: recycled steel around 56 % across all products; recycled aluminum 35 %; recycled content in plastics is around 5 % [34].**
+The manufacturer Bosch has indicated in its sustainability report how much recycled material is used within the company: recycled steel around 56 % across all products; recycled aluminum 35 %; recycled content in plastics is around 5 % [34].
 
 ### Renewable certification scheme
 
