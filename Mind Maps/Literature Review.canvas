@@ -58,8 +58,8 @@
 		{"id":"dd959daac0ce56db","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design of a 5th generation district heating and cooling network based on seawater heat pumps.md","x":-4678,"y":-2835,"width":400,"height":158,"color":"4"},
 		{"id":"efe05d64f9561f95","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-4678,"y":-3064,"width":400,"height":138,"color":"4"},
 		{"id":"543462e890b7dff1","type":"text","text":"# ~={green}Technology LCA=~","x":-3519,"y":-1942,"width":250,"height":60,"color":"4"},
-		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3307,"y":-1714,"width":400,"height":97,"color":"4"},
-		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1409,"width":400,"height":106,"color":"4"},
+		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular lifecycles of heating pumps in Europe.md","x":-3307,"y":-1714,"width":400,"height":654,"color":"4"},
+		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1409,"width":400,"height":149,"color":"4"},
 		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2845,"y":-1738,"width":400,"height":122,"color":"4"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":133,"color":"6"},
@@ -76,7 +76,7 @@
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6558,"y":-1488,"width":501,"height":175,"color":"6"},
 		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4278,"y":-1356,"width":400,"height":123,"color":"4"},
-		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4278,"y":-1540,"width":378,"height":80,"color":"4"}
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4278,"y":-1540,"width":358,"height":131,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
