@@ -9,7 +9,6 @@
 		{"id":"0ddc5405c5c10558","type":"file","file":"PhD-notes/Literature Review/2020 - Heat as a Service - What is it and what's on the market today.md","x":-1546,"y":-2018,"width":400,"height":102,"color":"1"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *~={red}Hass Case Studies*=~","x":-1665,"y":-1495,"width":302,"height":70,"color":"1"},
 		{"id":"326c9db62b1bd97e","type":"file","file":"PhD-notes/Literature Review/2017 - IoT powered servitisation of manufacturing - case study and framework.md","x":-330,"y":-880,"width":400,"height":162,"color":"2"},
-		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-1992,"y":-600,"width":400,"height":172,"color":"3"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *~={yellow}Economic modelling and feasibility of low carbon heat=~*","x":-1971,"y":-1102,"width":353,"height":109,"color":"3"},
 		{"id":"f7941ba914721902","type":"text","text":"# ~={orange}Industry 4.0=~","x":-785,"y":-1175,"width":250,"height":50,"color":"2"},
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *~={orange}Using low carbon heat for ancillary services and demand management*=~","x":-660,"y":-600,"width":371,"height":120,"color":"2"},
@@ -75,7 +74,9 @@
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1495,"width":400,"height":189,"color":"6"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-5165,"y":-680,"width":400,"height":157,"color":"6"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2960,"y":-292,"width":400,"height":122,"color":"3"},
-		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3760,"y":-440,"width":400,"height":175,"color":"6"}
+		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3507,"y":-644,"width":400,"height":175,"color":"3"},
+		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-3045,"y":-641,"width":400,"height":172,"color":"3"},
+		{"id":"8d1be414973da2bc","x":-2852,"y":-832,"width":250,"height":72,"color":"3","type":"text","text":"# ~={yellow}Operation Optimisation=~"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -85,7 +86,6 @@
 		{"id":"d350ba0f61c1cc5a","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"71cd8a28a3fda54b","toSide":"bottom"},
 		{"id":"81a64054ffaacbde","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"8cfb6f2f27a342a2","toSide":"bottom"},
 		{"id":"2d296e8a10796c2f","fromNode":"8ac6af62e8602e38","fromSide":"bottom","toNode":"e8a2bd3a6ba9418c","toSide":"top"},
-		{"id":"4cb6dd8b0e61f0e4","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
 		{"id":"c2c24e5e993a72ea","fromNode":"35cb1aba6cac9e74","fromSide":"bottom","toNode":"f368208cf8dea35c","toSide":"top"},
 		{"id":"fd2c57dd45d03e64","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"bottom"},
 		{"id":"f80de8ff74b36aa9","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"0ddc5405c5c10558","toSide":"bottom"},
@@ -146,6 +146,9 @@
 		{"id":"e6893c5d720e4730","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"9760a039016c0b98","toSide":"left"},
 		{"id":"e3442349d923380d","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"138cddac4942deea","toSide":"right"},
 		{"id":"d6e1a2ca05d8ac0b","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"top"},
-		{"id":"b6e6280c38264e37","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"left"}
+		{"id":"b6e6280c38264e37","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"left"},
+		{"id":"3d7b1a90859aa37d","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"8d1be414973da2bc","toSide":"top"},
+		{"id":"5d69f6c3d00d18d5","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
+		{"id":"c1b1ee37fe40fcd7","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"}
 	]
 }
