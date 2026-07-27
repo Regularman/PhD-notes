@@ -14,4 +14,6 @@ Hierarchy of lowest to highest cost decarbonisation technologies
 2. Thermal Energy Storage
 3. Green fuels, which includes biogas upgrade into biomethane, green diesel, and hydrogen
 
-Looked at the consequence of uptake in BAU and accelerated scenarios. Through this, identified that there will be carbon and financial cost if the BAU scenario is realised. It is only through the accelerated scenario that we can achieve 
+Looked at the consequence of uptake in BAU and accelerated scenarios. Through this, identified that there will be carbon and financial cost if the BAU scenario is realised. It is only through the accelerated scenario that we can achieve $600M$ in financial savings and $50\%$ reduction in carbon emissions by 2035.
+
+![[Screenshot 2026-07-27 180142.png]]
