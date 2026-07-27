@@ -26,13 +26,14 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ### Processes
 
-Uses $176 \frac{PJ}{year}$ for process heating
+**Energy for process heating:** Uses $176 \frac{PJ}{year}$ for process heating
 
-| Process                | Thermofluid | Temperature | Energy input | Purpose |
-| ---------------------- | ----------- | ----------- | ------------ | ------- |
-| High temperature kilns |             |             |              |         |
-| Concentrating          |             |             |              |         |
-| Dewatering             |             |             |              |         |
-| Leaching               |             |             |              |         |
-| Roasting               |             |             |              |         |
-| Refining (Bayer's p)   |             |             |              |         |
+
+| Process                    | Input | Temperature | Purpose                         | Share of energy |
+| -------------------------- | ----- | ----------- | ------------------------------- | --------------- |
+| High temperature kilns     |       |             |                                 |                 |
+| Concentrating              |       |             |                                 |                 |
+| Dewatering                 |       |             |                                 |                 |
+| Leaching                   |       |             |                                 |                 |
+| Roasting                   |       |             |                                 |                 |
+| Refining (Bayer's process) |       |             | Refining bauxite into aluminium |                 |
