@@ -1,5 +1,7 @@
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.racefor2030.com.au/content/uploads/B3-OA-Project-Final-Report-July-2021-20210721a-compressed.pdf
 
+## Introduction
+
 In Australia, industry uses half of the total end use energy, out of which 37% is used in process heating, representing $750\frac{PJ}{year}$. 
 
 - Fossil fuel accounts for 90% of this, which represents $675\frac{PJ}{year}$ 
@@ -17,3 +19,6 @@ Hierarchy of lowest to highest cost decarbonisation technologies
 Looked at the consequence of uptake in BAU and accelerated scenarios. Through this, identified that there will be carbon and financial cost if the BAU scenario is realised. It is only through the accelerated scenario that we can achieve $600M$ in financial savings and $50\%$ reduction in carbon emissions by 2035.
 
 ![[Screenshot 2026-07-27 180142.png]]
+
+## Aluminium industry
+
