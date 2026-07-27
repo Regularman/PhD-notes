@@ -22,3 +22,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ## Aluminium industry
 
+
+| Process | Thermofluid | Temperature |
+| ------- | ----------- | ----------- |
+|         |             |             |
