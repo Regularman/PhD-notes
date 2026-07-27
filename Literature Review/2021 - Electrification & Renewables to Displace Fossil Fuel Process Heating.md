@@ -20,11 +20,13 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ![[Screenshot 2026-07-27 180142.png]]
 
-## Aluminium industry
+## Alumina and non-ferrous metals
 
 ### Work done
 
 ### Processes
+
+Uses $176 \frac{PJ}{year}$ for process heating
 
 | Process                | Thermofluid | Temperature | Energy input | Purpose |
 | ---------------------- | ----------- | ----------- | ------------ | ------- |
@@ -33,3 +35,4 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 | Dewatering             |             |             |              |         |
 | Leaching               |             |             |              |         |
 | Roasting               |             |             |              |         |
+| Refining (Bayer's p)   |             |             |              |         |
