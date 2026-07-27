@@ -50,7 +50,8 @@
 		{"id":"9ad3676a110b0221","type":"text","text":"## *~={cyan}Hydrogen=~*","x":-1985,"y":-1807,"width":250,"height":60,"color":"5"},
 		{"id":"4acc477ba6832d0f","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-1599,"y":-1807,"width":331,"height":80,"color":"5"},
 		{"id":"edced6714d33d4d3","type":"text","text":"# ~={cyan}Molten salt storage=~","x":-2840,"y":-1777,"width":250,"height":60},
-		{"id":"a9436b501b0a8044","type":"text","text":"# Performance of Heat Geek HP in English home 2026\n\nhttps://www.youtube.com/watch?v=CFSZViBzlIQ \n\nYoutube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days for a Vaillant HP.\n\t- It's very hard to quantify the heat quality change\n\t- There is a behavior change as they didn't need to adjust the heat pump based of usage needs (It was just on the time)\n\t- Did not need emergency heaters and the water tank upgrades and radiator upgrades were not necessary.\n\nHeat Geek has a performance guarantee for 5 years. They also do energy consultations for the proper design of heat pumps.\n- Vibration of wall mounted units was a problem. Can be prevented through ground mounted units.","x":-2282,"y":-1325,"width":362,"height":80,"color":"5"}
+		{"id":"a9436b501b0a8044","type":"text","text":"# Performance of Heat Geek HP in English home 2026\n\nhttps://www.youtube.com/watch?v=CFSZViBzlIQ \n\nYoutube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days for a Vaillant HP.\n\t- It's very hard to quantify the heat quality change\n\t- There is a behavior change as they didn't need to adjust the heat pump based of usage needs (It was just on the time)\n\t- Did not need emergency heaters and the water tank upgrades and radiator upgrades were not necessary.\n\nHeat Geek has a performance guarantee for 5 years. They also do energy consultations for the proper design of heat pumps.\n- Vibration of wall mounted units was a problem. Can be prevented through ground mounted units.","x":-2282,"y":-1325,"width":362,"height":80,"color":"5"},
+		{"id":"4d5fc6d1ccbd1ca5","x":929,"y":-186,"width":494,"height":126,"type":"text","text":"# FPP-Reg-FCAS Recovery - To what extent has it succeeded and could it be improved"}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
@@ -99,6 +100,7 @@
 		{"id":"d1d2ead987c87a72","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"94a682f6a3774f78","toSide":"top"},
 		{"id":"3f44297395ffb767","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"9ad3676a110b0221","toSide":"top"},
 		{"id":"4d58bc9f294b3c61","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"4acc477ba6832d0f","toSide":"top"},
-		{"id":"702a063413c25870","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"edced6714d33d4d3","toSide":"top"}
+		{"id":"702a063413c25870","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"edced6714d33d4d3","toSide":"top"},
+		{"id":"0e12fc9a0e5f8356","fromNode":"1f20c93413989ad3","fromSide":"right","toNode":"4d5fc6d1ccbd1ca5","toSide":"left"}
 	]
 }
