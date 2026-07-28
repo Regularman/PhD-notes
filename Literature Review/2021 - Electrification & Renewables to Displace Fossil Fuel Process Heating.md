@@ -118,4 +118,8 @@ Waste heat can be produced from
 
 - Pulp digestion ($65-175\degree C$)
 - Pulp washing ($60-70 \degree C$)
+- Pulp bleaching (if white product is desired) ($30-90 \degree C$)
+- Evaporation ($100-110\degree C$)
+- Pulp drying ($40-55\degree C$)
+- Lime kiln ($340-1200 \degree C$)
 ### Technology Advancements
