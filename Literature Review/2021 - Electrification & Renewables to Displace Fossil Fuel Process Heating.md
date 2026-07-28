@@ -20,9 +20,11 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ![[Screenshot 2026-07-27 180142.png]]
 
-## Alumina and non-ferrous metals
+## ~={orange}Alumina and non-ferrous metals=~
 
 ### Work done
+
+Circulating steam at $150-170 \degree C
 
 ### Processes
 
