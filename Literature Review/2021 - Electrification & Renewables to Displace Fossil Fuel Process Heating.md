@@ -27,7 +27,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 ### Processes
 
 **Energy for process heating:** Uses $176 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and coal
-- 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$ata
+- 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
 | Process                    | Input | Temperature | Purpose                                         | Share of energy and GHG |
@@ -48,7 +48,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 	1. Bauxite is digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud
 	2. Bauxite residue is separated from aluminium containing liquid through clarification
 	3. $Al(OH)_3$ is precipitated out of solution at $50-70 \degree C$  
-	4. Calcination step is performed in rotary kilns or fluidised bed. The water is recycled for leaching in digestion.
+	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $~1000\degree C$. The water is recycled for leaching in digestion.
 $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 ![[Screenshot 2026-07-28 102656.png|438]]
