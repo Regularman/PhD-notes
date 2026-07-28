@@ -203,13 +203,14 @@ Across the entire food and beverage sector, energy consumption for process heati
 **Emissions:** 
 
 
-| Process                             | Input | Temperature        | Purpose                                                                                    | Share of energy and GHG |
-| ----------------------------------- | ----- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------- |
-| Slaughter and evisceration          |       | $43-82\degree C$   |                                                                                            |                         |
-| Hide processing                     |       | $43-82\degree C$   |                                                                                            |                         |
-| Paunch processing and offal washing |       | $43-82\degree C$   |                                                                                            |                         |
-| Blood processing                    |       | $110-130\degree C$ |                                                                                            |                         |
-| Rendering                           |       | $115-145\degree C$ | Done for 40-90 minutes per batch. Separate animal product into fat/oil, protein, and water |                         |
+| Process                             | Input       | Temperature        | Purpose                                                                                    | Share of energy and GHG |
+| ----------------------------------- | ----------- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------- |
+| Slaughter and evisceration          |             | $43-82\degree C$   |                                                                                            |                         |
+| Hide processing                     |             | $43-82\degree C$   |                                                                                            |                         |
+| Paunch processing and offal washing |             | $43-82\degree C$   |                                                                                            |                         |
+| Blood processing                    |             | $110-130\degree C$ |                                                                                            | $0.9 \frac{GJ}{tHSCW}$  |
+| Rendering                           |             | $115-145\degree C$ | Done for 40-90 minutes per batch. Separate animal product into fat/oil, protein, and water | $1.7 \frac{GJ}{tHSCW}$  |
+| Chilling                            | Electricity | $-4 \dergee C$     |                                                                                            |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
