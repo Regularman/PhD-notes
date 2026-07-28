@@ -27,7 +27,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 ### Processes
 
 **Energy for process heating:** Uses $176 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and coal
-- 50% of heat is supplied 
+- 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$ata
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
 | Process                    | Input | Temperature | Purpose                                         | Share of energy and GHG |
