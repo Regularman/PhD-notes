@@ -62,12 +62,12 @@ Waste heat is produced from
 
 ### Technology advancements
 
-| Technology                                      | Use case                                                                                                                                                              |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mechanical Vapor Recompression                  | Recycling of steam waste heat through heat exchange and recompression cycle.                                                                                          |
-| Heat pumps (electric compression or absorption) | Would be interesting to understand the difference between MVR and electric pumps (heat pumps are probably for lower temperature due to low COP with high temperature) |
-| Fluidised gas bed                               | Replaces rotary kiln in calcination process for internal waste heat recovery.                                                                                         |
-|                                                 |                                                                                                                                                                       |
+| Technology                                      | Use case                                                                                                                                                                                                                                                  |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mechanical Vapor Recompression                  | Recycling of steam waste heat through heat exchange and recompression cycle.                                                                                                                                                                              |
+| Heat pumps (electric compression or absorption) | Would be interesting to understand the difference between MVR and electric pumps (heat pumps are probably for lower temperature due to low COP with high temperature)                                                                                     |
+| Fluidised gas bed                               | Replaces rotary kiln in calcination process for internal waste heat recovery. Also reduces energy usage per ton due to direct contact between the fluidized particles and the material. However, cannot be done for finer particles due to agglomeration. |
+|                                                 |                                                                                                                                                                                                                                                           |
 
-
+## ~={orange}Wood and wood processing =~
 
