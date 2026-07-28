@@ -75,12 +75,12 @@ Waste heat is produced from
 ### Processes
 
 **Energy for process heating:** Uses $14.3 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and wood waste
-- Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use f
+- Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use for turning logs into value added products. 
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process       | Input | Temperature           | Purpose | Share of energy and GHG |
-| ------------- | ----- | --------------------- | ------- | ----------------------- |
-| Timber Drying |       | up to $150 \degree C$ |         |                         |
+| Process       | Input | Temperature           | Purpose    | Share of energy and GHG     |
+| ------------- | ----- | --------------------- | ---------- | --------------------------- |
+| Timber Drying |       | up to $150 \degree C$ | Dried the  | $\approx 10\frac{PJ}{year}$ |
 
 
 ### Technology advancements
