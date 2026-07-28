@@ -116,7 +116,7 @@ Waste heat can be produced from
 | Paper making                 |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
 #### Kraft process (Chemical pulping)
 
-- Pulp digestion ($65-175\degree C$) - MP Steam
+- Pulp digestion ($65-175\degree C$) - MP Steam - $2.2-3 \frac{GJ}{t}$
 - Pulp washing ($60-70 \degree C$)
 - Pulp bleaching (if white product is desired) ($30-90 \degree C$) - LP Steam $2.3-3.2 \frac{GJ}{t}$
 - Evaporation ($100-110\degree C$) - LP Steam $3-4.3 \frac{GJ}{t}$
@@ -128,4 +128,6 @@ Waste heat can be produced from
 #### Waste heat
 
 Waste heat can be recovered from
+- Condensate in evaporator $50-60\degree C$
+- Waste water from digester and pulp washer
 ### Technology Advancements
