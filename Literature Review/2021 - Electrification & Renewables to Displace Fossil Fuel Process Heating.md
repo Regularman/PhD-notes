@@ -71,7 +71,7 @@ Waste heat is produced from
  Large biomass resources, 
  - 3% of world forests
  - 17% of Australian land area (concentrated on the East Coast)
- - 61% of log consumption is used for timber and wood products manufacturer
+ - 61% of log consumption is used for timber, wood veneer, and wood products manufacturer
  - 
 ### Processes
 
