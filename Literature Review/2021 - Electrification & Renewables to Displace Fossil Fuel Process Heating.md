@@ -136,9 +136,10 @@ Waste heat can be recovered from
 - Waste heat from lime kiln that runs at $340-1200 \degree C$
 #### Paper making
 
-- Stock preparation ($40-100 \degree C$)
-- Drying ($70-90\degree C$)
-- Press ($40-50\degree C$)
+- Stock preparation ($40-100 \degree C$) - LP Steam - $0.7-0.8 \frac{GJ}{t}$
+- Drying ($70-90\degree C$) - LP Steam - $0.3-0.4 \frac{GJ}{t}$
+- Press ($40-50\degree C$) - LP Steam - $0.3-0.4 \frac{GJ}{t}$
+
 ![[Screenshot 2026-07-28 134723.png]]
 ### Technology Advancements
 
