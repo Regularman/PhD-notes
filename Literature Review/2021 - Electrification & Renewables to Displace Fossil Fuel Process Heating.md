@@ -179,6 +179,8 @@ Across the entire food and beverage sector, energy consumption for process heati
 | Cleaning in place                                    |          | $60-65 \degree C$  |         | $0.3-0.5 \frac{GJ}{t}$  |
 | Value adding process (Cheese, butter, yoghurt, milk) |          | $70-110\degree C$  |         |                         |
 ![[Screenshot 2026-07-28 140708.png]]
+
+A note on spray drying, which is a method of forming powder form from a liquid. The milk
 ### Technology Advancement
 
 - `Renewable energy options for Industrial Process Heat. 2019. ARENA`
