@@ -86,6 +86,7 @@ Waste heat is produced from
 
 Waste heat can be produced from
 - Exhaust hot air from kiln drying ($35-55\degree C$)
+- Condensed water from steam injection into the drying process
 
 ![[Screenshot 2026-07-28 123736.png]]
 ### Technology advancements
