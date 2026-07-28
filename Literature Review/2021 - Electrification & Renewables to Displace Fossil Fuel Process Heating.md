@@ -161,6 +161,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 **Energy for process heating:** 
 - Primarily uses natural gas for heating
+- 
 **Emissions:** 
 - Dairy manufacturing has a lot of emissions from transportation.
 
