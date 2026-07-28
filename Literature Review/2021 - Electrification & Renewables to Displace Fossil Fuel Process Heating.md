@@ -40,6 +40,6 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 #### Bayer's Process
 
 1. Preprocessing: Depending on the aluminium bearing mineral, there are different dehydration temperatures
-	- Gibbsite starts dehydrating around $220
+	- Gibbsite starts dehydrating around $220-350\degree C$, bohemite ranges from $250-450\degree C$, and diaspore between $460-560 \degree C$
 
 ![[Screenshot 2026-07-28 102328.png|367]]
