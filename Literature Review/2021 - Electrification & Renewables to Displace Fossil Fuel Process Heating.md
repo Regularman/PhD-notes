@@ -68,6 +68,7 @@ Waste heat is produced from
 
 ## ~={orange}Wood and wood processing =~
 
+ 
 ### Processes
 
-### Technology advanc
+### Technology advancements
