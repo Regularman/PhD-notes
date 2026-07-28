@@ -68,7 +68,10 @@ Waste heat is produced from
 
 ## ~={orange}Wood and wood processing =~
 
- 
+ Large biomass resources, 
+ - 3% of world forests
+ - 17% of Australian land area
+ - 
 ### Processes
 
 ### Technology advancements
