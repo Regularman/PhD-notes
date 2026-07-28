@@ -242,9 +242,9 @@ It should be noted that the addition of material is possible at various stage of
 
 **Emissions:** 
 
-| Process       | Input | Temperature | Purpose | Share of energy and GHG |
-| ------------- | ----- | ----------- | ------- | ----------------------- |
-| Grain mashing |       | $45-        |         |                         |
+| Process       | Input | Temperature        | Purpose | Share of energy and GHG |
+| ------------- | ----- | ------------------ | ------- | ----------------------- |
+| Grain mashing |       | $45-75 \degree C$  |         |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
