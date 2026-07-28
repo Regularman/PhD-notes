@@ -47,7 +47,7 @@ Circulating steam at $150-170 \degree C$ causes losses of $0.77 \frac{GJ}{t}$ an
 	1. Bauxite is hydrothermally digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud.
 	2. Bauxite residue is separated from aluminium containing liquid through clarification at $100-105 \degree C$ 
 	3. $Al(OH)_3$ is precipitated out of solution at $60-80 \degree C$. Evaporation occurs at $70-100\degree C$ 
-	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion. Circulating fluidised bed reduced total energy consumption for calcination using efficient heat recovery
+	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion. Circulating fluidised bed reduced total energy consumption for calcination using efficient heat recovery. 
 $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 ![[Screenshot 2026-07-28 102656.png|438]]
@@ -59,3 +59,6 @@ Waste heat is produced from
 - Calcination ($120\degree C$ waste water and $150-170 \degree C$ exhaust gas)
 - Precipitation
 - Flash cooling of digestion residual from $180\degree C$ to $100-105\degree C$ for clarification
+
+
+
