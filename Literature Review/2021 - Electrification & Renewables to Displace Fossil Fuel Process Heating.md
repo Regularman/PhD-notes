@@ -46,8 +46,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 	3. $Al(OH)_3$ is precipitated out of solution at $60-80 \degree C$. Evaporation occurs at $70-100\degree C$ 
 	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion. Circulating fluidised bed reduced total energy consumption for calcination using efficient heat recovery. 
 $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
-
-![[Screenshot 2026-07-28 102656.png|438]]
+![[Screenshot 2026-07-28 123744.png]]
 
 Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.5-6 \frac{GJ}{t- output}$), evaporation $2.6-2.9 \frac{GJ}{t- output}$, precipitation $~0.2~ \frac{GJ}{t- output}$, and residual washing and storage of red mud $~0.7 \frac{GJ}{t- output}$. This steam usage is ~$50\%$ of the total energy consumption in the Bayer's process.
 - Current steam is produced from natural gas or coal
@@ -86,5 +85,7 @@ Waste heat is produced from
 #### Waste heat
 
 Waste heat can be produced from
+- Exhaust hot air from kiln drying ($35-55\degree C$)
 
+![[Screenshot 2026-07-28 123736.png]]
 ### Technology advancements
