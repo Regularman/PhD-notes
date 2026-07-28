@@ -204,7 +204,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 - More than $65\%$ of electricity consumption comes from refrigeration to around $-40\degree C$.
 - $7.9 \frac{kL}{tHSCW}$ required for the meat processing process, 30-40% of which is turned into hot water and warm water.
 **Emissions:** 
-- $432 \frac{kg CO_2}{tHSCW}$, which culminates to $1.3 \frac{MtCO_2}{year}$
+- $432 \frac{kg CO_2}{tHSCW}$, which culminates to $1.3 \frac{MtCO_2}{year}$ for $3.1 Mt$ of production
 
 
 | Process                             | Input       | Temperature        | Purpose                                                                                    | Share of energy and GHG |
@@ -228,4 +228,6 @@ Waste heat can be recovered from
 | Energy efficiency imporvements | $27\%$ energy usage reduction from $2008-2014$. Further suggests reducing the sterilisation temperature can reduce energy demand further. |
 | Refrigeration heat recovery    | Taking waste heat from chiller condensers, which could provide supplementary heat from the boilers.                                       |
 | Biomass boilers                | Look at AMPC report on emission reduction pathways and opportunities for the Australian red meat industry.                                |
+
+### ~={orange}Food processing and beverage manufacturing - Beer Production=~
 
