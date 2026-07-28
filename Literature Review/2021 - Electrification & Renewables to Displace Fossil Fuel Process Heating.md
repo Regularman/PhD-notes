@@ -118,8 +118,14 @@ Waste heat can be produced from
 
 - Pulp digestion ($65-175\degree C$)
 - Pulp washing ($60-70 \degree C$)
-- Pulp bleaching (if white product is desired) ($30-90 \degree C$)
+- Pulp bleaching (if white product is desired) ($30-90 \degree C$) - $2.3-3.2 \frac{GJ}{t}$
 - Evaporation ($100-110\degree C$)
 - Pulp drying ($40-55\degree C$)
 - Lime kiln ($340-1200 \degree C$)
+
+![[Screenshot 2026-07-28 131540.png]]
+
+#### Waste heat
+
+Waste heat can be recovered from
 ### Technology Advancements
