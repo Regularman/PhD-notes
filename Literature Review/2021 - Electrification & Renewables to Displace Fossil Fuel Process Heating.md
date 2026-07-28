@@ -47,5 +47,6 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 	1. Bauxite is digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud
 	2. Bauxite residue is separated from aluminium containing liquid through clarification
 	3. $Al(OH)_3$ is precipitated out of solution at $50-70 \degree C$  
+	4. Calcination step is performed in rotary kilns or fluidised bed to $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 ![[Screenshot 2026-07-28 102656.png|438]]
