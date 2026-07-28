@@ -74,9 +74,8 @@ Waste heat is produced from
  - 61% of log consumption is used for timber, wood veneer, and wood products manufacturer
 ### Processes
 
-**Energy for process heating:** Uses $176 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and coal
-- 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$
-- Circulating steam at $150-170 \degree C$ causes losses of $0.77 \frac{GJ}{t}$ and cooling water circuit in the calciner could lose energy by $0.35 \frac{GJ}{t}$.
+**Energy for process heating:** Uses $14.3 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and wood waste
+- Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use f
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
 | Process       | Input | Temperature           | Purpose | Share of energy and GHG |
