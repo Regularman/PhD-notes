@@ -114,6 +114,8 @@ Waste heat can be produced from
 | Pulping (mechanical process) | Electricity                                                             |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                            |
 | Pulping (semi-chemical)      | Reduced thermal requirements compared to both process                   |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in waste streams |
 | Paper making                 |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
+|                              |                                                                         |             |                                                                               |                                                                                            |
+|                              |                                                                         |             |                                                                               |                                                                                            |
 #### Kraft process (Chemical pulping)
 
 - Pulp digestion ($65-175\degree C$) - MP Steam - $2.2-3 \frac{GJ}{t}$
@@ -132,6 +134,7 @@ Waste heat can be recovered from
 - Hot moist air from direct contact evaporator
 - Waste water from digester and pulp washer
 - Waste heat from lime kiln that runs at $340-1200 \degree C$
+#### Paper making
 ### Technology Advancements
 
 Look at prospective scenarios for the pulp and paper industry.
