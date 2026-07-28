@@ -75,7 +75,7 @@ Waste heat is produced from
 
 **Energy for process heating:** Uses $14.3 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and wood waste
 - Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use for turning logs into value added products. 
-- Currently steam is produced through natural gas or biomass (woodchips)
+- Currently steam is produced through natural gas or biomass (woodchips) ~$170 \degree C$
 **Carbon emissions:** 
 
 | Process             | Input                                                                                            | Temperature                                                                                               | Purpose                                                                                                        | Share of energy and GHG                                            |
@@ -98,4 +98,4 @@ Waste heat can be produced from
 | Air to air exchanger         | Recycles heat from the vented hot air from the drying process                                                                                                                                                                                  |
 | Dehumidification of the kiln | Condensing water moisture on a cooling coil dehumidifies the kiln and increases evaporation and drying rate of the lumber                                                                                                                      |
 | Wood waste gasification      | CHP production from wood waste                                                                                                                                                                                                                 |
-| Heat pumps                   | L                                                                                                                                                                                                                                              |
+| Heat pumps                   | Leverage waste heat from the drying process                                                                                                                                                                                                    |
