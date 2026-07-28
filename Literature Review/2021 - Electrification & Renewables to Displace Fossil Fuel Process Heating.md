@@ -220,7 +220,8 @@ Waste heat can be recovered from
 - Waste heat from the exhausted steam is recovered for generating the hot water and supply $60/70\%$ of the total energy needs for the plant's hot and warm water supply
 ### Technology Advancements
 
-| Technology                     | Use case |
-| ------------------------------ | -------- |
-| Energy efficiency imporvements |          |
+| Technology                     | Use case                                       |
+| ------------------------------ | ---------------------------------------------- |
+| Energy efficiency imporvements | $27\%$ energy usage reduction from $2008-2014$ |
+| Refrigeration heat recovery    | Taking waste heat from chiller cons            |
 
