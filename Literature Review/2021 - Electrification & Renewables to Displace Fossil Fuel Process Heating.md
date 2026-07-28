@@ -156,7 +156,7 @@ Look at
 | Heat recovery and waste heat | Reduce energy usage by $1.07 \frac{GJ}{t}$ of paper produced. ~={red}(World Energy Investment Outlook. 2014)=~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 ## ~={orange}Food Processing and beverage sector - Dairy Processing=~
 
-Across the entire 
+Across the entire food and beverage sector, energy consumption was $119 \frac{PJ}{year}$.
 ### Technology Advancement
 
 - `Renewable energy options for Industrial Process Heat. 2019. ARENA`
