@@ -192,4 +192,9 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 | MVR                 | Used in milk evaporation                                                                                           |
 | Reverse Osmosis     | Used for concentration of the milk product rather than through conventional evaporation                            |
 | Waste heat recovery | Rectification of steam leaks, using boiler condensate return heat, maintenance of steam traps, and pipe insulation |
-## Food processing and beverage manufacturing - Meat Processing
+## ~={orange}Food processing and beverage manufacturing - Meat Processing=~
+
+### Processes
+
+### Technology Advancements
+
