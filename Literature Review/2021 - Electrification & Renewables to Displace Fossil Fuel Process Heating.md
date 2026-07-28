@@ -43,6 +43,6 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 	- Gibbsite starts dehydrating around $220-350\degree C$, bohemite ranges from $250-450\degree C$, and diaspore between $460-560 \degree C$
 
 ![[Screenshot 2026-07-28 102328.png|367]]
-2. Bayer's process: Bauxite is digested with caustic soda 
+2. Bayer's process: Bauxite is digested with caustic soda, forming aluminium hydroxide at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemi
 
 ![[Screenshot 2026-07-28 102656.png|438]]
