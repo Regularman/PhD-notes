@@ -194,7 +194,7 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 | Waste heat recovery | Rectification of steam leaks, using boiler condensate return heat, maintenance of steam traps, and pipe insulation |
 ## ~={orange}Food processing and beverage manufacturing - Meat Processing=~
 
-Across the entire food and beverage sector, energy consumption for process heating was $119 \frac{PJ}{year}$.
+Across the entire food and beverage sector, energy consumption for process heating was $119 \frac{PJ}{year}$. Waste heat from the exhausted steam is recovere
 ### Processes
 
 **Energy for process heating:** 
