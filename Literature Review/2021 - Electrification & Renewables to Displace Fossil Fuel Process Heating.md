@@ -235,6 +235,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 ### Processes
 
 It should be noted that the addition of material is possible at various stage of the beer production process to give unique flavor profiles to different beers.
+- Fermentation temperature are different based upon flavor profile
 
 **Energy for process heating:**
 
