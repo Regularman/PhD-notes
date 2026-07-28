@@ -60,5 +60,14 @@ Waste heat is produced from
 - Precipitation
 - Flash cooling of digestion residual from $180\degree C$ to $100-105\degree C$ for clarification
 
+### Technology advancements
+
+| Technology                     | Use case                                                                     |
+| ------------------------------ | ---------------------------------------------------------------------------- |
+| Mechanical Vapor Recompression | Recycling of steam waste heat through heat exchange and recompression cycle. |
+| He                             |                                                                              |
+|                                |                                                                              |
+|                                |                                                                              |
+
 
 
