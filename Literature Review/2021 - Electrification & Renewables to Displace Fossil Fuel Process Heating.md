@@ -121,7 +121,7 @@ Waste heat can be produced from
 - Pulp bleaching (if white product is desired) ($30-90 \degree C$) - LP Steam $2.3-3.2 \frac{GJ}{t}$
 - Evaporation ($100-110\degree C$) - LP Steam $3-4.3 \frac{GJ}{t}$
 - Pulp drying ($40-55\degree C$) - LP Steam $2.5-3.5 \frac{GJ}{t}$
-- Lime kiln ($340-1200 \degree C$) 
+- Lime kiln ($340-1200 \degree C$) - supplied by natural gas ($1.0-1.5 \frac{GJ}{t}$) in rotary kilns. This is important in
 
 ![[Screenshot 2026-07-28 131540.png]]
 
