@@ -161,7 +161,15 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 **Energy for process heating:** 
 
-**Emissions:** Dairy manufacturing has a lot of emissions from tran
+**Emissions:** 
+- Dairy manufacturing has a lot of emissions from transportation.
+
+| Process        | Input | Temperature        | Purpose | Share of energy and GHG |
+| -------------- | ----- | ------------------ | ------- | ----------------------- |
+| Pasteurisation |       | $80-120 \degree C$ |         |                         |
+|                |       |                    |         |                         |
+|                |       |                    |         |                         |
+
 ### Technology Advancement
 
 - `Renewable energy options for Industrial Process Heat. 2019. ARENA`
