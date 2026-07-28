@@ -169,10 +169,10 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 | Process                                              | Input    | Temperature        | Purpose | Share of energy and GHG |
 | ---------------------------------------------------- | -------- | ------------------ | ------- | ----------------------- |
-| Pasteurisation                                       | MP Steam | $80-120 \degree C$ |         | $                       |
-| Pre-evaporation                                      |          | $65-75\degree C$   |         |                         |
-| Spray drying and fluidised  bed dryers               |          | $35-200 \degree C$ |         |                         |
-| Cleaning in place                                    |          | $60-65 \degree C$  |         |                         |
+| Pasteurisation                                       | MP Steam | $80-120 \degree C$ |         | $0.9-1.4 \frac{GJ}{t}$  |
+| Pre-evaporation                                      |          | $65-75\degree C$   |         | $0.4-0.6 \frac{GJ}{t}$  |
+| Spray drying and fluidised  bed dryers               |          | $35-200 \degree C$ |         | $0.2-0.3 \frac{GJ}{t}$  |
+| Cleaning in place                                    |          | $60-65 \degree C$  |         | $0.3-0.5 \frac{GJ}{t}$  |
 | Value adding process (Cheese, butter, yoghurt, milk) |          | $70-110\degree C$  |         |                         |
 ![[Screenshot 2026-07-28 140708.png]]
 ### Technology Advancement
