@@ -114,7 +114,7 @@ Waste heat can be produced from
 | Pulping (kraft process)      | The production of concentrated black liquor can be used to provide heat |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                                                                                            |
 | Pulping (mechanical process) | Electricity                                                             |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                            |
 | Pulping (semi-chemical)      | Reduced thermal requirements compared to both process                   |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in waste streams |
-| Paper making -               |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
+| Paper making -               | Mostly supply heat from na                                              |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
 
 #### Kraft process (Chemical pulping)
 
@@ -138,7 +138,7 @@ Waste heat can be recovered from
 
 - Stock preparation ($40-100 \degree C$) - LP Steam - $0.7-0.8 \frac{GJ}{t}$
 - Drying ($70-90\degree C$) - LP Steam - $0.3-0.4 \frac{GJ}{t}$
-- Press ($40-50\degree C$) - LP Steam - $0.3-0.4 \frac{GJ}{t}$
+- Press ($40-50\degree C$) - LP Steam - $2.8-3.8 \frac{GJ}{t}$
 
 ![[Screenshot 2026-07-28 134723.png]]
 ### Technology Advancements
