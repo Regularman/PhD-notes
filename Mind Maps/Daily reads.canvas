@@ -45,7 +45,7 @@
 		{"id":"a4fa06de368f1cd3","type":"text","text":"## ~={cyan}*E-boilers*=~","x":-2542,"y":-1732,"width":250,"height":50,"color":"5"},
 		{"id":"c24134425b33e072","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-2948,"y":-1307,"width":272,"height":400},
 		{"id":"31b3267134aabedf","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 115146.png","x":-2662,"y":-1307,"width":334,"height":400},
-		{"id":"94a682f6a3774f78","type":"text","text":"## *~={cyan}Heat Pumps (Air sourced or high temperature)=~*","x":-2250,"y":-1777,"width":250,"height":140,"color":"5"},
+		{"id":"94a682f6a3774f78","type":"text","text":"## *~={cyan}Heat Pumps (Air sourced or high temperature)=~*","x":-2250,"y":-1777,"width":250,"height":117,"color":"5"},
 		{"id":"d3782fa7f5495de0","type":"text","text":"# *~={cyan}Works on new technologies=~*","x":-2142,"y":-2133,"width":250,"height":79,"color":"5"},
 		{"id":"9ad3676a110b0221","type":"text","text":"## *~={cyan}Hydrogen=~*","x":-1985,"y":-1807,"width":250,"height":60,"color":"5"},
 		{"id":"4acc477ba6832d0f","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-1599,"y":-1807,"width":331,"height":80,"color":"5"},
@@ -55,7 +55,7 @@
 		{"id":"e6a65720d69668c9","type":"text","text":"# AGC Controls\n\nAGC uses a PI controller to estimate the MW imbalance for a given frequency deviation. The proportional component converts the frequency error into an immediate MW response. While the Integral component accumulates that response over time. The AGC then combines, smooths, and filters this signal through dead bands, range limits to allocate adjustments to Regulation FCAS-enabled units.\n\n## The problem\n\nWhen many generators and batteries are operating under the MPFR, frequency may be less sensitive to dispatch error due to inertia. Therefore, the AGC may underuse the Regulation FCAS units.\n- Returning the AGC to respond directly to the underlying dispatch error could allow AGC regulation FCAS to correct error faster, reduce primary response, and increase FPP settlements for FCAS-enabled units.\n- We can do this by relying more on 4s measurements to estimate system error (the maximum and minimum RCR and Suage in the 75 4s measurements of a dispatch window), rather than using the FM.","x":1554,"y":24,"width":426,"height":256,"color":"1"},
 		{"id":"16f4698214309e4b","type":"text","text":"# ~={cyan}Aluminium Production=~","x":-1899,"y":-2359,"width":250,"height":72,"color":"5"},
 		{"id":"bd0bad5c2421aebc","type":"text","text":"# Circulating fluidised gas bed\n\nReplaces rotary kilns for the calcination process that occurs at $~1000\\degree C$.\n- Calcination is just heating solid materials to high temperatures without melting it to cause phase transitions or chemical decompositions.\n\n## Rotary kilns\n\nThey slowly rotate to facilitate uniform heating and material mixing\n\n## Fluidised bed calciner\n\nSuspend fine particles with an upward flow of heated gas, resulting in highly uniform temperature and reaction efficiency. Also effectively captures waste heat to the improve energy efficiency.","x":-1790,"y":-2737,"width":450,"height":177,"color":"5"},
-		{"id":"43f199c6319db60e","type":"text","text":"# Material Vapour Recompression (MVR)\n\nCaptures the latent heat within vapour mixtures ","x":-2036,"y":-1564,"width":376,"height":424,"color":"5"}
+		{"id":"5ad902ae7a191f4c","x":-1853,"y":-1483,"width":250,"height":60,"type":"text","text":"# Mechanical Vapor Recompression"}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
@@ -109,6 +109,6 @@
 		{"id":"77fe442579ea4040","fromNode":"4d5fc6d1ccbd1ca5","fromSide":"right","toNode":"e6a65720d69668c9","toSide":"left"},
 		{"id":"40f1f35115740c3a","fromNode":"d3782fa7f5495de0","fromSide":"top","toNode":"16f4698214309e4b","toSide":"bottom"},
 		{"id":"ee0afd55efe3182c","fromNode":"16f4698214309e4b","fromSide":"top","toNode":"bd0bad5c2421aebc","toSide":"bottom"},
-		{"id":"3d453f8baf5bdcf7","fromNode":"94a682f6a3774f78","fromSide":"bottom","toNode":"43f199c6319db60e","toSide":"top"}
+		{"id":"aa9b66c65580a201","fromNode":"94a682f6a3774f78","fromSide":"bottom","toNode":"5ad902ae7a191f4c","toSide":"top"}
 	]
 }
