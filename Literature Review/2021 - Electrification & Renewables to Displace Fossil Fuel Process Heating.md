@@ -197,7 +197,7 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 Across the entire food and beverage sector, energy consumption for process heating was $119 \frac{PJ}{year}$. 
 ### Processes
 
-**Energy for process heating:** 
+**Energy for process heating:** Each typical red meat plant uses $3.3 \frac{GJ}{tHSCW}$. However, the exact consumption depends on the type of red meat being used.
 - Primarily uses steam to provide the hot water ($82 \degree C$) or warm water ($43\degree C$) that is needed for cleaning and sterilisation
 - Freezing occurs at $-40\degree C$ and provides opportunities for waste heat recovery
 **Emissions:** 
@@ -210,7 +210,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 | Paunch processing and offal washing |             | $43-82\degree C$   |                                                                                            |                         |
 | Blood processing                    |             | $110-130\degree C$ |                                                                                            | $0.9 \frac{GJ}{tHSCW}$  |
 | Rendering                           |             | $115-145\degree C$ | Done for 40-90 minutes per batch. Separate animal product into fat/oil, protein, and water | $1.7 \frac{GJ}{tHSCW}$  |
-| Chilling                            | Electricity | $-4 \dergee C$     |                                                                                            |                         |
+| Chilling                            | Electricity | $-4 \degree C$     |                                                                                            |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
