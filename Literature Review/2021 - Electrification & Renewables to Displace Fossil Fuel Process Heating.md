@@ -198,9 +198,11 @@ Across the entire food and beverage sector, energy consumption for process heati
 ### Processes
 
 **Energy for process heating:** Each typical red meat plant uses $3.3 \frac{GJ}{tHSCW}$. However, the exact consumption depends on the type of red meat being used.
-- Primarily uses steam to provide the hot water ($82 \degree C$) or warm water ($43\degree C$) that is needed for cleaning and sterilisation.
+- Primarily uses steam to provide the hot water ($82 \degree C$) or warm water ($43\degree C$) that is needed for cleaning and sterilisation
 - Rendering is the most energy intensive process
 - Freezing occurs at $-40\degree C$ and provides opportunities for waste heat recovery
+- More than $65\%$ of electricity consumption comes from refrigeration to around $-40\degree C$.
+- $7.9 \frac{kL}{tHSCW}$ required for the meat 
 **Emissions:** 
 
 
