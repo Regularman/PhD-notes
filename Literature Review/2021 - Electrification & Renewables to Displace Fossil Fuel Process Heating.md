@@ -194,7 +194,20 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 | Waste heat recovery | Rectification of steam leaks, using boiler condensate return heat, maintenance of steam traps, and pipe insulation |
 ## ~={orange}Food processing and beverage manufacturing - Meat Processing=~
 
+Across the entire food and beverage sector, energy consumption for process heating was $119 \frac{PJ}{year}$.
 ### Processes
+
+**Energy for process heating:** 
+- Primarily uses natural gas for heating
+- $0.53-1.5 \frac{GJ}{t}$ per $kL$ of raw milk is needed to make various dairy products. This causes 141 kg of $CO_2$ emissions
+	- $8.3 \frac{GJ}{t}$ for milk powder, although 5.3 is the average for a modern factory
+	- $1.3 \frac{GJ}{t}$ for cheese
+	- $1.2 \frac{GJ}{t}$ for butter
+	- $0.7 \frac{GJ}{t}$ for yogurt
+	- $0.2 \frac{GJ}{t}$ for milk
+- $84\%$ of energy is used for heating in dairy Australia
+**Emissions:** 
+- Dairy manufacturing has a lot of emissions from transportation.
 
 | Process                             | Input | Temperature | Purpose | Share of energy and GHG |
 | ----------------------------------- | ----- | ----------- | ------- | ----------------------- |
