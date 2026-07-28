@@ -30,10 +30,10 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 - 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process                    | Input                   | Temperature                                                             | Purpose                                                                                                                                                                                                                                                                             | Share of energy and GHG                  |
-| -------------------------- | ----------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Refining (Bayer's process) | Bauxite                 | See below. Considerable heat is required for digestion and evaporation. | Refining low temperature bauxite into alumina ($Al_2O_3$)                                                                                                                                                                                                                           | $70\%$ emissions. Requires 11-12 GJ for  |
-| Hall-Heroult process       | Alumina and electricity |                                                                         | Smelt alumina into aluminium. Alumina is placed into an electrolytic solution with a cathode and anode and is reduced to form molten aluminium at the bottom of the cell when electricity is placed into the process. Carbon combines with the oxygen to form $CO_2$ at the cathode |                                          |
+| Process                    | Input                   | Temperature                                                             | Purpose                                                                                                                                                                                                                                                                             | Share of energy and GHG                                   |
+| -------------------------- | ----------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Refining (Bayer's process) | Bauxite                 | See below. Considerable heat is required for digestion and evaporation. | Refining low temperature bauxite into alumina ($Al_2O_3$)                                                                                                                                                                                                                           | $70\%$ emissions. Requires 11-12 GJ/t for heat production |
+| Hall-Heroult process       | Alumina and electricity |                                                                         | Smelt alumina into aluminium. Alumina is placed into an electrolytic solution with a cathode and anode and is reduced to form molten aluminium at the bottom of the cell when electricity is placed into the process. Carbon combines with the oxygen to form $CO_2$ at the cathode | 14-15MWh/t for Hall                                       |
 #### Bayer's Process
 
 1. Preprocessing: Depending on the aluminium bearing mineral, there are different dehydration temperatures
@@ -45,12 +45,13 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 	1. Bauxite is hydrothermally digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud.
 	2. Bauxite residue is separated from aluminium containing liquid through clarification at $100-105 \degree C$ 
 	3. $Al(OH)_3$ is precipitated out of solution at $60-80 \degree C$. Evaporation occurs at $70-100\degree C$ 
-	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion.
+	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion. Circulating 
 $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 ![[Screenshot 2026-07-28 102656.png|438]]
 
 Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.5-6 \frac{GJ}{t- output}$), evaporation $2.6-2.9 \frac{GJ}{t- output}$, precipitation $~0.2~ \frac{GJ}{t- output}$, and residual washing and storage of red mud $~0.7 \frac{GJ}{t- output}$. This steam usage is ~$50\%$ of the total energy consumption in the Bayer's process.
+- Current steam is produced from natural gas or coal
 
 Waste heat is produced from
 - Calcination ($120\degree C$ waste water and $150-170 \degree C$ exhaust gas)
