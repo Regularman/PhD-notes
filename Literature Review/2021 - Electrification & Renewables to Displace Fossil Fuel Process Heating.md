@@ -108,10 +108,11 @@ Waste heat can be produced from
 
 **Carbon emissions:** 
 
-| Process                 | Input | Temperature | Purpose                                                                       | Share of energy and GHG |
-| ----------------------- | ----- | ----------- | ----------------------------------------------------------------------------- | ----------------------- |
-| Pulping (kraft process) |       |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                         |
-| Pulping (mechanica)     |       |             | Turning into thin sheets. This can be integrated with pulping or separate     |                         |
-| Paper making            |       |             | Turning into thin sheets. This can be integrated with pulping or separate     |                         |
+| Process                      | Input       | Temperature | Purpose                                                                       | Share of energy and GHG |
+| ---------------------------- | ----------- | ----------- | ----------------------------------------------------------------------------- | ----------------------- |
+| Pulping (kraft process)      |             |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                         |
+| Pulping (mechanical process) | electricity |             | Produces lower quality pulp used for newspapers and low cost products         |                         |
+| Pulping (semi-chemical)      |             |             |                                                                               |                         |
+| Paper making                 |             |             | Turning into thin sheets. This can be integrated with pulping or separate     |                         |
 
 ### Technology Advancements
