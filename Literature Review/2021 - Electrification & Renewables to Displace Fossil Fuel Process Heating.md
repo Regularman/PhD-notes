@@ -66,7 +66,6 @@ Waste heat is produced from
 | Heat pumps (electric compression or absorption) | Would be interesting to understand the difference between MVR and electric pumps (heat pumps are probably for lower temperature due to low COP with high temperature)                                                                                     |
 | Fluidised gas bed                               | Replaces rotary kiln in calcination process for internal waste heat recovery. Also reduces energy usage per ton due to direct contact between the fluidized particles and the material. However, cannot be done for finer particles due to agglomeration. |
 | Organic Rankine Cycle                           | Potential to turn heat into electricity for the Hall-Hercoult process?                                                                                                                                                                                    |
-
 ## ~={orange}Wood and wood processing =~
 
  Large biomass resources, 
@@ -79,11 +78,13 @@ Waste heat is produced from
 - Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use for turning logs into value added products. 
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process             | Input                                                                    | Temperature                                                                                               | Purpose                                      | Share of energy and GHG     |
-| ------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
-| Timber Drying       | Sometimes air drying is used with the aid of minimal low-pressure steam. | up to $150 \degree C$. Air drying occurs at $20-38 \degree C$ and kiln drying occurs at $40-75 \degree C$ | Dried lumber should have $8-12 \%$ moisture. | $\approx 10\frac{PJ}{year}$ |
-| Debarking           | Electricity                                                              |                                                                                                           |                                              |                             |
-| Sawing and trimming | Electricity                                                              |                                                                                                           |                                              |                             |
+| Process             | Input                                                                                            | Temperature                                                                                               | Purpose                                      | Share of energy and GHG     |
+| ------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
+| Timber Drying       | Sometimes air drying is used with the aid of minimal low-pressure steam. (Steam temperature of ) | up to $150 \degree C$. Air drying occurs at $20-38 \degree C$ and kiln drying occurs at $40-75 \degree C$ | Dried lumber should have $8-12 \%$ moisture. | $\approx 10\frac{PJ}{year}$ |
+| Debarking           | Electricity                                                                                      |                                                                                                           |                                              |                             |
+| Sawing and trimming | Electricity                                                                                      |                                                                                                           |                                              |                             |
+#### Waste heat
 
+Waste heat can be produced from
 
 ### Technology advancements
