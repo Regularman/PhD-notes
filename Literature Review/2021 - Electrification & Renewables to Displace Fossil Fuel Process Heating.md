@@ -138,7 +138,8 @@ Waste heat can be recovered from
 
 - Stock preparation ($40-100 \degree C$)
 - Drying ($70-90\degree C$)
-- Press (40-50\d)
+- Press ($40-50\degree C$)
+![[Screenshot 2026-07-28 134723.png]]
 ### Technology Advancements
 
 Look at prospective scenarios for the pulp and paper industry.
