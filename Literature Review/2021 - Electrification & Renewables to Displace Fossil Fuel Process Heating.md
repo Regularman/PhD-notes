@@ -99,3 +99,8 @@ Waste heat can be produced from
 | Dehumidification of the kiln | Condensing water moisture on a cooling coil dehumidifies the kiln and increases evaporation and drying rate of the lumber                                                                                                                      |
 | Wood waste gasification      | CHP production from wood waste                                                                                                                                                                                                                 |
 | Heat pumps                   | Leverage waste heat from the drying process                                                                                                                                                                                                    |
+## ~={orange}Pulp and paper industry=~
+
+### Processes
+
+### Technology Advancements
