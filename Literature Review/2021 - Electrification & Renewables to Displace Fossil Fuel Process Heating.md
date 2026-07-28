@@ -203,19 +203,20 @@ Across the entire food and beverage sector, energy consumption for process heati
 **Emissions:** 
 
 
-| Process                             | Input | Temperature        | Purpose | Share of energy and GHG |
-| ----------------------------------- | ----- | ------------------ | ------- | ----------------------- |
-| Slaughter and evisceration          |       | $43-82\degree C$   |         |                         |
-| Hide processing                     |       | $43-82\degree C$   |         |                         |
-| Paunch processing and offal washing |       | $43-82\degree C$   |         |                         |
-| Blood processing                    |       | $110-130\degree C$ |         |                         |
-| Rendering                           |       | $115-145\degree C$ |         |                         |
+| Process                             | Input | Temperature        | Purpose                                                                                    | Share of energy and GHG |
+| ----------------------------------- | ----- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------- |
+| Slaughter and evisceration          |       | $43-82\degree C$   |                                                                                            |                         |
+| Hide processing                     |       | $43-82\degree C$   |                                                                                            |                         |
+| Paunch processing and offal washing |       | $43-82\degree C$   |                                                                                            |                         |
+| Blood processing                    |       | $110-130\degree C$ |                                                                                            |                         |
+| Rendering                           |       | $115-145\degree C$ | Done for 40-90 minutes per batch. Separate animal product into fat/oil, protein, and water |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
-- Waste heat from the exhausted steam is recovered for generating the hot water and supply $60/70\%$ oft  the total energy needs for the plant's hot and warm water supply
+- Waste heat from the exhausted steam is recovered for generating the hot water and supply $60/70\%$ of the total energy needs for the plant's hot and warm water supply
 ### Technology Advancements
 
-| Technology          | Use case                                                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Technology | Use case |
+| ---------- | -------- |
+|            |          |
 
