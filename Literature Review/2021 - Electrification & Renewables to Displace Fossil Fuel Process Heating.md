@@ -45,6 +45,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 ![[Screenshot 2026-07-28 102328.png|367]]
 2. Bayer's process: 
 	1. Bauxite is digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud
-	2. Bauxite residue is separated from aluminium containing liquid through 
+	2. Bauxite residue is separated from aluminium containing liquid through clarification
+	3. $Al(OH)_3$ is precipitated out of solution at $50-70 \degree C$  
 
 ![[Screenshot 2026-07-28 102656.png|438]]
