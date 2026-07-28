@@ -236,7 +236,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 It should be noted that the addition of material is possible at various stage of the beer production process to give unique flavor profiles to different beers.
 - Fermentation temperature are different based upon flavor profile. Temperature inversely proportional to fermentation time
-- Low/no alcohol beer uses additional thermal separation process
+- Low/no alcohol beer uses additional thermal separation process, or alternatively through reverse osmosis.
 
 **Energy for process heating:**
 
