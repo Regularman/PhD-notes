@@ -48,3 +48,5 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 ![[Screenshot 2026-07-28 102656.png|438]]
+
+Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.5-6 \frac{GJ}{t$ aluminium), evaporation 
