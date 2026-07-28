@@ -33,7 +33,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 | Process                    | Input                   | Temperature | Purpose                                                   | Share of energy and GHG |
 | -------------------------- | ----------------------- | ----------- | --------------------------------------------------------- | ----------------------- |
 | Refining (Bayer's process) | Bauxite                 | See below   | Refining low temperature bauxite into alumina ($Al_2O_3$) | $70\%$ emissions        |
-| Hall-Heroult process       | Alumina and electricity |             | Smelt th                                                  |                         |
+| Hall-Heroult process       | Alumina and electricity |             | Smelt alumina into aluminium                              |                         |
 #### Bayer's Process
 
 1. Preprocessing: Depending on the aluminium bearing mineral, there are different dehydration temperatures
