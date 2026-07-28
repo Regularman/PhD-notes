@@ -162,6 +162,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 **Energy for process heating:** 
 - Primarily uses natural gas for heating
 - $0.53-1.5 \frac{GJ}{t}$ per $kL$ of raw milk is needed to make various dairy products. This causes 141 kg of $CO_2$ emissions
+	- $8.3 \frac{GJ}{t}$ for milk powder, although 5.3 is the average for a modern factory
 	- 
 - $84\%$ of energy is used for heating in dairy Australia
 **Emissions:** 
@@ -171,7 +172,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 | ---------------------------------------------------- | -------- | ------------------ | ------- | ----------------------- |
 | Pasteurisation                                       | MP Steam | $80-120 \degree C$ |         | $0.9-1.4 \frac{GJ}{t}$  |
 | Pre-evaporation                                      |          | $65-75\degree C$   |         | $0.4-0.6 \frac{GJ}{t}$  |
-| Spray drying and fluidised  bed dryers               |          | $35-200 \degree C$ |         | $0.2-0.3 \frac{GJ}{t}$  |
+| Spray drying and fluidised  bed dryers               |          | $35-200 \degree C$ |         | $3.7-5.8 \frac{GJ}{t}$  |
 | Cleaning in place                                    |          | $60-65 \degree C$  |         | $0.3-0.5 \frac{GJ}{t}$  |
 | Value adding process (Cheese, butter, yoghurt, milk) |          | $70-110\degree C$  |         |                         |
 ![[Screenshot 2026-07-28 140708.png]]
