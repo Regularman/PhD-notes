@@ -231,9 +231,11 @@ Waste heat can be recovered from
 
 ### ~={orange}Food processing and beverage manufacturing - Beer Production=~
 
+Across the entire food and beverage sector, energy consumption for process heating was $119 \frac{PJ}{year}$. 
 ### Processes
 
-It should be noted that the addition of material is possible at various stage of the beer 
+It should be noted that the addition of material is possible at various stage of the beer production process to give unique flavor profiles to different beers.
+
 **Energy for process heating:**
 
 **Emissions:** 
