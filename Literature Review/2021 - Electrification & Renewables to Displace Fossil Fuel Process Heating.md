@@ -161,7 +161,8 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 **Energy for process heating:** 
 - Primarily uses natural gas for heating
-- 
+- $0.53-1.5 \frac{GJ}{t}$ per $kL$ of raw milk is needed to make various dairy products. This causes 141 kg of $CO_2 emissions
+- $84\%$ of energy is used for heating in dairy Australia
 **Emissions:** 
 - Dairy manufacturing has a lot of emissions from transportation.
 
