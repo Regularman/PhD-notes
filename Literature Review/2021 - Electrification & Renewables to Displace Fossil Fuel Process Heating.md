@@ -92,6 +92,7 @@ Waste heat can be produced from
 ![[Screenshot 2026-07-28 123736.png]]
 ### Technology advancements
 
-| Technology  | Use case |
-| ----------- | -------- |
-| Vacuum kiln |          |
+| Technology           | Use case                                                                                                                          |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Vacuum kiln          | conventional kilns loses energy up to 65% which can be reduced to 30% using vacuum kilns. These kilns are specialised drying cham |
+| Air to air exchnager |                                                                                                                                   |
