@@ -199,6 +199,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 **Energy for process heating:** 
 - Primarily uses steam to provide the hot water ($82 \degree C$) or warm water ($43\degree C$) that is needed for cleaning and sterilisation
+- Freezing occurs at $-40\degree C$ and provides opportunities for waste heat recovery
 **Emissions:** 
 
 
