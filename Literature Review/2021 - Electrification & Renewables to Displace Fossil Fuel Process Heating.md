@@ -183,4 +183,10 @@ Across the entire food and beverage sector, energy consumption for process heati
 
 - `Renewable energy options for Industrial Process Heat. 2019. ARENA`
 - `National Pollutant Inventory` includes data on many food processing plants in Australia, but does not include smaller sites.
-- `Eco-effi`
+- `Eco-efficiency for dair processing industry. 2019 `
+
+| Technology           | Use case                 |
+| -------------------- | ------------------------ |
+| MVR                  | Used in milk evaporation |
+| Reverse Osmosis for  |                          |
+
