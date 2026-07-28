@@ -198,24 +198,17 @@ Across the entire food and beverage sector, energy consumption for process heati
 ### Processes
 
 **Energy for process heating:** 
-- Primarily uses natural gas for heating
-- $0.53-1.5 \frac{GJ}{t}$ per $kL$ of raw milk is needed to make various dairy products. This causes 141 kg of $CO_2$ emissions
-	- $8.3 \frac{GJ}{t}$ for milk powder, although 5.3 is the average for a modern factory
-	- $1.3 \frac{GJ}{t}$ for cheese
-	- $1.2 \frac{GJ}{t}$ for butter
-	- $0.7 \frac{GJ}{t}$ for yogurt
-	- $0.2 \frac{GJ}{t}$ for milk
-- $84\%$ of energy is used for heating in dairy Australia
-**Emissions:** 
-- Dairy manufacturing has a lot of emissions from transportation.
 
-| Process                             | Input | Temperature | Purpose | Share of energy and GHG |
-| ----------------------------------- | ----- | ----------- | ------- | ----------------------- |
-| Slaughter and evisceration          |       |             |         |                         |
-| Hide processing                     |       |             |         |                         |
-| Paunch processing and offal washing |       |             |         |                         |
-| Blood processing                    |       |             |         |                         |
-| Rendering                           |       |             |         |                         |
+**Emissions:** 
+
+
+| Process                             | Input | Temperature        | Purpose | Share of energy and GHG |
+| ----------------------------------- | ----- | ------------------ | ------- | ----------------------- |
+| Slaughter and evisceration          |       | $43-82\degree C$   |         |                         |
+| Hide processing                     |       | $43-82\degree C$   |         |                         |
+| Paunch processing and offal washing |       | $43-82\degree C$   |         |                         |
+| Blood processing                    |       | $110-130\degree C$ |         |                         |
+| Rendering                           |       | $115-145\degree C$ |         |                         |
 
 ### Technology Advancements
 
