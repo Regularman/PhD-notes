@@ -134,6 +134,7 @@ Waste heat can be recovered from
 - Waste heat from lime kiln that runs at $340-1200 \degree C$
 ### Technology Advancements
 
-| Technology       | Use case                                                                                                                                                                          |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Recovery boilers Instead of using conventional gas fired boilers to produce thermal energy, it uses black liquor, which is a byproduct of chemical pulp manufacturing, to produce thermal energy. g  |
+| Technology       | Use case                                                                                                                                                                                                                          |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Recovery boilers | Instead of using conventional gas fired boilers to produce thermal energy, it uses black liquor, which is a byproduct of chemical pulp manufacturing, to produce thermal energy. Black liquor is sprayed into a combustion camber |
+|                  |                                                                                                                                                                                                                                   |
