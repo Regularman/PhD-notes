@@ -62,12 +62,12 @@ Waste heat is produced from
 
 ### Technology advancements
 
-| Technology                     | Use case                                                                     |
-| ------------------------------ | ---------------------------------------------------------------------------- |
-| Mechanical Vapor Recompression | Recycling of steam waste heat through heat exchange and recompression cycle. |
-| He                             |                                                                              |
-|                                |                                                                              |
-|                                |                                                                              |
+| Technology                                      | Use case                                                                                                                                                              |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mechanical Vapor Recompression                  | Recycling of steam waste heat through heat exchange and recompression cycle.                                                                                          |
+| Heat pumps (electric compression or absorption) | Would be interesting to understand the difference between MVR and electric pumps (heat pumps are probably for lower temperature due to low COP with high temperature) |
+|                                                 |                                                                                                                                                                       |
+|                                                 |                                                                                                                                                                       |
 
 
 
