@@ -164,11 +164,13 @@ Across the entire food and beverage sector, energy consumption for process heati
 **Emissions:** 
 - Dairy manufacturing has a lot of emissions from transportation.
 
-| Process        | Input | Temperature        | Purpose | Share of energy and GHG |
-| -------------- | ----- | ------------------ | ------- | ----------------------- |
-| Pasteurisation |       | $80-120 \degree C$ |         |                         |
-|                |       |                    |         |                         |
-|                |       |                    |         |                         |
+| Process                                | Input | Temperature        | Purpose | Share of energy and GHG |
+| -------------------------------------- | ----- | ------------------ | ------- | ----------------------- |
+| Pasteurisation                         |       | $80-120 \degree C$ |         |                         |
+| Pre-evaporation                        |       | $65-75\degree C$   |         |                         |
+| Spray drying and fluidised  bed dryers |       | $35-200 \degree C$ |         |                         |
+| Cleaning in place                      |       | $60-65 \degree C$  |         |                         |
+|                                        |       |                    |         |                         |
 
 ### Technology Advancement
 
