@@ -78,9 +78,11 @@ Waste heat is produced from
 - Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use for turning logs into value added products. 
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process       | Input | Temperature           | Purpose    | Share of energy and GHG     |
-| ------------- | ----- | --------------------- | ---------- | --------------------------- |
-| Timber Drying |       | up to $150 \degree C$ | Dried the  | $\approx 10\frac{PJ}{year}$ |
+| Process       | Input       | Temperature                                                                                               | Purpose                                      | Share of energy and GHG     |
+| ------------- | ----------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
+| Timber Drying |             | up to $150 \degree C$. Air drying occurs at $20-38 \degree C$ and kiln drying occurs at $40-75 \degree C$ | Dried lumber should have $8-12 \%$ moisture. | $\approx 10\frac{PJ}{year}$ |
+| Debarking     | Electricity |                                                                                                           |                                              |                             |
+|               |             |                                                                                                           |                                              |                             |
 
 
 ### Technology advancements
