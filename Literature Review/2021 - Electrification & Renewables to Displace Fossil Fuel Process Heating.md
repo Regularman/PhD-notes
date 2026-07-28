@@ -180,7 +180,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 | Value adding process (Cheese, butter, yoghurt, milk) |          | $70-110\degree C$  |         |                         |
 ![[Screenshot 2026-07-28 140708.png]]
 
-A note on spray drying, which is a method of forming powder form from a liquid. The milk
+A note on spray drying, which is a method of forming powder form from a liquid. The milk is sprayed and atomised into a chamber where it is rapidly evaporated to leave behind the powdered product.
 ### Technology Advancement
 
 - `Renewable energy options for Industrial Process Heat. 2019. ARENA`
@@ -192,4 +192,4 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 | MVR                 | Used in milk evaporation                                                                                           |
 | Reverse Osmosis     | Used for concentration of the milk product rather than through conventional evaporation                            |
 | Waste heat recovery | Rectification of steam leaks, using boiler condensate return heat, maintenance of steam traps, and pipe insulation |
-
+## Food processing and beverage manufacturing - Meat Processing
