@@ -121,7 +121,7 @@ Waste heat can be produced from
 - Pulp bleaching (if white product is desired) ($30-90 \degree C$) - LP Steam $2.3-3.2 \frac{GJ}{t}$
 - Evaporation ($100-110\degree C$) - LP Steam $3-4.3 \frac{GJ}{t}$
 - Pulp drying ($40-55\degree C$) - LP Steam $2.5-3.5 \frac{GJ}{t}$
-- Lime kiln ($340-1200 \degree C$)
+- Lime kiln ($340-1200 \degree C$) 
 
 ![[Screenshot 2026-07-28 131540.png]]
 
@@ -129,5 +129,7 @@ Waste heat can be produced from
 
 Waste heat can be recovered from
 - Condensate in evaporator $50-60\degree C$
+- Hot moist air from direct contact evaporator
 - Waste water from digester and pulp washer
+- Waste heat from lime kiln that runs at $340-1200 \degree C$
 ### Technology Advancements
