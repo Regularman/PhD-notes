@@ -211,8 +211,8 @@ Across the entire food and beverage sector, energy consumption for process heati
 | ----------------------------------- | ----------- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------- |
 | Slaughter and evisceration          |             | $43-82\degree C$   | Separates into different components for processing                                         |                         |
 | Hide processing                     |             | $43-82\degree C$   | Production of leather                                                                      |                         |
-| Paunch processing and offal washing |             | $43-82\degree C$   |                                                                                            |                         |
-| Blood processing                    | MP Steam    | $110-130\degree C$ |                                                                                            | $0.9 \frac{GJ}{tHSCW}$  |
+| Paunch processing and offal washing |             | $43-82\degree C$   | Edible offal and pet food production                                                       |                         |
+| Blood processing                    | MP Steam    | $110-130\degree C$ | Blood producti production                                                                  | $0.9 \frac{GJ}{tHSCW}$  |
 | Rendering                           | MP Steam    | $115-145\degree C$ | Done for 40-90 minutes per batch. Separate animal product into fat/oil, protein, and water | $1.7 \frac{GJ}{tHSCW}$  |
 | Chilling                            | Electricity | $-4 \degree C$     |                                                                                            |                         |
 #### Waste Heat
@@ -242,9 +242,9 @@ It should be noted that the addition of material is possible at various stage of
 
 **Emissions:** 
 
-| Process | Input | Temperature | Purpose | Share of energy and GHG |
-| ------- | ----- | ----------- | ------- | ----------------------- |
-|         |       |             |         |                         |
+| Process       | Input | Temperature | Purpose | Share of energy and GHG |
+| ------------- | ----- | ----------- | ------- | ----------------------- |
+| Grain mashing |       | $45-        |         |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
