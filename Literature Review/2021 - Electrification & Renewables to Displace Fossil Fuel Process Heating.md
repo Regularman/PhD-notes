@@ -121,7 +121,7 @@ Waste heat can be produced from
 - Pulp bleaching (if white product is desired) ($30-90 \degree C$) - LP Steam $2.3-3.2 \frac{GJ}{t}$
 - Evaporation ($100-110\degree C$) - LP Steam $3-4.3 \frac{GJ}{t}$
 - Pulp drying ($40-55\degree C$) - LP Steam $2.5-3.5 \frac{GJ}{t}$
-- Lime kiln ($340-1200 \degree C$) - supplied by natural gas ($1.0-1.5 \frac{GJ}{t}$) in rotary kilns. This is important in
+- Lime kiln ($340-1200 \degree C$) - supplied by natural gas ($1.0-1.5 \frac{GJ}{t}$) in rotary kilns. This is important in regenerating quicklime from lime-mud to recycle chemicals used in the kraft pulping process
 
 ![[Screenshot 2026-07-28 131540.png]]
 
@@ -133,3 +133,7 @@ Waste heat can be recovered from
 - Waste water from digester and pulp washer
 - Waste heat from lime kiln that runs at $340-1200 \degree C$
 ### Technology Advancements
+
+| Technology                   | Use case                                                                                                                                                                                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vacuum kiln                  | conventional kilns loses energy up to 65% which can be reduced to 30% using vacuum kilns. These kilns are specialized drying chambers that lower atmospheric pressure to evaporate moisture from wood or materials at a much lower temperature |
