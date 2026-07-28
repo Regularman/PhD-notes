@@ -134,6 +134,6 @@ Waste heat can be recovered from
 - Waste heat from lime kiln that runs at $340-1200 \degree C$
 ### Technology Advancements
 
-| Technology                   | Use case                                                                                                                                                                                                                                       |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Vacuum kiln                  | conventional kilns loses energy up to 65% which can be reduced to 30% using vacuum kilns. These kilns are specialized drying chambers that lower atmospheric pressure to evaporate moisture from wood or materials at a much lower temperature |
+| Technology       | Use case          |
+| ---------------- | ----------------- |
+| Recovery boilers | Instead of using  |
