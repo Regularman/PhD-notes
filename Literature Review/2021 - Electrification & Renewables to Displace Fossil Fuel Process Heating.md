@@ -24,7 +24,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ### Work done
 
-Circulating steam at $150-170 \degree C
+Circulating steam at $150-170 \degree C$ causes losses of $0.77 \frac{GJ}{t}$ and cooling water circuit in the calciner could lose energy by $0.35 \frac{GJ}{t}$.
 
 ### Processes
 
