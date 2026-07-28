@@ -51,6 +51,7 @@ $$2Al(OH)_3+Heat\rightarrow Al_2O_3+3H_2O$$
 
 Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.5-6 \frac{GJ}{t- output}$), evaporation $2.6-2.9 \frac{GJ}{t- output}$, precipitation $~0.2~ \frac{GJ}{t- output}$, and residual washing and storage of red mud $~0.7 \frac{GJ}{t- output}$. This steam usage is ~$50\%$ of the total energy consumption in the Bayer's process.
 - Current steam is produced from natural gas or coal
+#### Waste heat
 
 Waste heat is produced from
 - Calcination ($120\degree C$ waste water and $150-170 \degree C$ exhaust gas)
@@ -78,11 +79,11 @@ Waste heat is produced from
 - Drying of lumber is a bottle neck, as it is time consuming and expensive. Thermal energy for drying consumes up to $70\%$ of the total energy use for turning logs into value added products. 
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process             | Input       | Temperature                                                                                               | Purpose                                      | Share of energy and GHG     |
-| ------------------- | ----------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
-| Timber Drying       |             | up to $150 \degree C$. Air drying occurs at $20-38 \degree C$ and kiln drying occurs at $40-75 \degree C$ | Dried lumber should have $8-12 \%$ moisture. | $\approx 10\frac{PJ}{year}$ |
-| Debarking           | Electricity |                                                                                                           |                                              |                             |
-| Sawing and trimming | Electricity |                                                                                                           |                                              |                             |
+| Process             | Input                                                                    | Temperature                                                                                               | Purpose                                      | Share of energy and GHG     |
+| ------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
+| Timber Drying       | Sometimes air drying is used with the aid of minimal low-pressure steam. | up to $150 \degree C$. Air drying occurs at $20-38 \degree C$ and kiln drying occurs at $40-75 \degree C$ | Dried lumber should have $8-12 \%$ moisture. | $\approx 10\frac{PJ}{year}$ |
+| Debarking           | Electricity                                                              |                                                                                                           |                                              |                             |
+| Sawing and trimming | Electricity                                                              |                                                                                                           |                                              |                             |
 
 
 ### Technology advancements
