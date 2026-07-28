@@ -66,7 +66,7 @@ Waste heat is produced from
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mechanical Vapor Recompression                  | Recycling of steam waste heat through heat exchange and recompression cycle.                                                                                          |
 | Heat pumps (electric compression or absorption) | Would be interesting to understand the difference between MVR and electric pumps (heat pumps are probably for lower temperature due to low COP with high temperature) |
-|                                                 |                                                                                                                                                                       |
+| Fluidised gas bed                               | Replaces rotary kiln in calcination process for internal waste heat recovery.                                                                                         |
 |                                                 |                                                                                                                                                                       |
 
 
