@@ -232,10 +232,16 @@ Waste heat can be recovered from
 ### ~={orange}Food processing and beverage manufacturing - Beer Production=~
 
 ### Processes
+**Energy for process heating:**
+
+**Emissions:** 
 
 | Process | Input | Temperature | Purpose | Share of energy and GHG |
 | ------- | ----- | ----------- | ------- | ----------------------- |
 |         |       |             |         |                         |
+#### Waste Heat
+
+Waste heat can be recovered from
 
 ### Technology Advancement
 
