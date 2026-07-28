@@ -204,7 +204,7 @@ Across the entire food and beverage sector, energy consumption for process heati
 - More than $65\%$ of electricity consumption comes from refrigeration to around $-40\degree C$.
 - $7.9 \frac{kL}{tHSCW}$ required for the meat processing process, 30-40% of which is turned into hot water and warm water.
 **Emissions:** 
-- 432 
+- $432 \frac{kg CO_2}{tHSCW}$, which culminates to $1.3 \frac{MtCO_2}{year}$
 
 
 | Process                             | Input       | Temperature        | Purpose                                                                                    | Share of energy and GHG |
