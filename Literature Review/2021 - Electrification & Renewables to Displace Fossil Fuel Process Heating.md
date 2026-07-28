@@ -196,5 +196,16 @@ A note on spray drying, which is a method of forming powder form from a liquid. 
 
 ### Processes
 
+| Process                             | Input | Temperature | Purpose | Share of energy and GHG |
+| ----------------------------------- | ----- | ----------- | ------- | ----------------------- |
+| Slaughter and evisceration          |       |             |         |                         |
+| Hide processing                     |       |             |         |                         |
+| Paunch processing and offal washing |       |             |         |                         |
+| Blood processing                    |       |             |         |                         |
+| Rendering                           |       |             |         |                         |
+
 ### Technology Advancements
+
+| Technology          | Use case                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
 
