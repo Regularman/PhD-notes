@@ -233,4 +233,11 @@ Waste heat can be recovered from
 
 ### Processes
 
-### Technology 
+| Process | Input | Temperature | Purpose | Share of energy and GHG |
+| ------- | ----- | ----------- | ------- | ----------------------- |
+|         |       |             |         |                         |
+
+### Technology Advancement
+
+| Technology                     | Use case                                                                                                                                  |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
