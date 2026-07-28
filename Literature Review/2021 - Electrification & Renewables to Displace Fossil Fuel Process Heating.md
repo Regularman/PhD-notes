@@ -30,9 +30,10 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 - 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
-| Process                    | Input | Temperature | Purpose                                         | Share of energy and GHG |
-| -------------------------- | ----- | ----------- | ----------------------------------------------- | ----------------------- |
-| Refining (Bayer's process) |       | See below   | Refining low temperature bauxite into aluminium | $70\%$ emissions        |
+| Process                    | Input                   | Temperature | Purpose                                                   | Share of energy and GHG |
+| -------------------------- | ----------------------- | ----------- | --------------------------------------------------------- | ----------------------- |
+| Refining (Bayer's process) | Bauxite                 | See below   | Refining low temperature bauxite into alumina ($Al_2O_3$) | $70\%$ emissions        |
+| Hall-Heroult process       | Alumina and electricity |             | Smelt th                                                  |                         |
 #### Bayer's Process
 
 1. Preprocessing: Depending on the aluminium bearing mineral, there are different dehydration temperatures
