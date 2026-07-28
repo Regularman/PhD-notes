@@ -22,14 +22,11 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 
 ## ~={orange}Alumina and non-ferrous metals=~
 
-### Work done
-
-Circulating steam at $150-170 \degree C$ causes losses of $0.77 \frac{GJ}{t}$ and cooling water circuit in the calciner could lose energy by $0.35 \frac{GJ}{t}$.
-
 ### Processes
 
 **Energy for process heating:** Uses $176 \frac{PJ}{year}$ for process heating, mainly supplied by natural gas and coal
 - 50% of heat is supplied at $< 250 \degree C$ and the rest at $>800\degree C$
+- Circulating steam at $150-170 \degree C$ causes losses of $0.77 \frac{GJ}{t}$ and cooling water circuit in the calciner could lose energy by $0.35 \frac{GJ}{t}$.
 **Carbon emissions:** $6$ aluminium refineries accounted for $2.8\%$ of Australian GHG emissions
 
 | Process                    | Input                   | Temperature                                                             | Purpose                                                                                                                                                                                                                                                                             | Share of energy and GHG                                   |
@@ -71,3 +68,6 @@ Waste heat is produced from
 
 ## ~={orange}Wood and wood processing =~
 
+### Processes
+
+### Technology advanc
