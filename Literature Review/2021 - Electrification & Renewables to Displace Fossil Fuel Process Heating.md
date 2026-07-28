@@ -185,8 +185,9 @@ Across the entire food and beverage sector, energy consumption for process heati
 - `National Pollutant Inventory` includes data on many food processing plants in Australia, but does not include smaller sites.
 - `Eco-efficiency for dair processing industry. 2019 `
 
-| Technology           | Use case                 |
-| -------------------- | ------------------------ |
-| MVR                  | Used in milk evaporation |
-| Reverse Osmosis for  |                          |
+| Technology          | Use case                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| MVR                 | Used in milk evaporation                                                                                           |
+| Reverse Osmosis     | Used for concentration of the milk product rather than through conventional evaporation                            |
+| Waste heat recovery | Rectification of steam leaks, using boiler condensate return heat, maintenance of steam traps, and pipe insulation |
 
