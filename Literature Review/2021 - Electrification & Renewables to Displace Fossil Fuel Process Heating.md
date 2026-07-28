@@ -37,3 +37,6 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 | Leaching                   |       |             |                                                 |                         |
 | Roasting                   |       |             |                                                 |                         |
 | Refining (Bayer's process) |       |             | Refining low temperature bauxite into aluminium | $70\%$ emissions        |
+#### Bayer's Process
+
+1. Preprocessing
