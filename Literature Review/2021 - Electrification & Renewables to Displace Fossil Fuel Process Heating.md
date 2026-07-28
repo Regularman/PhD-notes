@@ -105,17 +105,18 @@ Waste heat can be produced from
 
 **Energy for process heating:** Uses $21.2 \frac{PJ}{year}$ for process heating across 44 sites, mainly supplied by natural gas and wood waste
 - $4$ million $m^3$ of wood log used for domestic pulp and paper. Which is an eighth of the wood supplied in Australia $32$ million $m^3$
+- Paper making from pulp require s$4.5-6 \frac{GJ}{t}$ of dried paper, largely for dryi 
 
 **Carbon emissions:** 
 
-| Process                      | Input                                                                   | Temperature | Purpose                                                                       | Share of energy and GHG                                                                    |
-| ---------------------------- | ----------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Pulping (kraft process)      | The production of concentrated black liquor can be used to provide heat |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                                                                                            |
-| Pulping (mechanical process) | Electricity                                                             |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                            |
-| Pulping (semi-chemical)      | Reduced thermal requirements compared to both process                   |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in waste streams |
-| Paper making                 |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
-|                              |                                                                         |             |                                                                               |                                                                                            |
-|                              |                                                                         |             |                                                                               |                                                                                            |
+| Process                          | Input                                                                   | Temperature | Purpose                                                                       | Share of energy and GHG                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Pulping (kraft process)          | The production of concentrated black liquor can be used to provide heat |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                                                                                            |
+| Pulping (mechanical process)     | Electricity                                                             |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                            |
+| Pulping (semi-chemical)          | Reduced thermal requirements compared to both process                   |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in waste streams |
+| Paper making - stock preparation |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
+|                                  |                                                                         |             |                                                                               |                                                                                            |
+|                                  |                                                                         |             |                                                                               |                                                                                            |
 #### Kraft process (Chemical pulping)
 
 - Pulp digestion ($65-175\degree C$) - MP Steam - $2.2-3 \frac{GJ}{t}$
