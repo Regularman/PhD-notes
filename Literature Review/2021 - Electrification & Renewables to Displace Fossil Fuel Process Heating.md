@@ -108,11 +108,11 @@ Waste heat can be produced from
 
 **Carbon emissions:** 
 
-| Process                      | Input                                                 | Temperature | Purpose                                                                       | Share of energy and GHG                                                             |
-| ---------------------------- | ----------------------------------------------------- | ----------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Pulping (kraft process)      |                                                       |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                                                                                     |
-| Pulping (mechanical process) | electricity                                           |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                     |
-| Pulping (semi-chemical)      | Reduced thermal requirements compared to both process |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in wastre |
-| Paper making                 |                                                       |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                     |
+| Process                      | Input                                                                   | Temperature | Purpose                                                                       | Share of energy and GHG                                                                    |
+| ---------------------------- | ----------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Pulping (kraft process)      | The production of concentrated black liquor can be used to provide heat |             | Turns wood into an intermediate pulp. Produces a large amount of black liquor |                                                                                            |
+| Pulping (mechanical process) | Electricity                                                             |             | Produces lower quality pulp used for newspapers and low cost products         |                                                                                            |
+| Pulping (semi-chemical)      | Reduced thermal requirements compared to both process                   |             | Provides additional chemicals to the pulping process.                         | Introduces environmental complexities due to absence of chemical recovery in waste streams |
+| Paper making                 |                                                                         |             | Turning into thin sheets. This can be integrated with pulping or separate     |                                                                                            |
 
 ### Technology Advancements
