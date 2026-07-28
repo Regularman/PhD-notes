@@ -39,4 +39,6 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 | Refining (Bayer's process) |       |             | Refining low temperature bauxite into aluminium | $70\%$ emissions        |
 #### Bayer's Process
 
-1. Preprocessing
+1. Preprocessing: The 
+
+![[Screenshot 2026-07-28 102328.png|367]]
