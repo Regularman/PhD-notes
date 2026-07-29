@@ -283,8 +283,10 @@ Large plants have several gas-fired boilers with steam production operating at $
 
 **Emissions for process heating:**
 
-| Process                      | Input                         | Temperature       | Purpose                                                                                                                                                                                                                         | Share of energy and GHG                                                                                                              |
-| ---------------------------- | ----------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Grain mashing                | LP steam ($130-160\degree C$) | $45-75 \degree C$ | Crushed malted grains are mixed with hot water to activate natural enzyme, turning insoluble starch into simple fermentable sugars that goes into the wort solution. A mash/lauter tun is just a big tub that steeps the grain. | $4.9-8.5 MJ$                                                                                                                         |
+| Process          | Input | Temperature   | Purpose                                                                    | Share of energy and GHG |
+| ---------------- | ----- | ------------- | -------------------------------------------------------------------------- | ----------------------- |
+| Hot water supply |       | $75\degree C$ | Used to heat potable water and softened water, for dishwashing water, taps |                         |
+| Steam supply     |       |               | Sterilization and air conditioning humidifying purposes.                   |                         |
+
 
 ### Technology Advancement
