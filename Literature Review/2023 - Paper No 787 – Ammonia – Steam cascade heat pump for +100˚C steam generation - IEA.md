@@ -46,7 +46,7 @@ The paper compares the efficiency pure steam compression, single stage ammonia h
 
 ![[Screenshot 2026-07-29 160353.png]]
 
-- Assume that evaporation tempera
+- Assume that evaporation temperature is $22\degree C$
 
 | Technology                                           | Pro                                                                                  | Con                                                                                                                                                                                     |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
