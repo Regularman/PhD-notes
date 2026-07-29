@@ -63,3 +63,5 @@ Requires 20kW of oil cooling to lubricate the compressors, a high oil temperatur
 - There are different solutions for oil cooling which increases heat recovery, but increases in difficulty of operation.
 
 Higher suction temperature temperature reduces the pressure ratio of the compressor.
+
+It is important to select the correct heat exchangers.
