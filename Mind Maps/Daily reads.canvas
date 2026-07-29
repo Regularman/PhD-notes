@@ -59,7 +59,7 @@
 		{"id":"4acc477ba6832d0f","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-1645,"y":-1980,"width":331,"height":80,"color":"5"},
 		{"id":"5ad902ae7a191f4c","type":"text","text":"# Mechanical Vapor Recompression\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-1600,"y":-1583,"width":339,"height":86,"color":"5"},
 		{"id":"8e24ab4034cb85dd","type":"text","text":"# ~={cyan}Waste Heat Recovery=~","x":-1673,"y":-1799,"width":250,"height":60,"color":"5"},
-		{"id":"ae77e8dcbf7c981c","type":"text","text":"# Two stage ammonia heat pump\n\n## Resources\n\n[[2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA]]\n\nMulti-stage","x":-2067,"y":-1517,"width":332,"height":257,"color":"5"}
+		{"id":"ae77e8dcbf7c981c","type":"text","text":"# Two stage ammonia heat pump\n\n## Resources\n\n[[2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA]]\n\ntwo stage heat pumps have two compressors, or a two stage ","x":-2067,"y":-1517,"width":332,"height":257,"color":"5"}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
