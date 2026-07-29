@@ -2,7 +2,11 @@ https://heatpumpingtechnologies.org/publications/paper-no-787-ammonia-steam-casc
 
 Collaboration between GEA, ANEO, and EPCON.
 
-## ~={green}TRL: -=~
+
+## Product Description
+### ~={green}TRL: -=~
+
+Produced steam from the ammonia heat pump can then be compressed to $2$ bar at around $120 \degree C$ with 4 centrifugal fans in series.
 
 | Operating Temperature | Inputs                                                               | Limitations | Benefits                                                                                         |
 | --------------------- | -------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------ |
