@@ -278,15 +278,15 @@ Large plants have several gas-fired boilers with steam production operating at $
 ### Processes
 
 **Energy for process heating:**
-- Primarily uses natural gas for heating
+- Primarily uses natural gas for heating, for one example of a Brisbane hospital $897 
 - Uses a steam and hot water boiler for heating
 
 **Emissions for process heating:**
 
-| Process          | Input | Temperature   | Purpose                                                                    | Share of energy and GHG |
-| ---------------- | ----- | ------------- | -------------------------------------------------------------------------- | ----------------------- |
-| Hot water supply |       | $75\degree C$ | Used to heat potable water and softened water, for dishwashing water, taps |                         |
-| Steam supply     |       |               | Sterilization and air conditioning humidifying purposes.                   |                         |
-
+| Process          | Input | Temperature    | Purpose                                                                    | Share of energy and GHG |
+| ---------------- | ----- | -------------- | -------------------------------------------------------------------------- | ----------------------- |
+| Hot water supply |       | $75\degree C$  | Used to heat potable water and softened water, for dishwashing water, taps |                         |
+| Steam supply     |       | $100\degree C$ | Sterilization and air conditioning humidifying purposes.                   |                         |
+There may also be gas fueled heating and cooking in the hospital kitchens
 
 ### Technology Advancement
