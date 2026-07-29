@@ -272,4 +272,10 @@ Large plants have several gas-fired boilers with steam production operating at $
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Anaerobic digestion of plant waste water | This generates biogas that can displace natural gas use in the boiler, used to produce steam                                                                                |
 | Operational efficiency                   | Preheating the wort to $92\degree C$ to $70 \degree C$ can reduce the length of boiling and total energy used.                                                              |
-| Solar thermal                            | ~={red}Firmed by waste heat to supply heat required in brewing, but may require retrofit of the plant. It is important to understand what kind of retrofits are required?=~ |
+| Solar thermal                            | Firmed by waste heat to supply heat required in brewing, but may require retrofit of the plant. ~={red}It is important to understand what kind of retrofits are required?=~ |
+## ~={orange}Hospitals=~
+
+### Processes
+
+Primarily uses natural gas for heating
+
