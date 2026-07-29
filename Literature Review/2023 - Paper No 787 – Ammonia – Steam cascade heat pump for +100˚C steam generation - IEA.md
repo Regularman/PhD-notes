@@ -29,3 +29,9 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 4. Electric boilers
 5. Renewable fuels
 6. Offsetting emissions
+
+### Reviewed refrigerants
+
+|     |     |
+| --- | --- |
+|     |     |
