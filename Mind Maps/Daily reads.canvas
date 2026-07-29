@@ -49,15 +49,17 @@
 		{"id":"16f4698214309e4b","type":"text","text":"# ~={cyan}Aluminium Production=~","x":-1899,"y":-2359,"width":250,"height":72,"color":"5"},
 		{"id":"b32defb707b794e6","x":-2957,"y":-1522,"width":290,"height":50,"color":"5","type":"text","text":"# Condensing Boilers\n\nUses waste heat to preheat the incoming fluid for higher energy efficiencies of $92-95\\%$."},
 		{"id":"a4fa06de368f1cd3","type":"text","text":"## ~={cyan}*Boilers*=~","x":-2870,"y":-1710,"width":250,"height":50,"color":"5"},
-		{"id":"5ad902ae7a191f4c","type":"text","text":"# Mechanical Vapor Recompression\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-2125,"y":-1522,"width":339,"height":86,"color":"5"},
 		{"id":"962814a8e64b0135","type":"text","text":"# Operation of a heat pump\n\nhttps://www.engproguides.com/pressure-enthalpy-diagram.html\n\n","x":-2474,"y":-1522,"width":292,"height":100,"color":"5"},
 		{"id":"a9436b501b0a8044","type":"text","text":"# Performance of Heat Geek HP in English home 2026\n\nhttps://www.youtube.com/watch?v=CFSZViBzlIQ \n\nYoutube video on home replacement of gas boiler with heat pump. he did not change out the radiators and hot water tank, which some companies deemed too small for a heat pump. The whole install costed $2150 pounds with ~={red}heat geek's zero disrupt=~ installation plan. Installation completed in 2 days for a Vaillant HP.\n\t- It's very hard to quantify the heat quality change\n\t- There is a behavior change as they didn't need to adjust the heat pump based of usage needs (It was just on the time)\n\t- Did not need emergency heaters and the water tank upgrades and radiator upgrades were not necessary.\n\nHeat Geek has a performance guarantee for 5 years. They also do energy consultations for the proper design of heat pumps.\n- Vibration of wall mounted units was a problem. Can be prevented through ground mounted units.","x":-2152,"y":-1220,"width":362,"height":80,"color":"5"},
 		{"id":"31b3267134aabedf","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 115146.png","x":-2584,"y":-1271,"width":334,"height":400},
 		{"id":"c24134425b33e072","type":"file","file":"PhD-notes/Screenshots/Screenshot 2026-06-15 114928.png","x":-2870,"y":-1271,"width":272,"height":400},
 		{"id":"893d90095060e051","x":-2328,"y":-2383,"width":270,"height":120,"color":"5","type":"text","text":"# ~={cyan}Combined Heat and Power=~\n\nhttps://www.youtube.com/watch?v=2aVbxn5c6zo\n\nCaptures waste heat from power generation, so that the energy capture goes from 30% to 85% in CHP.\n\nCan be powered by biomethane, hydrogen, or natural gas.\n\n1. Fuel input mixed with air creates flue gas that powers the generation turbine, producing electricity. Only a third of the total energy is used\n2. The residual flue gas then can go into another steam turbine (aided by an additional boiler) to create more electricity\n3. Residual waste heat uses heat exchangers to go into the district heating network\n\n- Waste heat is captured "},
 		{"id":"bd0bad5c2421aebc","type":"text","text":"# Circulating fluidised gas bed\n\nReplaces rotary kilns for the calcination process that occurs at $~1000\\degree C$.\n- Calcination is just heating solid materials to high temperatures without melting it to cause phase transitions or chemical decompositions.\n\n## Rotary kilns\n\nThey slowly rotate to facilitate uniform heating and material mixing\n\n## Fluidised bed calciner\n\nSuspend fine particles with an upward flow of heated gas, resulting in highly uniform temperature and reaction efficiency. Also effectively captures waste heat to the improve energy efficiency.","x":-1971,"y":-2640,"width":450,"height":177,"color":"5"},
-		{"id":"edced6714d33d4d3","type":"text","text":"# ~={cyan}Molten salt storage=~","x":-2812,"y":-2000,"width":250,"height":60},
-		{"id":"4acc477ba6832d0f","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-1645,"y":-1980,"width":331,"height":80,"color":"5"}
+		{"id":"edced6714d33d4d3","type":"text","text":"# ~={cyan}Molten salt storage=~","x":-2812,"y":-2000,"width":250,"height":60,"color":"5"},
+		{"id":"4acc477ba6832d0f","type":"text","text":"# *~={cyan}Solar Thermal (Flat plate or evacuated tubes)=~*","x":-1645,"y":-1980,"width":331,"height":80,"color":"5"},
+		{"id":"5ad902ae7a191f4c","type":"text","text":"# Mechanical Vapor Recompression\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-1600,"y":-1583,"width":339,"height":86,"color":"5"},
+		{"id":"8e24ab4034cb85dd","x":-1673,"y":-1799,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}Waste Heat Recovery=~"},
+		{"id":"ae77e8dcbf7c981c","x":-2067,"y":-1517,"width":332,"height":95,"color":"5","type":"text","text":"# Two stage ammonia heat pump"}
 	],
 	"edges":[
 		{"id":"c6db532fc0fa4282","fromNode":"ade109cbd714468f","fromSide":"right","toNode":"ea836e8a406243d3","toSide":"left"},
@@ -111,8 +113,10 @@
 		{"id":"77fe442579ea4040","fromNode":"4d5fc6d1ccbd1ca5","fromSide":"right","toNode":"e6a65720d69668c9","toSide":"left"},
 		{"id":"40f1f35115740c3a","fromNode":"d3782fa7f5495de0","fromSide":"top","toNode":"16f4698214309e4b","toSide":"bottom"},
 		{"id":"ee0afd55efe3182c","fromNode":"16f4698214309e4b","fromSide":"top","toNode":"bd0bad5c2421aebc","toSide":"bottom"},
-		{"id":"aa9b66c65580a201","fromNode":"94a682f6a3774f78","fromSide":"bottom","toNode":"5ad902ae7a191f4c","toSide":"top"},
 		{"id":"c96843d634c5c4d9","fromNode":"d3782fa7f5495de0","fromSide":"top","toNode":"893d90095060e051","toSide":"bottom"},
-		{"id":"861b34297ca76ee6","fromNode":"a4fa06de368f1cd3","fromSide":"bottom","toNode":"b32defb707b794e6","toSide":"top"}
+		{"id":"861b34297ca76ee6","fromNode":"a4fa06de368f1cd3","fromSide":"bottom","toNode":"b32defb707b794e6","toSide":"top"},
+		{"id":"0119a57442dce985","fromNode":"d3782fa7f5495de0","fromSide":"bottom","toNode":"8e24ab4034cb85dd","toSide":"top"},
+		{"id":"d7adaf1088575b52","fromNode":"8e24ab4034cb85dd","fromSide":"bottom","toNode":"5ad902ae7a191f4c","toSide":"top"},
+		{"id":"81cba9a5f3d041ed","fromNode":"94a682f6a3774f78","fromSide":"bottom","toNode":"ae77e8dcbf7c981c","toSide":"top"}
 	]
 }
