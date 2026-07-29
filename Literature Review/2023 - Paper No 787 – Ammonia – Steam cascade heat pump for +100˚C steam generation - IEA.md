@@ -65,4 +65,5 @@ Requires 20kW of oil cooling to lubricate the compressors, a high oil temperatur
 Higher suction temperature temperature reduces the pressure ratio of the compressor.
 
 It is important to select the correct heat exchangers, some factors to think about are
-- Sufficient support to hold high pressure at the condensation temp
+- Sufficient support to hold high pressure at the condensation temperature
+- corrosion of the shell element
