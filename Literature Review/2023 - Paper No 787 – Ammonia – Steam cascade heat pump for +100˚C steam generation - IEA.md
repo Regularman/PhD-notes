@@ -12,3 +12,7 @@ Produced steam from the ammonia heat pump can then be compressed to $2$ bar at a
 Produced steam from the ammonia heat pump can then be compressed to $2$ bar at around $120 \degree C$ with 4 centrifugal fans in series.
 
 Uses natural refrigerants ammonia and$CO_2$ to achieve higher efficiencies. 
+
+## Problem
+
+- Many th
