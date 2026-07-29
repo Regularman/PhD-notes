@@ -42,4 +42,4 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 |                | Non flammable, non toxic                                                                                                                                                                                                                      |                                                                                                                                                                                                                     |
 ## Solution
 
-The paper 
+The paper compares pure steam compression, single stage ammonia heat pump + steam compression, and two stage ammonia heat pump + steam compression. 
