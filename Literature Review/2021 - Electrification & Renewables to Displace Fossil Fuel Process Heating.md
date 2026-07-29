@@ -279,5 +279,6 @@ Large plants have several gas-fired boilers with steam production operating at $
 
 **Energy for process heating:**
 - Primarily uses natural gas for heating
+- Uses a steam and hot water boiler for heating
 
 **Emissions for process heating:**
