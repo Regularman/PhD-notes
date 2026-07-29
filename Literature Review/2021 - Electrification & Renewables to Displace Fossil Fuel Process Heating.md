@@ -278,7 +278,9 @@ Large plants have several gas-fired boilers with steam production operating at $
 ### Processes
 
 **Energy for process heating:**
-- Primarily uses natural gas for heating, for one example of a Brisbane hospital $897 
+- Primarily uses natural gas for heating, for one example of a Brisbane hospital $897,000 m^3$ used in 2019 for steam and water boiler, which is equivalent to $34.1 TJ$.
+	- 64% consumed by the hot water boilers and $36$ consumed by steam
+- gas consumption is $0.33GJ$ per patient day
 - Uses a steam and hot water boiler for heating
 
 **Emissions for process heating:**
