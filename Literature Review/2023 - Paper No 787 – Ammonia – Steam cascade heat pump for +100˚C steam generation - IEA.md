@@ -32,6 +32,6 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 ### Reviewed refrigerants
 
-| Refrigerant | Positive impact | Limitations |
-| ----------- | --------------- | ----------- |
-|             |                 |             |
+| Refrigerant | Positive impact                 | Limitations |
+| ----------- | ------------------------------- | ----------- |
+| r245        | Have been around for $20$ years |             |
