@@ -17,4 +17,5 @@ Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Amm
 ## Problem
 
 - Many process are designed for $5-10$ bar of steam at $150-180 \degree C$ even if the temperature needed for the process is much lower
-- Process heating demand above $100\degree C$ have often been met through electric resistive heating or 
+- Process heating demand above $100\degree C$ have often been met through electric resistive heating or gas fired boilers.
+
