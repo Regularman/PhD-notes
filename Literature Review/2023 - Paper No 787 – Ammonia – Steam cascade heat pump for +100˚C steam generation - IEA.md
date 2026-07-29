@@ -32,7 +32,8 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 ### Reviewed refrigerants
 
-| Refrigerant | Positive impact                               | Limitations                       |
-| ----------- | --------------------------------------------- | --------------------------------- |
-| R245        | Have been around for $20$ years               | High GWP of $1013$                |
-| R1223zd(E)  | Low GWP $<5$ and has a safety category of $1$ | Releases PFA into the environment |
+| Refrigerant | Positive impact                                                                                                                                                                           | Limitations                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| R245        | Have been around for $20$ years                                                                                                                                                           | High GWP of $1013$                                                                   |
+| R1223zd(E)  | Low GWP $<5$ and has a safety category of $1$                                                                                                                                             | Releases PFA into the environment, or contains elements that breaks down into a PFA. |
+| R601        | Critical temperature of $196.6 \degree C$ and therefore is suitable for ultrahigh temperature applications. Super-critical temperature is the point at which a vapor will not condense ba |                                                                                      |
