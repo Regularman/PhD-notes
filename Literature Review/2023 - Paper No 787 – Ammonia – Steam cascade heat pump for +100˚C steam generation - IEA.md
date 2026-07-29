@@ -74,6 +74,6 @@ Further steam compression is done with MVR technology.
 	- High superheated steam temperature during compression
 - Water (150kg/h) is injected to cool the superheated water steam back towards the saturation line.
 
-The system is 1880 kW and uses 150kg/h of water to produce steam.
+The system is 1880 kW and uses 150kg/h of water to produce steam, producing 2 ton/h of process steam
 
 Heat pump COP of 3.1 is obtained.
