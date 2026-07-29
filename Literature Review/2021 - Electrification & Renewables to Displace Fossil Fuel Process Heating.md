@@ -239,6 +239,7 @@ It should be noted that the addition of material is possible at various stage of
 - Low/no alcohol beer uses additional thermal separation process, or alternatively through reverse osmosis.
 
 **Energy for process heating:**
+- There is high variability in energy consumption for therm
 
 **Emissions:** 
 
@@ -246,10 +247,13 @@ It should be noted that the addition of material is possible at various stage of
 | ---------------------------- | ----------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | Grain mashing                | LP steam ($130-160\degree C$) | $45-75 \degree C$ | Crushed malted grains are mixed with hot water to activate natural enzyme, turning insoluble starch into simple fermentable sugars that goes into the wort solution. A mash/lauter tun is just a big tub that steeps the grain. | $4.9-8.5 MJ$            |
 | Hop/wort boiling             | LP steam ($130-160\degree C$) | $95-100\degree C$ | Hops are added into unfermented beer to extract bitterness and create flavor/aroma                                                                                                                                              | $39.1-67.8 MJ$          |
-| Whirlpool tank               | No heat required              | $40-80 \degree C$ | Separates the solid proteins and wort mixture from the wort mixture. This mixture                                                                                                                                               |                         |
+| Whirlpool tank               | No heat required              | $40-80 \degree C$ | Separates the solid proteins and wort mixture from the wort mixture. This mixture is then chilled and sent to the fermenters                                                                                                    |                         |
 | Packaging and pasteurisation | LP steam ($130-160\degree C$) | $60-70\degree C$  |                                                                                                                                                                                                                                 | $22.4-38.9 MJ$          |
 | Cleaning in place            | LP steam ($130-160\degree C$) | $70-90\degree C$  |                                                                                                                                                                                                                                 | $16.6-28.8 MJ$          |
 | Cooling stages               |                               |                   |                                                                                                                                                                                                                                 |                         |
+
+![[Screenshot 2026-07-29 125845.png]]
+
 #### Waste Heat
 
 Waste heat can be recovered from
