@@ -17,9 +17,15 @@ Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Amm
 
 - Many process are designed for $5-10$ bar of steam at $150-180 \degree C$ even if the temperature needed for the process is much lower
 - Process heating demand above $100\degree C$ have often been met through electric resistive heating or gas fired boilers.
+- We must select a refrigerant that can operate at
 
 ## Content
 
-There is a hierarchy to heat decarbonisation solution suggested by the paper
+There is a hierarchy to heat decarbonisation solution suggested by the paper. This is also suggested in [[2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating]]
 
-1. Energy effiency
+1. Energy efficiency 
+2. Heat recycling
+3. On-site generated thermal
+4. Electric boilers
+5. Renewable fuels
+6. Offsetting emissions
