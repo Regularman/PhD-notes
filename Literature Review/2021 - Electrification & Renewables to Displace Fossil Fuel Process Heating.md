@@ -228,6 +228,8 @@ Waste heat can be recovered from
 | Energy efficiency imporvements | $27\%$ energy usage reduction from $2008-2014$. Further suggests reducing the sterilisation temperature can reduce energy demand further. |
 | Refrigeration heat recovery    | Taking waste heat from chiller condensers, which could provide supplementary heat from the boilers.                                       |
 | Biomass boilers                | Look at AMPC report on emission reduction pathways and opportunities for the Australian red meat industry.                                |
+### Case studies
+
 
 ### ~={orange}Food processing and beverage manufacturing - Beer Production=~
 
@@ -291,6 +293,6 @@ Large plants have several gas-fired boilers with steam production operating at $
 | Steam supply     |       | $100\degree C$ | Sterilization and air conditioning humidifying purposes.                   |                         |
 There may also be gas fueled heating and cooking in the hospital kitchens.
 
-Note that hot water has to be supplied a
+Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella growth.
 
 ### Technology Advancement
