@@ -32,6 +32,7 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 ### Reviewed refrigerants
 
-| Refrigerant | Positive impact                 | Limitations |
-| ----------- | ------------------------------- | ----------- |
-| r245        | Have been around for $20$ years |             |
+| Refrigerant | Positive impact                               | Limitations                       |
+| ----------- | --------------------------------------------- | --------------------------------- |
+| R245        | Have been around for $20$ years               | High GWP of $1013$                |
+| R1223zd(E)  | Low GWP $<5$ and has a safety category of $1$ | Releases PFA into the environment |
