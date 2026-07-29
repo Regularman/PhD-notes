@@ -72,4 +72,8 @@ Further steam compression is done with MVR technology.
 - Uses MVR compact fans that are vertically arranged to get a temperature increase of 10K per stage. This uses water steam as the refrigerant.
 	- We need a high volumetric flow rate at low pressure applications
 	- High superheated steam temperature during compression
-- Water is injected to cool the superheated water steam back towards the saturation line.
+- Water (150kg/h) is injected to cool the superheated water steam back towards the saturation line.
+
+The system is 1880 kW and uses 150kg/h of water to produce steam.
+
+Heat pump COP of 3.1 is obtained.
