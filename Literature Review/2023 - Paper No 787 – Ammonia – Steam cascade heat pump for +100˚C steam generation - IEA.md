@@ -40,4 +40,6 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 |                | It is also a natural refrigerant and has higher efficiency compared to other F-gas refrigerant.                                                                                                                                               |                                                                                                                                                                                                                     |
 | R718 (Water)   | Supercritical temperature of $373.9 \degree C$. Can deliver temperature of up to $200\degree C$                                                                                                                                               | Higher boiling point at atmospheric pressure of $100\degree C$. This means that the steam compressors will need to have a large volume flow and operate in a vacuum with steam in vapor phase below $100\degree C$. |
 |                | Non flammable, non toxic                                                                                                                                                                                                                      |                                                                                                                                                                                                                     |
-### How it works
+## Solution
+
+The paper 
