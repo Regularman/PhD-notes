@@ -67,3 +67,6 @@ Higher suction temperature temperature reduces the pressure ratio of the compres
 It is important to select the correct heat exchangers, some factors to think about are
 - Sufficient support to hold high pressure at the condensation temperature
 - corrosion of the shell element
+
+Further steam compression is done with MVR technology.
+- Uses MVR compact fans 
