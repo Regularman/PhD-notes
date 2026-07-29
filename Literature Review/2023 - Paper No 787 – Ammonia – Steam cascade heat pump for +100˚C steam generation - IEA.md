@@ -59,5 +59,5 @@ The heat pump solution is installed into a pet food manufacturing process.
 
 Note that the absorbed power of the low stage compressor heat pump reduces around 2% per degree higher suction temperature.
 
-Requires 20kW of oil cooling, a high oil temperature will reduce viscosity and increase wear and tear of the heat pump.
-- There are different solutions for oil coolin
+Requires 20kW of oil cooling to lubricate the compressors, a high oil temperature will reduce viscosity and increase wear and tear of the heat pump.
+- There are different solutions for oil cooling which increases heat recovery, but increases in difficulty of operation.
