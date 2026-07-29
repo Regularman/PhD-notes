@@ -259,6 +259,8 @@ It should be noted that the addition of material is possible at various stage of
 
 Waste heat can be recovered from
 - Condensation of steam from the hop boiler
+- Spent grain ($65-70 \degree C$)
+- 
 
 ### Technology Advancement
 
