@@ -61,3 +61,5 @@ Note that the absorbed power of the low stage compressor heat pump reduces aroun
 
 Requires 20kW of oil cooling to lubricate the compressors, a high oil temperature will reduce viscosity and increase wear and tear of the heat pump.
 - There are different solutions for oil cooling which increases heat recovery, but increases in difficulty of operation.
+
+Higher suction temperature temperature reduces the pressure ratio of the compressor.
