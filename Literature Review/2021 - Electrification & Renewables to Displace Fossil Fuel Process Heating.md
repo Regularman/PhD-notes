@@ -258,10 +258,13 @@ It should be noted that the addition of material is possible at various stage of
 #### Waste Heat
 
 Waste heat can be recovered from
+- Condensation of steam from the hop boiler
 
 ### Technology Advancement
 
 `Zero carbon industry plan: electrifying industry. 2018. BZE`
+
+Large plants have several gas-fired boilers with steam production operating at $9$ bar of pressure.
 
 | Technology                     | Use case                                                                                                                                  |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
