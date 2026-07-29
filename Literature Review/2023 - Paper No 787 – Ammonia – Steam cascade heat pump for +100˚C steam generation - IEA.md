@@ -46,7 +46,10 @@ The paper compares the efficiency pure steam compression, single stage ammonia h
 
 ![[Screenshot 2026-07-29 160353.png]]
 
-| Technology                                           | Pro                                                          | Con                                                                                                                                                                                     |
-| ---------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pure steam compression using centrifugal compressors | 80-85% isentropic efficiency (highest provided by the centr) | Each steam compressor can give $9-10K$ temperature lift. There are models that double this but is not economical at smaller capacities. Therefore requires 11-12 MVR turbo compressors. |
+- Assume that evaporation tempera
+
+| Technology                                           | Pro                                                                                  | Con                                                                                                                                                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pure steam compression using centrifugal compressors | 80-85% isentropic efficiency (highest provided by the centrifugal turbo compressors) | Each steam compressor can give $9-10K$ temperature lift. There are models that double this but is not economical at smaller capacities. Therefore requires 11-12 MVR turbo compressors. |
+| Single stage ammonia heat pump + steam compression   | 88% isentrophic efficiency                                                           |                                                                                                                                                                                         |
 
