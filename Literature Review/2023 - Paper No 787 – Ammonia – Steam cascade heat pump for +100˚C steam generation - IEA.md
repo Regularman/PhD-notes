@@ -32,6 +32,6 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 ### Reviewed refrigerants
 
-|     |     |
-| --- | --- |
-|     |     |
+|     |     | Limitations |
+| --- | --- | ----------- |
+|     |     |             |
