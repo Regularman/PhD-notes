@@ -242,9 +242,14 @@ It should be noted that the addition of material is possible at various stage of
 
 **Emissions:** 
 
-| Process       | Input | Temperature        | Purpose | Share of energy and GHG |
-| ------------- | ----- | ------------------ | ------- | ----------------------- |
-| Grain mashing |       | $45-75 \degree C$  |         |                         |
+| Process                      | Input | Temperature       | Purpose | Share of energy and GHG |
+| ---------------------------- | ----- | ----------------- | ------- | ----------------------- |
+| Grain mashing                |       | $45-75 \degree C$ |         |                         |
+| Hop/wort boiling             |       | $95-100\degree C$ |         |                         |
+| Whirlpool tank               |       |                   |         |                         |
+| Packaging and pasteurisation |       |                   |         |                         |
+| Cleaning in place            |       |                   |         |                         |
+| Cooli                        |       |                   |         |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
