@@ -69,4 +69,5 @@ It is important to select the correct heat exchangers, some factors to think abo
 - corrosion of the shell element
 
 Further steam compression is done with MVR technology.
-- Uses MVR compact fans 
+- Uses MVR compact fans that are vertically arranged to get a temperature increase of 10K per stage. This uses water steam as the refrigerant.
+	- We need a high volumetric flow rate at low pre
