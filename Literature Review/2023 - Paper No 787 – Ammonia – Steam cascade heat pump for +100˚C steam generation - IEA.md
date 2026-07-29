@@ -44,6 +44,8 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 The paper compares the efficiency pure steam compression, single stage ammonia heat pump + steam compression, and two stage ammonia heat pump + steam compression. Their function is to raise waste heat to $120\degree C$ steam.
 
+The heat pump solution is installed into a pet food manufacturing process.
+
 ![[Screenshot 2026-07-29 160353.png]]
 
 - Assume that evaporation temperature is $22\degree C$
@@ -58,3 +60,4 @@ The paper compares the efficiency pure steam compression, single stage ammonia h
 Note that the absorbed power of the low stage compressor heat pump reduces around 2% per degree higher suction temperature.
 
 Requires 20kW of oil cooling, a high oil temperature will reduce viscosity and increase wear and tear of the heat pump.
+- There are different solutions for oil coolin
