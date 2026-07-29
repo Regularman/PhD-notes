@@ -53,5 +53,8 @@ The paper compares the efficiency pure steam compression, single stage ammonia h
 | Pure steam compression using centrifugal compressors | 80-85% isentropic efficiency (highest provided by the centrifugal turbo compressors) | Each steam compressor can give $9-10K$ temperature lift. There are models that double this but is not economical at smaller capacities. Therefore requires 11-12 MVR turbo compressors.                                                                                       |
 | Single stage ammonia heat pump + steam compression   | 88% isentrophic efficiency                                                           | At an evaporation temperature of $22\degree C$, the condensation temperature cannot be taken above $80\degree C$, and this will give a steam evaporation temperature of $76\degree C$, therefore, we will need 5-6 compressors to take the steam to the required temperature. |
 | Two-stage ammonia heat pumps                         |                                                                                      | It is possible to raise the suction temperature of the high stage ammonia compressor, so that it no longer operates at the limit of its application area, allow higher condensation temperature. The steam evaporation temperature was $90\degree C$ as a result.             |
+## Heat pump solution
 
 Note that the absorbed power of the low stage compressor heat pump reduces around 2% per degree higher suction temperature.
+
+Requires 20kW of oil cooling, a high oil temperature will reduce viscosity and increase wear and tear of the heat pump.
