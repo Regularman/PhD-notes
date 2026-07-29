@@ -77,8 +77,9 @@
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3100,"width":400,"height":194,"color":"4"},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4678,"y":-2060,"width":400,"height":145,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4678,"y":-1868,"width":400,"height":148,"color":"4"},
-		{"id":"5586e5a01ed1442c","x":-4460,"y":-566,"width":360,"height":66,"color":"5","type":"text","text":"# ~={cyan}Existing Technology=~"},
-		{"id":"5dbaa7a55e4b5977","x":-4589,"y":-363,"width":250,"height":60,"type":"text","text":"# Heat Pumps"}
+		{"id":"5586e5a01ed1442c","x":-4498,"y":-214,"width":360,"height":66,"color":"5","type":"text","text":"# ~={cyan}Existing Technology=~"},
+		{"id":"5dbaa7a55e4b5977","x":-4627,"y":-11,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}Heat Pumps=~"},
+		{"id":"9bfdc059e28f01fe","x":-4878,"y":168,"width":400,"height":144,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -152,6 +153,7 @@
 		{"id":"3d7b1a90859aa37d","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"8d1be414973da2bc","toSide":"top"},
 		{"id":"5d69f6c3d00d18d5","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
 		{"id":"c1b1ee37fe40fcd7","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"},
-		{"id":"7cf11475d35279af","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"5dbaa7a55e4b5977","toSide":"top"}
+		{"id":"7cf11475d35279af","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"5dbaa7a55e4b5977","toSide":"top"},
+		{"id":"7c8c67b460fc1b22","fromNode":"5dbaa7a55e4b5977","fromSide":"bottom","toNode":"9bfdc059e28f01fe","toSide":"top"}
 	]
 }
