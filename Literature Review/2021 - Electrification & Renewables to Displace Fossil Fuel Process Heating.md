@@ -258,8 +258,9 @@ It should be noted that the addition of material is possible at various stage of
 #### Waste Heat
 
 Waste heat can be recovered from
-- Condensation of steam from the hop boiler
+- Condensation of steam from the hop boiler (flue gas from from the kettle at $100\degree C$)
 - Spent grain ($65-70 \degree C$)
+- Waste water for keg washing and CIP ($70 \degree C$)
 - 
 
 ### Technology Advancement
