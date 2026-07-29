@@ -261,7 +261,6 @@ Waste heat can be recovered from
 - Condensation of steam from the hop boiler (flue gas from from the kettle at $100\degree C$)
 - Spent grain ($65-70 \degree C$)
 - Waste water for keg washing and CIP ($70 \degree C$)
-- 
 
 ### Technology Advancement
 
@@ -269,5 +268,7 @@ Waste heat can be recovered from
 
 Large plants have several gas-fired boilers with steam production operating at $9$ bar of pressure.
 
-| Technology                     | Use case                                                                                                                                  |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Technology                               | Use case                                                                                     |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Anaerobic digestion of plant waste water | This generates biogas that can displace natural gas use in the boiler, used to produce steam |
+| Operational efficiency                   | Preheating the wort to $9                                                                    |
