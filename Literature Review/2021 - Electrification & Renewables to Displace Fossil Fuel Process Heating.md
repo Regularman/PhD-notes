@@ -246,10 +246,10 @@ It should be noted that the addition of material is possible at various stage of
 | ---------------------------- | ----- | ----------------- | ------- | ----------------------- |
 | Grain mashing                |       | $45-75 \degree C$ |         |                         |
 | Hop/wort boiling             |       | $95-100\degree C$ |         |                         |
-| Whirlpool tank               |       |                   |         |                         |
-| Packaging and pasteurisation |       |                   |         |                         |
-| Cleaning in place            |       |                   |         |                         |
-| Cooli                        |       |                   |         |                         |
+| Whirlpool tank               |       | $40-80 \degree C$ |         |                         |
+| Packaging and pasteurisation |       | $60-70\degree C$  |         |                         |
+| Cleaning in place            |       | $70-90\degree C$  |         |                         |
+| Cooling stages               |       |                   |         |                         |
 #### Waste Heat
 
 Waste heat can be recovered from
