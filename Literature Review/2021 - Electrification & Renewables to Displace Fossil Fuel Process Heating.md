@@ -289,6 +289,8 @@ Large plants have several gas-fired boilers with steam production operating at $
 | ---------------- | ----- | -------------- | -------------------------------------------------------------------------- | ----------------------- |
 | Hot water supply |       | $75\degree C$  | Used to heat potable water and softened water, for dishwashing water, taps |                         |
 | Steam supply     |       | $100\degree C$ | Sterilization and air conditioning humidifying purposes.                   |                         |
-There may also be gas fueled heating and cooking in the hospital kitchens
+There may also be gas fueled heating and cooking in the hospital kitchens.
+
+Note that hot water has to be supplied a
 
 ### Technology Advancement
