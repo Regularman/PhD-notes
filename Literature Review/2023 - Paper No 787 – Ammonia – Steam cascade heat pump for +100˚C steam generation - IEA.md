@@ -77,3 +77,5 @@ Further steam compression is done with MVR technology.
 The system is 1880 kW and uses 150kg/h of water to produce steam, producing 2 ton/h of process steam
 
 Heat pump COP of 3.1 is obtained.
+
+Compared with electric boiler with 90% efficiency, supplied by fossil fuel electricity. Reduced energy usage from 10.4 GWh to 3.03 GWh
