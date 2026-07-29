@@ -239,7 +239,7 @@ It should be noted that the addition of material is possible at various stage of
 - Low/no alcohol beer uses additional thermal separation process, or alternatively through reverse osmosis.
 
 **Energy for process heating:**
-- There is high variability in energy consumption for therm
+- There is high variability in energy consumption for thermal energy ($43-226 \frac{MJ}{hl}$), typically between $83-144 \frac{MJ}{hl}$ for breweries that produce $10,000-1000,000 gh
 
 **Emissions:** 
 
