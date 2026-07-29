@@ -12,8 +12,9 @@ Produced steam from the ammonia heat pump can then be compressed to $2$ bar at a
 Produced steam from the ammonia heat pump can then be compressed to $2$ bar at around $120 \degree C$ with 4 centrifugal fans in series.
 
 
-Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Ammonia heat pum
+Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Ammonia heat pumps are preferred within the food and processing industry.
 
 ## Problem
 
 - Many process are designed for $5-10$ bar of steam at $150-180 \degree C$ even if the temperature needed for the process is much lower
+- Process heating demand above $100\degree C$ have often been met through electric resistive heating or 
