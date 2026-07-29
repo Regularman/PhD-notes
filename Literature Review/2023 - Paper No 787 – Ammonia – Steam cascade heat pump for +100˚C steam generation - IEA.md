@@ -20,4 +20,6 @@ Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Amm
 
 ## Content
 
-There is a hierarchy to
+There is a hierarchy to heat decarbonisation solution suggested by the paper
+
+1. Energy effiency
