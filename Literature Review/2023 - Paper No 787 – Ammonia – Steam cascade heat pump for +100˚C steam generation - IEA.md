@@ -44,8 +44,9 @@ There is a hierarchy to heat decarbonisation solution suggested by the paper. Th
 
 The paper compares the efficiency pure steam compression, single stage ammonia heat pump + steam compression, and two stage ammonia heat pump + steam compression. Their function is to raise waste heat to $120\degree C$ steam.
 
+![[Screenshot 2026-07-29 160353.png]]
 
-| Technology | Pro | Con |
-| ---------- | --- | --- |
-|            |     |     |
+| Technology                                           | Pro | Con                                                       |
+| ---------------------------------------------------- | --- | --------------------------------------------------------- |
+| Pure steam compression using centrifugal compressors |     | Each steam compressor can give $9-10K$ temperature lift.  |
 
