@@ -35,9 +35,16 @@ Allows demand-shifting, participation in wholesale market, firming solar generat
 	
 Cape Jaffa Wine installed 81kW of solar PV and 460 kWh of Li-BESS. TES could be considered to expand solar energy system, with a smaller BESS to supply the pump
 
-#### Case study done on Pernod Ricard's Rowland Flat
-### Ga
+#### Case study done on Pernod Ricard's Rowland Flat's winery
 
+Details in APVI literature review. 
+- Thermocold DYN 900 TES unit - Phase Change Material (PCM) Thermal Energy Storage that supplements a 2.8MW solar installation. This powers 4x 5MW ammonia refrigeration unit
+- Currently spending $2M p.a. on electricity. The company is also buying 18MW of PPA from off-site solar and wind. The TES participates in energy arbitrage over the electricity wholesalke market. 
+
+Advanced control and forecasting algorithm (ACFA) for thermal energy storage at a winery – Case Study
+### Gaps
+
+Further works is neede
 
 
 
