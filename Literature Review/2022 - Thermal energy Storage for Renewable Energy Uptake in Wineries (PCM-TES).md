@@ -24,7 +24,8 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 
 ## What is PCM-TES
 
-Latent transformation of water into ice (freezing), creating a large heat sink as energy is remo. What kind of material can be used as a phase change material?
+Latent transformation of water into ice (freezing), creating a large heat sink as energy is removed from the incorporated phase change material, changing it from a liquid to solid state. What kind of material can be used as a phase change material?
+- Ice has $4$ times less heat than water.
 
 Allows demand-shifting, participation in wholesale market, firming solar generation.
 
