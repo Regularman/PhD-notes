@@ -34,7 +34,9 @@ Allows demand-shifting, participation in wholesale market, firming solar generat
 	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
 	
 Cape Jaffa Wine installed 81kW of solar PV and 460 kWh of Li-BESS. TES could be considered to expand solar energy system, with a smaller BESS to supply the pump
-### Case Study
+
+#### Case study done on Pernod Ricard's Rowland Flat
+### Ga
 
 
 
@@ -47,4 +49,6 @@ Examples of carbon neutrality
 - Rose Hill Wines
 - Keith Tulloch Winery
 - Hither and Yon Winery
+
+Advanced control and forecasting algorithm (ACFA) for thermal energy storage at a winery – Case Study
 
