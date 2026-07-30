@@ -24,12 +24,12 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 
 ## What is PCM-TES
 
-Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
+Latent transformation of water into ice (freezing), creating a large heat sink as energy is remo. What kind of material can be used as a phase change material?
 
 Allows demand-shifting, participation in wholesale market, firming solar generation.
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
-	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large.
+	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
