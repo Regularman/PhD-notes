@@ -7,7 +7,9 @@ Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of w
 - A winery will use 50% of their annual energy budger in teh first 304 monthes of their grape harvest season
 ![[Screenshot 2026-07-30 at 12.25.14 pm.png]]
 
-Cooling is required during the fermentation process and storage of the white wine.
+Cooling is required during the fermentation process and storage of the white wine. The storage cell or fermentation chamber need to be kept at a certain temperature for optimal operating conditions.
+
+Cold tabilisation is 
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
