@@ -32,9 +32,11 @@ Allows demand-shifting, participation in wholesale market, firming solar generat
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
 	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
+	- 
+Cape Jaffa Wine installed 81kW of solar PV and 460 kWh of Li-BESS. TES could be considered to expand solar energy system, with a smaller BESS to supply the pump
 ### Case Study
 
-Cape Jaffa Wine installed 81kW of solar PV and 460 kWh of Li-BESS. TES could be considered to expand solar energy system, with a smaller BESS to supply the pump
+
 
 
 ## Further Readings
