@@ -44,9 +44,8 @@ Details in APVI literature review.
 Advanced control and forecasting algorithm (ACFA) for thermal energy storage at a winery – Case Study
 ### Gaps
 
-Further works is neede
-
-
+Further works is needed to understand their participation in a hybrid energy/cooling system through industry demonstration projects.
+- What is optimised when using TES instead of BESS?
 
 ## Further Readings
 
