@@ -20,7 +20,7 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 | Fermentation                                     |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol  | $34.7\%$ of electricity |
 | Stabilisation                                    |       | $-4\degree C$    | Storage after fermentation              | $10.9\%$ of electricity |
 | Malolactic fermentation (Secondary fermentation) |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol  | $9.9\%$ of electricity  |
-| Bottling and conservation                        |       | $16\degree C$    | Preservation of the stored wine product |                         |
+| Bottling and conservation                        |       | $16\degree C$    | Preservation of the stored wine product | $12.9\%$ of electricity |
 
 ## What is PCM-TES
 
@@ -30,4 +30,6 @@ Latent transformation of water into ice (freezing), creating a large heat sink. 
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
+
+Examples of carb
 
