@@ -23,7 +23,6 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 | Stabilisation                                    |       | $-4\degree C$    | Storage after fermentation              | $10.9\%$ of electricity |
 | Malolactic fermentation (Secondary fermentation) |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol  | $9.9\%$ of electricity  |
 | Bottling and conservation                        |       | $16\degree C$    | Preservation of the stored wine product | $12.9\%$ of electricity |
-
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink as energy is removed from the incorporated phase change material, changing it from a liquid to solid state. What kind of material can be used as a phase change material?
@@ -33,6 +32,11 @@ Allows demand-shifting, participation in wholesale market, firming solar generat
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
 	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
+### Case Study
+
+Cape Jaffa Wine installed 81
+
+
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
