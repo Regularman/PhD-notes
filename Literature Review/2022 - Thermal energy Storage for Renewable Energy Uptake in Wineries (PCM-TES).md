@@ -10,3 +10,8 @@ Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of w
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
 
+
+## Further Readings
+
+P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
+
