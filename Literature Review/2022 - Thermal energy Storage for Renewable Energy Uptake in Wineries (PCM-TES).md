@@ -3,6 +3,7 @@ https://arena.gov.au/assets/2022/03/thermal-energy-storag-for-renewable-energy-u
 Refrigeration takes up 40-60% of a winery's electricity bill. 
 - PV solutions are insufficient due to low intermittent power which needs to be firmed by thermal storage. Furthermore, increasing network demand charges makes PV systems unattractive.
 
+Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of wine. 59% of this wine is transferred to the export market.
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
