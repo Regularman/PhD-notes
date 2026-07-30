@@ -29,7 +29,7 @@ Latent transformation of water into ice (freezing), creating a large heat sink. 
 Allows demand-shifting, participation in wholesale market, firming solar generation.
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
-	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry proce
+	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large.
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
