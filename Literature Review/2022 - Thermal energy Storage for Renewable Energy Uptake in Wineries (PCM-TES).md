@@ -4,7 +4,7 @@ Refrigeration takes up 40-60% of a winery's electricity bill.
 - PV solutions are insufficient due to low intermittent power which needs to be firmed by thermal storage. Furthermore, increasing network demand charges makes PV systems unattractive.
 
 Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of wine. 59% of this wine is transferred to the export market.
-- A winery will use 50% of their annual energy budget in the first 3-4 months of their grape harvest season
+- A winery will use 50% of their annual energy budget in the first 3-4 months of their grape harvest season. Outside of the vintage season, the energy requirement can drop up to $70\%$ 
 - This also means that the facility is charged for their peak demand set at their highest consumption point, reducing the utilisation efficiency.
 
 ![[Screenshot 2026-07-30 at 12.25.14 pm.png]]
@@ -32,7 +32,7 @@ Allows demand-shifting, participation in wholesale market, firming solar generat
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
 	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
-	- 
+	
 Cape Jaffa Wine installed 81kW of solar PV and 460 kWh of Li-BESS. TES could be considered to expand solar energy system, with a smaller BESS to supply the pump
 ### Case Study
 
