@@ -4,7 +4,7 @@ Refrigeration takes up 40-60% of a winery's electricity bill.
 - PV solutions are insufficient due to low intermittent power which needs to be firmed by thermal storage. Furthermore, increasing network demand charges makes PV systems unattractive.
 
 Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of wine. 59% of this wine is transferred to the export market.
-- A winery will use 50% of their annual energy budger in teh first 304 monthes of their grape harvest season
+- A winery will use 50% of their annual energy budget in the first 3-4 months of their grape harvest season
 ![[Screenshot 2026-07-30 at 12.25.14 pm.png]]
 
 Cooling is required during the fermentation process and storage of the white wine. The storage cell or fermentation chamber need to be kept at a certain temperature for optimal operating conditions.
@@ -28,6 +28,7 @@ Latent transformation of water into ice (freezing), creating a large heat sink. 
 
 Allows demand-shifting, participation in wholesale market, firming solar generation.
 
+- Electricl storage is not econo
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
