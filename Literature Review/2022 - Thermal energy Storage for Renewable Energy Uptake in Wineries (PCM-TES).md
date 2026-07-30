@@ -13,7 +13,12 @@ Cold stabilisation is required after fermentation at $-4 \degree C$.
 
 Furthermore, storage of the final product, kept at $15-17 \degree C$ and relative humidity $50\%$.
 - $40-60\%$ of a facility's energy budget and electricity constitute $70-80\%$ of the site energy use
-- Natural gas and LPG
+- Natural gas and LPG boilers used to produce the hot water and steam used for cleaning and sterilisation
+
+| Process      | Input | Temperature | Purpose | Share of energy and GHG |
+| ------------ | ----- | ----------- | ------- | ----------------------- |
+| Fermentation |       |             |         |                         |
+
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
