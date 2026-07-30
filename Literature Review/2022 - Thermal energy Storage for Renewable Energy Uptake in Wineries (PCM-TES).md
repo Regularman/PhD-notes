@@ -56,5 +56,5 @@ Examples of carbon neutrality
 - Keith Tulloch Winery
 - Hither and Yon Winery
 
-Advanced control and forecasting algorithm (ACFA) for thermal energy storage at a winery – Case Study
+[[2022 - Advancing control and forecasting algorithm (ACFA) for thermal energy storage at a winery - case study]]
 
