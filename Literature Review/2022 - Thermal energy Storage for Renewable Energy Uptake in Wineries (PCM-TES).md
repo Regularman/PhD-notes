@@ -25,7 +25,7 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink as energy is removed from the incorporated phase change material, changing it from a liquid to solid state. What kind of material can be used as a phase change material?
-- Ice has $4$ times less heat than water. This means that the TES is able to absorb $4$ times more heat from winery. This allows 
+- Ice has $4$ times less heat than water. This means that the TES is able to absorb $4$ times more heat from winery. This allows higher energy density that reduces the footprint of the cooling system
 
 Allows demand-shifting, participation in wholesale market, firming solar generation.
 
