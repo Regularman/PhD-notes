@@ -54,6 +54,7 @@ Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.
 #### Difference between low temperature and high temperature Bayer's process
 
 In high temperature digestion ($270\degree C$), the bayer sludge liquid is flashed from $250\degree C$ down to around $70\degree C$. 
+- High temperature Bayer's process is also required at a much higher pressure, $5 MPA$
 #### Waste heat
 
 Waste heat is produced from
