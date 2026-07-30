@@ -5,5 +5,5 @@ Refrigeration takes up 40-60% of a winery's electricity bill.
 
 ## What is PCM-TES
 
-Latent transformation of water into ice (freezing), creating a large heat sink.
+Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
 
