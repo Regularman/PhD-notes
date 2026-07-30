@@ -26,10 +26,14 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
 
+Allows demand-shifting, participation in wholesale market, firming solar generation.
 
 ## Further Readings
 
 P. Catrini et al , 2020’ Characterization of cooling loads in the wine industry and novel seasonal indicator for reliable assessment of energy saving through retrofit of chillers”,
 
-Examples of carb
+Examples of carbon neutrality 
+- Rose Hill Wines
+- Keith Tulloch Winery
+- Hither and Yon Winery
 
