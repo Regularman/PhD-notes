@@ -27,7 +27,7 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 Latent transformation of water into ice (freezing), creating a large heat sink as energy is removed from the incorporated phase change material, changing it from a liquid to solid state. What kind of material can be used as a phase change material?
 - Ice has $4$ times less heat than water. This means that the TES is able to absorb $4$ times more heat from winery. This allows higher energy density that reduces the footprint of the cooling system
 
-Allows demand-shifting, participation in wholesale market, firming solar generation.
+Allows demand-shifting, participation in wholesale market, firming solar generation, absorbing solar generation that would otherwise be curtailed.
 
 - Electrical storage is not economically viable due to their high installed cost and relatively short life span.
 	- Electricity stored is used to cool using mechanical vapour compression (MVR). As MVR is a power hungry process, the BESS capacity have to be very large (it is not designed for the constant, power hungry process of refrigeration units)
