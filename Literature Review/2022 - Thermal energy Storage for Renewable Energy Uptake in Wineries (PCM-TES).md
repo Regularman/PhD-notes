@@ -15,11 +15,12 @@ Furthermore, storage of the final product, kept at $15-17 \degree C$ and relativ
 - $40-60\%$ of a facility's energy budget and electricity constitute $70-80\%$ of the site energy use
 - Natural gas and LPG boilers used to produce the hot water and steam used for cleaning and sterilisation
 
-| Process                                          | Input | Temperature      | Purpose                                | Share of energy and GHG |
-| ------------------------------------------------ | ----- | ---------------- | -------------------------------------- | ----------------------- |
-| Fermentation                                     |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol | $34.7\%$ of electricity |
-| Stabilisation                                    |       | $-4\degree C$    | Storage after fermentation             | $15.8\%$ of electricity |
-| Malolactic fermentation (Secondary fermentation) |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol | $15.8\%$ of electricity |
+| Process                                          | Input | Temperature      | Purpose                                 | Share of energy and GHG |
+| ------------------------------------------------ | ----- | ---------------- | --------------------------------------- | ----------------------- |
+| Fermentation                                     |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol  | $34.7\%$ of electricity |
+| Stabilisation                                    |       | $-4\degree C$    | Storage after fermentation              | $10.9\%$ of electricity |
+| Malolactic fermentation (Secondary fermentation) |       | $19-20\degree C$ | Turns sugar in the grapes into alcohol  | $9.9\%$ of electricity  |
+| Bottling and conservation                        |       | $16\degree C$    | Preservation of the stored wine product |                         |
 
 ## What is PCM-TES
 
