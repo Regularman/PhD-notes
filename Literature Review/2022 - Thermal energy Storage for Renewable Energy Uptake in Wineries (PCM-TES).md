@@ -12,7 +12,8 @@ Cooling is required during the fermentation process and storage of the white win
 Cold stabilisation is required after fermentation at $-4 \degree C$. 
 
 Furthermore, storage of the final product, kept at $15-17 \degree C$ and relative humidity $50\%$.
-- $40-60\%$ of a facility's energy budget and constitute $70-80\%$ of the site 
+- $40-60\%$ of a facility's energy budget and electricity constitute $70-80\%$ of the site energy use
+- Natural gas and LPG
 ## What is PCM-TES
 
 Latent transformation of water into ice (freezing), creating a large heat sink. What kind of material can be used as a phase change material?
