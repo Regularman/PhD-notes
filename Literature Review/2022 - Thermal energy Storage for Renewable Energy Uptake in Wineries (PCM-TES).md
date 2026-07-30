@@ -5,7 +5,7 @@ Refrigeration takes up 40-60% of a winery's electricity bill.
 
 Australian Wine Industry is valued at $2.6 billion, making 2.03 million ton of wine. 59% of this wine is transferred to the export market.
 - A winery will use 50% of their annual energy budget in the first 3-4 months of their grape harvest season
-- This also means that the facility is charged for their peak demand set at their highest consumption p
+- This also means that the facility is charged for their peak demand set at their highest consumption point, reducing the utilisation efficiency.
 
 ![[Screenshot 2026-07-30 at 12.25.14 pm.png]]
 
