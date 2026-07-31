@@ -41,4 +41,5 @@ The design risks encountered were blamed on delay in issuing the scope of work, 
 
 - Insufficient rigours in gate reviews
 - Need to conduct probabilistic analysis to account for discrete risk events in $P_10-90$ scenarios.
-- Multiple contractors complicated
+- Multiple contractors complicated supply chain. Preference of comprehensive supply chain is reccommended.
+- Don't assign a part-timer to the project
