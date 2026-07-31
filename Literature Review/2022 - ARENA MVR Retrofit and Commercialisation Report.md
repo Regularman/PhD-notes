@@ -14,6 +14,8 @@ The MVR unit will take lower pressure steam from the evaporation stage, and comp
 However, due to the space required for MVR, it may not be practical for MVR to be installed in all aluminum facilities.
 
 If the technology was applied to all Australian alumina refineries, then the total scope 1 and 2 carbon abated per safeguard facility data would be 9.4 Mtpa.
+
+Growth of the Australian aluminum production at 1% per year. But does not account for recycling rate.
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
@@ -111,7 +113,7 @@ Comparable CAPEX but lower operating cost.
 MVR implementation will also depend heavily on availability and price of firm renewable power and carbon.
 
 Proposes operation of MVR development by 2031. (When it will be commercially implemented). The pathway is
-1. Demonstrate low speed MVR evaporator at 2:1 compression ratio
+1. Demonstrate low speed MVR evaporator at 2:1 compression ratio: This is the Wagerup project, proving reliability of MVR
 2. Demonstrate MVR on precipitation retrofit
 3. Digestion blow off retrofit
 4. High temperature digestion compressor
