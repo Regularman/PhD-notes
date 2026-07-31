@@ -66,11 +66,12 @@ The MVR is connected in series (10 compressors in series per train). Having this
 
 The first 5 compressors are variable speed to ensure flexibility of the flow.
 - When compressor speed decreases, the pressure in the flash tank increases, which reduces the amount of vapor entering the MVR. The cooling water becomes warmer and more cooling load is placed on the cooling tower.
+- As the first stage compressor takes in low pressure, low density vapor, the volumetric flow rate is very high (higher than the ratings on most compressors.)
+	- This means that the 
 
 Flue gas in the calcination phase is very moist. By passing the flue gas through a scrubber where cold water runs counter current to the stack gas, the cooling water gains mass and temperature. This condensate is flashed to produce vapor for MVR and the cooling water is recycled to the scrubber.
 - one problem is that a stack gas may need to be heated for buoyancy, which negated environmental benefits. This study does not consider ~={red}stack gas heating=~, but considers the use of stack fans that is used to increase calciner stack velocity.
 - Some studies indicates that stack gas velocity is more important than temperature
-
 ## Imported Renewable Energy
 
 213 MW of imported power is required for normal operation, which is equal to 1700 GWh per year.
