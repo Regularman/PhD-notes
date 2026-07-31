@@ -4,7 +4,7 @@ https://arena.gov.au/assets/2022/11/mvr-retrofit-commercialisation-study.pdf
 
 Looks at the cost of replacing the evaporators at the Wagerup facility in a retrofit, greenfield, and brownfield scenario.
 
--The MVR unit will tak
+The MVR unit will take lower pressure steam from the evaporation stage, and compressing the steam to medium pressure steam ($60\times$ pressure). The electricity required for compression is supplied by renewable energy.
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
