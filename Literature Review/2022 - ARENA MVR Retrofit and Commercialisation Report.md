@@ -112,7 +112,10 @@ MVR implementation will also depend heavily on availability and price of firm re
 
 Proposes operation of MVR development by 2031. (When it will be commercially implemented). The pathway is
 1. Demonstrate low speed MVR evaporator at 2:1 compression ratio
-2. Low-te
+2. Demonstrate MVR on precipitation retrofit
+3. Digestion blow off retrofit
+4. High temperature digestion compressor
+5. Calcination retrofit
 
 ### Barriers
 
