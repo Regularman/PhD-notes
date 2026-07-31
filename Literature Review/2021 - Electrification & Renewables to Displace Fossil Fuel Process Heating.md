@@ -56,7 +56,8 @@ Note that medium pressure steam at $170-200\degree C$ is used for digestion ($5.
 In high temperature digestion ($270\degree C$), the bayer sludge liquid is flashed from $250\degree C$ down to around $70\degree C$. 
 - High temperature Bayer's process is also required at a much higher pressure, $5 MPa$. Therefore, in a low temperature plant, the steam generated from natural gas boilers at a high pressure, can be passed through a co-generation/turbogenerator plant to sell electricity back to the grid. The steam is used at ~600kPa through the Bayer's process.
 	- This cannot be done in high pressure plants due to high pressure requirements
-	- 
+
+In high temperature Bayer's process, the steam is injected directly into the digesters rather than 
 #### Waste heat
 
 Waste heat is produced from
