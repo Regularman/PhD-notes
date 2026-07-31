@@ -117,7 +117,9 @@ In scale up project, additional waste heat can be gathered from the precipitatio
 
 Sunk cost into electrification when we also have to look at the recycling rate of aluminium?
 
-MR for high temperature aluminium processing is also not proven. Requires steam at higher temperature and hi
+MR for high temperature aluminium processing is also not proven. Requires steam at higher temperature and higher pressure. The duty is technically feasible but the technology will need to be developed.
+- This might be achieved by smaller compressors on the final stages of the compressor train.
+
 Alcoa is also looking into solar thermal substitute for Bayer's process!
 
 Need demonstration project to understand if 
