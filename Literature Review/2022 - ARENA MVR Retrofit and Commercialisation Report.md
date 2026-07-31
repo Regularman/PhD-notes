@@ -67,6 +67,8 @@ The first 5 compressors are variable speed to ensure flexibility of the flow.
 - When compressor speed decreases, the pressure in the flash tank increases, which reduces the amount of vapor entering the MVR. The cooling water becomes warmer and more cooling load is placed on the cooling tower.
 
 Flue gas in the calcination phase is very moist. By passing the flue gas through a scrubber where cold water runs counter current to the stack gas, the cooling water gains mass and temperature. This condensate is flashed to produce vapor for MVR and the cooling water is recycled to the scrubber.
+- one problem is that a stack gas may need to be heated for buoyancy, which negated environmental benefits. This study does not consider ~={red}stack gas heating=~.
+- Some studies indicates that stack gas velocity is more important than temperatuire
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
