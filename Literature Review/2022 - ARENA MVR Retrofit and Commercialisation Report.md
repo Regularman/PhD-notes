@@ -10,6 +10,8 @@ The MVR unit will take lower pressure steam from the evaporation stage, and comp
 - The fact that high temperature refinery does not need new electrical connection makes a significant difference to import power requirements.
 
 ![[Screenshot 2026-07-31 191702.png]]
+
+However, due to the space required for MVR, it may not be practical for MVR to be installed in all aluminum facilities.
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
