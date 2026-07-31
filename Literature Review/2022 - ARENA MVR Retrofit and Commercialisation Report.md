@@ -60,6 +60,8 @@ The MVR is connected in series (10 compressors in series per train). Having this
 ![[Screenshot 2026-07-31 at 4.33.57 pm.png|555]]
 
 ~={red}Modelling is done for peak refinery capacity=~
+
+The first 5 compressors are variable speed to ensure flexibility of the flow.
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
