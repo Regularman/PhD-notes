@@ -41,7 +41,7 @@ Looked at the consequence of uptake in BAU and accelerated scenarios. Through th
 ![[Screenshot 2026-07-28 102328.png|367]]
 
 2. Bayer's process: 400kg of bauxite produces 1930kg of alumina, or 1000kg of molten aluminium (99.5-99.8% pure)
-	1. Bauxite is hydrothermally digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud.
+	1. Bauxite is hydrothermally digested with caustic soda, forming aluminium hydroxide, at $140-150 \degree C$ for gibbsite or $220-260 \degree C$ for bohemite and diasporite. The insoluble particles form a red mud. There is little chemical change, so all the heat in the steam is available as waste heat.
 	2. Bauxite residue is separated from aluminium containing liquid through clarification at $100-105 \degree C$ 
 	3. $Al(OH)_3$ is precipitated out of solution at $60-80 \degree C$. Evaporation occurs at $70-100\degree C$ 
 	4. Calcination step is performed in rotary kilns or fluidised bed at high temperatures of $950-1100\degree C$. The water is recycled for leaching in digestion. Circulating fluidised bed reduced total energy consumption for calcination using efficient heat recovery. 

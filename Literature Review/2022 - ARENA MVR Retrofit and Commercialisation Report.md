@@ -54,8 +54,6 @@ The MVR is connected in series (10 compressors in series per train). Having this
 - Shaft seals replaced once every two years and bearings require replacement every 10 years.
 
 ~={red}Modelling is done for peak refinery capacity=~
-
-
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
