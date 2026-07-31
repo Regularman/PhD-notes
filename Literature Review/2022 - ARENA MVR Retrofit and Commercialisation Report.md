@@ -105,6 +105,7 @@ For the MVR compressor trains, 1x 22/11kV transformer is built in with now redun
 The addition of MVR will increase grid reliance, which exposes the aluminum plant to grid risks.
 - However, Western Power indicates that the plant should be able to ride through the system
 - Can consider batteries for black start capabilities.
+## MVR 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
