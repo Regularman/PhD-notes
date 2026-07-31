@@ -43,3 +43,4 @@ The design risks encountered were blamed on delay in issuing the scope of work, 
 - Need to conduct probabilistic analysis to account for discrete risk events in $P_10-90$ scenarios.
 - Multiple contractors complicated supply chain. Preference of comprehensive supply chain is reccommended.
 - Don't assign a part-timer to the project
+- Increased stakeholder engagement to avoid late changes required to the design of the project

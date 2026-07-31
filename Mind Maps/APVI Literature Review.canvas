@@ -2,7 +2,10 @@
 	"nodes":[
 		{"id":"12d1688602fc8132","type":"file","file":"PhD-notes/Literature Review/2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA.md","x":-462,"y":-272,"width":400,"height":172},
 		{"id":"48146a43036eac91","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":29,"y":-394,"width":400,"height":174},
-		{"id":"1d46d671bb71433b","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-200,"y":-620,"width":400,"height":128}
+		{"id":"1d46d671bb71433b","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-200,"y":-620,"width":400,"height":128},
+		{"id":"b57973d24d88874d","x":-200,"y":-820,"width":400,"height":121,"type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"602fc06835592241","fromNode":"1d46d671bb71433b","fromSide":"top","toNode":"b57973d24d88874d","toSide":"bottom"}
+	]
 }
