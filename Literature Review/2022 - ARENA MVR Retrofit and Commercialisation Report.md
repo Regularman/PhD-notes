@@ -110,6 +110,10 @@ The addition of MVR will increase grid reliance, which exposes the aluminum plan
 Comparable CAPEX but lower operating cost. 
 MVR implementation will also depend heavily on availability and price of firm renewable power and carbon.
 
+Proposes operation of MVR development by 2031. (When it will be commercially implemented). The pathway is
+1. Demonstrate low speed MVR evaporator at 2:1 compression ratio
+2. Low-te
+
 ### Barriers
 
 1. Quantifying and understanding the benefits of MVR
