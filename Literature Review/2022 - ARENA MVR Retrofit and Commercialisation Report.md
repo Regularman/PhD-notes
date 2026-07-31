@@ -115,6 +115,8 @@ Alcoa is also looking into solar thermal substitute for Bayer's process!
 
 Need demonstration project to understand if 
 - designing for only one compressor stopped is justifiable.
+	- One of the problems is the contingency scenario where the last compressor is out of circuit.
 - GT-HRSG is necessary to be maintained hot.
+
 
 
