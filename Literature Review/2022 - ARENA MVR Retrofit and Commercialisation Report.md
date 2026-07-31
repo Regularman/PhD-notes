@@ -48,6 +48,9 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- At a minimum, this is operated 18 hours per year.
 	- Sized to enable 35MW and 177 tph of steam production $\rightarrow$ this is equivalent to a 40MW load reduction in the MVR train
 	- Additionally evaporation can be turned down to reduce steam load by $56 MW$. The total load reduction is $113 MW$, which is $60\%$ of the $213MW$ of the refinery based power.
+#### Design of MVR for maintenance
+
+The MVR is connected in series (46 compressors). Having this many in series increases the probability of outage.
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
