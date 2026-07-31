@@ -77,6 +77,9 @@ Flue gas in the calcination phase is very moist. By passing the flue gas through
 
 Currently connected to the 132kV system, but has a 330kV system that connects to the SWIS grid with access by negotiation.
 - Feeds into 3x 100MVA 330/22 kV transformers, one of which is redundant.
+- Existing power requirements is satisfied by 2x 22kV feeders to the existing 110K substation.
+
+For the MVR compressor trains, 1x 22/11kV transformer is built in wih
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
