@@ -1,4 +1,4 @@
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arena.gov.au/assets/2024/06/Alcoa-MVR-for-Low-Carbon-Alumina-Refining-Close-Out-Report.pdf
+https://arena.gov.au/assets/2024/06/Alcoa-MVR-for-Low-Carbon-Alumina-Refining-Close-Out-Report.pdf
 
 Previous Report -
 [[2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery]]
