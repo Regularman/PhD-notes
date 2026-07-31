@@ -76,6 +76,8 @@ The first 5 compressors are variable speed to ensure flexibility of the flow.
 Flue gas in the calcination phase is very moist. By passing the flue gas through a scrubber where cold water runs counter current to the stack gas, the cooling water gains mass and temperature. This condensate is flashed to produce vapor for MVR and the cooling water is recycled to the scrubber.
 - one problem is that a stack gas may need to be heated for buoyancy, which negated environmental benefits. This study does not consider ~={red}stack gas heating=~, but considers the use of stack fans that is used to increase calciner stack velocity.
 - Some studies indicates that stack gas velocity is more important than temperature
+
+One of the main risks is that compressors can only operate in a narrow volume flow band due to the surge point. Optimal operation is 40% higher volume flow rate compared to the surge point/
 ## Imported Renewable Energy
 
 213 MW of imported power is required for normal operation, which is equal to 1700 GWh per year.
