@@ -14,6 +14,7 @@ The MVR unit will take lower pressure steam from the evaporation stage, and comp
 However, due to the space required for MVR, it may not be practical for MVR to be installed in all aluminum facilities.
 
 If the technology was applied to all Australian alumina refineries, then the total scope 1 and 2 carbon abated per safeguard facility data would be 9.4 Mtpa.
+- For a low-temperature refinery, the capital cost of MVR is $220 per annual tonne of alumina production. For a high-temperature refinery the cost is $260 per annual tonne.  To implement MVR across Australia’s six alumina refineries (approximately 21 Mtpa alumina production capacity), an overall investment of approximately $4.5 B is required, together with provision of 1.2 GW of firmed renewable power. This would reduce alumina industry emissions by approximately 10 Mt CO2-e per annum. 
 
 Growth of the Australian aluminum production at 1% per year. But does not account for recycling rate.
 ## Content
