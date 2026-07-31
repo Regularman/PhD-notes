@@ -7,6 +7,7 @@ Looks at the cost of replacing the evaporators at the Wagerup facility in a retr
 The MVR unit will take lower pressure steam from the evaporation stage, and compressing the steam to medium pressure steam ($60\times$ pressure). The electricity required for compression is supplied by renewable energy.
 - This removes the opportunity present for power co-generation from boiler steam from the evaporation process.
 - However, due to this, the cost of high temperature and low temperature MVR actually ends up being the same.
+- The fact that high temperature refinery does not need new electrical connection makes a significant difference to import power requirements.
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
