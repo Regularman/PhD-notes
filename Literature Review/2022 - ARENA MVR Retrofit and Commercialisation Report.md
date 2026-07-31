@@ -44,10 +44,10 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- ~={red}The capacity of the MVR trains are at the limit of what's available in the market.=~ Since we cannot combine two smaller trains into one big train, there may need to be commercial development of larger MVR technology for commercial deployment. 
 - The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. 
 	- This fixes issue of steam shortage when boilers are down for maintenance.
-- Use a Gas Turbine and Heat Recovery Steam Generator (GT-HRSG) during peak demand and fired to avoid capacity charges on the grid (as MVR is supported by renewables)
+- Use a Gas Turbine and Heat Recovery Steam Generator (GT-HRSG) during peak demand and fired to avoid capacity charges on the grid (as MVR is supported by renewables). The ramp time is $30$ minutes.
 	- At a minimum, this is operated 18 hours per year.
 	- Sized to enable 35MW and 177 tph of steam production $\rightarrow$ this is equivalent to a 40MW load reduction in the MVR train
-	- Additionally evaporation cna be turned down to reduce steam load by $56 MW$ 
+	- Additionally evaporation can be turned down to reduce steam load by $56 MW$. The total load reduction is $113 MW$, which is $60\%$ of the $213MW$ of the refinery based power.
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
