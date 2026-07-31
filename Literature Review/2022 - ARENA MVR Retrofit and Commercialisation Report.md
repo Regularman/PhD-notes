@@ -79,7 +79,7 @@ Currently connected to the 132kV system, but has a 330kV system that connects to
 - Feeds into 3x 100MVA 330/22 kV transformers, one of which is redundant.
 - Existing power requirements is satisfied by 2x 22kV feeders to the existing 110K substation.
 
-For the MVR compressor trains, 1x 22/11kV transformer is built in wih
+For the MVR compressor trains, 1x 22/11kV transformer is built in with now redundancy
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
