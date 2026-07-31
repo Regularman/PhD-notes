@@ -79,7 +79,7 @@ The MVR is connected in series (10 compressors in series per train). Having this
 ![[Screenshot 2026-07-31 at 4.44.15 pm.png|557]]
 
 ![[Screenshot 2026-07-31 at 4.49.00 pm.png|558]]
-
+![[Screenshot 2026-07-31 200330.png]]
  Note that in the digestion blow off steam, there may be mud within the vapour, and it needs to be scrub before being passed through the MVR.
 ~={red}Modelling is done for peak refinery capacity=~
 
