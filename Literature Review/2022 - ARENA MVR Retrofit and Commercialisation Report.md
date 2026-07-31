@@ -63,6 +63,7 @@ The MVR is connected in series (10 compressors in series per train). Having this
 
 The first 5 compressors are variable speed to ensure flexibility of the flow.
 - When compressor speed decreases, the pressure in the flash tank increases, which reduces the amount of vapor entering the MVR. The cooling water becomes warmer and more cooling load is placed on the cooling tower.
+- Flue gas from the calcination phase is very moist. By passing the 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
