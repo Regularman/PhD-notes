@@ -39,7 +39,7 @@ Upstream fugitive emissions and mining activities accounts for $3\%$ of the emis
 
 ![[Screenshot 2026-07-31 at 3.30.07 pm.png]]
 
-There are 4 MVR trains that are used to deliver steam to existing refinery processes. There is also an additional digestion train that affects steam consumption but does not provide any steam by itself.
+There are 4 MVR trains that are used to deliver steam to existing refinery processes. There is also an additional digestion train that affects steam consumption but does not provide any steam by itself. Waste water is flashed to produce the vapour required for the MVR trains.
 - The sum of the compressors exceeds steam consumption by $8\%$ to ensure that boilers are redundant. 
 	- ~={red}The capacity of the MVR trains are at the limit of what's available in the market.=~ Since we cannot combine two smaller trains into one big train, there may need to be commercial development of larger MVR technology for commercial deployment. 
 - The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. 
@@ -52,6 +52,8 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 
 The MVR is connected in series (10 compressors in series per train). Having this many in series increases the probability of outage.
 - Shaft seals replaced once every two years and bearings require replacement every 10 years.
+
+Modelling 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
