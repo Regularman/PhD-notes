@@ -117,7 +117,8 @@ MVR implementation will also depend heavily on availability and price of firm re
 	2. High TRL
 	3. Power consumption per tonne of steam is lower than e-boilers and hydrogen
 	4. Significant water savings
-2. Need proven perfromance
+2. Need proven performance of 60:1 compressors. The Wagerup refinery will only demonstrate 2:1 compression ratios.
+3. Will need around $220 M to develop MVR technology to the point of commercialisation
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
