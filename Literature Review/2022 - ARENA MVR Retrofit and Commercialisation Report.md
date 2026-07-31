@@ -12,6 +12,8 @@ The MVR unit will take lower pressure steam from the evaporation stage, and comp
 ![[Screenshot 2026-07-31 191702.png]]
 
 However, due to the space required for MVR, it may not be practical for MVR to be installed in all aluminum facilities.
+
+If the technology was applied to all Australian alumina refineries, then the total scope 1 and 2 carbon abated per safeguard facility data would be 9.4 Mtpa.
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
