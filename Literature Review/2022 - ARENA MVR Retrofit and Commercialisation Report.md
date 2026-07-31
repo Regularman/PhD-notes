@@ -115,7 +115,7 @@ Alcoa is also looking into solar thermal substitute for Bayer's process!
 
 Need demonstration project to understand if 
 - designing for only one compressor stopped is justifiable.
-	- One of the problems is the contingency scenario where the last compressor is out of circuit. The upstream compressor's normal operating point has a volume flow 45% higher than the last stage, so if the last stage is out of circuit, then it needs to operate at a significantly different point with a margin from its surge point. This reduces efficiency. The motor also has to be oversized to 
+	- One of the problems is the contingency scenario where the last compressor is out of circuit. The upstream compressor's normal operating point has a volume flow 45% higher than the last stage, so if the last stage is out of circuit, then it needs to operate at a significantly different point with a margin from its surge point. This reduces efficiency. The motor also has to be oversized to accommodate the change in duty.
 - GT-HRSG is necessary to be maintained hot.
 
 
