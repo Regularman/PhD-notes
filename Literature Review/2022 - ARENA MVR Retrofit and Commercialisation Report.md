@@ -50,7 +50,8 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- Additionally evaporation can be turned down to reduce steam load by $56 MW$. The total load reduction is $113 MW$, which is $60\%$ of the $213MW$ of the refinery based power.
 #### Design of MVR for maintenance
 
-The MVR is connected in series (46 compressors). Having this many in series increases the probability of outage.
+The MVR is connected in series (10 compressors in series per train). Having this many in series increases the probability of outage.
+- Shaft seals replaced once every two years and bearings require replacement every 10 years.
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
