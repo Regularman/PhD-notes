@@ -70,9 +70,10 @@ The first 5 compressors are variable speed to ensure flexibility of the flow.
 - As the first stage compressor takes in low pressure, low density vapor, the volumetric flow rate is very high (higher than the ratings on most compressors.)
 	- This means that the first 4 compressors have to be low flow rate, low compression compressors, with half the compression ratio.
 - Compressor is designed with a bypass system so failure of one compressor is okay for the system
-	- Note that compressors have a surge point, where if volume flow drops too low, the pressure head is at a maximum and the flow might reverse. Thus, a surge valve is required to prevent this.
+	- Note that compressors have a surge point, where if volume flow drops too low, the pressure head is at a maximum and the flow might reverse. Thus, a surge valve is required to prevent this. 
+	- Anti-surge valves are also required for startups. Low flow compressors can be s
 - One of the difficulty of the project is selecting a compressor that can operate over a significant volume range as they allow for one compressor to be out of circuit. (Caused additional 3% power consumption and 5% increase in capital cost)
-	- Note that the first 4 compressors int eh MVR train can 
+	- ~={red}Note that the first 4 compressors in the MVR train can participate in ESS services. There is another ARENA project that looks at the ability of MVR to provide MVR services.=~
 
 Flue gas in the calcination phase is very moist. By passing the flue gas through a scrubber where cold water runs counter current to the stack gas, the cooling water gains mass and temperature. This condensate is flashed to produce vapor for MVR and the cooling water is recycled to the scrubber.
 - one problem is that a stack gas may need to be heated for buoyancy, which negated environmental benefits. This study does not consider ~={red}stack gas heating=~, but considers the use of stack fans that is used to increase calciner stack velocity.
