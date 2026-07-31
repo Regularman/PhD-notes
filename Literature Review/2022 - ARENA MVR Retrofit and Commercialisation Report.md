@@ -45,7 +45,8 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 - The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. 
 	- This fixes issue of steam shortage when boilers are down for maintenance.
 - Use a Gas Turbine and Heat Recovery Steam Generator (GT-HRSG) during peak demand and fired to avoid capacity charges on the grid (as MVR is supported by renewables)
-	- At a minimum, this 
+	- At a minimum, this is operated 18 hours per year.
+	- Sized to enable 35MW and 177 tph of steam production $\rightarrow$ this is enable 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
