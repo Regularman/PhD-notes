@@ -37,7 +37,9 @@ Upstream fugitive emissions and mining activities accounts for $3\%$ of the emis
 
 ### System configuration
 
+![[Screenshot 2026-07-31 at 3.30.07 pm.png]]
 
+- The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. They are fired 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
