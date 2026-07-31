@@ -2,7 +2,7 @@ https://arena.gov.au/assets/2022/11/mvr-retrofit-commercialisation-study.pdf
 
 ## Contribution
 
-Looks at the cost of replacing the evaporators at the Wagerup facility in a retrofit, greenfield, and brownfield scenario.
+Looks at the cost of replacing the evaporators at the Wagerup facility in a retrofit, greenfield, and brownfield scenario. Wagerup is a lower temperature alumina refinery.
 
 The MVR unit will take lower pressure steam from the evaporation stage, and compressing the steam to medium pressure steam ($60\times$ pressure). The electricity required for compression is supplied by renewable energy.
 - This removes the opportunity present for power co-generation from boiler steam from the evaporation process.
