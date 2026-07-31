@@ -57,7 +57,7 @@ In high temperature digestion ($270\degree C$), the bayer sludge liquid is flash
 - High temperature Bayer's process is also required at a much higher pressure, $5 MPa$. Therefore, in a low temperature plant, the steam generated from natural gas boilers at a high pressure, can be passed through a co-generation/turbogenerator plant to sell electricity back to the grid. The steam is used at ~600kPa through the Bayer's process.
 	- This cannot be done in high pressure plants due to high pressure requirements
 
-In high temperature Bayer's process, the steam is injected directly into the digesters rather than through heat exchangers. Therefore, there is more evaporation that is needed in the evaporation stage. This is additional heat is provided midway down from the digesti
+In high temperature Bayer's process, the steam is injected directly into the digesters rather than through heat exchangers. Therefore, there is more evaporation that is needed in the evaporation stage. This is additional heat is provided midway down from the digestion flash train.
 #### Waste heat
 
 Waste heat is produced from
@@ -65,6 +65,7 @@ Waste heat is produced from
 - Precipitation
 - Flash cooling of digestion residual from $180\degree C$ to $100-105\degree C$ for clarification
 
+For example, Alcoa's Pinjarra refinery has half of its steam 
 ### Technology advancements
 
 | Technology                                      | Use case                                                                                                                                                                                                                                                  |
