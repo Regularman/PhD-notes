@@ -113,12 +113,15 @@ MVR implementation will also depend heavily on availability and price of firm re
 ### Barriers
 
 1. Quantifying and understanding the benefits of MVR
-	1. Cost of abatement is within the realm of present carbon pricing
+	1. Cost of abatement is within the realm of present carbon pricing, but will need establishment of a strong carbon market.
 	2. High TRL
 	3. Power consumption per tonne of steam is lower than e-boilers and hydrogen
 	4. Significant water savings
 2. Need proven performance of 60:1 compressors. The Wagerup refinery will only demonstrate 2:1 compression ratios.
 3. Will need around $220 M to develop MVR technology to the point of commercialisation
+4. Will require 1.2GW of renewables in a way that will not constrain the grid
+5. Volatility to power pricing
+
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
