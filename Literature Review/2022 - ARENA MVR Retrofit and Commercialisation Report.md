@@ -35,6 +35,8 @@ Upstream fugitive emissions and mining activities accounts for $3\%$ of the emis
 | Biomass           |                                                                                                                                                                         | Not sustainable for the amount of biomass required to fuel aluminium production.                                                                                                                         |
 ## Wagerup case study
 
+### System configuration
+
 
 ## Research Gap
 
