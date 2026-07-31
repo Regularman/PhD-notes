@@ -33,6 +33,8 @@ Upstream fugitive emissions and mining activities accounts for $3\%$ of the emis
 | Geothermal        |                                                                                                                                                                         | High cost, technically limited.                                                                                                                                                                          |
 | Energy from waste | Look at Kwinana waste to energy project.                                                                                                                                | Highly site specific                                                                                                                                                                                     |
 | Biomass           |                                                                                                                                                                         | Not sustainable for the amount of biomass required to fuel aluminium production.                                                                                                                         |
+## Wagerup case study
+
 
 ## Research Gap
 
