@@ -39,7 +39,9 @@ Upstream fugitive emissions and mining activities accounts for $3\%$ of the emis
 
 ![[Screenshot 2026-07-31 at 3.30.07 pm.png]]
 
-- The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. They are fired 
+There are 4 MVR trains that are used to deliver steam to existing refinery processes. There is also an additional digestion train that affects steam consumption but does not provide any steam by itself.
+-
+- The three existing boilers are decommissioned and put into long term hibernation to preserve integrity. They are fired up dur
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
