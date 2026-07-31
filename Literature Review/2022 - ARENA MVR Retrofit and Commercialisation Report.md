@@ -51,7 +51,7 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- Sized to enable 35MW and 177 tph of steam production $\rightarrow$ this is equivalent to a 40MW load reduction in the MVR train
 	- Additionally evaporation can be turned down to reduce steam load by $56 MW$. The total load reduction is $113 MW$, which is $60\%$ of the $213MW$ of the refinery based power.
 
-The sy
+The system pressure is 880kPaA, matching the existing live steam system.
 #### Design of MVR=
 
 The MVR is connected in series (10 compressors in series per train). Having this many in series increases the probability of outage.
