@@ -8,6 +8,8 @@ The MVR unit will take lower pressure steam from the evaporation stage, and comp
 - This removes the opportunity present for power co-generation from boiler steam from the evaporation process.
 - However, due to this, the cost of high temperature and low temperature MVR actually ends up being the same.
 - The fact that high temperature refinery does not need new electrical connection makes a significant difference to import power requirements.
+
+![[Screenshot 2026-07-31 191702.png]]
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
