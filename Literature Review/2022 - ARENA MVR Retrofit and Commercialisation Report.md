@@ -58,7 +58,8 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- At a minimum, this is operated 18 hours per year.
 	- Sized to enable 35MW and 177 tph of steam production $\rightarrow$ this is equivalent to a 40MW load reduction in the MVR train
 	- Additionally evaporation can be turned down to reduce steam load by $56 MW$. The total load reduction is $113 MW$, which is $60\%$ of the $213MW$ of the refinery based power.
-	- It is maintained hot for quick start, achieved by maintaining the steam drum at live steam pressur 
+	- It is maintained hot for quick start, achieved by maintaining the steam drum at live steam pressure
+	- This GT-HRSG is a back up from legacy asset. Therefore, greenfield developments will not have this benefit.
 
 The system pressure is 880kPaA, matching the existing live steam system.
 #### Design of MVR
