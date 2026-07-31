@@ -65,7 +65,7 @@ Waste heat is produced from
 - Precipitation
 - Flash cooling of digestion residual from $180\degree C$ to $100-105\degree C$ for clarification
 
-For example, Alcoa's Pinjarra refinery has half of its steam 
+For example, Alcoa's Pinjarra refinery has half of its steam from the waste heat of its gas turbine.
 ### Technology advancements
 
 | Technology                                      | Use case                                                                                                                                                                                                                                                  |
