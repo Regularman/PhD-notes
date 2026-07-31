@@ -37,4 +37,8 @@ The design risks encountered were blamed on delay in issuing the scope of work, 
 
 ![[Screenshot 2026-07-31 203425.png]]
 
-## Final Lessons lear
+## Final Lessons learnt
+
+- Insufficient rigours in gate reviews
+- Need to conduct probabilistic analysis to account for discrete risk events in $P_10-90$ scenarios.
+- Multiple contractors complicated
