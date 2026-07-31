@@ -71,7 +71,11 @@ Flue gas in the calcination phase is very moist. By passing the flue gas through
 - one problem is that a stack gas may need to be heated for buoyancy, which negated environmental benefits. This study does not consider ~={red}stack gas heating=~, but considers the use of stack fans that is used to increase calciner stack velocity.
 - Some studies indicates that stack gas velocity is more important than temperature
 
-### 
+## Imported Renewable Energy
+
+213 MW of imported power is required for normal operation, which is equal to 1700 GWh per year.
+
+Currently connected to the 132kV system, but can now connect to the 330kV SWIS 
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
