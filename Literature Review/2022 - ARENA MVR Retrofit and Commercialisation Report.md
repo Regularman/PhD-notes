@@ -112,7 +112,12 @@ MVR implementation will also depend heavily on availability and price of firm re
 
 ### Barriers
 
-
+1. Quantifying and understanding the benefits of MVR
+	1. Cost of abatement is within the realm of present carbon pricing
+	2. High TRL
+	3. Power consumption per tonne of steam is lower than e-boilers and hydrogen
+	4. Significant water savings
+2. Need proven perfromance
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
