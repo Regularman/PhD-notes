@@ -75,7 +75,8 @@ Flue gas in the calcination phase is very moist. By passing the flue gas through
 
 213 MW of imported power is required for normal operation, which is equal to 1700 GWh per year.
 
-Currently connected to the 132kV system, but can now connect to the 330kV SWIS 
+Currently connected to the 132kV system, but has a 330kV system that connects to the SWIS grid with access by negotiation.
+- Feeds into 3x 100MVA 330/22 kV transformers, one of which is redundant.
 ## Research Gap
 
 Uses 2 compressors in series and needs to be scaled up to a large-scale demonstration project. The technology have not been proven to power a high temperature process
