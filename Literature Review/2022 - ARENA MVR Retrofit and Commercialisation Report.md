@@ -61,7 +61,9 @@ There are 4 MVR trains that are used to deliver steam to existing refinery proce
 	- It is maintained hot for quick start, achieved by maintaining the steam drum at live steam pressure
 	- This GT-HRSG is a back up from legacy asset. Therefore, greenfield developments will not have this benefit.
 
-The system pressure is 880kPaA, matching the existing live steam system.
+Note that there is a coincidence of solar with high grid capacity charges. Therefore, solar power provides little contribution ot the 
+
+The system pressure is 880kPaA, matching the existing live steam system. In high temperature refineries this can go up to $2600kPa.
 #### Design of MVR
 
 The MVR is connected in series (10 compressors in series per train). Having this many in series increases the probability of outage.
