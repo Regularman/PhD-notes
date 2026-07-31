@@ -3,6 +3,8 @@ https://arena.gov.au/assets/2022/11/mvr-retrofit-commercialisation-study.pdf
 ## Contribution
 
 Looks at the cost of replacing the evaporators at the Wagerup facility in a retrofit, greenfield, and brownfield scenario.
+
+-The MVR unit will tak
 ## Content
 
 Estimates that displacement of fossil fuels used in the Bayer process will reduce emissions by approximately 10MT CO2-e per annum. 
