@@ -72,10 +72,15 @@ The MVR is connected in series (10 compressors in series per train). Having this
 - Shaft seals replaced once every two years and bearings require replacement every 10 years.
 - Installed additional heat exchangers for redundancy
 
+
+
 ![[Screenshot 2026-07-31 at 4.33.57 pm.png|555]]
+
 ![[Screenshot 2026-07-31 at 4.44.15 pm.png|557]]
+
 ![[Screenshot 2026-07-31 at 4.49.00 pm.png|558]]
- 
+
+ Note that in the digestion blow off steam, there may be mud within the vapour, and it needs to be scrub before being passed through the MVR.
 ~={red}Modelling is done for peak refinery capacity=~
 
 The first 5 compressors are variable speed to ensure flexibility of the flow.
