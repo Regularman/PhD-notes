@@ -310,4 +310,5 @@ Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella
 
 Table 15 provides a summary of the processes that needs to be decarbonised in the various industries.
 - ~={red}There is a research hap in the heating demands of commercial and service sector (61 PJ/year in 2018 to 2019)=~
+- Geographically based energy analysis for the larger heating consumers across Australia would be informative (Can start from the National Pollution Inventory), but will require more detailed GIS data
 
