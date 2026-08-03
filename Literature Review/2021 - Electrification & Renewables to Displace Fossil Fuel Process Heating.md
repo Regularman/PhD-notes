@@ -317,7 +317,7 @@ Table 15 provides a summary of the processes that needs to be decarbonised in th
 
 ## Technologies by TRL Levels
 
-Focus has been placed on process heat applications from $95 \degree C$ 
+Focus has been placed on process heat applications from $95-250 \degree C$ 
 
 |     |     |
 | --- | --- |
