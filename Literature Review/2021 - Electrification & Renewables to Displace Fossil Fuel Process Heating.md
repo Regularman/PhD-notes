@@ -309,7 +309,8 @@ Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella
 ## Gaps and potential research directions
 
 Table 15 provides a summary of the processes that needs to be decarbonised in the various industries.
-- ~={red}There is a research hap in the heating demands of commercial and service sector (61 PJ/year in 2018 to 2019)=~
+- ~={red}There is a research gap in the heating demands of commercial and service sector (61 PJ/year in 2018 to 2019)=~
 - Geographically based energy analysis for the larger heating consumers across Australia would be informative (Can start from the National Pollution Inventory), but will require more detailed GIS data
 - Load profile assessment of batch-orientated industry affected by plant capacity factors, shift cycles, and market demand.
+- There are also a lot of industry with lower process uniformity that requires more complex methodology to analyse their heating demands and consumption patterns.
 
