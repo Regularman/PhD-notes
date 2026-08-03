@@ -323,7 +323,7 @@ Focus has been placed on process heat applications from $95-250 \degree C$
 | -------------- | -------------------- | ------------------------------------------------------------------------------------------- |
 | Green Diesel   | $74/GJ               |                                                                                             |
 | Green Hydrogen | $50/GJ               | Natural gas pipelines are able to store months of energy demand and up to 20% hydrogen mix. |
-| Green methane  |                      |                                                                                             |
+| Green methane  |                      | Can be injected into gas grids without any concentration limits                             |
 |                |                      |                                                                                             |
 
 
