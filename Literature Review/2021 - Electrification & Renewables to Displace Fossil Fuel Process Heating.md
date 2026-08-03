@@ -326,7 +326,7 @@ Focus has been placed on process heat applications from $95-250 \degree C$
 | Green methane               |     |                      | Can be injected into gas grids without any concentration limits                             |
 | Adsorption Heat Pumps       |     |                      |                                                                                             |
 | Absorption heat pumps       |     |                      |                                                                                             |
-| Mechanical Heat Pumps       |     |                      |                                                                                             |
+| Mechanical Heat Pumps       |     |                      | The use of heat pumps are limited by the                                                    |
 | Open cycle MVR              |     |                      |                                                                                             |
 | Thermal Vapor recompression |     |                      |                                                                                             |
 
