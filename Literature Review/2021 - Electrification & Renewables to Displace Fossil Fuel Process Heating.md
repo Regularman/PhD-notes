@@ -305,3 +305,5 @@ There may also be gas fueled heating and cooking in the hospital kitchens.
 Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella growth.
 
 ### Technology Advancement
+
+## Content
