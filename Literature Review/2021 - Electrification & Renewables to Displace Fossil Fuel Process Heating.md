@@ -313,6 +313,6 @@ Table 15 provides a summary of the processes that needs to be decarbonised in th
 - Geographically based energy analysis for the larger heating consumers across Australia would be informative (Can start from the National Pollution Inventory), but will require more detailed GIS data
 - Load profile assessment of batch-orientated industry affected by plant capacity factors, shift cycles, and market demand.
 - There are also a lot of industry with lower process uniformity that requires more complex methodology to analyse their heating demands and consumption patterns.
-- Furthermore, although energy efficiency is one of the top strategies for carbon emissions reduction, there are not enough literature to support energy efficiency improvements in the Australian manufacturing
+- Furthermore, although energy efficiency is one of the top strategies for carbon emissions reduction, there are not enough literature to support energy efficiency improvements in the Australian manufacturing (such as through pinch analysis)
 - 
 
