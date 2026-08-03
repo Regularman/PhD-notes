@@ -309,5 +309,5 @@ Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella
 ## Content
 
 Table 15 provides a summary of the processes that needs to be decarbonised in the various industries.
-- ~={red}There is a research hap in the heating demands of commercial and service sector (61 PJ/year)=~
+- ~={red}There is a research hap in the heating demands of commercial and service sector (61 PJ/year in 2018 to 2019)=~
 
