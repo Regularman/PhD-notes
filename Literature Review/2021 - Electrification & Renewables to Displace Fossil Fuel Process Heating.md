@@ -307,3 +307,5 @@ Note that hot water has to be supplied at $60-80\degree C$ to prevent legionella
 ### Technology Advancement
 
 ## Content
+
+Table 15 provides a summary of the processes that needs to be decarbonised in the various industries.
