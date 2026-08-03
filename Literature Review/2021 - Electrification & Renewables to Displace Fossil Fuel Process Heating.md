@@ -319,8 +319,9 @@ Table 15 provides a summary of the processes that needs to be decarbonised in th
 
 Focus has been placed on process heat applications from $95-250 \degree C$ 
 
-| Fuel         | Current Price (2021) | Barriers |
-| ------------ | -------------------- | -------- |
-| Green Diesel |                      |          |
+| Fuel           | Current Price (2021) | Barriers                                                                                   |
+| -------------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| Green Diesel   | $74/GJ               |                                                                                            |
+| Green Hydrogen | $50/GJ               | Natual gas pipelines are able to store months of energy demand and up to 20% hydrogen mix. |
 
 
