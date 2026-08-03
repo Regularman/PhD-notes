@@ -314,5 +314,13 @@ Table 15 provides a summary of the processes that needs to be decarbonised in th
 - Load profile assessment of batch-orientated industry affected by plant capacity factors, shift cycles, and market demand.
 - There are also a lot of industry with lower process uniformity that requires more complex methodology to analyse their heating demands and consumption patterns.
 - Furthermore, although energy efficiency is one of the top strategies for carbon emissions reduction, there are not enough literature to support energy efficiency improvements in the Australian manufacturing (such as through pinch analysis)
-- 
+
+## Technologies by TRL Levels
+
+Focus has been placed on process heat applications from $95 \degree C$ 
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
