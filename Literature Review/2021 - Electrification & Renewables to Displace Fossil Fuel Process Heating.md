@@ -319,11 +319,14 @@ Table 15 provides a summary of the processes that needs to be decarbonised in th
 
 Focus has been placed on process heat applications from $95-250 \degree C$ 
 
-| Fuel           | TRL | Current Price (2021) | Barriers                                                                                    |
-| -------------- | --- | -------------------- | ------------------------------------------------------------------------------------------- |
-| Green Diesel   |     | $74/GJ               |                                                                                             |
-| Green Hydrogen |     | $50/GJ               | Natural gas pipelines are able to store months of energy demand and up to 20% hydrogen mix. |
-| Green methane  |     |                      | Can be injected into gas grids without any concentration limits                             |
-| Heat Pumps     |     |                      |                                                                                             |
+| Fuel                  | TRL | Current Price (2021) | Barriers                                                                                    |
+| --------------------- | --- | -------------------- | ------------------------------------------------------------------------------------------- |
+| Green Diesel          |     | $74/GJ               |                                                                                             |
+| Green Hydrogen        |     | $50/GJ               | Natural gas pipelines are able to store months of energy demand and up to 20% hydrogen mix. |
+| Green methane         |     |                      | Can be injected into gas grids without any concentration limits                             |
+| Adsorption Heat Pumps |     |                      |                                                                                             |
+| Absorption heat pumps |     |                      |                                                                                             |
+| Mechanical Heat Pumps |     |                      |                                                                                             |
+| Open cycle MVR        |     |                      |                                                                                             |
 
 
