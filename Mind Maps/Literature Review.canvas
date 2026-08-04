@@ -95,7 +95,8 @@
 		{"id":"856b5da770f3fec9","type":"text","text":"# ~={cyan}CHP Cogeneration=~\nhttps://www.youtube.com/watch?v=2aVbxn5c6zo\n\nCaptures waste heat from power generation, so that the energy capture goes from 30% to 85% in CHP.\n\nCan be powered by biomethane, hydrogen, or natural gas.\n\n1. Fuel input mixed with air creates flue gas that powers the generation turbine, producing electricity. Only a third of the total energy is used\n2. The residual flue gas then can go into another steam turbine (aided by an additional boiler) to create more electricity\n3. Residual waste heat uses heat exchangers to go into the district heating network\n\n- Waste heat is captured ","x":-3944,"y":-161,"width":250,"height":81,"color":"5"},
 		{"id":"5d91b87965e283e4","x":-4564,"y":-705,"width":400,"height":149,"color":"5","type":"file","file":"PhD-notes/Literature Review/2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating  - RACE 2030.md"},
 		{"id":"239b241930bb4faf","x":-4457,"y":-453,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}TRL=~"},
-		{"id":"04e2dde29adde56b","x":-5075,"y":-181,"width":250,"height":61,"color":"5","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$"}
+		{"id":"04e2dde29adde56b","x":-5075,"y":-181,"width":250,"height":61,"color":"5","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$"},
+		{"id":"eefbe58a20a3bb00","x":-4396,"y":40,"width":250,"height":206,"color":"5","type":"text","text":"# ~={cyan}Biogas=~\n\n"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -183,6 +184,7 @@
 		{"id":"a40946aa973906b7","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"856b5da770f3fec9","toSide":"top"},
 		{"id":"c631235b4816730f","fromNode":"5586e5a01ed1442c","fromSide":"top","toNode":"239b241930bb4faf","toSide":"bottom"},
 		{"id":"26d7b43cbc8e408a","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"5d91b87965e283e4","toSide":"bottom"},
-		{"id":"6dae7304690a846d","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"04e2dde29adde56b","toSide":"top"}
+		{"id":"6dae7304690a846d","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"04e2dde29adde56b","toSide":"top"},
+		{"id":"c484346deec84815","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"eefbe58a20a3bb00","toSide":"top"}
 	]
 }
