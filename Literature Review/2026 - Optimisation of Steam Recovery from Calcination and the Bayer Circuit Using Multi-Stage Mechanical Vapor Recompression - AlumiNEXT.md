@@ -20,14 +20,16 @@ This has the potential to remove 70% of carbon emissions from industry.
 The study shows that hydrogen oxy-steam calcination is different from fully electrified calcination. This is as the steam has a high concentration compared to using natural gas air combustion, which is diluted with nitrogen.
 
 The paper also investigates novel configuration to remove fine particles in the waste steam after calcination process.
-
 ## MVR system
 
 Note that you have to spray desuperheated water after each stage of compression in the MVR when arranged in series.
 
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
+| Bayer Process Section | Specific Steam production | Pressure | MVR technology applied |
+| --------------------- | ------------------------- | -------- | ---------------------- |
+| Calcination           |                           |          |                        |
+| Digestion             |                           |          |                        |
+| Evaporation           |                           |          |                        |
+|                       |                           |          |                        |
 
 ## Results
