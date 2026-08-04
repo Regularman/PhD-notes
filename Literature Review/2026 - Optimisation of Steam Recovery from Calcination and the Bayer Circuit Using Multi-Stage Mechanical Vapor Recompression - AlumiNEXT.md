@@ -24,6 +24,7 @@ The paper also investigates novel configuration to remove fine particles in the 
 
 Note that you have to spray desuperheated water after each stage of compression in the MVR when arranged in series.
 
+Note that the required steam is required to be at $200\degree C$ and a pressure of 8 bar. 
 
 | Bayer Process Section | Specific Steam production ($t_{steam}/t_{Al_2O_3}$) | Pressure (bar) | Temperature ($\degree C$) | MVR technology applied                                                                                                                                                                                                                        |
 | --------------------- | --------------------------------------------------- | -------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
