@@ -48,4 +48,6 @@ Ultimately showed different scenarios different scenarios where steam recovery i
 
 This is all good and well but Alcoa showed that we need to demonstrate the implementation of this technology at the commercial level for this to be successful.
 
-Performed sensitivity analysis to show the LCOH of the MVR system under different renewable energy and 
+Performed sensitivity analysis to show the LCOH of the MVR system under different renewable energy and gas prices.
+
+The end date of the HILT CRC program is 2027.
