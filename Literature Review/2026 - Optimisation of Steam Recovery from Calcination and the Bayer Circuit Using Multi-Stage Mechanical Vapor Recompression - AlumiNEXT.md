@@ -41,3 +41,9 @@ Ultimately showed different scenarios different scenarios where steam recovery i
 ![[Screenshot 2026-08-04 151316.png]]
 
 ![[Screenshot 2026-08-04 151329.png|681]]
+
+![[Screenshot 2026-08-04 151419.png|683]]
+
+## Limitation
+
+This is all good and well but Alcoa showed that we need to 
