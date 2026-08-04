@@ -77,15 +77,17 @@
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3100,"width":400,"height":194,"color":"4"},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4678,"y":-2060,"width":400,"height":145,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4678,"y":-1868,"width":400,"height":148,"color":"4"},
-		{"id":"5586e5a01ed1442c","type":"text","text":"# ~={cyan}Existing Technology=~","x":-4498,"y":-214,"width":360,"height":50,"color":"5"},
 		{"id":"5dbaa7a55e4b5977","type":"text","text":"# ~={cyan}Heat Pumps=~","x":-4627,"y":-11,"width":250,"height":60,"color":"5"},
-		{"id":"cd5473ad32616f70","type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md","x":-4478,"y":400,"width":400,"height":140,"color":"5"},
-		{"id":"9bfdc059e28f01fe","type":"file","file":"PhD-notes/Literature Review/2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA.md","x":-5027,"y":396,"width":400,"height":144,"color":"5"},
-		{"id":"fdb5ab866feb1b95","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-4478,"y":640,"width":400,"height":128,"color":"5"},
-		{"id":"e47fa27b3abb004a","type":"file","file":"PhD-notes/Literature Review/2016 - Energetically optimised concentration of fruit juices.md","x":-3960,"y":680,"width":400,"height":128},
 		{"id":"b553b504c6bb897e","type":"file","file":"PhD-notes/Literature Review/2022 - Advancing control and forecasting algorithm (ACFA) for thermal energy storage at a winery - case study.md","x":-3600,"y":472,"width":400,"height":136},
 		{"id":"40eb9bdce15a355b","type":"text","text":"# ~={cyan}Thermal Storage=~\n","x":-4144,"y":-29,"width":250,"height":60,"color":"5"},
-		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4000,"y":160,"width":400,"height":134,"color":"5"}
+		{"id":"50f6e035972065f9","x":-4543,"y":216,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}MVR=~"},
+		{"id":"cd5473ad32616f70","type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md","x":-4278,"y":396,"width":400,"height":140,"color":"5"},
+		{"id":"fdb5ab866feb1b95","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-4278,"y":608,"width":400,"height":128,"color":"5"},
+		{"id":"e47fa27b3abb004a","type":"file","file":"PhD-notes/Literature Review/2016 - Energetically optimised concentration of fruit juices.md","x":-4294,"y":800,"width":400,"height":128,"color":"5"},
+		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-3920,"y":112,"width":400,"height":134,"color":"5"},
+		{"id":"9bfdc059e28f01fe","type":"file","file":"PhD-notes/Literature Review/2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA.md","x":-5240,"y":216,"width":400,"height":144,"color":"5"},
+		{"id":"5586e5a01ed1442c","type":"text","text":"# ~={cyan}Existing Technology=~","x":-4504,"y":-200,"width":360,"height":50,"color":"5"},
+		{"id":"958398e088e7d226","x":-4524,"y":-644,"width":400,"height":124,"color":"5","type":"file","file":"PhD-notes/Literature Review/2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -161,8 +163,11 @@
 		{"id":"c1b1ee37fe40fcd7","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"780e6fada12ecd86","toSide":"top"},
 		{"id":"7cf11475d35279af","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"5dbaa7a55e4b5977","toSide":"top"},
 		{"id":"7c8c67b460fc1b22","fromNode":"5dbaa7a55e4b5977","fromSide":"bottom","toNode":"9bfdc059e28f01fe","toSide":"top"},
-		{"id":"04b89ca900bd6e1b","fromNode":"5dbaa7a55e4b5977","fromSide":"bottom","toNode":"cd5473ad32616f70","toSide":"top"},
 		{"id":"4b618d9333444bf7","fromNode":"cd5473ad32616f70","fromSide":"bottom","toNode":"fdb5ab866feb1b95","toSide":"top"},
-		{"id":"be575aa5f30e37bc","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"40eb9bdce15a355b","toSide":"top"}
+		{"id":"be575aa5f30e37bc","fromNode":"5586e5a01ed1442c","fromSide":"bottom","toNode":"40eb9bdce15a355b","toSide":"top"},
+		{"id":"b3464844742b8d96","fromNode":"5dbaa7a55e4b5977","fromSide":"bottom","toNode":"50f6e035972065f9","toSide":"top"},
+		{"id":"9d3a76f999c78cc9","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"e47fa27b3abb004a","toSide":"left"},
+		{"id":"80ec28fdd0771cb2","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"cd5473ad32616f70","toSide":"left"},
+		{"id":"4c9318a5504fb688","fromNode":"40eb9bdce15a355b","fromSide":"bottom","toNode":"a513ff4aeb224797","toSide":"left"}
 	]
 }
