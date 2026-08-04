@@ -351,4 +351,4 @@ Looking at low TRL technology, we can look at
 - Magnetocaloric, electrocaloric or electrocaloric materials, which are materials with an induced temperature change when magnetic, electric, or stress fields are applied. These materials are no readily available but have no moving parts. These materials may usher in heat pumps with higher overall performance and cost.
 - Hybrid absorption compression cycles
 
-We are only looking at improvements in heat pumps and thermal storage technologies.
+We are only looking at improvements in heat pumps and thermal storage technologies.+
