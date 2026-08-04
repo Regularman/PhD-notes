@@ -31,5 +31,6 @@ Note that you have to spray desuperheated water after each stage of compression 
 | Digestion             | 0.16                                                | 1.1            | 102                       | There are multiple flash tanks, with the last flash tank having the vapor of the lowest pressure and energy. 4 stage MVR.                                                                                                                     |
 | Evaporation           | 0.59                                                | 0.14           | 52                        | Water vapor within the aluminum ore is evaporated for calcination. 8 stage MVR.                                                                                                                                                               |
 | Precipitation         | 0.35                                                | 0.14           | 52                        | Warmed cooling water is flashed to obtain the steam. 8 stage MVR.                                                                                                                                                                             |
+![[Screenshot 2026-08-04 150726.png]]
 
 ## Results
