@@ -25,11 +25,11 @@ The paper also investigates novel configuration to remove fine particles in the 
 Note that you have to spray desuperheated water after each stage of compression in the MVR when arranged in series.
 
 
-| Bayer Process Section | Specific Steam production | Pressure | MVR technology applied |
-| --------------------- | ------------------------- | -------- | ---------------------- |
-| Calcination           |                           |          |                        |
-| Digestion             |                           |          |                        |
-| Evaporation           |                           |          |                        |
-|                       |                           |          |                        |
+| Bayer Process Section | Specific Steam production ($t_{steam}) | Pressure (bar) | Temperature ($\degree C$) | MVR technology applied |
+| --------------------- | -------------------------------------- | -------------- | ------------------------- | ---------------------- |
+| Calcination           | 0.6                                    | 1.1            | 102                       |                        |
+| Digestion             |                                        |                |                           |                        |
+| Evaporation           |                                        |                |                           |                        |
+| Precipitation         |                                        |                |                           |                        |
 
 ## Results
