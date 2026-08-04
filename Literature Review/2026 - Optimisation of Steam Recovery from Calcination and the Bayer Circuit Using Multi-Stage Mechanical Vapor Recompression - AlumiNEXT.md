@@ -29,7 +29,7 @@ Note that you have to spray desuperheated water after each stage of compression 
 | --------------------- | --------------------------------------------------- | -------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Calcination           | 0.75-0.8                                            | 1.06           | 165                       |                                                                                                             |
 | Digestion             | 0.16                                                | 1.1            | 102                       | There are multiple flash tanks, with the last flash tank having the vapor of the lowest pressure and energy |
-| Evaporation           | 0.59                                                | 0.14           | 52                        |                                                                                                             |
-| Precipitation         | 0.35                                                | 0.14           | 52                        |                                                                                                             |
+| Evaporation           | 0.59                                                | 0.14           | 52                        | Water vapor within the aluminum ore is evaporated for calcination                                           |
+| Precipitation         | 0.35                                                | 0.14           | 52                        | Warmed cooling water is flashed to obtain the steam                                                         |
 
 ## Results
