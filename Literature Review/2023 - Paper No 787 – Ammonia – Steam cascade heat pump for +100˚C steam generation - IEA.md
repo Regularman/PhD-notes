@@ -21,7 +21,7 @@ Uses natural refrigerants ammonia and $CO_2$ to achieve higher efficiencies. Amm
 	- Kigali agreement: 2016 UN agreed that refrigerants with high GWP should be banned
 ## Content
 
-There is a hierarchy to heat decarbonisation solution suggested by the paper. This is also suggested in [[2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating]]
+There is a hierarchy to heat decarbonisation solution suggested by the paper. This is also suggested in [[2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating  - RACE 2030]]
 
 1. Energy efficiency 
 2. Heat recycling
