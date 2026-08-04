@@ -37,3 +37,7 @@ Note that the required steam is required to be at $200\degree C$ and a pressure 
 ## Results
 
 Ultimately showed different scenarios different scenarios where steam recovery is applied onto all processes or just the calcination process.
+
+![[Screenshot 2026-08-04 151316.png]]
+
+![[Screenshot 2026-08-04 151329.png|681]]
