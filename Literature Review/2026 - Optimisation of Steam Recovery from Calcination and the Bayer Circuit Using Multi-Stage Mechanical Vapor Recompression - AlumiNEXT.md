@@ -21,5 +21,13 @@ The study shows that hydrogen oxy-steam calcination is different from fully elec
 
 The paper also investigates novel configuration to remove fine particles in the waste steam after calcination process.
 
+## MVR system
+
 Note that you have to spray desuperheated water after each stage of compression in the MVR when arranged in series.
+
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+
 ## Results
