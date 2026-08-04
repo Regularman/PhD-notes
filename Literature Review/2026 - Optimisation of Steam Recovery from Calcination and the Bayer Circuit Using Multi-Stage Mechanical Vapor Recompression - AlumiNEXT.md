@@ -25,11 +25,11 @@ The paper also investigates novel configuration to remove fine particles in the 
 Note that you have to spray desuperheated water after each stage of compression in the MVR when arranged in series.
 
 
-| Bayer Process Section | Specific Steam production ($t_{steam}/t_{Al_2O_3}$) | Pressure (bar) | Temperature ($\degree C$) | MVR technology applied                                                                                      |
-| --------------------- | --------------------------------------------------- | -------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Calcination           | 0.75-0.8                                            | 1.06           | 165                       |                                                                                                             |
-| Digestion             | 0.16                                                | 1.1            | 102                       | There are multiple flash tanks, with the last flash tank having the vapor of the lowest pressure and energy |
-| Evaporation           | 0.59                                                | 0.14           | 52                        | Water vapor within the aluminum ore is evaporated for calcination                                           |
-| Precipitation         | 0.35                                                | 0.14           | 52                        | Warmed cooling water is flashed to obtain the steam                                                         |
+| Bayer Process Section | Specific Steam production ($t_{steam}/t_{Al_2O_3}$) | Pressure (bar) | Temperature ($\degree C$) | MVR technology applied                                                                                                               |
+| --------------------- | --------------------------------------------------- | -------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Calcination           | 0.75-0.8                                            | 1.06           | 165                       | Steam is generated from fuel combustion and dehydration step. In electrified/$H_2$ calcination steps, an 8 stage MVR system was used |
+| Digestion             | 0.16                                                | 1.1            | 102                       | There are multiple flash tanks, with the last flash tank having the vapor of the lowest pressure and energy                          |
+| Evaporation           | 0.59                                                | 0.14           | 52                        | Water vapor within the aluminum ore is evaporated for calcination                                                                    |
+| Precipitation         | 0.35                                                | 0.14           | 52                        | Warmed cooling water is flashed to obtain the steam                                                                                  |
 
 ## Results
