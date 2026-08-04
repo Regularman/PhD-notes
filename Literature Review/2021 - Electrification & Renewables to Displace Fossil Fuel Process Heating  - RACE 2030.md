@@ -345,4 +345,7 @@ Focus has been placed on process heat applications from $95-250 \degree C$
 | PCM - TES                    |                                                                                                                                                                                                                                                                                                                                                                                                 | Need to look into the development of phase changing TES. Also using liquidefied air as a storage medium, and look into the trends for thermochemical TES.                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 Looking at low TRL technology, we can look at 
-- Acoustic heat pump, which has no moving parts
+- Acoustic heat pump, which has no moving parts and employs noble gases without phase changes
+- Thermochemical TES
+- Higher COP heat pumps
+- Magnetocaloics, electrocaloric or elastocaloric mateirals, which are materials with an induced temper
