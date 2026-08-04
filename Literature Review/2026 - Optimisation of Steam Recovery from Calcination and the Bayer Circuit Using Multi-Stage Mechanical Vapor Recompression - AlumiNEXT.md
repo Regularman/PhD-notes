@@ -35,3 +35,5 @@ Note that the required steam is required to be at $200\degree C$ and a pressure 
 ![[Screenshot 2026-08-04 150726.png]]
 
 ## Results
+
+Ultimately showed different scenarios different scenarios where steam
