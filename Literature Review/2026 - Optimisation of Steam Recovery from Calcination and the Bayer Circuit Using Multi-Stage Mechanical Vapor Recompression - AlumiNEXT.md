@@ -46,4 +46,4 @@ Ultimately showed different scenarios different scenarios where steam recovery i
 
 ## Limitation
 
-This is all good and well but Alcoa showed that we need to 
+This is all good and well but Alcoa showed that we need to demonstrate the implementation of this technology at the commercial level for this to be successful.
