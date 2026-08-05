@@ -21,3 +21,5 @@ However, the report states that the use of gas means that more of the hydrocarbo
 - Natural gas is also consume in gas turbines at production facilities that drives compressors for pipeline transport. But this is not a heat process and therefore not within the scope of this study. However, are there opportunities here to switch to CHP?
 
 When looking at natural gas and oil manufacturing, need to account for the decrease in demand due to shift away from fossil fuel. (What is their projected production capacity going into the future?)
+
+### Technology advancements
