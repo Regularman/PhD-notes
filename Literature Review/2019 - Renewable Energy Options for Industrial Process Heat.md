@@ -24,4 +24,6 @@ When looking at natural gas and oil manufacturing, need to account for the decre
 
 ### Technology advancements
 
-- Use of solar thermal for amien absorption to scrub 
+- Use of solar thermal for amine absorption to scrub CO2 from the natural gas
+- Use of electric compressors for pipeline transport and solar thermal for the amine absorption process
+- 
