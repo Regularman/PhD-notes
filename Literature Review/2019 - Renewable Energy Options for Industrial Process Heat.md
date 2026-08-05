@@ -23,3 +23,5 @@ However, the report states that the use of gas means that more of the hydrocarbo
 When looking at natural gas and oil manufacturing, need to account for the decrease in demand due to shift away from fossil fuel. (What is their projected production capacity going into the future?)
 
 ### Technology advancements
+
+- Use of solar thermal for amien absorption to scrub 
