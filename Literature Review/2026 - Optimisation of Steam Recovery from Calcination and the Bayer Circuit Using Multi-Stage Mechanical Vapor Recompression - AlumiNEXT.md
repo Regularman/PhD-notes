@@ -1,5 +1,8 @@
 
 https://link.springer.com/chapter/10.1007/978-3-032-13832-3_17
+
+This is the paper from ARENA AlumniNext project
+
 ## Contribution
 
 Shows that 100% of the steam supply can potentially be met via internal recovery
