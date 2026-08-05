@@ -26,4 +26,5 @@ When looking at natural gas and oil manufacturing, need to account for the decre
 
 - Use of solar thermal for amine absorption to scrub CO2 from the natural gas
 - Use of electric compressors for pipeline transport and solar thermal for the amine absorption process
-- 
+- Use of electric driven membrane technology to replace amine absorption
+- Use of microwave for heating to regenerate amines still in experimental phase
