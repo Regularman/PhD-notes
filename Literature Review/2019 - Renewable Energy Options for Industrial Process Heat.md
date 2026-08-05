@@ -8,7 +8,8 @@ The number of oil and gas refinery has decreases from 8 to 4 from 2004 to 2019.
 - Geelong
 - Brisbane
 
-The paper should avoid discussing of investment in renewable energy facilities for natural gas processing as society is trying to shift away from these fuels
+The paper should avoid discussing of investment in renewable energy facilities for natural gas processing as society is trying to shift away from these fuels. Furthermore, investment in these facilities will displace potential for biofuels to come into play for other technologies.
+- Main emissions is through the combustion of these natural gas. Electrification of transport, and the use of drop in fuel will be essential to shift demand away from the sector.
 
 These plants primarily use natural gas as fuel for medium temperature processes
 - crude oil distillation 
