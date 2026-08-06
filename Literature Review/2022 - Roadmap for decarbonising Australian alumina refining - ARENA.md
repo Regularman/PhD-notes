@@ -8,4 +8,4 @@ Also discusses
 - Electric calcination
 - hydrogen calcination
 
-Highlights that a combination of these technologies will allow 
+Highlights that a combination of these technologies will allow up to 98% of the industry to be decarbonised.
