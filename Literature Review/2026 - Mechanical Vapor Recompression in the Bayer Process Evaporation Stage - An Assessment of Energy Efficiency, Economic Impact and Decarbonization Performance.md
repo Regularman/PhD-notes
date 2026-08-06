@@ -40,7 +40,9 @@ There were three industrial data sets with distinct operating conditions. one ca
 | Evaporation rate       | 33.0 tph        |
 | Live Steam temperature | $140 \degree C$ |
 | Live Steam Pressure    | 361 kPa         |
-ASPEN-PLUS models the complex thermodynamics of aqueous electrolytic solutions such as the Bayer liquor.
+ASPEN-PLUS models the complex thermodynamics of aqueous electrolytic solutions such as the Bayer liquor. The operating conditions were obtained via secondary sources. This was missing
+- inlet and outlet pressures in the flash trains
+- heat transfer areas and transfer coefficients of the 
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
