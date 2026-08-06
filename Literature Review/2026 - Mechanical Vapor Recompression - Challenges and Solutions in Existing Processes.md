@@ -5,7 +5,7 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1002/cite.70062?getft_integrator=sco
 
 Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required. Using water as a refrigerant allows for integration with the existing steam grid.
 
-This paper DOES SIMULATION IN T
+This paper does simulation in WindaB, a python-based evaluation tool for analyzing Mechanical Vapor Recompression.
 ## Content
 
 Electric boiler scenario will result in extreme increases in the electricity demand, which will lead to high investment cost for infrastructure.
