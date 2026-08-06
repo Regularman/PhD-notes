@@ -6,7 +6,7 @@ However, what is the difference in using heat pumps vs MVR, is it the temperatur
 
 Especially MVR needs to scrub the waste steam from digestion and calcination due to the presence of mud in the vapor mixture.
 - MVR also needs an additional boiler for start up (to produce enough steam in the condenser) as well as another condenser
-	- Alternatively, you don't need the startup boiler in brownfield environments by maintaining the existing gas boilers to the
+	- Alternatively, you don't need the startup boiler in brownfield environments by maintaining the existing gas boilers to the steam grid for startups
 - For heat pumps the specific vapor volume and evaporation enthalpy at the respective operation temperature and pressure are typical properties to determine suitability.
 - Heat pumps have a lower footprint with the correct refrigerant selection
 
@@ -16,3 +16,6 @@ However, note that heat pumps also need a second reboiler for startup, and there
 
 The volume flow on the condenser side in vacuum operation  can be high resulting in a large condenser and compressor. also, when the steam pressure is <6 bar, the material and design of the top condenser as well as the conditioning of the feedwater needs to be paid special attention.
 - Low dissolved oxygen and pH value can corrode the condenser and cause leakage
+
+## Revamping distillation column with MVR
+
