@@ -56,7 +56,9 @@ MVR uses commercially available centrifugal compressors capable of increasing va
 
 #### Costs
 
-The main cost of implementation was 
+The main cost of implementation was compressor and the electric motor used to drive it. This was used as a basis for costing the auxillary equipment.
+- $\pm 50\%$ estimate.
+- OPEX is limited to the consumption of
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
