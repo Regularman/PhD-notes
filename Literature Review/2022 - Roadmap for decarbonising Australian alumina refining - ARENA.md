@@ -29,3 +29,7 @@ Outside the scope of this report is the secondary processes in the aluminium val
 - Recycling
 
 This is the Hall-Hercoult process.
+
+Currently has a low reliance on grid electricity. This Sankey diagram was created using stak
+
+![[Screenshot 2026-08-07 at 8.30.41 am.png]]
