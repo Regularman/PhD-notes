@@ -21,6 +21,7 @@ Evaporation has a strong influence on liquor cycle, refinery productivity and op
 In multi-flash stage evaporation, the variables are the 
 - Number of flash stages
 - Theoretical minimum of flash stages is limited by heat and mass transfer, thermal losses, pressure drops, and operational constraints.
+- Fouling history, maintenance conditions, and remaining service lives of the heat exchangers
 
 When we are implementing MVR into evaporation stage, there are several implementation strategies.
 - parallel approach where compressors are connected to each flash tank
