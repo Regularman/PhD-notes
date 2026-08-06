@@ -43,6 +43,11 @@ There were three industrial data sets with distinct operating conditions. one ca
 ASPEN-PLUS models the complex thermodynamics of aqueous electrolytic solutions such as the Bayer liquor. The operating conditions were obtained via secondary sources. This was missing
 - inlet and outlet pressures in the flash trains
 - heat transfer areas and transfer coefficients of the HTX (calculated using iterative approximations)
+
+### MVR implementation
+
+Implemented compressor to the first flash train. This steam was mechanically recompressed and sent to heat exchanger further downstream
+- The firs tflash stage was chosen to minimise the required pressure lif
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
