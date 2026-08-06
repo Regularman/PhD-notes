@@ -91,6 +91,11 @@ Yarwun is trialling hydrogen in a pilot plant by replacing one of the 4 calciner
 What is the timeline for hydrogen? 
 - How does the development of hydrogen hubs unlock this opportunity?
 
+## CCS and CCU
+
+CCS stands for carbon capture and storage, up to 90% of carbon dioxide is 
+
+CCU stands for carbon capture and utilisation.
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
