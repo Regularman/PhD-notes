@@ -101,9 +101,10 @@
 		{"id":"9bfdc059e28f01fe","type":"file","file":"PhD-notes/Literature Review/2023 - Paper No 787 – Ammonia – Steam cascade heat pump for +100˚C steam generation - IEA.md","x":-5600,"y":140,"width":400,"height":144,"color":"5"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4350,"y":-1626,"width":358,"height":131,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4350,"y":-1460,"width":358,"height":123,"color":"4"},
-		{"id":"04b81f616380fe89","type":"file","file":"PhD-notes/Literature Review/2019 - Renewable Energy Options for Industrial Process Heat.md","x":-4192,"y":-777,"width":400,"height":257,"color":"5"},
+		{"id":"04b81f616380fe89","type":"file","file":"PhD-notes/Literature Review/2019 - Renewable Energy Options for Industrial Process Heat.md","x":-4192,"y":-777,"width":400,"height":133,"color":"5"},
 		{"id":"5d91b87965e283e4","type":"file","file":"PhD-notes/Literature Review/2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating  - RACE 2030.md","x":-4192,"y":-960,"width":400,"height":149,"color":"5"},
-		{"id":"f5a95c6b0d3bae5d","x":-4192,"y":-1180,"width":400,"height":173,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Pathways to Net-Zero Alumina - Integrating Low-Emission Technologies and Policy Reform in Australia.md"}
+		{"id":"f5a95c6b0d3bae5d","x":-4192,"y":-1180,"width":400,"height":173,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Pathways to Net-Zero Alumina - Integrating Low-Emission Technologies and Policy Reform in Australia.md"},
+		{"id":"0e80436abe7e6b6f","x":-3720,"y":-1162,"width":358,"height":137,"color":"5","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -199,6 +200,7 @@
 		{"id":"b23aa676a9463a89","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"856b5da770f3fec9","toSide":"left"},
 		{"id":"a53bad5433f5109a","fromNode":"5dbaa7a55e4b5977","fromSide":"left","toNode":"0ee1b9d8aa0b76d7","toSide":"right"},
 		{"id":"3395ef055150ebdc","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"8c34549e97c7b32e","toSide":"left"},
-		{"id":"2dc4accd57b71cf7","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"f5a95c6b0d3bae5d","toSide":"left"}
+		{"id":"2dc4accd57b71cf7","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"f5a95c6b0d3bae5d","toSide":"left"},
+		{"id":"457a76d27736ee16","fromNode":"f5a95c6b0d3bae5d","fromSide":"right","toNode":"0e80436abe7e6b6f","toSide":"left"}
 	]
 }
