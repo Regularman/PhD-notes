@@ -25,3 +25,5 @@ Outside the scope of this report is the secondary processes in the aluminium val
 - Semi fabrication
 - Manufacturing
 - Recycling
+
+This is the Hall-Hercoult process.
