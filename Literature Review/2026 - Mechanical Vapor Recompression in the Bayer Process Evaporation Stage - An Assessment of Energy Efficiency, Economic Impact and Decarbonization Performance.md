@@ -37,6 +37,8 @@ There were three industrial data sets with distinct operating conditions. one ca
 | Process Specification | Values          |
 | --------------------- | --------------- |
 | Liquor temperature    | $123 \degree C$ |
+| Evaporation rate      | 33.0 tph        |
+| Live Steam temperatur |                 |
 
 
 ## Alumina refinery related readings
