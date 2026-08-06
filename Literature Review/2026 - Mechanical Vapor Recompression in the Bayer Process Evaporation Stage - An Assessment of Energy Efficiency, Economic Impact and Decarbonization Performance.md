@@ -49,7 +49,10 @@ ASPEN-PLUS models the complex thermodynamics of aqueous electrolytic solutions s
 Implemented compressor to the first flash train. This steam was mechanically recompressed and sent to heat exchanger further downstream
 - The first flash stage was chosen to minimize the required pressure lift to reduce power requirements and capital investments.
 
-MVR uses commercially available centrifugal compressors capable of increasing vapor pressure by up to 45% per recompression s
+MVR uses commercially available centrifugal compressors capable of increasing vapor pressure by up to 45% per recompression stage.
+- 2 compressors were used in series with an assumption of $12\degree C$ per stage.
+- Assumed isentropic efficiency of $83\%$.
+- With no upgrades to the heat exchangers, constrained by heat exchange capacity/
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
