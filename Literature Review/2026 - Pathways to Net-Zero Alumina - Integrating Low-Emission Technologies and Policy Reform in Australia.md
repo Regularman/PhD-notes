@@ -71,7 +71,7 @@ Must be paired with thermal storage. Allowing refinery to act as a thermal batte
 - Alcoa has a pilot scale project in the Pinjarra operation
 ## Biomass
 
-Worley, in 2018, trialled 
+Worley, in 2018, trialled biomass combustion to displace 30% of their natural gas load. This resulted in a carbon abatement of 5.75 kt $C
 
 ## Limitations
 
