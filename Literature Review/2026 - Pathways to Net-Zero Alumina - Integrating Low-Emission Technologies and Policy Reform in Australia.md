@@ -118,6 +118,10 @@ CCU stands for carbon capture and utilisation, where CO2 is captured and used to
 | Powering Australia Plan                      | $25 billion to new clean energy industries and workforce. This was before 2020. Lowering fossil fuel prices has caused lower investment frequencies.                                                                             |                                                                                                                                        |
 | Rewiring Australia                           | $20 billion to support new transmission and REZ expansion infrastructure.                                                                                                                                                        |                                                                                                                                        |
 ### Barriers identified
+
+- Long lead times for transmission and firming capacity
+- Concessional finance, guaranteed off-take equipment, and cost sharing mechanisms required to bring in mid-scale operators.
+- Strong top down signals through the safeguard mechanism and CBAM, but limited enabling system through grid access, transmission constraints, and hydrogen hubs.
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
