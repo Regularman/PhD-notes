@@ -1,5 +1,11 @@
 https://onlinelibrary.wiley.com/doi/epdf/10.1002/cite.70062?getft_integrator=scopus&src=getftr&utm_source=scopus
 
+## Contribution
+
+
+Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required. Using water as a refrigerant allows for integration with the existing steam 
+## Content
+
 Electric boiler scenario will result in extreme increases in the electricity demand, which will lead to high investment cost for infrastructure.
 
 However, what is the difference in using heat pumps vs MVR, is it the temperature that can be reached?
@@ -36,10 +42,9 @@ The paper simulates the MVR implementation for a stripping column and a process 
 
 ![[Screenshot 2026-08-06 103155.png]]
 
-Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required.
 
 ### Compressor type
 
 You can also use a screw compressor to increase pressure ratio and reduce the investment cost by reducing the compression stage needed. However this would require the output to be de-superheated with condensate. There will also be high compression ratios.
 
-Furthermore, the project shows that an additional 3.6tph of steam is still required fro
+Furthermore, the project shows that an additional 3.6tph of steam is still required from the grid to provide sufficient heating to the process column.
