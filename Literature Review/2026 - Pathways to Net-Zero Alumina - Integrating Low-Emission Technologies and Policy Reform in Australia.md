@@ -117,7 +117,7 @@ CCU stands for carbon capture and utilisation, where CO2 is captured and used to
 | US IRA (Inflation Reduction Act)             | $USD 369 billion dollars in tax based subsidies for low emission projects. United States-Australia Climate, Critical Minerals and Clean Energy Transformation Compact (2023) allows access to the fund through cross border R&D. | However Trump adminstration has withdrawn all funding from the programme and withdrew the US from the Paris Agreement.                 |
 | Powering Australia Plan                      | $25 billion to new clean energy industries and workforce. This was before 2020. Lowering fossil fuel prices has caused lower investment frequencies.                                                                             |                                                                                                                                        |
 | Rewiring Australia                           | $20 billion to support new transmission and REZ expansion infrastructure.                                                                                                                                                        |                                                                                                                                        |
-
+### Barriers identified
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
