@@ -30,7 +30,7 @@ When we are implementing MVR into evaporation stage, there are several implement
 
 ### Industrial dataset
 
-
+There were three industrial data sets with distinct operating conditions. The
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
