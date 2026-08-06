@@ -78,6 +78,8 @@ Prepared sensitivities for the natural gas vs electricity prices.
 
 Assumes that electricity is from the hydroelectric plant.
 
+Due to the reduction in the demand of live steam, CO2 emissions in steam gene
+
 #### Operational differences
 
 Consistently assume refinery availability of 85.5%
