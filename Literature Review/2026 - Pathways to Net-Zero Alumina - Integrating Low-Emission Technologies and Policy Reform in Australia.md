@@ -97,14 +97,14 @@ CCS stands for carbon capture and storage, up to 90% of carbon dioxide is captur
 - This also requires up to 15-25% more energy usage for CO2 capture, as well as methane leakage and CO2 transport.
 
 
-| Biological solutions                       | Engineered and Hybrid solutions |
-| ------------------------------------------ | ------------------------------- |
-| Permanent planting and forest plantations. |                                 |
-| Human induced forestry                     |                                 |
-| Avoided land clearing                      |                                 |
-| Savannah fire management                   |                                 |
-| Soil carbon                                |                                 |
-| Geological Storage                         |                                 |
+| Biological solutions                       | Engineered and Hybrid solutions                                                                                              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Permanent planting and forest plantations. | Biochar (carbon sequestration potential where biomass is burned through slow pyrolosis)                                      |
+| Human induced forestry                     | Direct Air Capture                                                                                                           |
+| Avoided land clearing                      | Mineral carbonation and enhanced weathering that increases the rate at which carbon dioxide is captured from the atmosphere. |
+| Savannah fire management                   |                                                                                                                              |
+| Soil carbon                                |                                                                                                                              |
+| Geological Storage                         |                                                                                                                              |
 
 
 CCU stands for carbon capture and utilisation, where CO2 is captured and used to make urea or methane.
