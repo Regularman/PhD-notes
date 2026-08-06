@@ -96,6 +96,17 @@ What is the timeline for hydrogen?
 CCS stands for carbon capture and storage, up to 90% of carbon dioxide is captured from the industrial processed and stored in depleted gas fields for up to 15-25 years.
 - This also requires up to 15-25% more energy usage for CO2 capture, as well as methane leakage and CO2 transport.
 
+
+| Biological solutions                       | Engineered and Hybrid solutions |
+| ------------------------------------------ | ------------------------------- |
+| Permanent planting and forest plantations. |                                 |
+| Human induced forestry                     |                                 |
+| Avoided land clearing                      |                                 |
+| Savannah fire management                   |                                 |
+| Soil carbon                                |                                 |
+| Geological Storage                         |                                 |
+
+
 CCU stands for carbon capture and utilisation, where CO2 is captured and used to make urea or methane.
 ## Limitations
 
