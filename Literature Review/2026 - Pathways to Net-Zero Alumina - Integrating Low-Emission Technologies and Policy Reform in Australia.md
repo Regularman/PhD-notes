@@ -78,7 +78,9 @@ Alcoa also arrived to the same conclusion in 2022.
 
 ### Hydrogen
 
-Yarwun is trialling hydrogen in a pilot plant by replacing one of the 4 calciners with a hydrogen burner. (2.5MW electrolyser, with a capacity of 250-300 t per year). The aims of the project is to 
+Yarwun is trialling hydrogen in a pilot plant by replacing one of the 4 calciners with a hydrogen burner. (2.5MW electrolyser, with a capacity of 250-300 t per year). The aims of the project is to demonstrate technical viability for retrofit scenarios and develop the systems required ot handle hydrogen onsite.
+- Rio Tinto estimates that full decarbonisation of its refinery requires178,000 t
+
 - The use of hydrogen does not necessary mean the establishment of a hydrogen supply chain, we just need a high availability of renewable electricity. 
 	- However, CSP can meet the same demand without the electric intensive electrolysis process requires.
 	- Therefore, it is less energy efficient due to conversion losses, it might be a lower capital
