@@ -30,6 +30,9 @@ The natural gas boiler is required for startup and to provide additional heating
 
 The paper simulates the MVR implementation for a stripping column and a process column.
 - A compressor with a diameter of 1.34m compresses the vapor to 0.8 bar in two steps. The compressor has an electrical duty of 1.53MW. Since the head product (what's coming out of it) is toxic and flammable, compressor material and safety also needs to be controlled.
-- We can reduce the volumetric flow rate through the compressor through evaporative water cooling, which split the waste vapor output between the heat ec
+- We can reduce the volumetric flow rate through the compressor through evaporative water cooling, which split the waste vapor output between the heat exchanger and the bottom reboiler of the stripping column
+	- This allows smaller piping to be used.
+	- The second option uses 4 compression steams with an impeller size of 0.26m and an electric power consumption of 0.
 
+![[Screenshot 2026-08-06 103155.png]]
 
