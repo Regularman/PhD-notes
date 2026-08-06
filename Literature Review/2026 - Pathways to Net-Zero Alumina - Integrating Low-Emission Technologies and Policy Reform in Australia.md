@@ -27,6 +27,9 @@ States that MVR can reduce carbon emissions by 70% and freshwater use by 35%. Ho
 
 ## Electric boiler
 
+Can reach up to $400\degree C$.
+
+
 - For example, the Alunorte alumina refinery in Brazil commissioned a 60 MW (~220GJ) electric boiler in 2022, capable of producing approximately 95 tonnes of steam per hour and reducing emissions by an estimated 100,000 tonnes of CO₂ per year [43, 46]
 	- There are also two more electric boilers to be installed in 2025.
 
