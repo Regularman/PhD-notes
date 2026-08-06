@@ -19,3 +19,9 @@ The volume flow on the condenser side in vacuum operation  can be high resulting
 
 ## Revamping distillation column with MVR
 
+Note that a reboiler is a heat exchanger that is attached to the bottom of an industrial distillation column that boils liquid to form vapor.
+
+Need to consider the heat transfer area to see if the existing equipment is sufficient in preoviding the steam duty at a certain pressure. 
+- I
+
+
