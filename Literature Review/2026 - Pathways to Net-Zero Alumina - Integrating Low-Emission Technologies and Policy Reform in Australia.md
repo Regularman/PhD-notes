@@ -110,9 +110,9 @@ CCU stands for carbon capture and utilisation, where CO2 is captured and used to
 ## Policies 
 
 
-| Policy              | What is it?                                  | Recommendations |
-| ------------------- | -------------------------------------------- | --------------- |
-| Saeguard Mechanisms | For facilities emitting over 100,000 tonnes  |                 |
+| Policy              | What is it?                                         | Recommendations                                                                                                                        |
+| ------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Saeguard Mechanisms | For facilities emitting over 100,000 tpa of CO2-eq. | High investment risk due to ACCU price instability, and low credit liquidity. Therefore need to establish predictable ACCU trajectory. |
 
 ## Limitations
 
