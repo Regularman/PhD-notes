@@ -34,13 +34,13 @@ There were three industrial data sets with distinct operating conditions. one ca
 - MVR is applied onto this base case 
 	- Scenarios with and without MVR were evaluated based on TAC, and impact of CO2 emissions.
 
-| Process Specification | Values          |
-| --------------------- | --------------- |
-| Liquor temperature    | $123 \degree C$ |
-| Evaporation rate      | 33.0 tph        |
-| Live Steam temperatur |                 |
-
-
+| Process Specification  | Values          |
+| ---------------------- | --------------- |
+| Liquor temperature     | $123 \degree C$ |
+| Evaporation rate       | 33.0 tph        |
+| Live Steam temperature | $140 \degree C$ |
+| Live Steam Pressure    | 361 kPa         |
+ASPEN-PLUS models the complex thermodynamics of aqueous electrolytic solutions such as the Bayer liquor.
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
