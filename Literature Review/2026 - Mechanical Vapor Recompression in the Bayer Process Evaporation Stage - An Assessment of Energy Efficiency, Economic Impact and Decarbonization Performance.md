@@ -71,8 +71,12 @@ The main cost of implementation was compressor and the electric motor used to dr
 - CAPEX is 962,414 for two compressors with a total power of 123 kW. The compressors were 238,22 USD. Project implementation cost of 724,193 USD
 - 16% reduction in TOC from 4214855USD/year to 3538659USD /year 
 - 11.48% reduction in TAC
+- <2 year payback time.
+
+Prepared sensitivities for the natural gas vs electricity prices.
 #### Environmental
 
+Assumes that electricity is from the hydroelectric plant.
 
 #### Operational differences
 
@@ -83,6 +87,7 @@ Reduced live steam consumption as the heat duty of the HTX connected to the MVR 
 - It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100 reduction in live steam. However, alumina refinery plants may run into issues with footprint.
 - Energy consumption went down from 33.16 GJ/h to 28.55 GJ/h
 - COP was greater than 5, theoretically 11.4!
+
 
 
 ## Alumina refinery related readings
