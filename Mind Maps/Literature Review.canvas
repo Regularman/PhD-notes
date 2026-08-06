@@ -101,7 +101,8 @@
 		{"id":"e47fa27b3abb004a","type":"file","file":"PhD-notes/Literature Review/2016 - Energetically optimised concentration of fruit juices.md","x":-4278,"y":1000,"width":400,"height":128,"color":"5"},
 		{"id":"3ae5c635ac1acd62","type":"text","text":"# ~={cyan}High Temperature Heat Pumps=~","x":-4719,"y":148,"width":250,"height":128,"color":"5"},
 		{"id":"0ee1b9d8aa0b76d7","type":"text","text":"# ~={cyan}Adsorption Heat Pumps=~\n\nhttps://link.springer.com/chapter/10.1007/978-3-030-72180-0_2\n\nhttps://www.sciencedirect.com/science/article/pii/S1364032107000998\n\n## Why use Adsorption Heat pumps\n\n- Can operate with thermal driving energy sources such as waste heat, solar, and geothermal energies\n- Can work with low temperature driving energy sources\n- No moving parts \n- Low noise and vibration\n- Cam be employed as thermal energy storage device as the adsorbate stays in the adsorbent bed\n\nHowever\n\n- They have low COP values, \n- are intermittent, which means that cooling is only provided during certain phases of the cycle. This means that adsorption heat pumps are not applicable to use cases that needs continuous heating or cooling\n- Requires special design to maintain the vacuum and\n- Have a large volume and weight relative to traditional mechanical heat pump systems\n\nhttps://www.novapublishers.com/wp-content/uploads/2022/07/978-1-62417-070-6.pdf\n\nChemisorption heat pumps can reach up to $350 \\degree C$.","x":-5165,"y":-9,"width":240,"height":81,"color":"5"},
-		{"id":"c69acdf1e38509f9","type":"file","file":"PhD-notes/Literature Review/2021 - High Temperature Heat Pumps for Drying - First Results of Operation in an Industrial Environment.md","x":-5068,"y":368,"width":400,"height":156,"color":"5"}
+		{"id":"c69acdf1e38509f9","type":"file","file":"PhD-notes/Literature Review/2021 - High Temperature Heat Pumps for Drying - First Results of Operation in an Industrial Environment.md","x":-5068,"y":368,"width":400,"height":156,"color":"5"},
+		{"id":"8c34549e97c7b32e","x":-4278,"y":1200,"width":400,"height":221,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Mechanical Vapor Recompression in the Bayer Process Evaporation Stage - An Assessment of Energy Efficiency, Economic Impact and Decarbonization Performance.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -195,6 +196,7 @@
 		{"id":"72a209a7aa6bd20f","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"8976ce8bceb054e5","toSide":"left"},
 		{"id":"73e3bab37ccc552e","fromNode":"5586e5a01ed1442c","fromSide":"left","toNode":"04e2dde29adde56b","toSide":"right"},
 		{"id":"b23aa676a9463a89","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"856b5da770f3fec9","toSide":"left"},
-		{"id":"a53bad5433f5109a","fromNode":"5dbaa7a55e4b5977","fromSide":"left","toNode":"0ee1b9d8aa0b76d7","toSide":"right"}
+		{"id":"a53bad5433f5109a","fromNode":"5dbaa7a55e4b5977","fromSide":"left","toNode":"0ee1b9d8aa0b76d7","toSide":"right"},
+		{"id":"3395ef055150ebdc","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"8c34549e97c7b32e","toSide":"left"}
 	]
 }
