@@ -52,6 +52,10 @@ This will also have to be firmed with thermal or battery storage.
 
 Look at these papers -
 - Technical feasibility of integrating concentrating solar thermal energy in the Bayer alumina process
+- Solar-driven alumina calcination for CO2 mitigation and improved product quality
+- Integrating concentrating solar thermal energy into the Bayer alumina process
+
+These demonstrates solar calcination at the 
 ## Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
