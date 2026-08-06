@@ -43,7 +43,7 @@ Also allows for flexible operation of steam production to participate in the ele
 
 ## Large Scale Solar
 
-Large s
+Large scale solar is already extremely developed, installation depends on economic and resource feasibility. 
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
