@@ -60,6 +60,8 @@ MVR uses commercially available centrifugal compressors capable of increasing va
 
 A two stage compression engine was used to avoid overloading a single stage compressor although it is theoretically possible.
 - This also enhances operational flexibility during higher spent liquor flow rates and to mitigate potential compressure degradations caused by liquid carryover.
+
+The size of the MVR is 123 kW.
 #### Costs
 
 The main cost of implementation was compressor and the electric motor used to drive it. This was used as a basis for costing the auxillary equipment.
@@ -75,6 +77,8 @@ The main cost of implementation was compressor and the electric motor used to dr
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
 - Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
 - It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100 reduction in live steam. However, alumina refinery plants may run into issues with footprint.
+- Energy consumption went down from 33.16 GJ/h to 28.55 GJ/h
+
 
 ## Alumina refinery related readings
 
