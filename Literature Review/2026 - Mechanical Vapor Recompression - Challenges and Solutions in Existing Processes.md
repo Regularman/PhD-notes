@@ -11,4 +11,6 @@ Especially MVR needs to scrub the waste steam from digestion and calcination due
 
 However, note that heat pumps also need a second reboiler for startup, and there is additional heat transfer resistance in the condenser, which means that the compressor need to compensate at a higher temperature differential, leading to higher inefficiencies.
 
-##
+## Water heat pumps
+
+The volume flow on the condenser side in vacuum operation  can be high resulting in a large condenser and compressor. also, when the steam pressure is 
