@@ -36,4 +36,4 @@ Currently has a low reliance on grid electricity. This Sankey diagram was create
 
 ## Further Readings
 
-The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry.
+The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
