@@ -5,6 +5,7 @@ https://www.sciencedirect.com/science/article/pii/S026387622600496X
 Using process data from an industrial plant, this work present an energy, economic, and direct CO2 emissions assessment of the implementation of MVR for evaporation ONLY of the Bayer's process.
 
 Simulation was does in an Aspen Plus simulator for a multi-flash evaporator, which is most popularly used in industry.
+- The one used in this study has 5 flash stages
 
 The results shown was a 17.4% reduction in steam consumption and a 15.22% decrease in CO2 emission. 
 - Because only the evaporation section was decarbonised
@@ -19,7 +20,7 @@ Evaporation has a strong influence on liquor cycle, refinery productivity and op
 
 In multi-flash stage evaporation, the variables are the 
 - Number of flash stages
-- Thereotical minimum o f
+- Theoretical minimum of flash stages is limited by heat and mass transfer, thermal losses, pressure drops, and operational constraints.
 
 ## Alumina refinery related readings
 
