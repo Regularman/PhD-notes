@@ -32,7 +32,7 @@ States that MVR can reduce carbon emissions by 70% and freshwater use by 35%. Ho
 
 But in Australia, electric boilers have not yet been implemented. It needs approximately 3 times more electricity input for the same 
 
-Also allows for flexible operation
+Also allows for flexible operation of steam production to participate in the electricity wholesale market.
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
