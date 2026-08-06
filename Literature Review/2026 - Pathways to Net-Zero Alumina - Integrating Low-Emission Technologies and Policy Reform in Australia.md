@@ -78,6 +78,11 @@ Alcoa also arrived to the same conclusion in 2022.
 
 ### Hydrogen
 
+Yarwun is trialling hydrogen in a pilot plant. 
+- The use of hydrogen does not necessary mean the establishment of a hydrogen supply chain, we just need a high availability of renewable electricity. 
+	- However, CSP can meet the same demand without the electric intensive 
+	- The only advantage that hydrogen has going for it is high the
+
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
