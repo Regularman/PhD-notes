@@ -69,11 +69,14 @@ The main cost of implementation was compressor and the electric motor used to dr
 - OPEX is limited to the consumption of direct energy sources
 - Ignored the CO2 emissions associated with the electricity consumption of MVR compressors
 - CAPEX is 962,414 for two compressors with a total power of 123 kW. The compressors were 238,22 USD. Project implementation cost of 724,193 USD
-- 16% reduction in TOC from 3538659 p
+- 16% reduction in TOC from 4214855USD/year to 3538659USD /year 
+- 11.48% reduction in TAC
 #### Environmental
 
 
 #### Operational differences
+
+Consistently assume refinery availability of 85.5%
 
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
 - Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
