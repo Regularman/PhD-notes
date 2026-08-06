@@ -13,4 +13,5 @@ However, note that heat pumps also need a second reboiler for startup, and there
 
 ## Water heat pumps
 
-The volume flow on the condenser side in vacuum operation  can be high resulting in a large condenser and compressor. also, when the steam pressure is 
+The volume flow on the condenser side in vacuum operation  can be high resulting in a large condenser and compressor. also, when the steam pressure is <6 bar, the material and design of the top condenser as well as the conditioning of the feedwater needs to be paid special attention.
+- Low dissolved oxygen and pH value can corrode the condenser and cause leakage
