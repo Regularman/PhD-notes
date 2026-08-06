@@ -73,7 +73,8 @@ The main cost of implementation was compressor and the electric motor used to dr
 #### Operational differences
 
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
-- Reduction of 17.4% (2.67 tph) of live steam consumption in the evap
+- Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
+- It is theoretically possible 
 
 ## Alumina refinery related readings
 
