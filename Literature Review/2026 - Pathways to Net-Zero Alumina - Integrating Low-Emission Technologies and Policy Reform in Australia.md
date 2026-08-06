@@ -41,9 +41,10 @@ But in Australia, electric boilers have not yet been implemented. It needs appro
 
 Also allows for flexible operation of steam production to participate in the electricity wholesale market.
 
+## CSP
 ## Large Scale Solar
 
-Large scale solar is already extremely developed, installation depends on economic and resource feasibility. 
+Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
@@ -51,5 +52,6 @@ Incorrectly outlines that the evaporation process is low temperature and low emi
 Incorrectly highlights that MVR and heat pumps are easy to implement, when there are no projects that have successfully implemented these as of 2026. 
 
 Incorrectly states that MVR is TRL 8-9 when it is TRL 6-7.
+
 
 
