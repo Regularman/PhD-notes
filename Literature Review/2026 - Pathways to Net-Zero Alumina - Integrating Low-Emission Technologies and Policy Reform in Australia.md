@@ -25,6 +25,8 @@ Also looked at TRL, emission reduction potential, implementation barriers, and r
 
 States that MVR can reduce carbon emissions by 70% and freshwater use by 35%. However, these is a secondary source compiled from other sources.
 
+- Note that you still need a startup boiler (why?)
+
 ## Electric boiler
 
 Can reach up to $400\degree C$.
