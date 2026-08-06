@@ -34,6 +34,10 @@ There were three industrial data sets with distinct operating conditions. one ca
 - MVR is applied onto this base case 
 	- Scenarios with and without MVR were evaluated based on TAC, and impact of CO2 emissions.
 
+| Process Specification | Values          |
+| --------------------- | --------------- |
+| Liquor temperature    | $123 \degree C$ |
+
 
 ## Alumina refinery related readings
 
