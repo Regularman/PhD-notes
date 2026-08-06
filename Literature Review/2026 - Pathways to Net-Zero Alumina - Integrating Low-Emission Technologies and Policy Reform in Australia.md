@@ -21,7 +21,7 @@ Also looked at TRL, emission reduction potential, implementation barriers, and r
 
 ## Content
 
-Note that AEMO predicts an additional capacity of 200GW 
+Note that AEMO predicts an additional capacity of 200GW firmed capacity by 2030. This greatly dwarves 3-5 GW required for the electrification of the alumina refining sector. 
 
 ### MVR 
 
@@ -40,6 +40,10 @@ Can reach up to $400\degree C$.
 But in Australia, electric boilers have not yet been implemented. It needs approximately 3 times more electricity input for the same 
 
 Also allows for flexible operation of steam production to participate in the electricity wholesale market.
+
+## Large Scale Solar
+
+Large s
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
