@@ -61,20 +61,22 @@ Look at these papers -
 These demonstrates solar calcination at the lab scale. What are the barrier to scaling this up? CSP can only provide 30-50% of the process heat demand, requiring complementary baseload technologies.
 
 - Also favours greenfield development, and retrofit possibility may be difficult due to CBOP footprint issues.
-## Large Scale Solar
+### Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
 
-## Electric Calcination
+### Electric Calcination
 
 Must be paired with thermal storage. Allowing refinery to act as a thermal battery to soak up prices during low price events.
 - Alcoa has a pilot scale project in the Pinjarra operation
-## Biomass
+### Biomass
 
 Worley, in 2018, trialled biomass combustion to displace 30% of their natural gas load. This resulted in a carbon abatement of 5.75 kt $CO_2-eq$. 
 - Concluded that scaling up was not viable unless the plant is co-located with waste treatment facility.
 
 Alcoa also arrived to the same conclusion in 2022.
+
+### Hydrogen
 
 ## Limitations
 
