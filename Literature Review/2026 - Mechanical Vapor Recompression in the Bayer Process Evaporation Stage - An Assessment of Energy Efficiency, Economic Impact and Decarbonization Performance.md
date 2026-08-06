@@ -30,7 +30,11 @@ When we are implementing MVR into evaporation stage, there are several implement
 
 ### Industrial dataset
 
-There were three industrial data sets with distinct operating conditions. The
+There were three industrial data sets with distinct operating conditions. one case was established as the base case and the other two operation condition was used to verify robustness of the base case. 
+- MVR is applied onto this base case 
+	- Scenarios with and without MVR were evaluated based on TAC, and impact of CO2 emissions.
+
+
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
