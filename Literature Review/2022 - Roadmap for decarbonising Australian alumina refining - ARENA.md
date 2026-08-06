@@ -19,3 +19,4 @@ Collaborative industry input with Alcoa, Rio Tinto, and South32 through a series
 
 ![[Screenshot 2026-08-06 at 11.32.06 pm.png]]
 
+Outside the scope of this report is the seconday 
