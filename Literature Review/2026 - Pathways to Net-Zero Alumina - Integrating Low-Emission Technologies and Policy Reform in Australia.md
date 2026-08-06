@@ -68,6 +68,9 @@ Large scale solar is already extremely developed, installation depends on econom
 ## Electric Calcination
 
 Must be paired with thermal storage. Allowing refinery to act as a thermal battery to soak up prices during low price events.
+- Alcoa has a pilot scale project in the Pinjarra operation
+
+## Bi
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
