@@ -40,4 +40,6 @@ Ultimately, this study shows that the design of the MVR system can dramatically 
 
 ### Compressor type
 
-You can also use a screw compressor to increase pressure ratio and reduce the investment cost by reducing the compression stage needed. However this would require the output to be desupe
+You can also use a screw compressor to increase pressure ratio and reduce the investment cost by reducing the compression stage needed. However this would require the output to be de-superheated with condensate. There will also be high compression ratios.
+
+Furthermore, the project shows that an additional 3.6tph of steam is still required fro
