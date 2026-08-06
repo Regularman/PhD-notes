@@ -13,6 +13,8 @@ Highlights that a combination of these technologies will allow up to 98% of the 
 
 Looks at two scenarios, a gradual abatement pathway or a innovator abatement pathway where most technical and economic barriers are materially reduced.
 
+Aluminium has an energy usage intensity of 10GJ/t and 0.71 $tCO_2-eq
+
 ![[Screenshot 2026-08-06 at 11.21.15 pm.png|590]]
 
 Collaborative industry input with Alcoa, Rio Tinto, and South32 through a series of workshops.
