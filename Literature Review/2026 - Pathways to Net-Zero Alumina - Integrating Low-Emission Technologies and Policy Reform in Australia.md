@@ -21,6 +21,8 @@ Also looked at TRL, emission reduction potential, implementation barriers, and r
 
 ## Content
 
+Note that AEMO predicts an additional capacity of 200GW 
+
 ### MVR 
 
 States that MVR can reduce carbon emissions by 70% and freshwater use by 35%. However, these is a secondary source compiled from other sources.
