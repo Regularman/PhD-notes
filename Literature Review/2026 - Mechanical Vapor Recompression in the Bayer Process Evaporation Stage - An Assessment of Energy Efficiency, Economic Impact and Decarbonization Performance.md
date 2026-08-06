@@ -52,7 +52,11 @@ Implemented compressor to the first flash train. This steam was mechanically rec
 MVR uses commercially available centrifugal compressors capable of increasing vapor pressure by up to 45% per recompression stage.
 - 2 compressors were used in series with an assumption of $12\degree C$ per stage.
 - Assumed isentropic efficiency of $83\%$.
-- With no upgrades to the heat exchangers, constrained by heat exchange capacity/
+- With no upgrades to the heat exchangers, constrained by heat exchange capacity.
+
+#### Costs
+
+The main cost of implementation was 
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
