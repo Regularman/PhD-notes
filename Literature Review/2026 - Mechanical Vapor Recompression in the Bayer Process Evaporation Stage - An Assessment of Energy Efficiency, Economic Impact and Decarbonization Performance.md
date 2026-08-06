@@ -24,7 +24,9 @@ In multi-flash stage evaporation, the variables are the
 
 When we are implementing MVR into evaporation stage, there are several implementation strategies.
 - parallel approach where compressors are connected to each flash tank
-- series app
+- series approach that uses the waste steam from the last head
+- Hybrid of the two options above
+- Backup option 
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
