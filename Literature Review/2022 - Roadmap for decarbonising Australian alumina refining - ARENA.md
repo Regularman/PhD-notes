@@ -11,4 +11,4 @@ Also discusses
 Highlights that a combination of these technologies will allow up to 98% of the industry to be decarbonised.
 - Outlines that there is no one size fits all approach, and the optimal hybrid mix will vary between refinery.
 
-Looks at two scenario
+Looks at two scenarios, a gradual abatement pathway or a innovator abatement pathway where most technical and economic barriers are materially reduced.
