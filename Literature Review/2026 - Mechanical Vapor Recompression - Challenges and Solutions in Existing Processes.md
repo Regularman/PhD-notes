@@ -26,4 +26,8 @@ Need to consider the heat transfer area to see if the existing equipment is suff
 
 The natural gas boiler is required for startup and to provide additional heating duty to the column. However note that the other paper highlights that steam recovery is sufficient to provide all heating demand.
 
+### Simulation
+
+The paper simulates the MVR implementation for s
+
 
