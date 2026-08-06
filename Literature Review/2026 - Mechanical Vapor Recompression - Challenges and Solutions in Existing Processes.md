@@ -24,6 +24,6 @@ Note that a reboiler is a heat exchanger that is attached to the bottom of an in
 Need to consider the heat transfer area to see if the existing equipment is sufficient in providing the steam duty at a certain pressure. 
 - In this instance, replacement of the bottom reboiler for the distillation column to account for vibrational issues caused by high volume vapor flow.
 
-The natural gas boiler is required for startup and to provide additional heating duty to the column. However note that the other paper highlights that steam recovery is sufficient to provide all heating demand
+The natural gas boiler is required for startup and to provide additional heating duty to the column. However note that the other paper highlights that steam recovery is sufficient to provide all heating demand.
 
 
