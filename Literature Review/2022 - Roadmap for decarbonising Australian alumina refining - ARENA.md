@@ -30,6 +30,10 @@ Outside the scope of this report is the secondary processes in the aluminium val
 
 This is the Hall-Hercoult process.
 
-Currently has a low reliance on grid electricity. This Sankey diagram was created using stak
+Currently has a low reliance on grid electricity. This Sankey diagram was created using stakeholder inputs from the workshop. (South32, Rio Tinto, and Alcoa).
 
 ![[Screenshot 2026-08-07 at 8.30.41 am.png]]
+
+## Further Readings
+
+The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry.
