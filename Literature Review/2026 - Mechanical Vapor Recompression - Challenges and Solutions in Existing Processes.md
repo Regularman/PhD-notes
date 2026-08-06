@@ -21,7 +21,7 @@ The volume flow on the condenser side in vacuum operation  can be high resulting
 
 Note that a reboiler is a heat exchanger that is attached to the bottom of an industrial distillation column that boils liquid to form vapor.
 
-Need to consider the heat transfer area to see if the existing equipment is sufficient in preoviding the steam duty at a certain pressure. 
-- I
+Need to consider the heat transfer area to see if the existing equipment is sufficient in providing the steam duty at a certain pressure. 
+- In this instance, replacement of the bottom reboiler for the distillation column to account for vibrational issues caused by high volume vapor flow.
 
 
