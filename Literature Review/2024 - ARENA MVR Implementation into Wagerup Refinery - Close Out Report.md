@@ -16,6 +16,7 @@ Water vapor from the evaporator has to be cleaned before entering the compressor
 Wagerup is located in close proximity to firm renewable energy, which is ideal.
 
 At the Wagerup refinery, the estimated capital cost for MVR was AU $220 per annual tonne of alumina and was estimated to be 18% higher for high-temperature refineries (~AU$260)
+- Total investment of $4.5 billion AUD and 1.2 GW of renewables.
 ## Packages commenced
 
 - Compressor package
