@@ -81,6 +81,7 @@ Alcoa also arrived to the same conclusion in 2022.
 Yarwun is trialling hydrogen in a pilot plant. 
 - The use of hydrogen does not necessary mean the establishment of a hydrogen supply chain, we just need a high availability of renewable electricity. 
 	- However, CSP can meet the same demand without the electric intensive electrolysis process requires.
+	- Therefore, it is less energy efficient due to conversion losses, it might be a lower capital
 	- The only advantage that hydrogen has going for it is seasonal storage.
 
 ## Limitations
