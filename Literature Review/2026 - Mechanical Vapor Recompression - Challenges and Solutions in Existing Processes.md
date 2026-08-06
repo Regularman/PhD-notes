@@ -9,4 +9,6 @@ Especially MVR needs to scrub the waste steam from digestion and calcination due
 - For heat pumps the specific vapor volume and evaporation enthalpy at the respective operation temperature and pressure are typical properties to determine suitability.
 - Heat pumps have a lower footprint with the correct refrigerant selection
 
-However, note that heat pumps also need a second reboiler for startup, and there is additional heat transfer resistance in the condenser,
+However, note that heat pumps also need a second reboiler for startup, and there is additional heat transfer resistance in the condenser, which means that the compressor need to compensate at a higher temperature differential, leading to higher inefficiencies.
+
+##
