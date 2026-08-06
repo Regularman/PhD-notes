@@ -57,7 +57,7 @@ Look at these papers -
 
 These demonstrates solar calcination at the lab scale. What are the barrier to scaling this up? CSP can only provide 30-50% of the process heat demand, requiring complementary baseload technologies.
 
-- Also favours greenfield development, and retrofit possibility ma
+- Also favours greenfield development, and retrofit possibility may be difficult due to CBOP footprint issues.
 ## Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
