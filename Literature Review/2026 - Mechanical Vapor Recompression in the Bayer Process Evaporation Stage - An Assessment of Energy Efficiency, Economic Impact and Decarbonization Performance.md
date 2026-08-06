@@ -68,7 +68,8 @@ The main cost of implementation was compressor and the electric motor used to dr
 - $\pm 50\%$ estimate.
 - OPEX is limited to the consumption of direct energy sources
 - Ignored the CO2 emissions associated with the electricity consumption of MVR compressors
-
+- CAPEX is 962,414 for two compressors with a total power of 123 kW. The compressors were 238,22 USD. Project implementation cost of 724,193 USD
+- 16% reduction in TOC from 3538659 p
 #### Environmental
 
 
