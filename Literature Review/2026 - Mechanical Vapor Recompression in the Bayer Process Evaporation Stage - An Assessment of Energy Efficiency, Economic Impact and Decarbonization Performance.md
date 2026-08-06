@@ -78,7 +78,7 @@ Prepared sensitivities for the natural gas vs electricity prices.
 
 Assumes that electricity is from the hydroelectric plant.
 
-Due to the reduction in the demand of live steam, CO2 emissions in steam gene
+Due to the reduction in the demand of live steam, CO2 emissions in steam generation decreases by 0.32 tph to 1.76 tph, signifying a reduction of 15.22%.
 
 #### Operational differences
 
