@@ -47,6 +47,11 @@ Can CSP be used for the calcination stage?
 - The main barriers to implementation has been the high capital cost, relatively low cost of fossil fuel, and the need for firm capacity.
 
 This will also have to be firmed with thermal or battery storage.
+
+### Integration of Solar Power in the alumina refinery process
+
+Look at these papers -
+- Technical feasibility of integrating concentrating solar thermal energy in the Bayer alumina process
 ## Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
