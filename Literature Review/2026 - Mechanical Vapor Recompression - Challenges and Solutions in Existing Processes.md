@@ -28,6 +28,7 @@ The natural gas boiler is required for startup and to provide additional heating
 
 ### Simulation
 
-The paper simulates the MVR implementation for s
+The paper simulates the MVR implementation for a stripping column and a process column.
+- A compressor with a diameter of 1.34m compresses the vapor to 0.8 bar in two steps. The compressor has an electrical duty of 1.53MW.
 
 
