@@ -106,8 +106,14 @@ CCS stands for carbon capture and storage, up to 90% of carbon dioxide is captur
 | Soil carbon                                |                                                                                                                              |
 | Geological Storage                         |                                                                                                                              |
 
-
 CCU stands for carbon capture and utilisation, where CO2 is captured and used to make urea or methane.
+## Policies 
+
+
+| Policy              | What is it?                                  | Recommendations |
+| ------------------- | -------------------------------------------- | --------------- |
+| Saeguard Mechanisms | For facilities emitting over 100,000 tonnes  |                 |
+
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
