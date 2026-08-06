@@ -64,6 +64,10 @@ These demonstrates solar calcination at the lab scale. What are the barrier to s
 ## Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
+
+## Electric Calcination
+
+
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
