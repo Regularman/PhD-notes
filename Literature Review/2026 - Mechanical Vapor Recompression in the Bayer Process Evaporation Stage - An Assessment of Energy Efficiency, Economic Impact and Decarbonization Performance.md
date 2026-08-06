@@ -22,6 +22,9 @@ In multi-flash stage evaporation, the variables are the
 - Number of flash stages
 - Theoretical minimum of flash stages is limited by heat and mass transfer, thermal losses, pressure drops, and operational constraints.
 
+When we are implementing MVR into evaporation stage, there are several implementation strategies.
+- parallel approach where compressors are connected to each flash tank
+- series app
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
