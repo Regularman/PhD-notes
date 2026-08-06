@@ -19,7 +19,7 @@ Collaborative industry input with Alcoa, Rio Tinto, and South32 through a series
 
 ![[Screenshot 2026-08-06 at 11.32.06 pm.png]]
 
-Note that alumina processing produced 14.9Mt $CO_2-e1$t
+Note that alumina processing produced 14.9Mt $CO_2-eq$ in 2024.
 Outside the scope of this report is the secondary processes in the aluminium value chains, which are 
 - Casting 
 - Semi fabrication
