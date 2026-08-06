@@ -124,6 +124,7 @@ CCU stands for carbon capture and utilisation, where CO2 is captured and used to
 - Long lead times for transmission and firming capacity
 - Concessional finance, guaranteed off-take equipment, and cost sharing mechanisms required to bring in mid-scale operators.
 - Strong top down signals through the safeguard mechanism and CBAM, but limited enabling system through grid access, transmission constraints, and hydrogen hubs.
+- Bahrain, UAE, and Saudi Arabia do not have carbon pricing. As these countries account for 42% of the aluminium export from Australia, there is low incentive to invest in decarbonisation strategies.
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
