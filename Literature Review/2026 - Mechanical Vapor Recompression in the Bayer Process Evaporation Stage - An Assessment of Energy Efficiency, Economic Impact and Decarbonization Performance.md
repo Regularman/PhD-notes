@@ -27,6 +27,10 @@ When we are implementing MVR into evaporation stage, there are several implement
 - series approach that uses the waste steam from the last head
 - Hybrid of the two options above
 - Backup option is to maintain the original condensing and cooling equipment in case MVR is not available. Minimal impact on energy efficiency and evaporator availability.
+
+### Industrial dataset
+
+
 ## Alumina refinery related readings
 
 The barrier to MVR implementation, which uses flash steam from the Bayer process is 
