@@ -78,12 +78,12 @@ Alcoa also arrived to the same conclusion in 2022.
 
 ### Hydrogen
 
-Yarwun is trialling hydrogen in a pilot plant by replacing one of the 4 calcin
+Yarwun is trialling hydrogen in a pilot plant by replacing one of the 4 calciners with a hydrogen burner. (2.5MW electrolyser, with a capacity of 250-300 t per year). The aims of the project is to 
 - The use of hydrogen does not necessary mean the establishment of a hydrogen supply chain, we just need a high availability of renewable electricity. 
 	- However, CSP can meet the same demand without the electric intensive electrolysis process requires.
 	- Therefore, it is less energy efficient due to conversion losses, it might be a lower capital
 	- The only advantage that hydrogen has going for it is seasonal storage
-		- The paper states that hydrogen
+		- The paper states that hydrogen will produce cleaner steam that can be recycled (untrue?)
 
 ## Limitations
 
