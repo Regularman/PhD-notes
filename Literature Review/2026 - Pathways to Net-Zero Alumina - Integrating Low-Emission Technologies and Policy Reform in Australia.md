@@ -31,6 +31,8 @@ States that MVR can reduce carbon emissions by 70% and freshwater use by 35%. Ho
 	- There are also two more electric boilers to be installed in 2025.
 
 But in Australia, electric boilers have not yet been implemented. It needs approximately 3 times more electricity input for the same 
+
+Also allows for flexible operation
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
