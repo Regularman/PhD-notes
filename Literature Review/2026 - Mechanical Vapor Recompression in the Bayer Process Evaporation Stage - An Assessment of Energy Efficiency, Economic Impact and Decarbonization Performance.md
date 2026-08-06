@@ -58,6 +58,8 @@ MVR uses commercially available centrifugal compressors capable of increasing va
 - Assumed isentropic efficiency of $83\%$.
 - With no upgrades to the heat exchangers, constrained by heat exchange capacity.
 
+A two stage compression engine was used to avoid overloading a single stage compressor although it is theoretically possible.
+- This also enhances operation
 #### Costs
 
 The main cost of implementation was compressor and the electric motor used to drive it. This was used as a basis for costing the auxillary equipment.
