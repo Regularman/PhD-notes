@@ -42,6 +42,9 @@ But in Australia, electric boilers have not yet been implemented. It needs appro
 Also allows for flexible operation of steam production to participate in the electricity wholesale market.
 
 ## CSP
+
+Can CSP be used for the calcination stage?
+- The main barriers to implementation has been the high capital cost, relatively low cost of fossil fuel, a
 ## Large Scale Solar
 
 Large scale solar is already extremely developed, installation depends on economic and resource feasibility. What is the economic feasibility of PV backed MVR or electric boiler vs PPA?
