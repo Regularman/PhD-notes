@@ -3,7 +3,9 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1002/cite.70062?getft_integrator=sco
 ## Contribution
 
 
-Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required. Using water as a refrigerant allows for integration with the existing steam 
+Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required. Using water as a refrigerant allows for integration with the existing steam grid.
+
+This paper DOES SIMULATION IN T
 ## Content
 
 Electric boiler scenario will result in extreme increases in the electricity demand, which will lead to high investment cost for infrastructure.
