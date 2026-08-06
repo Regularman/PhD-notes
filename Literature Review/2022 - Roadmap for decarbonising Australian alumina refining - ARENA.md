@@ -15,4 +15,4 @@ Looks at two scenarios, a gradual abatement pathway or a innovator abatement pat
 
 ![[Screenshot 2026-08-06 at 11.21.15 pm.png|590]]
 
-Collaborative industry input into 
+Collaborative industry input with Alcoa, Rio Tinto, and South32 through a series of workshops.
