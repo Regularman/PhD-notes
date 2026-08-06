@@ -32,7 +32,12 @@ The paper simulates the MVR implementation for a stripping column and a process 
 - A compressor with a diameter of 1.34m compresses the vapor to 0.8 bar in two steps. The compressor has an electrical duty of 1.53MW. Since the head product (what's coming out of it) is toxic and flammable, compressor material and safety also needs to be controlled.
 - We can reduce the volumetric flow rate through the compressor through evaporative water cooling, which split the waste vapor output between the heat exchanger and the bottom reboiler of the stripping column
 	- This allows smaller piping to be used.
-	- The second option uses 4 compression steams with an impeller size of 0.26m and an electric power consumption of 0.
+	- The second option uses 4 compression steams with an impeller size of 0.26m and an electric power consumption of 0.9MW
 
 ![[Screenshot 2026-08-06 103155.png]]
 
+Ultimately, this study shows that the design of the MVR system can dramatically change the required compressor size and system retrofit required.
+
+### Compressor type
+
+You can also use a screw compressor to increase pressure ratio and reduce the investment cost by reducing the compression stage needed. However this would require the output to be desupe
