@@ -93,9 +93,9 @@ What is the timeline for hydrogen?
 
 ## CCS and CCU
 
-CCS stands for carbon capture and storage, up to 90% of carbon dioxide is 
+CCS stands for carbon capture and storage, up to 90% of carbon dioxide is captured from the industrial processed and stored in depleted gas fields for up to 15-25 years.
 
-CCU stands for carbon capture and utilisation.
+CCU stands for carbon capture and utilisation, where CO2 is captured and used to make urea or methane.
 ## Limitations
 
 Incorrectly outlines that the evaporation process is low temperature and low emissions.
