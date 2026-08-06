@@ -1,0 +1,12 @@
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/cite.70062?getft_integrator=scopus&src=getftr&utm_source=scopus
+
+Electric boiler scenario will result in extreme increases in the electricity demand, which will lead to high investment cost for infrastructure.
+
+However, what is the difference in using heat pumps vs MVR, is it the temperature that can be reached?
+
+Especially MVR needs to scrub the waste steam from digestion and calcination due to the presence of mud in the vapor mixture.
+- MVR also needs an additional boiler for start up as well as another condenser
+- For heat pumps the specific vapor volume and evaporation enthalpy at the respective operation temperature and pressure are typical properties to determine suitability.
+- Heat pumps have a lower footprint with the correct refrigerant selection
+
+However, note that heat pumps also need a second reboiler for startup, and there is additional heat transfer resistance in the condenser,
