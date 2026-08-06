@@ -74,7 +74,7 @@ The main cost of implementation was compressor and the electric motor used to dr
 
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
 - Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
-- It is theoretically possible 
+- It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100 reduction in live steam. However, alumina refinery plants may run into issues with footprint.
 
 ## Alumina refinery related readings
 
