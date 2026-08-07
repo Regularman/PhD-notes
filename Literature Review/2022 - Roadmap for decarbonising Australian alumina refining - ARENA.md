@@ -37,6 +37,8 @@ Currently has a low reliance on grid electricity. This Sankey diagram was create
 This study, similar to [[2026 - Pathways to Net-Zero Alumina - Integrating Low-Emission Technologies and Policy Reform in Australia]] provides a view of short and medium term solutions.
 
 Note that electric boiler steam generation technology has not yet been proven for high pressures ($50$ bar)
+- In addition to the Brazilian example, Ireland also has a case study on the implementation of electric boilers in aluminium refineries. ‘25MW High-pressure electrode steam boiler to Aughinish Alumina in Ireland'
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
+
