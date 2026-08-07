@@ -74,9 +74,12 @@ Steam can be produced directly at $500\degree C$ at up to 80 bar and power techn
 
 This can be done through the ORC or KC (Kalina cycle, which is ORC with ammonia water mixture as the working fluid) (However, they do not directly displace natural gas and fossil fuel use)
 
+### Final roadmap
+
+Uses a logistic sigmoid function to model the uptake of technology.
 ## Limitations
 
-Does not consider other process efficiencies measures and only considers the implementation of key dac
+Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
