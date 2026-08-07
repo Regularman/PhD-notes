@@ -48,7 +48,7 @@ One of the main barriers is that hydrogen is much more expensive than natural ga
 
 - Lab scale testing by Rio Tinto in its Bundoora research facility (In the Yarwun facility, hydrogen calcination will also integrate into the wider Gladstone hydrogen ecosystem)
 
-What is the cost of electrification, novel material extraction 
+What is the cost of electrification, novel material extraction in developing countries have a large cost, such as the disposal of low concentration mineral sludge in mine-site, where concentrations are so low that the material is uneconomic to extract.
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
