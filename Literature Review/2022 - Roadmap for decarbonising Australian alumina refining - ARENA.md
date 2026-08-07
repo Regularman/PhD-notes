@@ -77,9 +77,13 @@ This can be done through the ORC or KC (Kalina cycle, which is ORC with ammonia 
 ### Final roadmap
 
 Uses a logistic sigmoid function to model the uptake of technology.
+
+This roadmap from 2022 states that MVR will be v
 ## Limitations
 
 Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
+
+Electricity is counted as scope 2 emissions and not counted within the roadmap
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
