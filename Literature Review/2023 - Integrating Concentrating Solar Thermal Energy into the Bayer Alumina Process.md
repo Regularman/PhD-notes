@@ -17,5 +17,7 @@ All large scale system configurations had positive internal rates of returns. Th
 
 **Solar reformed syngas**
 
+Storage of heat is better than storage of syngas.
+- Also facilitates more stable operation of the reactor
 ## Content
 
