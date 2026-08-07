@@ -6,7 +6,7 @@ Adelaide university research
 ## Contributions
 
 Looks at the application of commercially available molten salt storage, solar syngas, and production of high temperature hot air.
-- thermal storage is required for the hybrid solar thermal system
-- Found that the quality around
+- thermal storage (7-14 hours) is required for the hybrid solar thermal system for net zero operation
+- Hydrogen or biogas can also fo
 ## Content
 
