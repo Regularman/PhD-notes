@@ -35,6 +35,7 @@ Potential to use MVR when we are using steam. However, the scrubbing process req
 
 The technology used for solar calciners is made possible through Solar Expanding Vortex Receiver (takes return air from the plant and reheating it to temperatures above $1100 \degree C$) - TRL 3-4.
 - Requires further cold flow experiments and numerical model to understand upscaling potentials in single phase and two-phase flows
-- From experiments done to validate CFD calculations in particle egress, flow field measurements of velocity
+- From experiments done to validate CFD calculations in particle egress, flow field measurements of velocity, and particle number density. This led to the development of an optimised solar expanding vortex receiver.
+- Lab scale demonstration for high temperature air receiver (efficiencies of $80\%$)
 ## Content
 
