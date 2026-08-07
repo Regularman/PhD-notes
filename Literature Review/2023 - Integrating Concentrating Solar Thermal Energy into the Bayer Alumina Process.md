@@ -24,5 +24,6 @@ PCM thermal storage are cost effective solutions at the temperatures required to
 **Solar calcination**
 
 LCOH of 15.6/GJ including cost of heat transport.
+- Obvious scaling effect up to $450 MW_{th}$.
 ## Content
 
