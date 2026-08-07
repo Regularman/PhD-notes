@@ -61,7 +61,9 @@ When considering electric calcination, it is more efficient than hydrogen calcin
 
 ### Double digestion
 
-Splitting the plant process into two distinct t
+Splitting the plant process into two distinct temperatures for more energy efficient operations.
+
+### Concentrated solar thermal
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
