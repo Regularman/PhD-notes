@@ -10,18 +10,18 @@ Looks at the application of commercially available molten salt storage, solar sy
 - Hydrogen or biogas can also form alternatives for backup of thermal storage
 - Quality is largely location dependent
 
-**Solar thermal systems -**
+## **Solar thermal systems -**
 All large scale system configurations had positive internal rates of returns. The cost of CST continues to fall, which will improve the project dynamics.
 - IRR = 6-13.5%
 - LCOH = 22-30/GJ on average and 14-24/G on low estimates
 
-**Solar reformed syngas**
+### **Solar reformed syngas**
 
 Storage of heat is better than storage of syngas.
 - Also facilitates more stable operation of the reactor
 PCM thermal storage are cost effective solutions at the temperatures required to drive a steam reformer.
 
-**Solar calcination**
+### **Solar calcination**
 
 LCOH of 15.6/GJ including cost of heat transport if 40% reduction in capex and 40% advances in efficiency is accounted for. Based on current numbers, the LCOH with air as a heat transfer media, for retrofit, is 37.4/GJ.
 - However, when we use hot air as the working fluid, there are constraints and upper limit on the heat that can be transferred.
@@ -32,5 +32,7 @@ UA did work on modifying the operation of an alumina calciner so that it can ope
 	- More work needs to be done to see how steam will influence the grade of alumina produced.
 
 Potential to use MVR when we are using steam. However, the scrubbing process required for this has not been commercially demonstrated.
+
+The technology used for solar calciners is made possible through 
 ## Content
 
