@@ -20,5 +20,9 @@ All large scale system configurations had positive internal rates of returns. Th
 Storage of heat is better than storage of syngas.
 - Also facilitates more stable operation of the reactor
 PCM thermal storage are cost effective solutions at the temperatures required to drive a steam reformer.
+
+**Solar calcination**
+
+LCOH of 15.6/GJ including cost of heat transport.
 ## Content
 
