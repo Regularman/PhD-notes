@@ -93,8 +93,9 @@ On calcination processes
 - Non site specific and hydrogen and electric are feasible at different sites
 - Require group effort to develop the necessary infrastructure
 
-The technology already exists and the main barriers are proving technical feasibility.
+The technology already exists and the main barriers are proving technical feasibility, economic factors and supply of renewablkes.
 - This can be overcome through successful pilot testing for learnings
+- Hard to share benefits as every refinery is different
 ## Limitations
 
 Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
