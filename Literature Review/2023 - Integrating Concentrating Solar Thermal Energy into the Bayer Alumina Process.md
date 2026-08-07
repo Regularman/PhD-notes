@@ -24,6 +24,7 @@ PCM thermal storage are cost effective solutions at the temperatures required to
 **Solar calcination**
 
 LCOH of 15.6/GJ including cost of heat transport if 40% reduction in capex and 40% advances in efficiency is accounted for. Based on current numbers, the LCOH with air as a heat transfer media, for retrofit, is 37.4/GJ.
+- However, when we use hot air as the working fluid, there are constraints and upper limit on the heat that can be transferred.
 - Obvious scaling effect up to $450 MW_{th}$.
 ## Content
 
