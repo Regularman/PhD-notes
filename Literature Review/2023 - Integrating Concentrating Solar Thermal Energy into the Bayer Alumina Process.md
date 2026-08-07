@@ -28,6 +28,7 @@ LCOH of 15.6/GJ including cost of heat transport if 40% reduction in capex and 4
 - Obvious scaling effect up to $450 MW_{th}$.
 
 UA did work on modifying the operation of an alumina calciner so that it can operate in a steam rich environment. 
-- Also found that the produced alumina is different when it is created in steam rich environment, such as higher surface area, slot shaped pores. Steam calcination can also be achieved at lower temperatures, offering potential for lower 
+- Also found that the produced alumina is different when it is created in steam rich environment, such as higher surface area, slot shaped pores. Steam calcination can also be achieved at lower temperatures, offering potential for lower energy consumption of the calciner.
+	- More work needs to be done to see how steam will influence the grade of alumina produced.
 ## Content
 
