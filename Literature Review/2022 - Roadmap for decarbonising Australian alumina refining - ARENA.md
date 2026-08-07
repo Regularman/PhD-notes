@@ -55,6 +55,8 @@ What is the cost of electrification, novel material extraction in developing cou
 In early stage TRL, and require large amount of firm renewable electricity.
 
 - Currently investigated by Alcoa in its Pinjarra alumina facility
+
+When considering electric calcination, it is more eff
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
