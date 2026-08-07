@@ -78,7 +78,7 @@ This can be done through the ORC or KC (Kalina cycle, which is ORC with ammonia 
 
 Uses a logistic sigmoid function to model the uptake of technology.
 
-This roadmap from 2022 states that MVR will be v
+This roadmap from 2022 states that MVR will be viable by 2030, and electric and hydrogen calcination to be deployed from 2035.
 ## Limitations
 
 Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
