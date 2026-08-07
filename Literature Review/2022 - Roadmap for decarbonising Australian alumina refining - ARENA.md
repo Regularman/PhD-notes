@@ -92,6 +92,9 @@ The key workshop outputs
 On calcination processes
 - Non site specific and hydrogen and electric are feasible at different sites
 - Require group effort to develop the necessary infrastructure
+
+The technology already exists and the main barriers are proving technical feasibility.
+- This can be overcome through successful pilot testing for learnings
 ## Limitations
 
 Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
