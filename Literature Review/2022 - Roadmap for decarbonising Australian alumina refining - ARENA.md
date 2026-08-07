@@ -64,6 +64,11 @@ When considering electric calcination, it is more efficient than hydrogen calcin
 Splitting the plant process into two distinct temperatures for more energy efficient operations.
 
 ### Concentrated solar thermal
+
+- Alcoa project
+- ARENA funded University of Adelaide project
+
+Steam can be produced directly at $500\degree C$ at up to 80 bar and power technologies can generate up to $1000\degree C$. It requires large land areas and
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
