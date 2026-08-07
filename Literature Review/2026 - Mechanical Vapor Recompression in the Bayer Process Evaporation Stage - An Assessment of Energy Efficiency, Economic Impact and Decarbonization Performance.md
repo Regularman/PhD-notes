@@ -100,7 +100,7 @@ The barrier to MVR implementation, which uses flash steam from the Bayer process
 - Refinery wide thermal integration is complicated. 
 
 There is another study looking at 
-- Spent liquor evaporation using mechanical vapor recompression: a means of boosting evaporation capacity. This study looks at increasing the capacity of an evaporation train in an alumina refinery using MVR, increasing evaporation rate by 30tph in 2005.
+- Spent liquor evaporation using mechanical vapor recompression: a means of boosting evaporation capacity. This study looks at increasing the capacity of an evaporation train in an alumina refinery using MVR, increasing evaporation rate by 30tph in 2005. [[2019 - Mechanical Vapour Recompression applied to Alumina Spent Liquor Evaporation Plants]]
 - In 2012, The research and development of mechanical vapor recompression evaporation energy-saving system, developed monitoring system for MVR and confirmed economic feasibility in a 15 tph evaporator, replacing traditional boiler with a 310kW electric compressor. 
 - Mechanical vapour recompression applied to alumina spent liquor evaporation plants. In 2019, showed application of MVR to the evaporation process for an industrial expansion project, increasing evaporation rate from 150 tph to 180 tph. [[2019 - Mechanical Vapour Recompression applied to Alumina Spent Liquor Evaporation Plants]]. The 
 - [[2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report]]
