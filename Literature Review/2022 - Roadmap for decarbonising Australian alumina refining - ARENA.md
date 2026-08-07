@@ -45,6 +45,8 @@ Note that electric boiler steam generation technology has not yet been proven fo
 Note that in hydrogen calcination, the steam generated in clean and can be recycled via MVR without scrubbing.
 
 One of the main barriers is that hydrogen is much more expensive than natural gas conventionally used in the calcination process. (Need hydrogen to be below $2kg/t)
+
+- Lab scale testing by Rio Tinto in its Bundoora research facility (In the Yarwun facility, hydrogen calcinati)
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
