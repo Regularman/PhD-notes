@@ -68,7 +68,11 @@ Splitting the plant process into two distinct temperatures for more energy effic
 - Alcoa project
 - ARENA funded University of Adelaide project
 
-Steam can be produced directly at $500\degree C$ at up to 80 bar and power technologies can generate up to $1000\degree C$. It requires large land areas and
+Steam can be produced directly at $500\degree C$ at up to 80 bar and power technologies can generate up to $1000\degree C$. It requires large land areas and is a high capital cost project.
+
+### Electricity from heat
+
+This can be done through the ORC or KC (Kalina cycle, which is ORC with ammonia water mixture as the working fluid) (However, there)
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
