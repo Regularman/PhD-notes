@@ -87,7 +87,11 @@ The key workshop outputs
 
 - Electrification using MVR and electric boilers with energy storage is feasible
 	- Barrier are high capital cost of deployment, uncertainties in future electric prices and access to renewable
-- Increased load flexibility is essential for
+- Increased load flexibility is essential for execution to avoid high price spike events
+
+On calcination processes
+- Non site specific and hydrogen and electric are feasible at different sites
+- Require group effort to develop the necessary infrastructure
 ## Limitations
 
 Does not consider other process efficiencies measures and only considers the implementation of key decarbonisation technologies.
