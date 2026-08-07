@@ -59,6 +59,7 @@ In early stage TRL, and require large amount of firm renewable electricity.
 When considering electric calcination, it is more efficient than hydrogen calcination due to high energy efficiencies.
 - However, proximity to a hydrogen hub will enable integration into wider hydrogen supply chain.
 
+One of the main barriers to using electric calcination is the production rate (scaling from 20tph to 120 tph)
 ### Double digestion
 
 Splitting the plant process into two distinct temperatures for more energy efficient operations.
