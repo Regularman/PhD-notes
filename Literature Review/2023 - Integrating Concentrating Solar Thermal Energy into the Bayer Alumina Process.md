@@ -34,6 +34,7 @@ UA did work on modifying the operation of an alumina calciner so that it can ope
 Potential to use MVR when we are using steam. However, the scrubbing process required for this has not been commercially demonstrated.
 
 The technology used for solar calciners is made possible through Solar Expanding Vortex Receiver (takes return air from the plant and reheating it to temperatures above $1100 \degree C$) - TRL 3-4.
-- Requires further cold flow experiments and numerical model to understand upscaling potentials in single phase and two-pahse 
+- Requires further cold flow experiments and numerical model to understand upscaling potentials in single phase and two-phase flows
+- From experiments done to validate CFD calculations in particle egress, flow field measurements of velocity
 ## Content
 
