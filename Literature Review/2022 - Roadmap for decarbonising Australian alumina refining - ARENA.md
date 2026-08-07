@@ -56,7 +56,8 @@ In early stage TRL, and require large amount of firm renewable electricity.
 
 - Currently investigated by Alcoa in its Pinjarra alumina facility
 
-When considering electric calcination, it is more eff
+When considering electric calcination, it is more efficient than hydrogen calcination due to high energy efficiencies.
+- However, proximity to a hydrogen hub will enable integration into wider hydrogen supply chain.
 ## Further Readings
 
 The International Aluminium Institute (IAI) recently modelled a 1.5˚C scenario for the aluminium industry. Includes future demand scenarios.
