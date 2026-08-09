@@ -37,6 +37,6 @@ The technology used for solar calciners is made possible through Solar Expanding
 - Requires further cold flow experiments and numerical model to understand upscaling potentials in single phase and two-phase flows
 - From experiments done to validate CFD calculations in particle egress, flow field measurements of velocity, and particle number density. This led to the development of an optimised solar expanding vortex receiver.
 - Lab scale demonstration for high temperature air receiver (efficiencies of $80\%$). Uses particles to achieve high radiation adsorption through an open aperture to transfer heat to the air
-- Technically limited by ingress of cold air and particle egress, which requires
+- Technically limited by ingress of cold air and particle egress, which requires further research
 ## Content
 
