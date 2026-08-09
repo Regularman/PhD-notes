@@ -106,9 +106,10 @@
 		{"id":"04e2dde29adde56b","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$","x":-6365,"y":932,"width":250,"height":50,"color":"5"},
 		{"id":"55bb8b03d284039a","type":"text","text":"# ~={cyan}Electric Boilers=~","x":-6518,"y":1185,"width":250,"height":60,"color":"5"},
 		{"id":"d00f5724ef5fa225","type":"file","file":"PhD-notes/Literature Review/2023 - Reduction of GHG Emissions and Increase Operational Reliability Using Immersed Electrode Boiler in an Alumina Refinery.md","x":-7090,"y":1090,"width":400,"height":209,"color":"5"},
-		{"id":"1aee1aef663d6622","x":-6850,"y":858,"width":400,"height":149,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process 1.md"},
+		{"id":"1aee1aef663d6622","type":"file","file":"PhD-notes/Literature Review/2023 - Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process.md","x":-6850,"y":858,"width":400,"height":149,"color":"5"},
 		{"id":"fdb5ab866feb1b95","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-5803,"y":1861,"width":400,"height":128,"color":"5"},
-		{"id":"06b3a7de9507bcf9","type":"file","file":"PhD-notes/Literature Review/2019 - Mechanical Vapour Recompression applied to Alumina Spent Liquor Evaporation Plants.md","x":-6593,"y":2137,"width":400,"height":156,"color":"5"}
+		{"id":"06b3a7de9507bcf9","type":"file","file":"PhD-notes/Literature Review/2019 - Mechanical Vapour Recompression applied to Alumina Spent Liquor Evaporation Plants.md","x":-6593,"y":2137,"width":400,"height":156,"color":"5"},
+		{"id":"45d2ed5dfb7cb1d4","x":-5651,"y":314,"width":250,"height":60,"type":"text","text":"# "}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -209,6 +210,7 @@
 		{"id":"ab828870be5d4c63","fromNode":"5586e5a01ed1442c","fromSide":"left","toNode":"55bb8b03d284039a","toSide":"right"},
 		{"id":"b461e8a555c9a699","fromNode":"55bb8b03d284039a","fromSide":"left","toNode":"d00f5724ef5fa225","toSide":"right"},
 		{"id":"305110c9b32edafa","fromNode":"50f6e035972065f9","fromSide":"bottom","toNode":"06b3a7de9507bcf9","toSide":"right"},
-		{"id":"dba582d1f0adfcbd","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"1aee1aef663d6622","toSide":"right"}
+		{"id":"dba582d1f0adfcbd","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"1aee1aef663d6622","toSide":"right"},
+		{"id":"e9f1839d069897ba","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"45d2ed5dfb7cb1d4","toSide":"bottom"}
 	]
 }
