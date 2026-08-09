@@ -81,7 +81,6 @@
 		{"id":"eefbe58a20a3bb00","type":"text","text":"# ~={cyan}Biogas=~\n\n","x":-5797,"y":1472,"width":250,"height":72,"color":"5"},
 		{"id":"50f6e035972065f9","type":"text","text":"# ~={cyan}MVR=~\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-6119,"y":1514,"width":250,"height":60,"color":"5"},
 		{"id":"cd5473ad32616f70","type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md","x":-5803,"y":1655,"width":400,"height":140,"color":"5"},
-		{"id":"fdb5ab866feb1b95","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-5797,"y":1861,"width":400,"height":128,"color":"5"},
 		{"id":"299c1e535c221449","type":"file","file":"PhD-notes/Literature Review/2026 - Optimisation of Steam Recovery from Calcination and the Bayer Circuit Using Multi-Stage Mechanical Vapor Recompression - AlumiNEXT.md","x":-5803,"y":2055,"width":400,"height":206,"color":"5"},
 		{"id":"8976ce8bceb054e5","type":"file","file":"PhD-notes/Literature Review/2026 - Mechanical Vapor Recompression - Challenges and Solutions in Existing Processes.md","x":-5803,"y":2357,"width":400,"height":131,"color":"5"},
 		{"id":"e47fa27b3abb004a","type":"file","file":"PhD-notes/Literature Review/2016 - Energetically optimised concentration of fruit juices.md","x":-5803,"y":2543,"width":400,"height":128,"color":"5"},
@@ -108,7 +107,8 @@
 		{"id":"55bb8b03d284039a","type":"text","text":"# ~={cyan}Electric Boilers=~","x":-6518,"y":1185,"width":250,"height":60,"color":"5"},
 		{"id":"d00f5724ef5fa225","type":"file","file":"PhD-notes/Literature Review/2023 - Reduction of GHG Emissions and Increase Operational Reliability Using Immersed Electrode Boiler in an Alumina Refinery.md","x":-7090,"y":1090,"width":400,"height":209,"color":"5"},
 		{"id":"06b3a7de9507bcf9","type":"file","file":"PhD-notes/Literature Review/2019 - Mechanical Vapour Recompression applied to Alumina Spent Liquor Evaporation Plants.md","x":-6565,"y":2279,"width":400,"height":156,"color":"5"},
-		{"id":"1aee1aef663d6622","x":-6850,"y":858,"width":400,"height":149,"color":"5","type":"file","file":"2023 - Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process.md"}
+		{"id":"1aee1aef663d6622","x":-6850,"y":858,"width":400,"height":149,"color":"5","type":"file","file":"2023 - Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process.md"},
+		{"id":"fdb5ab866feb1b95","type":"file","file":"PhD-notes/Literature Review/2022 - ARENA MVR Retrofit and Commercialisation Report - Wagerup refinery.md","x":-5803,"y":1861,"width":400,"height":128,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
