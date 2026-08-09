@@ -85,7 +85,7 @@ Consistently assume refinery availability of 85.5%
 
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
 - Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
-- It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100 reduction in live steam. However, alumina refinery plants may run into issues with footprint.
+- It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100% reduction in live steam. However, alumina refinery plants may run into issues with footprint.
 - Energy consumption went down from 33.16 GJ/h to 28.55 GJ/h
 - COP was greater than 5, theoretically 11.4!
 
