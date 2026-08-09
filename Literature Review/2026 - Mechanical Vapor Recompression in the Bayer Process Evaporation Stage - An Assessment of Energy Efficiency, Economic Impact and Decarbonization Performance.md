@@ -10,7 +10,6 @@ Simulation was does in an Aspen Plus simulator for a multi-flash evaporator, whi
 - The one used in this study has 5 flash stages
 
 The results shown was a 17.4% reduction in steam consumption and a 15.22% decrease in CO2 emission. 
-- Because only the evaporation section was decarbonised
 
 The economics was proven over a 5 year horizon with a TAC of 11.48% lower than BAU.
 
@@ -86,7 +85,7 @@ Consistently assume refinery availability of 85.5%
 
 Reduced live steam consumption as the heat duty of the HTX connected to the MVR system increased. This reduced heat transfer in the remaining exchangers, leading to a $1\degree C$ decrease in the outlet temperature.
 - Reduction of 17.4% (2.67 tph) of live steam consumption in the evaporation process.
-- It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100 reduction in live steam. However, alumina refinery plants may run into issues with footprint.
+- It is theoretically possible to increase compression ratio in the compressors, and upgrade heat exchangers to allow 100% reduction in live steam. However, alumina refinery plants may run into issues with footprint.
 - Energy consumption went down from 33.16 GJ/h to 28.55 GJ/h
 - COP was greater than 5, theoretically 11.4!
 
