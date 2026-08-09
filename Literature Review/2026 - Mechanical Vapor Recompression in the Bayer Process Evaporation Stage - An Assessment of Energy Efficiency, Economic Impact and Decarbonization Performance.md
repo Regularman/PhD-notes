@@ -10,7 +10,6 @@ Simulation was does in an Aspen Plus simulator for a multi-flash evaporator, whi
 - The one used in this study has 5 flash stages
 
 The results shown was a 17.4% reduction in steam consumption and a 15.22% decrease in CO2 emission. 
-- Because only the evaporation section was decarbonised
 
 The economics was proven over a 5 year horizon with a TAC of 11.48% lower than BAU.
 
