@@ -7,12 +7,38 @@ Looks at the optimal technology mix for decarbonising building heat in the EU an
 - Models CCS technologies, pipelines, and storage infrastructure, as well as the inclusion of compressed air energy storage and gaseous hydrogen stroage
 
 - Found that large scale electrification via heat pumps is economically feasible, although increases interconnector capacity and onshore wind connection is vital. The development of blue hydrogen is cost competitive by unsustainable and green hydrogen is 2-3 times more expensive than electrification while still transgressing several planetary boundaries.
+- Addresses the gap of the lack of consideration for green and blue hydrogen 
+- Looks at the impacts of three centralisation scenarios. Connected to the gas grid, connected to a district heating grid, and individual users (biomass or electrical heat pumps).
+
+Highlights that current plans such as the European Heat Roadmap is insufficient to keep under the planetary boundaries.
+
+## Method
+
+~={green}**Functional unit**:=~ The functional unit is the annual heating demand of EU27+1 countries.
+
+~={green}**System Boundaries:**=~ Analysis is done at the country level. Average values for natural resource availability and heating demand, area and population density dependent transmission infrastructure and country specific geological storage.
+![[Screenshot 2026-07-17 151645.png]]
+The boundary covers the supply chain of infrastructure and fuel from outside EU27+1. (Cradle to grave)
+
+**~={green}Reference Year=~**: Reference year was split up into $12$ time periods, characterized by average  heating demands, capacity factors for renewable energy and COP of heat pumps.
+
+Life cycle assessment is done through the normal ISO14040 methodology.
+- The full lifecycle impact per unit of capacity was chosen to take into account the variability of VRE. This is sourced from Eco-invent and other data sources
+- Impact values are extracted from SimaPro
+
+**~={green}aSOS:=~** The assigned safe operating space is downscaled through grandfathering principles of share of GHG emissions of the heating sector.
+
+**~={green}Optimisation:=~** Ultimately, the LP is formulated as a bi-criteria optimisation problem that solves for transgression level and total cost simultaneously
+1. First solve for transgression level, then optimise cost of operating within the safe operating space by introducing a slack variable
+2. If planetary boundaries cannot be kept under carrying capacity, just minimise the cost.
 ## Content
 
 - European Green Deal is a major part of targets for energy decarbonisation.
 - The heating of residential buildings generates around 0.5GT $CO_2$-eq annually in the EU (13.3%) of total emissions
 
 Saying that literature largely ignores the impact of hydrogen on decarbonising the heat industry
+
+
 
 ### Set-up
 
