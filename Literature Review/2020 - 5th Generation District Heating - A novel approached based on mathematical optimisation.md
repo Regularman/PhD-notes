@@ -18,12 +18,8 @@ Also looks at the exergy efficiency.
 The LP looks to optimise the TAC.
 ## Limitations
 
-- Thermal storage is only charged by electric boilers
-- Does not look at variable network ring heat temperature 
-- Only looks at operational performance, rather than whole of life embodied environmental impact
-- Assumes deterministic perfect knowledge of all conditions
-- Does not consider the optimal set of buildings participating within the BLTN 
-- Does not look at the network topology, and the cost and emission of pipes are calculated a priori and does not change with optimisation, when network topology is heavily related to performance. 
+- 
+ost and emission of pipes are calculated a priori and does not change with optimisation, when network topology is heavily related to performance. 
 ## Further Reading
 
 [9] Agent based control
