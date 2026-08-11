@@ -38,6 +38,9 @@ Heat can be delivered through direct solar generation of steam, or through trans
 
 Highlights that there is a lack of literature which relates process heat characterisation
 - Noting that heat rate is also an important attribute, as well as the temperature of each ~={red}unit process=~
+![[Screenshot 2026-08-12 at 12.03.04 am.png]]
+
+Also compiles different prohe
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
