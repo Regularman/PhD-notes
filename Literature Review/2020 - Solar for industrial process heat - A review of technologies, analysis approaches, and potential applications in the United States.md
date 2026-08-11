@@ -11,8 +11,16 @@ The list of technology that can be applied are
 | Parabolic Collector        |     |
 | Linear Fresnel             |     |
 | Parabolic Trough Collector |     |
-| Power Towe                 |     |
+| Power Tower                |     |
+| PV induction heating       |     |
+### ~={red}Examples =~
 
+Examples where solar thermal is used can be seen in
+- Parabolic trough collector for cooking in India [40,41]
+- Power tower for a solar rotary kiln in cement manufacturing [44,45]
+- [46] Industrial solar has a DSG solar thermal using Linear Fresnel
+- [55] Induction heating of steel using PV
+- 
 ## Content
 
 The levers that can be used to categories industrial heat processes are
@@ -21,13 +29,6 @@ The levers that can be used to categories industrial heat processes are
 - Fluid heating, drying, smelting, calcining, heat treating and reheating, melting, and curing and forming
 
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
-
-### ~={red}Examples =~
-
-Examples where solar thermal is used can be seen in
-- Parabolic trough collector for cooking in India [40,41]
-- Power tower for a solar rotary kiln in cement manufacturing [44,45]
-- [46] Industrial solar has a DSG solar thermal using Linear Fresnel
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
