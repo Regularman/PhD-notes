@@ -25,6 +25,8 @@ Examples where solar thermal is used can be seen in
 - [55] Induction heating of steel using PV
 - [56] Comparing solar thermal and heat pumps (cost)
 - [58] 16 case studies of large scale heat pumps in Europe
+- [53] Performance of PV water heating system
+- [87] Renewable process heat from solar thermal and photovoltaics: the development and application of a universal methodology to determine the more economical technology
 ## Content
 
 The levers that can be used to categories industrial heat processes are
