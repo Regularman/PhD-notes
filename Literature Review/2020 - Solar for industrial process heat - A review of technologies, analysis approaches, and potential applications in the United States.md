@@ -45,7 +45,8 @@ Highlights that there is a lack of literature which relates process heat charact
 
 Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation globally. 
 - Looking at this database shows that food beverages, metals, and textiles have the highest instance of solar thermal systems installed.
-- However, there may be barriers when implementing into pulp and paper and cement, su
+- However, there may be barriers when implementing into pulp and paper and cement, due to low take up rate.
+- Mostly use FTC and PTCs, and not solar concentrating technologies. Therefore, there are no a lot of technologies that are being applied in the high temperature range.
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
