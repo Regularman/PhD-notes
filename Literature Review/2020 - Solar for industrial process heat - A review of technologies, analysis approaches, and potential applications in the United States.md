@@ -38,6 +38,11 @@ Heat can be delivered through direct solar generation of steam, or through trans
 
 Highlights that there is a lack of literature which relates process heat characterisation
 - Noting that heat rate is also an important attribute, as well as the temperature of each ~={red}unit process=~
+### Considerations when integrating solar thermal
+
+- Distinction between supply level
+- Heat transfer medium
+- 
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
