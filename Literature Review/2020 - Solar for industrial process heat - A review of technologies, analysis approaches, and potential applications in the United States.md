@@ -2,7 +2,7 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 ## Contributions
 
-The list of technology that can be applied are shown below. However, 
+The list of technology that can be applied are shown below. However, the concentration of the paper is not on the environmental impact potential of the solar thermal technology.
 
 | Technology                 | Comments                                              |
 | -------------------------- | ----------------------------------------------------- |
