@@ -41,6 +41,7 @@ Highlights that there is a lack of literature which relates process heat charact
 ![[Screenshot 2026-08-12 at 12.03.04 am.png]]
 
 Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation globally. 
+- Looking at this database shows that food beverages, metals, and textiles have the highest instance of solar thermla
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
