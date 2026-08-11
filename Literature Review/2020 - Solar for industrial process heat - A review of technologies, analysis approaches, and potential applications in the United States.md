@@ -64,7 +64,7 @@ Also compiles different projects based on the integration into their process lev
 - Heat transfer medium
 - Conventional heating equipment at the supply level
 - Note that energy efficiency measures and waste heat recovery are the first steps. We can then the implement SIPH that is of lower footprint 
-	- However a
+	- However around two-thirds of industrial plants did not employ waste heat recovery systems and 1/3 did not implement maintenance plans to maximise the efficiency of existing process heating system accordinh
 ## Questions
 
 What is pinch analysis?
