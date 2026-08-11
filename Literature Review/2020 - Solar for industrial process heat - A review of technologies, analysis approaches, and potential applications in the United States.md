@@ -2,6 +2,12 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 ## Contributions
 
+The list of technology that can be applied are
+
+| Technology  |     |
+| ----------- | --- |
+|             |     |
+
 ## Content
 
 The levers that can be used to categories industrial heat processes are
