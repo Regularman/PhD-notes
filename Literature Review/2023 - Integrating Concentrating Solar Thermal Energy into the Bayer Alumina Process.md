@@ -161,7 +161,6 @@ Used Particle Image Velocimetry to measure particle and flow velocities within t
 ![[Screenshot 2026-08-11 124955.png]]
 
 
-
 ## Further readings
 
 Synhelion has recently commercially advanced windowed solar receiver, using steam as a heat transfer medium.
