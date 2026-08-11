@@ -11,9 +11,12 @@ The levers that can be used to categories industrial heat processes are
 
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
 
+### ~={red}Examples =~
+
 Examples where solar thermal is used can be seen in
-- Parabolic trough collector for cooking in India
-- Power tower 
+- Parabolic trough collector for cooking in India [40,41]
+- Power tower for a solar rotary kiln in cement manufacturing [44,45]
+- [46] Industrial solar has a DSG solar thermal using Linear Fresnel
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
@@ -23,3 +26,5 @@ Examples where solar thermal is used can be seen in
 
 [28] U.S. Department of Energy. Improving process heating system performance: a sourcebook for industry. Washington, D.C; 2004 [Online]. Available: https://www1.eere.energy.gov/manufacturing/tech_assistance/pdfs/proc_ heat_sourcebook.pdf. [Accessed 30 June 2016].
 - Breakdown of energy usage by industry
+
+[47] has a list of solar thermal project
