@@ -67,6 +67,8 @@ Also compiles different projects based on the integration into their process lev
 	- However around two-thirds of industrial plants did not employ waste heat recovery systems and 1/3 did not implement maintenance plans to maximise the efficiency of existing process heating system according to the DOE. This was typically attributed to cash flow restrictions, short budget cycles, and insufficient engineering staff
 
 Ultimately, the barriers for solar thermal uptake is uncertain land availability and price, as well as solar resources in each location. There are also added barriers of consumer budget constraints.
+
+Downtime is also another consideration that adds to the operceived risk.
 ## Questions
 
 What is pinch analysis?
