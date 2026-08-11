@@ -27,6 +27,8 @@ Examples where solar thermal is used can be seen in
 - [58] 16 case studies of large scale heat pumps in Europe
 - [53] Performance of PV water heating system
 - [87] Renewable process heat from solar thermal and photovoltaics: the development and application of a universal methodology to determine the more economical technology
+- [42] Initial investigation into the potential of CSP industrial process heat for the Southwest United States.
+- 
 ## Content
 
 The levers that can be used to categories industrial heat processes are
@@ -41,7 +43,7 @@ Highlights that there is a lack of literature which relates process heat charact
 ![[Screenshot 2026-08-12 at 12.03.04 am.png]]
 
 Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation globally. 
-- Looking at this database shows that food beverages, metals, and textiles have the highest instance of solar thermla
+- Looking at this database shows that food beverages, metals, and textiles have the highest instance of solar thermal systems installed.
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
