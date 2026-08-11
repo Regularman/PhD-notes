@@ -42,7 +42,7 @@ Highlights that there is a lack of literature which relates process heat charact
 
 - Distinction between supply level
 - Heat transfer medium
-- 
+- Conventional heating equipment at the supply level
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
