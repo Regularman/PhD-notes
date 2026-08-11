@@ -39,6 +39,10 @@ The levers that can be used to categories industrial heat processes are
 
 - Discrete or continuous
 - Fluid heating, drying, smelting, calcining, heat treating and reheating, melting, and curing and forming
+- Temperature
+- Mass/fluid flow rate
+- Unit processes involved
+- Solar irradiance data
 
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
 
