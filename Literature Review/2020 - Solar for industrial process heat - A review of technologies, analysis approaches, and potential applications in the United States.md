@@ -37,7 +37,7 @@ Examples where solar thermal is used can be seen in
 
 The levers that can be used to categories industrial heat processes are
 
-- Discrete or continuous
+- Discrete or continuous, year round and seasonal
 - Fluid heating, drying, smelting, calcining, heat treating and reheating, melting, and curing and forming
 - Temperature
 - Mass/fluid flow rate
