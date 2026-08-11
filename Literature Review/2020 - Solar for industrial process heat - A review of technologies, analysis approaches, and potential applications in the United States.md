@@ -63,7 +63,8 @@ Also compiles different projects based on the integration into their process lev
 - Distinction between supply level
 - Heat transfer medium
 - Conventional heating equipment at the supply level
-- Note that energy efficiency measures and waste heat recovery are the first steps. We can then the implement SIPH that is o
+- Note that energy efficiency measures and waste heat recovery are the first steps. We can then the implement SIPH that is of lower footprint 
+	- However a
 ## Questions
 
 What is pinch analysis?
