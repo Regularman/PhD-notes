@@ -4,18 +4,18 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 The list of technology that can be applied are
 
-| Technology                 | COmments                                   |
-| -------------------------- | ------------------------------------------ |
-| Flat Plate Collector       |                                            |
-| Evacuated Tube Collector   |                                            |
-| Parabolic Collector        |                                            |
-| Linear Fresnel             |                                            |
-| Parabolic Trough Collector |                                            |
-| Power Tower                |                                            |
-| PV induction heating       |                                            |
-| PV heat pump               |                                            |
-| PVT                        | No examples, currently lacking development |
-| High Temperature TES       |                                            |
+| Technology                 | COmments                                              |
+| -------------------------- | ----------------------------------------------------- |
+| Flat Plate Collector       |                                                       |
+| Evacuated Tube Collector   |                                                       |
+| Parabolic Collector        |                                                       |
+| Linear Fresnel             |                                                       |
+| Parabolic Trough Collector |                                                       |
+| Power Tower                |                                                       |
+| PV induction heating       |                                                       |
+| PV heat pump               | System integrated with PV have only been investigated |
+| PVT                        | No examples, currently lacking development            |
+| High Temperature TES       |                                                       |
 ### ~={red}Examples =~
 
 Examples where solar thermal is used can be seen in
@@ -35,7 +35,7 @@ The levers that can be used to categories industrial heat processes are
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
 
 Highlights that there is a lack of literature which relates process heat characterisation
-- Noting that heat rate is also an important attribute
+- Noting that heat rate is also an important attribute, as well as the temperature of each ~={red}unit process=~
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
