@@ -2,9 +2,9 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 ## Contributions
 
-The list of technology that can be applied are
+The list of technology that can be applied are shown below. However, 
 
-| Technology                 | COmments                                              |
+| Technology                 | Comments                                              |
 | -------------------------- | ----------------------------------------------------- |
 | Flat Plate Collector       |                                                       |
 | Evacuated Tube Collector   |                                                       |
