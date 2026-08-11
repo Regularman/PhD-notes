@@ -40,7 +40,7 @@ Highlights that there is a lack of literature which relates process heat charact
 - Noting that heat rate is also an important attribute, as well as the temperature of each ~={red}unit process=~
 ![[Screenshot 2026-08-12 at 12.03.04 am.png]]
 
-Also compiles different prohe
+Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation glo
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
