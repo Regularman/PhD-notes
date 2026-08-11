@@ -4,15 +4,17 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 The list of technology that can be applied are
 
-| Technology                 |     |
-| -------------------------- | --- |
-| Flat Plate Collector       |     |
-| Evacuated Tube Collector   |     |
-| Parabolic Collector        |     |
-| Linear Fresnel             |     |
-| Parabolic Trough Collector |     |
-| Power Tower                |     |
-| PV induction heating       |     |
+| Technology                 | COmments                                   |
+| -------------------------- | ------------------------------------------ |
+| Flat Plate Collector       |                                            |
+| Evacuated Tube Collector   |                                            |
+| Parabolic Collector        |                                            |
+| Linear Fresnel             |                                            |
+| Parabolic Trough Collector |                                            |
+| Power Tower                |                                            |
+| PV induction heating       |                                            |
+| PV heat pump               |                                            |
+| PVT                        | No examples, currently lacking development |
 ### ~={red}Examples =~
 
 Examples where solar thermal is used can be seen in
