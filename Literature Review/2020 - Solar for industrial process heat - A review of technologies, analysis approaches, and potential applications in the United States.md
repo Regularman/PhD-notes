@@ -1,0 +1,20 @@
+https://www.sciencedirect.com/science/article/pii/S0360544220311907
+
+## Contributions
+
+## Content
+
+The levers that can be used to categories industrial heat processes are
+
+- Discrete or continuous
+- Fluid heating, drying, smelting, calcining, heat treating and reheating, melting, and curing and forming
+- 
+## Further Readings
+
+[8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
+
+[13] Solar heat for industrial processes technology brief. IRENA
+[27] Analysis of an innovative direct steam generation-based parabolic trough collector plant hybridized with a biomass boiler. Int J Energy Res 2017;41(14):2236e47. https://doi.org/10.1002/ er.3785.
+
+[28] U.S. Department of Energy. Improving process heating system performance: a sourcebook for industry. Washington, D.C; 2004 [Online]. Available: https://www1.eere.energy.gov/manufacturing/tech_assistance/pdfs/proc_ heat_sourcebook.pdf. [Accessed 30 June 2016].
+- Breakdown of energy usage by industry
