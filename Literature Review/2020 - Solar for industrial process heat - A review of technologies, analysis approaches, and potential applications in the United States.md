@@ -4,9 +4,14 @@ https://www.sciencedirect.com/science/article/pii/S0360544220311907
 
 The list of technology that can be applied are
 
-| Technology  |     |
-| ----------- | --- |
-|             |     |
+| Technology                 |     |
+| -------------------------- | --- |
+| Flat Plate Collector       |     |
+| Evacuated Tube Collector   |     |
+| Parabolic Collector        |     |
+| Linear Fresnel             |     |
+| Parabolic Trough Collector |     |
+| Power Towe                 |     |
 
 ## Content
 
