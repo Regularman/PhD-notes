@@ -40,7 +40,7 @@ Highlights that there is a lack of literature which relates process heat charact
 - Noting that heat rate is also an important attribute, as well as the temperature of each ~={red}unit process=~
 ![[Screenshot 2026-08-12 at 12.03.04 am.png]]
 
-Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation glo
+Also compiles different projects based on the integration into their process level from [47]. As of 2018, there has been 2018 SIPH installations in operation globally. 
 ### Considerations when integrating solar thermal
 
 - Distinction between supply level
@@ -56,4 +56,5 @@ Also compiles different projects based on the integration into their process lev
 [28] U.S. Department of Energy. Improving process heating system performance: a sourcebook for industry. Washington, D.C; 2004 [Online]. Available: https://www1.eere.energy.gov/manufacturing/tech_assistance/pdfs/proc_ heat_sourcebook.pdf. [Accessed 30 June 2016].
 - Breakdown of energy usage by industry
 
+[90] Solar heat worldwide: global market development € and trends in 2018. Consider IEA task 49.
 [47] has a list of solar thermal project
