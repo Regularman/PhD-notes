@@ -35,6 +35,7 @@ The levers that can be used to categories industrial heat processes are
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
 
 Highlights that there is a lack of literature which relates process heat characterisation
+- Noting that heat rate is also an important attribute
 ## Further Readings
 
 [8] IEA SHC Task 49. Database for applications of solar heat integration in industrial processes. 2014 [Online]. Available: http://ship-plants.info/.
