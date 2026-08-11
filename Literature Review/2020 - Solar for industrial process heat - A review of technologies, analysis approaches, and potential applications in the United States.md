@@ -31,7 +31,8 @@ Examples where solar thermal is used can be seen in
 - [94] Potential assessment in Mexico for solar process heat applications in food and textile industries
 - [95] Integration of a solar thermal system in a medium-sized brewery using pinch analysis
 - [104] Potential applications of concentrated solar thermal technologies in the Australian minerals processing and extractive metallurgical industry.
-- [105] 
+- [105] Potential of solar energy utilization for process heating in paper industry in India: a preliminary assessment.
+- 
 ## Content
 
 The levers that can be used to categories industrial heat processes are
