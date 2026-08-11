@@ -15,6 +15,7 @@ The list of technology that can be applied are
 | PV induction heating       |                                            |
 | PV heat pump               |                                            |
 | PVT                        | No examples, currently lacking development |
+| High Temperature TES       |                                            |
 ### ~={red}Examples =~
 
 Examples where solar thermal is used can be seen in
