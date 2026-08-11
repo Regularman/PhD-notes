@@ -44,6 +44,8 @@ The levers that can be used to categories industrial heat processes are
 - Unit processes involved
 - Solar irradiance data
 - Land and rooftop area
+- Resource potential, technology potential, economic potential, regulatory potential
+- Top down or bottom up approach
 
 Heat can be delivered through direct solar generation of steam, or through transport of heat through a HTF. Note that direct solar generation of steam reduced capex and maintenance for the HTF.
 
