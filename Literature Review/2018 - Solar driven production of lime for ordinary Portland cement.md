@@ -17,6 +17,7 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 ## Content 
 
 Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
+- PCC (clinker) is produced from 80% lime and clay. This raw meal of lime and clay is pre-calcined at $950 \degree C$ and then clinkerised (1400-1.
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
 - Cement production accounts for 26% of world wide ~={red}industrial=~ $CO_2$ emissions, or 6% of global emissions, due to high adoption of coal and pet coke as fuel.
 - 4.5Gt pa consumption of cement.
