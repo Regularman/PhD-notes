@@ -16,4 +16,4 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 	- and hydration behaviour of cement pastes produced from the lime
 ## Content 
 
-3 tonne consumption of cement per person
+3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
