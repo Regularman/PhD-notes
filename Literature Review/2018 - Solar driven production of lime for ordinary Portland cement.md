@@ -14,3 +14,6 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 	- burnability, 
 	- phase composition of clinkers, 
 	- and hydration behaviour of cement pastes produced from the lime
+## Content 
+
+3 tonne consumption of cement per person
