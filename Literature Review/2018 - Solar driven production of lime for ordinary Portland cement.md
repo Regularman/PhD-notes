@@ -12,4 +12,5 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 - What is the difference between lime produced from solar thermal driven calcination versus conventional natural gas fired calcination. Hypothesis that the more severe thermal history that the lime goes through in solar-calcination compromises the reactivity of the lime.
 	- lime saturation factor, 
 	- burnability, 
-	- phase composition of clinkers and hydration behaviour of cement pastes were taken into consideration.
+	- phase composition of clinkers, 
+	- and hydration behaviour of cement pastes produced from the lime
