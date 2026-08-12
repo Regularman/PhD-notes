@@ -20,8 +20,8 @@ The list of technology that can be applied are shown below. However, the concent
 
 Examples where solar thermal is used can be seen in
 - Parabolic trough collector for cooking in India [40,41]
-- Power tower for a solar rotary kiln in cement manufacturing [44,45]
-- [46] Industrial solar has a DSG solar thermal using Linear Fresnel
+- [ ] Power tower for a solar rotary kiln in cement manufacturing [44,45]
+- [ ]  [46] Industrial solar has a DSG solar thermal using Linear Fresnel
 - [55] Induction heating of steel using PV
 - [56] Comparing solar thermal and heat pumps (cost)
 - [58] 16 case studies of large scale heat pumps in Europe
