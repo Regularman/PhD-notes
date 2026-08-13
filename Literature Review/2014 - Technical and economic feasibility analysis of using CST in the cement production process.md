@@ -46,7 +46,8 @@ The outlet temperature from the solar receiver required for heating up a gas is 
 - Reactor redesign around insulation materials, higher system feed rates, thermal energy recovering systems.
 - Storing and insulating calcined meal at $900\degree C$. Storing tanks in 2014 were at the $500\degree C$ range, with state of the art working on $700\degree C$. Also chemical reactions have already started, so storing this material will be difficult.
 
+## Economic results
 
-
+![[Screenshot 2026-08-13 145503.png]]
 
 
