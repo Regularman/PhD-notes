@@ -8,7 +8,7 @@ A directly irradiated Fluidised Bed (FB) reactor was used as limestone pre-calci
 
 Concentrated solar radiation was simulated with an array of three short-arc Xe-lamps of $4 kW_{el}$ each, coupled with elliptical reflectors, capable of producing a peak flux of about $3 MW m^{−2}$ at the centre of the reactor. The total irradiated power is of approximately $3.2 kW_{th}$. 
 
-Characterises the thermal properties of the fluidised test bed ($950 \degree C$) as well as the properties of the lime that is produced.
+Characterises the thermal properties of the fluidised test bed ($950 \degree C$) as well as the properties of the lime that is produced. Uses a $3 kW_{th}$ plant
 - What is the difference between lime produced from solar thermal driven calcination versus conventional natural gas fired calcination. Hypothesis that the more severe thermal history that the lime goes through in solar-calcination compromises the reactivity of the lime.
 	- lime saturation factor, 
 	- burnability, 
@@ -37,7 +37,7 @@ Solar powered FB are not new, with research being conducted since the 1980s.
 - Calcination of limestone in a solar reactor
 - Design and experimental investigation of a horizontal rotary reactor for the solar thermal production of lime
 - Multi-tube rotary kiln for the industrial solar production of lime - showed that the economic cost is twice that of conventional systems for a 25 MW unit.
-- In 2014, "Technical and economic feasibility analysis of using CST in the cement production process" - Showed no technical barriers of entru, just that thermal losses of the solar plant cannot exceed 45% and that coal price 
+- In 2014, "Technical and economic feasibility analysis of using CST in the cement production process" - Showed no technical barriers of entru, just that thermal losses of the solar plant cannot exceed 45% and that coal price cannot drop below a threshold
 
 There are existing research into fluidised beds as solar receivers. (Note that fluidised beds have favourable thermal properties such as good bed-surface heat transfer and thermal diffusivity)
 - 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
