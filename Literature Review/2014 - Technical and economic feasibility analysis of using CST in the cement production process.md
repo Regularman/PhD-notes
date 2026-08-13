@@ -16,7 +16,7 @@ The configuration that the study looks at is a heliostat field, central tower, a
 - Does not account for economy of scale
 
 The cement plant itself has a production capacity of $3000$ tpd. capacity.
-- Uses 2.6 ton CO2/
+- Uses 2.6 ton CO2/ton of fuel used assuming coal
 ## Content
 
 ### Cement demand Growth rates
