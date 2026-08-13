@@ -19,6 +19,7 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 | Solar calcined limestone                                                           | Fresh limestone      |
 | ---------------------------------------------------------------------------------- | -------------------- |
 | 5% loss on ignition (which is the loss of mass when subjected to high temperature) | 43% loss on ignition |
+|                                                                                    |                      |
 
 ## Content 
 
