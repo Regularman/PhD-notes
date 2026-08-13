@@ -35,4 +35,10 @@ Solar powered FB are not new, with research being conducted since the 1980s.
 - Decarbonisation of calcite and phosphate rock in solar chemical reactors
 - Experimental aspects of the thermochemical conversion of solar energy, decarbonisation of $CaCO_3$ 
 - Calcination of limestone in a solar reactor
+- Design and experimental investigation of a horizontal rotary reactor for the solar thermal production of lime
+
+There are existing research into fluidised beds as solar receivers. (Note that fluidised beds have favourable thermal properties such as good bed-surface heat transfer and thermal diffusivity)
+- 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
+- Steam gasification of coal cokes by internally circulating fluidised bed reactors by concentrated Xe light radiation for solar syngas production
+- Design and performance of a multi-stage fluidised bed heat exchanger for particle receiver solar power plant with storage
 
