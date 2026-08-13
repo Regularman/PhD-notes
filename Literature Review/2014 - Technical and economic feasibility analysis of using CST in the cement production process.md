@@ -13,6 +13,8 @@ Highlights that the reaction takes around 3.182GJ/t of lime produced
 
 The configuration that the study looks at is a heliostat field, central tower, and a tubular rotary kiln (solar reactor), and a CPC placed at the entrance.
 - Retrofits the existing preheater tower for a cement plant
+
+The cement plant itself has a production capacity of $3000$ tpd.
 ## Content
 
 ### Cement demand Growth rates
