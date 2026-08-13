@@ -57,3 +57,4 @@ There are existing research into fluidised beds as solar receivers. (Note that f
 ### Results
 
 - Shows that the fluidised bed can reach up to temperatures of $1150\degree C$. 
+- Showed that the burnability of solar calcined lime is similar to that of the re
