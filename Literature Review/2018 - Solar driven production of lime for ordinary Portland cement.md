@@ -25,8 +25,8 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 
 Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 - PCC (clinker) is produced from 80% lime and clay. This raw meal of lime and clay is pre-calcined at $950 \degree C$ and then clinkerised ($1400-1500 \degree C$).
-- Fugitive emissions of $0.53 \frac{kg CO2-eq}{kg}$ of clinker produced due to decarbonisation process. This contributes to 60% of the overall emissions.
-- $1.76GJ$ is required to manufacture 1kg of clinker theoretically (However due to heat losses, global energy consumption is closer to $3-6\frac{GJ}{kg}$ of clinker).
+- Fugitive emissions of $0.53 \frac{kg CO2-eq}{t}$ of clinker produced due to decarbonisation process. This contributes to 60% of the overall emissions.
+- $1.76GJ$ is required to manufacture 1kg of clinker theoretically (However due to heat losses, global energy consumption is closer to $3-6\frac{GJ}{t}$ of clinker).
 	- 3.06 $GJ$ for pre-calcination
 	- $0.21 GJ$ for clinkerisation
 	- $1.51 GJ$ recovered from clinker cooling
