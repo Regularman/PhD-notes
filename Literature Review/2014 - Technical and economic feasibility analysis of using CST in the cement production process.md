@@ -5,7 +5,8 @@ Shows that the placement of concentrated solar thermal can reduce the carbon emi
 
 Cost of fuel in cement production can reach 30-40%. These cement plants often operates (24/7)
 
-The study evaluates the solar resources at the cement plant, and then determine the optim
+The study evaluates the solar resources at the cement plant, and then determine the optimal solution and size of thermal storage required.
+- Looks at solar energy required and heliostat surface and land surface area requirements
 
 ## Content
 
