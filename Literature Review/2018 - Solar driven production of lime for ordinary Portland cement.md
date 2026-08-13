@@ -60,3 +60,5 @@ There are existing research into fluidised beds as solar receivers. (Note that f
 - Showed that the burnability of solar calcined lime is similar to that of the reference case is encouraging.
 - There are also no significant difference in phase composition caused by the solar process, as also compared with commercial clinker products
 - Hydration properties were also similar after curing, and it shows that solar driven lime produced more reactive cement compared with conventional methods.
+
+Ultimately found that solar driven calcination produced lime that can be used in clinkerisation without drop in reactivity.
