@@ -27,6 +27,7 @@ The outlet temperature from the solar receiver required for heating up a gas is 
 
 - Beam down technology is not at demonstration scale, and the investment cost is generally more expensive due to the secondary top tower receiver.
 	- Furthermore, in beam down configurations, when used with a rotary kiln, the convective heat loss due to the buoyancy effect can be higher than beam up technologies.
+	- In this direct heating method, only the operation temperature needs to be reached $900\degree C$.
 
 
 
