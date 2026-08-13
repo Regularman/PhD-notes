@@ -23,6 +23,7 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 	- 3.06 $GJ$ for pre-calcination
 	- $0.21 GJ$ for clinkerisation
 	- $1.51 GJ$ recovered from clinker cooling
+- Note that in the pre-calcination process, 
 
 
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
