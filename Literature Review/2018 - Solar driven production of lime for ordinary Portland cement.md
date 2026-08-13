@@ -26,7 +26,8 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 
 There are existing research into fluidised beds as solar receivers.
 - 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
-- Steam gasification of coal cokes by internally circulating fluidised bed reactors by conc
+- Steam gasification of coal cokes by internally circulating fluidised bed reactors by concentrated Xe light radiation for solar syngas production
+- Design and performance of a multi-stage fluidised bed heat exchanger for particle receiver solar power plant with storage
 
 
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
