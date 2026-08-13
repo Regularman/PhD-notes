@@ -32,7 +32,8 @@ The outlet temperature from the solar receiver required for heating up a gas is 
 ## Scale up and implementation barriers
 
 - More raw meal will have to be processed, since we also have to generate lime for the night operations
-- Scaling issues. The preheating of the raw meal to a temperature of $800\degree C$ before passing through into the solar receiver to be heated to $900\degree C$ is problematic. Some 
+- Scaling issues. The preheating of the raw meal to a temperature of $800\degree C$ before passing through into the solar receiver to be heated to $900\degree C$ is problematic. Some chemical reactions will already occur at this temperature, creating a sticky substance that can clog the pipe. This can be avoided through pneumatic and mechanical systems.
+- Reactor redesign around insulation materials, higher system feed rates
 
 
 
