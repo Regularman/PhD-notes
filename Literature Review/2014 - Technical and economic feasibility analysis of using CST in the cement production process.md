@@ -29,10 +29,10 @@ The outlet temperature from the solar receiver required for heating up a gas is 
 	- Furthermore, in beam down configurations, when used with a rotary kiln, the convective heat loss due to the buoyancy effect can be higher than beam up technologies.
 	- In this direct heating method, only the operation temperature needs to be reached $900\degree C$.
 
-## Scale up barriers
+## Scale up and implementation barriers
 
 - More raw meal will have to be processed, since we also have to generate lime for the night operations
-- Scaling issues.
+- Scaling issues. The preheating of the raw meal to a temperature of $800\degree C$ before passing through into the solar receiver to be heated to $900\degree C$ is problematic. Some 
 
 
 
