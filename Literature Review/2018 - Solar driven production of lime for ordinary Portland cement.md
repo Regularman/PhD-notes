@@ -25,6 +25,7 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 	- $1.51 GJ$ recovered from clinker cooling
 
 There are existing research into fluidised beds as solar receivers.
+- 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for sol
 
 
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
