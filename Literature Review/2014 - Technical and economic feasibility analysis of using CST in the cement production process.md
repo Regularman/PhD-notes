@@ -20,7 +20,7 @@ According to a study performed in 2008 by the Tsinghua University of China, Chin
 
 The criteria is that it can support 24/7 production of cement.
 - Looks at storing heat in calcined hot meal rather than TES, to avoid the intermediary fluids required
-- Looks at either indirect or direct heating of the solar reactor. And 
+- Looks at either indirect or direct heating of the solar reactor. And additional calciner is added to separate the solar and conventional processes. The solar calcined meal are either sent to the kiln or to the 
 
 
 
