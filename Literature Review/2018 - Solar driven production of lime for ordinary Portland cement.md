@@ -13,7 +13,7 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 	- lime saturation factor (kept the same for both mixtures), 
 	- burnability, which describes ability for the lime to reach in the kiln with silicon, aluminum, and iron oxides. Note that raw meal characteristic is not the only factor, but also the kiln atmosphere, movement of the material, and the rate of heat transfer. Therefore, not comparable across experiments, 
 	- phase composition of clinkers, 
-	- and hydration behaviour of cement pastes produced from the lim
+	- and hydration behaviour of cement pastes produced from the lime
 ## Content 
 
 Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
@@ -24,7 +24,6 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 	- $0.21 GJ$ for clinkerisation
 	- $1.51 GJ$ recovered from clinker cooling
 - Note that in the pre-calcination process, CO2 is mixed in with pure oxygen to control the reaction temperature.
-
 
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
 - Cement production accounts for 26% of world wide ~={red}industrial=~ $CO_2$ emissions, or 6% of global emissions, due to high adoption of coal and pet coke as fuel.
@@ -48,3 +47,6 @@ There are existing research into fluidised beds as solar receivers. (Note that f
 - Steam gasification of coal cokes by internally circulating fluidised bed reactors by concentrated Xe light radiation for solar syngas production
 - Design and performance of a multi-stage fluidised bed heat exchanger for particle receiver solar power plant with storage
 
+### Results
+
+- Shows that the fluidised bed can reach up to temperatures of $1150\degree C$. 
