@@ -11,7 +11,7 @@ Concentrated solar radiation was simulated with an array of three short-arc Xe-l
 Characterises the thermal properties of the fluidised test bed ($950 \degree C$) as well as the properties of the lime that is produced. Uses a $3 kW_{th}$ plant
 - What is the difference between lime produced from solar thermal driven calcination versus fresh limestone obtained from conventional calcination mixed with clay for clinker production. Hypothesis that the more severe thermal history that the lime goes through in solar-calcination compromises the reactivity of the lime. Fresh limestone also have lower lime contents
 	- lime saturation factor (kept the same for both mixtures), 
-	- burnability, which describes ability for the lime to reach in the kiln with silcon, aluminium, and iron oxides, 
+	- burnability, which describes ability for the lime to reach in the kiln with silicon, aluminum, and iron oxides. Note that raw meal characteristic is not the only factor, but also the kiln atmosphere, movement , 
 	- phase composition of clinkers, 
 	- and hydration behaviour of cement pastes produced from the lime
 ## Content 
