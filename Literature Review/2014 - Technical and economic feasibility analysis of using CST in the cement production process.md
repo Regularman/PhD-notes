@@ -48,6 +48,8 @@ The outlet temperature from the solar receiver required for heating up a gas is 
 
 ## Economic results
 
+Strongly dependent on the coal price.
+
 ![[Screenshot 2026-08-13 145503.png]]
 
 
