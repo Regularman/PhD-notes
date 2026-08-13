@@ -24,13 +24,13 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 	- $0.21 GJ$ for clinkerisation
 	- $1.51 GJ$ recovered from clinker cooling
 
-There are existing research into fluidised beds as solar receivers. (Note that fluidised beds have favourable thermal properties such as good bed-surface heat transfer and thermal diffusivity)
-- 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
-- Steam gasification of coal cokes by internally circulating fluidised bed reactors by concentrated Xe light radiation for solar syngas production
-- Design and performance of a multi-stage fluidised bed heat exchanger for particle receiver solar power plant with storage
-
 
 3 tonne consumption of concrete per person. Note that cement is a major input into concrete production. Cement is the hydraulic binder that hardens when water is added. This binds sand and other aggregates in the concrete for a strong final product.
 - Cement production accounts for 26% of world wide ~={red}industrial=~ $CO_2$ emissions, or 6% of global emissions, due to high adoption of coal and pet coke as fuel.
 - 4.5Gt pa consumption of cement.
+
+## Technology Readiness Level
+
+Solar powered FB are not new, with research being conducted since the 1980s.
+- 
 
