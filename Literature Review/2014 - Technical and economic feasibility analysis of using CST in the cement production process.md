@@ -10,6 +10,8 @@ The study evaluates the solar resources at the cement plant (DNI), and then dete
 - Assumes that 1.5h is needed for the heating up of the reactor and 1.5 hours is required for the cooling down of the reactor
 
 Highlights that the reaction takes around 3.182GJ/t of lime produced
+
+The configuration that the study looks at is a heliostat field, central tower, and a tubular rotary kiln (solar reactor)
 ## Content
 
 ### Cement demand Growth rates
