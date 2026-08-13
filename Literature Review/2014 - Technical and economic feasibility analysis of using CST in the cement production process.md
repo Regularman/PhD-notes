@@ -25,7 +25,7 @@ The criteria is that it can support 24/7 production of cement.
 
 The outlet temperature from the solar receiver is too high ($1748 \degree C$) for gases to be pumped into the solar reactor. Therefore, this option was discarded. Rather, it is preferred for the reactor to be directly heated by the CSP, through a beam down or a beam up configuration.
 
-- Beam down technology is not at demonstration scale,
+- Beam down technology is not at demonstration scale, and the investment cost is generally more expensive due to the secondary top tower receiver.
 
 
 
