@@ -112,7 +112,8 @@
 		{"id":"09c4034a1e444f86","type":"file","file":"PhD-notes/Literature Review/2020 - Solar for industrial process heat - A review of technologies, analysis approaches, and potential applications in the United States.md","x":-6021,"y":84,"width":400,"height":181,"color":"5"},
 		{"id":"c5b8bc00f45e51bf","type":"file","file":"PhD-notes/Literature Review/2016 - “Best practice” Series of Case Study Reports from Demonstration Project - IEA Task 49.md","x":-6021,"y":-112,"width":400,"height":150,"color":"5"},
 		{"id":"dd5e137bfb9ab792","type":"file","file":"PhD-notes/Literature Review/2018 - Solar driven production of lime for ordinary Portland cement.md","x":-6021,"y":-284,"width":400,"height":131,"color":"5"},
-		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria for peak shaving.md","x":-440,"y":-214,"width":400,"height":155,"color":"2"}
+		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria for peak shaving.md","x":-440,"y":-214,"width":400,"height":155,"color":"2"},
+		{"id":"1fe914bae26a3aa5","x":-6520,"y":-288,"width":400,"height":135,"color":"5","type":"file","file":"PhD-notes/Literature Review/2014 - Technical and economic feasibility analysis of using CST in the cement production process.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -217,6 +218,7 @@
 		{"id":"a0711a4c90a4da67","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"25326d86e6a5decc","toSide":"left"},
 		{"id":"cce01198fdcf7ebe","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"09c4034a1e444f86","toSide":"right"},
 		{"id":"4035277d1bfa54cf","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"c5b8bc00f45e51bf","toSide":"right"},
-		{"id":"a9835f45dba50a74","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"dd5e137bfb9ab792","toSide":"right"}
+		{"id":"a9835f45dba50a74","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"dd5e137bfb9ab792","toSide":"right"},
+		{"id":"5c099eccc628a6b8","fromNode":"dd5e137bfb9ab792","fromSide":"left","toNode":"1fe914bae26a3aa5","toSide":"right"}
 	]
 }
