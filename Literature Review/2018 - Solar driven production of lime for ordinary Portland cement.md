@@ -13,7 +13,7 @@ Characterises the thermal properties of the fluidised test bed ($950 \degree C$)
 	- lime saturation factor (kept the same for both mixtures), 
 	- burnability, which describes ability for the lime to reach in the kiln with silicon, aluminum, and iron oxides. Note that raw meal characteristic is not the only factor, but also the kiln atmosphere, movement of the material, and the rate of heat transfer. Therefore, not comparable across experiments, 
 	- phase composition of clinkers, 
-	- and hydration behaviour of cement pastes produced from the lime
+	- and hydration behaviour of cement pastes produced from the lim
 ## Content 
 
 Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
