@@ -9,7 +9,7 @@ A directly irradiated Fluidised Bed (FB) reactor was used as limestone pre-calci
 Concentrated solar radiation was simulated with an array of three short-arc Xe-lamps of $4 kW_{el}$ each, coupled with elliptical reflectors, capable of producing a peak flux of about $3 MW m^{−2}$ at the centre of the reactor. The total irradiated power is of approximately $3.2 kW_{th}$. 
 
 Characterises the thermal properties of the fluidised test bed ($950 \degree C$) as well as the properties of the lime that is produced. Uses a $3 kW_{th}$ plant
-- What is the difference between lime produced from solar thermal driven calcination versus conventional natural gas fired calcination. Hypothesis that the more severe thermal history that the lime goes through in solar-calcination compromises the reactivity of the lime.
+- What is the difference between lime produced from solar thermal driven calcination versus fresh limestone mixed with clay for clinker production. Hypothesis that the more severe thermal history that the lime goes through in solar-calcination compromises the reactivity of the lime. Fr
 	- lime saturation factor, 
 	- burnability, 
 	- phase composition of clinkers, 
