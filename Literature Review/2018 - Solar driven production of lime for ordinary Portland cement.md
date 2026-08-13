@@ -31,7 +31,7 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 - 4.5Gt pa consumption of cement.
 ### Methodology
 
-- Electric arc furna
+- Electric arc furnace is used to heat up the limestone to $850\degree C$ and then the experiment switched to solar thermal sources, prolonging calcination by 20 minutes.
 
 ### Technology Readiness Level
 
