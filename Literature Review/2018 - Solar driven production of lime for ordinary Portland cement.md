@@ -32,5 +32,7 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 ## Technology Readiness Level
 
 Solar powered FB are not new, with research being conducted since the 1980s.
-- 
+- Decarbonisation of calcite and phosphate rock in solar chemical reactors
+- Experimental aspects of the thermochemical conversion of solar energy, decarbonisation of $CaCO_3$ 
+- Calcination of limestone in a solar reactor
 
