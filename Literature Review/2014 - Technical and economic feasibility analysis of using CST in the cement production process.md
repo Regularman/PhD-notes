@@ -23,7 +23,9 @@ The criteria is that it can support 24/7 production of cement.
 - Looks at either indirect or direct heating of the solar reactor. And additional calciner is added to separate the solar and conventional processes. The solar calcined meal are either sent to the kiln or to the the storage facility such that it can be used during the night or during low solar periods.
 	- This requires a new calciner and a new cyclone
 
-The outlet temperature from the solar receiver is too high ($1748 \degree C$)
+The outlet temperature from the solar receiver is too high ($1748 \degree C$) for gases to be pumped into the solar reactor. Therefore, this option was discarded. Rather, it is preferred for the reactor to be directly heated by the CSP, through a beam down or a beam up configuration.
+
+- Beam down technology is not at demonstration scale,
 
 
 
