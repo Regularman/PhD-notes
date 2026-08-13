@@ -18,6 +18,8 @@ The configuration that the study looks at is a heliostat field, central tower, a
 
 The cement plant itself has a production capacity of $3000$ tpd. capacity.
 - Uses 2.6 ton CO2/ton of fuel used assuming coal. This is approximately 108 ktCO2-eq/PJ of fuel.
+
+However, the study does not investigate thermal losses in the system, rather it looks at the IRR and PBT at different levels of thermal losses (15,30,and 45%)
 ## Content
 
 ### Cement demand Growth rates
