@@ -24,7 +24,7 @@ Cement is primarily clinker with a few percent of calcium sulphates (gypsum)
 	- $0.21 GJ$ for clinkerisation
 	- $1.51 GJ$ recovered from clinker cooling
 
-There are existing research into fluidised beds as solar receivers.
+There are existing research into fluidised beds as solar receivers. (Note that fluidised beds have favourable thermal properties such as good bed-surface heat transfer and thermal diffusivity)
 - 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
 - Steam gasification of coal cokes by internally circulating fluidised bed reactors by concentrated Xe light radiation for solar syngas production
 - Design and performance of a multi-stage fluidised bed heat exchanger for particle receiver solar power plant with storage
