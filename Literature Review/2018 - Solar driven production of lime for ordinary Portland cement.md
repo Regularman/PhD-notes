@@ -37,6 +37,7 @@ Solar powered FB are not new, with research being conducted since the 1980s.
 - Calcination of limestone in a solar reactor
 - Design and experimental investigation of a horizontal rotary reactor for the solar thermal production of lime
 - Multi-tube rotary kiln for the industrial solar production of lime - showed that the economic cost is twice that of conventional systems for a 25 MW unit.
+- In 2014, "Technical and economic feasibility analysis of using CST in the cement production process" - Showed no technical barriers of entru, just that thermal losses of the solar plant cannot exceed 45% and that coal price 
 
 There are existing research into fluidised beds as solar receivers. (Note that fluidised beds have favourable thermal properties such as good bed-surface heat transfer and thermal diffusivity)
 - 2018 CFD-DEM study of hydrodynamics with heat transfer in a gas solid fluidised bed reactor for solar thermal applications
