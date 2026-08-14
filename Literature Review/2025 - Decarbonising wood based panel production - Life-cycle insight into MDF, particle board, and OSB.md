@@ -11,4 +11,6 @@ Ultimately showed that MDF have the highest carbon footprint, driven by the inte
 Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board types. Options are
 - Circular utilisation of wood residue
 - low emission resin systems
--  integration of biomass based hea
+-  integration of biomass based heating systems
+
+Studies shows that drying processes dominated energy use and environmental impact.
