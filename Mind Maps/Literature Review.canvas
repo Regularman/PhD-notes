@@ -55,8 +55,6 @@
 		{"id":"efe05d64f9561f95","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-4678,"y":-3064,"width":400,"height":184,"color":"4"},
 		{"id":"543462e890b7dff1","type":"text","text":"# ~={green}Technology LCA=~","x":-3519,"y":-1942,"width":250,"height":60,"color":"4"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular Economy in Heat Supply Systems for Buildings - An Overview of the End of Life of System Components and Existing Evaluation Systems and Products.md","x":-3307,"y":-1744,"width":400,"height":184,"color":"4"},
-		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1409,"width":400,"height":149,"color":"4"},
-		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2845,"y":-1738,"width":400,"height":122,"color":"4"},
 		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":180,"color":"6"},
 		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-960,"width":400,"height":200,"color":"6"},
@@ -113,7 +111,10 @@
 		{"id":"c5b8bc00f45e51bf","type":"file","file":"PhD-notes/Literature Review/2016 - “Best practice” Series of Case Study Reports from Demonstration Project - IEA Task 49.md","x":-6021,"y":-112,"width":400,"height":150,"color":"5"},
 		{"id":"dd5e137bfb9ab792","type":"file","file":"PhD-notes/Literature Review/2018 - Solar driven production of lime for ordinary Portland cement.md","x":-6021,"y":-284,"width":400,"height":131,"color":"5"},
 		{"id":"e3aee0d727fb02cd","type":"file","file":"PhD-notes/Literature Review/2016 - Aggregating the flexibility of heat pumps and thermal storage systems in Austria for peak shaving.md","x":-440,"y":-214,"width":400,"height":155,"color":"2"},
-		{"id":"1fe914bae26a3aa5","x":-6520,"y":-288,"width":400,"height":135,"color":"5","type":"file","file":"PhD-notes/Literature Review/2014 - Technical and economic feasibility analysis of using CST in the cement production process.md"}
+		{"id":"1fe914bae26a3aa5","type":"file","file":"PhD-notes/Literature Review/2014 - Technical and economic feasibility analysis of using CST in the cement production process.md","x":-6520,"y":-288,"width":400,"height":135,"color":"5"},
+		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1495,"width":400,"height":149,"color":"4"},
+		{"id":"f2dff038a8d8bbb8","x":-3307,"y":-1303,"width":400,"height":151,"color":"4","type":"file","file":"PhD-notes/Literature Review/2025 - Decarbonising wood based panel production - Life-cycle insight into MDF, particle board, and OSB.md"},
+		{"id":"1b48af96d03fb765","type":"file","file":"PhD-notes/Literature Review/2024 - AE2P guide on refrigerant.md","x":-2802,"y":-1706,"width":400,"height":122,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -219,6 +220,7 @@
 		{"id":"cce01198fdcf7ebe","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"09c4034a1e444f86","toSide":"right"},
 		{"id":"4035277d1bfa54cf","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"c5b8bc00f45e51bf","toSide":"right"},
 		{"id":"a9835f45dba50a74","fromNode":"04e2dde29adde56b","fromSide":"left","toNode":"dd5e137bfb9ab792","toSide":"right"},
-		{"id":"5c099eccc628a6b8","fromNode":"dd5e137bfb9ab792","fromSide":"left","toNode":"1fe914bae26a3aa5","toSide":"right"}
+		{"id":"5c099eccc628a6b8","fromNode":"dd5e137bfb9ab792","fromSide":"left","toNode":"1fe914bae26a3aa5","toSide":"right"},
+		{"id":"84f18ca12f635dba","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"f2dff038a8d8bbb8","toSide":"left"}
 	]
 }
