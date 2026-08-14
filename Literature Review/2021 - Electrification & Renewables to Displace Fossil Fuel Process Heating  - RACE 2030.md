@@ -114,7 +114,7 @@ Waste heat can be produced from
 
 **Energy for process heating:** Uses $21.2 \frac{PJ}{year}$ for process heating across 44 sites, mainly supplied by natural gas and wood waste
 - $4$ million $m^3$ of wood log used for domestic pulp and paper. Which is an eighth of the wood supplied in Australia $32$ million $m^3$
-- Paper making from pulp require s$4.5-6 \frac{GJ}{t}$ of dried paper, largely for drying 
+- Paper making from pulp requires $4.5-6 \frac{GJ}{t}$ of dried paper, largely for drying 
 
 **Carbon emissions:** 
 
