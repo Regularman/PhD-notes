@@ -16,9 +16,9 @@ Used openLCA and EF database to create a comprehensive lifecycle assessment
 	- Finishing and trimming
 	- Technical building services
 
-Ultimately showed that MDF have the highest carbon footprint, driven by the intensive fibre refining and higher resin contents.
+Ultimately showed that MDF have the highest carbon footprint, driven by the intensive fiber refining and higher resin contents.
 
-The 
+The results were focused on the Global Warming Potential indicator, calculated over a 100 year horizon.
 
 Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board types. Options are
 - Circular utilisation of wood residue
@@ -26,3 +26,5 @@ Scenario analysis shows that the integration of renewables substantially reduces
 - integration of biomass based heating systems
 
 Studies shows that drying processes dominated energy use and environmental impact.
+
+## Results
