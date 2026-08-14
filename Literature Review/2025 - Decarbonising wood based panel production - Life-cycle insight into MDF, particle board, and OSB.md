@@ -8,4 +8,7 @@ Used openLCA and EF database to create a comprehensive lifecycle assessment
 
 Ultimately showed that MDF have the highest carbon footprint, driven by the intensive fibre refining and higher resin contents.
 
-Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board tyes.
+Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board types. Options are
+- Circular utilisation of wood residue
+- low emission resin systems
+-  integration of biomass based hea
