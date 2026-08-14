@@ -3,3 +3,7 @@ http://researchgate.net/publication/399083963_THE_PROCEEDINGS_BOOK_EDITOR_DECARB
 ## Contribution
 
 Used openLCA and EF database to create a comprehensive lifecycle assessment
+
+- Adopting a cradle to grave system boundary, from raw material extraction, to resin production, panel manufacturing, and transportation processes.
+
+Ultimately showed that MDF have the highest 
