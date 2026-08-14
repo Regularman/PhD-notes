@@ -6,4 +6,6 @@ Used openLCA and EF database to create a comprehensive lifecycle assessment
 
 - Adopting a cradle to grave system boundary, from raw material extraction, to resin production, panel manufacturing, and transportation processes.
 
-Ultimately showed that MDF have the highest 
+Ultimately showed that MDF have the highest carbon footprint, driven by the intensive fibre refining and higher resin contents.
+
+Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board tyes.
