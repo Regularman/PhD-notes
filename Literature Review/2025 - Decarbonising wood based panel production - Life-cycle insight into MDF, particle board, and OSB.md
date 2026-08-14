@@ -28,3 +28,4 @@ Scenario analysis shows that the integration of renewables substantially reduces
 Studies shows that drying processes dominated energy use and environmental impact.
 
 ## Results
+![[Screenshot 2026-08-14 144212.png]]![[Screenshot 2026-08-14 144230.png]]![[Screenshot 2026-08-14 144239.png]]
