@@ -9,9 +9,16 @@ PB = Particleboard (620 $kg/m^3$)
 Used openLCA and EF database to create a comprehensive lifecycle assessment
 
 - Adopting a cradle to gate system boundary, from raw material extraction, to resin production, panel manufacturing, and transportation processes.
-	- Raw material supply covering forest operation, wood residue 
+	- Raw material supply covering forest operation, wood residue collection, transportation, and size reduction
+	- Drying and refining
+	- Adhesive preparation and blending
+	- Hot pressing
+	- Finishing and trimming
+	- Technical building services
 
 Ultimately showed that MDF have the highest carbon footprint, driven by the intensive fibre refining and higher resin contents.
+
+The 
 
 Scenario analysis shows that the integration of renewables substantially reduces the emissions of all board types. Options are
 - Circular utilisation of wood residue
