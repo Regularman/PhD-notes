@@ -6,8 +6,7 @@ Solar Heat Worldwide Report
 
 ## Subsidies
 
-- ISDE (investering Subsidie Duurzame Energie en Energiebesparing), which provides 
-
+Netherlands, Mexico, and China are the biggest installers of SHIP systems globally. https://www.solar-payback.com/suppliers/
 
 | Subsidy                                                          | Provider                            | Target                                               | Total Fund |
 | ---------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------- | ---------- |
