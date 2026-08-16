@@ -9,6 +9,7 @@ Solar Heat Worldwide Report
 - ISDE (investering Subsidie Duurzame Energie en Energiebesparing), which provides 
 
 
-| Subsidy                                                          | Provider                            | Target | Total Fund |
-| ---------------------------------------------------------------- | ----------------------------------- | ------ | ---------- |
-| ISDE (investering Subsidie Duurzame Energie en Energiebesparing) | Netherlands Enterprise Agency (RVO) |        |            |
+| Subsidy                                                          | Provider                            | Target                                               | Total Fund |
+| ---------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------- | ---------- |
+| ISDE (investering Subsidie Duurzame Energie en Energiebesparing) | Netherlands Enterprise Agency (RVO) | Installation of heat pumps and solar thermal systems |            |
+|                                                                  |                                     |                                                      |            |
