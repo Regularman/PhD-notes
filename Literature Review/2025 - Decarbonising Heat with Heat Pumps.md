@@ -25,5 +25,5 @@ The potential applications are
 - process heating
 - product heating
 
-We can see from the TRL chart below that most conventional heat pumps currently are below $80\degree C$. 
+We can see from the TRL chart below that most conventional heat pumps currently are below $80\degree C$. With commercially available heat pumps going up up until $100\degree C$. 
 ![[Screenshot 2026-08-17 174220.png]]
