@@ -24,3 +24,6 @@ The potential applications are
 - refridgeration
 - process heating
 - product heating
+
+We can see from the TRL chart below that most conventional heat pumps currently are below $80\degree C$. 
+![[Screenshot 2026-08-17 174220.png]]
