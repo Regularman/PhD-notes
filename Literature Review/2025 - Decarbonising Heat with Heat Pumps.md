@@ -56,7 +56,8 @@ The challenges are companies that lack conceptual understanding, and companies t
 - However, energy storage often requires multi-pipe networks which complicates the heating system
 
 One issue of subsidised technologies is the rise of "pop up" vendors which sells the heat pump and does not provide continual support. This can lead to increased costs and system downtime.
-- Furthermore, auditors may over-react to minor compliance issues, which increases uncertainty around project implementations. The inaccuracy and adminstrative difficulties a
+- Furthermore, auditors may over-react to minor compliance issues, which increases uncertainty around project implementations. The inaccuracy and adminstrative difficulties around Measure and Verify energy saving projects (project based approaches) have led to the uptake of Activity 44, which is the replacement of natural gas boilers, generating white energy certificates directly from natural gas displacement.
+- 
 
 ### New technologies
 
