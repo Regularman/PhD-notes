@@ -33,11 +33,11 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 
 ### Policies 
 
-| Policy                                                       | Description                                                                                        |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| US DOE's initiative for better energy, emissions, and equity | Promotes clean heating and cooling systems, including heat pumps                                   |
-| Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters |
-| Renewable Heat Incentive in the UK                           |                                                                                                    |
+| Policy                                                       | Description                                                                                                                                                                                                                            |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US DOE's initiative for better energy, emissions, and equity | Promotes clean heating and cooling systems, including heat pumps                                                                                                                                                                       |
+| Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters                                                                                                                                     |
+| Renewable Heat Incentive in the UK                           | Renewable heating systems, heat pumps, biomass boilers, and solar thermal water heaters. The UK government also announced in 2020 that they will install 600,000 heat pumps annually by 2028, with grants of $5000 Euros per heat pump |
 
 
 ### New technologies
