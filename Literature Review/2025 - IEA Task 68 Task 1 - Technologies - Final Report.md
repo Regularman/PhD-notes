@@ -1,0 +1,1 @@
+https://heatpumpingtechnologies.org/publications/project-68-industrial-high-temperature-heat-pumps-task-1-technologies-2025/
