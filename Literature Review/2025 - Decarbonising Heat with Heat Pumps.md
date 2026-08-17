@@ -33,9 +33,11 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 
 ### Policies 
 
-| Policy                                                        |     |
-| ------------------------------------------------------------- | --- |
-| US DOE's initiavtive for better energy, emissions, and equity |     |
+| Policy                                                       | Description                                                                                        |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| US DOE's initiative for better energy, emissions, and equity | Promotes clean heating and cooling systems, including heat pumps                                   |
+| Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters |
+| Renewable Heat Incentive in the UK                           |                                                                                                    |
 
 
 ### New technologies
