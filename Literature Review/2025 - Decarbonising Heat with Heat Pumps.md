@@ -49,13 +49,14 @@ In low pressure centrifugal compressors, R1233zd and R154 is used (striking a ba
 | Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters                                                                                                                                                                                                                                                                                                                    |
 | Renewable Heat Incentive in the UK                           | Renewable heating systems, heat pumps, biomass boilers, and solar thermal water heaters. The UK government also announced in 2020 that they will install 600,000 heat pumps annually by 2028, with grants of $5000 Euros per heat pump                                                                                                                                                                                |
 | White certificate scheme                                     | This is a product acceptance process for energy suppliers to ensure that their products achieve a certain level of energy savings. Although mandatory for the energy supplier, these compliance targets are voluntary for corporate buyers and upgraders. Heat pumps must be tested. However, heat pumps tested in TRNSYS modelling often does not account for the wide range of ambient water temperature conditions |
-| Victorian Energy Upgrades                                    |                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
 The challenges are companies that lack conceptual understanding, and companies that lack in depth knowledge.
 - Thermal and buffer storage are often overlooked.
 - Energy management operations must be dynamic and respond to a changing market
 - However, energy storage often requires multi-pipe networks which complicates the heating system
 
 One issue of subsidised technologies is the rise of "pop up" vendors which sells the heat pump and does not provide continual support. This can lead to increased costs and system downtime.
+- Furthermore, auditors may over-react to minor compliance issues, which 
 
 ### New technologies
 
