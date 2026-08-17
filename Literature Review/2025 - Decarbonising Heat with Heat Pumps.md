@@ -49,7 +49,10 @@ In low pressure centrifugal compressors, R1233zd and R154 is used (striking a ba
 | Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters                                                                                                                                     |
 | Renewable Heat Incentive in the UK                           | Renewable heating systems, heat pumps, biomass boilers, and solar thermal water heaters. The UK government also announced in 2020 that they will install 600,000 heat pumps annually by 2028, with grants of $5000 Euros per heat pump |
 The challenges are companies that lack conceptual understanding, and companies that lack in depth knowledge.
-- Thermal and buffer storage are often overlo
+- Thermal and buffer storage are often overlooked.
+- Energy management operations must be dynamic and respond to a changing market
+
+
 ### New technologies
 
 | Technology                                              | Description                                                                                                                                                                                                                                                                                                                                                                  |
