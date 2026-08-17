@@ -26,4 +26,7 @@ The potential applications are
 - product heating
 
 We can see from the TRL chart below that most conventional heat pumps currently are below $80\degree C$. With commercially available heat pumps going up up until $100\degree C$. 
+
 ![[Screenshot 2026-08-17 174220.png]]
+
+Really, we need to look at heat pump adoption in Europe to determine the possibility of heat pumps in different industries in Australia.
