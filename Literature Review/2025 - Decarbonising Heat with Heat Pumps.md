@@ -58,7 +58,7 @@ The challenges are companies that lack conceptual understanding, and companies t
 One issue of subsidised technologies is the rise of "pop up" vendors which sells the heat pump and does not provide continual support. This can lead to increased costs and system downtime.
 - Furthermore, auditors may over-react to minor compliance issues, which increases uncertainty around project implementations. The inaccuracy and adminstrative difficulties around Measure and Verify energy saving projects (project based approaches) have led to the uptake of Activity 44, which is the replacement of natural gas boilers, generating white energy certificates directly from natural gas displacement.
 - IoT devices enable the collection of quality monitoring easier (ambient temperature, occupancy, and production load can be measured more accurately)
-- The roadmap is not tailored to industrial processes which have more complicated products and more detailed needs for M&V processes. More complex technologies also require access to more specialised 
+- The roadmap is not tailored to industrial processes which have more complicated products and more detailed needs for M&V processes. More complex technologies also require access to more specialised test labs, which are limited in Australia, or global test labs or operation sites. Alternatively, we can integrate AHRI standards or Eurovent.
 - Who owns the white energy certificate? Requires clarification
 
 ### New technologies
