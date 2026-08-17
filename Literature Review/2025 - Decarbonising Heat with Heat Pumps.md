@@ -56,7 +56,7 @@ The challenges are companies that lack conceptual understanding, and companies t
 - However, energy storage often requires multi-pipe networks which complicates the heating system
 
 One issue of subsidised technologies is the rise of "pop up" vendors which sells the heat pump and does not provide continual support. This can lead to increased costs and system downtime.
-- Furthermore, auditors may over-react to minor compliance issues, which increases uncertainty around project implementations.
+- Furthermore, auditors may over-react to minor compliance issues, which increases uncertainty around project implementations. The inaccuracy and adminstrative difficulties a
 
 ### New technologies
 
