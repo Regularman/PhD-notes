@@ -51,8 +51,7 @@ In low pressure centrifugal compressors, R1233zd and R154 is used (striking a ba
 The challenges are companies that lack conceptual understanding, and companies that lack in depth knowledge.
 - Thermal and buffer storage are often overlooked.
 - Energy management operations must be dynamic and respond to a changing market
-
-
+- However, energy storage often requires multi-pipe networks which complicates the heating system
 ### New technologies
 
 | Technology                                              | Description                                                                                                                                                                                                                                                                                                                                                                  |
