@@ -31,8 +31,14 @@ We can see from the TRL chart below that most conventional heat pumps currently 
 
 Really, we need to look at heat pump adoption in Europe to determine the possibility of heat pumps in different industries in Australia.
 
-### New technologies
+### Policies 
 
+| Policy                                                        |     |
+| ------------------------------------------------------------- | --- |
+| US DOE's initiavtive for better energy, emissions, and equity |     |
+
+
+### New technologies
 
 | Technology        | Description                                                                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
