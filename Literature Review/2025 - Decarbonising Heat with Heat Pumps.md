@@ -38,7 +38,8 @@ Low capacity market (10kW to 2000kW, has been dominated by R32, R410a, and R134a
 - Increasing the temperature lifts of heat pumps by $15-20\degree C$ enables heat pumps to be integrated into existing retrofit projects without extensive changes to the pipeworks.
 - Alternatively, new refrigerant blends are needed to work in cascade configurations for high temperature steam generation. 
 
-In low pressure centrifugal compressors, R1233zd and R154 is used (striking a balance between environmental considerations and performance needs). R454B also provides an alternative
+In low pressure centrifugal compressors, R1233zd and R154 is used (striking a balance between environmental considerations and performance needs). R454B also provides an alternative.
+- F gas regulation continues to push many refrigeratns out of the market.
 
 ### Policies 
 
@@ -47,7 +48,8 @@ In low pressure centrifugal compressors, R1233zd and R154 is used (striking a ba
 | US DOE's initiative for better energy, emissions, and equity | Promotes clean heating and cooling systems, including heat pumps                                                                                                                                                                       |
 | Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters                                                                                                                                     |
 | Renewable Heat Incentive in the UK                           | Renewable heating systems, heat pumps, biomass boilers, and solar thermal water heaters. The UK government also announced in 2020 that they will install 600,000 heat pumps annually by 2028, with grants of $5000 Euros per heat pump |
-
+The challenges are companies that lack conceptual understanding, and companies that lack in depth knowledge.
+- Thermal and buffer storage are often overlo
 ### New technologies
 
 | Technology                                              | Description                                                                                                                                                                                                                                                                                                                                                                  |
