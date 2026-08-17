@@ -14,3 +14,5 @@ The report looks at both industrial and commercial developments.
 The report looks at both the industry and commercial side of heat pump applications
 
 ## Content
+
+IEA 2021 highlights that solar power heat pumps beats hydrogen production by a factor of 5 to 6 w
