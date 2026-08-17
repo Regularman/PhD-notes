@@ -33,7 +33,8 @@ We can see from the TRL chart below that most conventional heat pumps currently 
 Really, we need to look at heat pump adoption in Europe to determine the possibility of heat pumps in different industries in Australia.
 
 Low capacity market (10kW to 2000kW, has been dominated by R32, R410a, and R134a), while natural refrigerants (R744 ($CO_2$) and R290 (Propane)) are emerging as sustainable alternatives.
-- Liquid to water heat pumps have a more narrow operational r
+- Liquid to water heat pumps have a more narrow operational range ($-5-20\degree C$) compare to air source heat pumps ($25-43\degree C$)
+- Eliminating the need for cascade systems reduces the installation complexity and maintenance burdens. This is o
 
 ### Policies 
 
