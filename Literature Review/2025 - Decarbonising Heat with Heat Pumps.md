@@ -34,6 +34,6 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 ### New technologies
 
 
-| Technology | Description |
-| ---------- | ----------- |
-| $CO_2$     |             |
+| Technology        | Description                                                                                                                   |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| $CO_2$ heat pumps | 500,000 units sold in 2018. Driven by government policy, installer training, performance standards, and financial incentives. |
