@@ -25,6 +25,7 @@ The potential applications are
 - process heating
 - product heating
 
+Note that all heat pump installation in Australia are focussed of residential-commercial applications.
 We can see from the TRL chart below that most conventional heat pumps currently are below $80\degree C$. With commercially available heat pumps going up up until $100\degree C$. 
 
 ![[Screenshot 2026-08-17 174220.png]]
@@ -39,9 +40,9 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 | Advanced water heating initiative                            | Aims to increase the market integration of high efficiency, grid connected heat pump water heaters                                                                                                                                     |
 | Renewable Heat Incentive in the UK                           | Renewable heating systems, heat pumps, biomass boilers, and solar thermal water heaters. The UK government also announced in 2020 that they will install 600,000 heat pumps annually by 2028, with grants of $5000 Euros per heat pump |
 
-
 ### New technologies
 
 | Technology        | Description                                                                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | $CO_2$ heat pumps | 500,000 units sold in 2018. Driven by government policy, installer training, performance standards, and financial incentives. |
+| Sub-coller        | Increase COP of heat pumps at higher temperature                                                                              |
