@@ -35,7 +35,8 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 Low capacity market (10kW to 2000kW, has been dominated by R32, R410a, and R134a), while natural refrigerants (R744 ($CO_2$) and R290 (Propane)) are emerging as sustainable alternatives.
 - Liquid to water heat pumps have a more narrow operational range ($-5-20\degree C$) compare to air source heat pumps ($25-43\degree C$)
 - Eliminating the need for cascade systems reduces the installation complexity and maintenance burdens. This is possible through improvements in compressor technologies.
-- Increasing the temperature lifts of heat pumps by $15-20\degree C$ enables heat pumps to be integrated into e
+- Increasing the temperature lifts of heat pumps by $15-20\degree C$ enables heat pumps to be integrated into existing retrofit projects without extensive changes to the pipeworks.
+- Alternatively, new refrigerant blends are needed to work in cascade configurations for high temperature steam generation. 
 
 ### Policies 
 
