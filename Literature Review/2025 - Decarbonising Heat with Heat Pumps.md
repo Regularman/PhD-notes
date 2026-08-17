@@ -36,4 +36,4 @@ Really, we need to look at heat pump adoption in Europe to determine the possibi
 
 | Technology | Description |
 | ---------- | ----------- |
-|            |             |
+| $CO_2$     |             |
