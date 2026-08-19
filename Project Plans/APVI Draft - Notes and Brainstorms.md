@@ -2,6 +2,8 @@
 
 - By 2050, the IEA Technology Roadmap – Solar Heating & Cooling wants 7.2 EJ/a of solar heating and cooling for low temperature (<$250\degree C$ applications)
 
+According to the AES - https://www.energy.gov.au/energy-data/australian-energy-statistics/energy-consumption
+In
 # Relevant Readings
 
 IEA Task 73
