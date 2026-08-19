@@ -39,7 +39,7 @@
 		{"id":"35cb1aba6cac9e74","type":"text","text":"# ~={green}Life-cycle Assessments=~","x":-3832,"y":-2126,"width":250,"height":99,"color":"4"},
 		{"id":"f368208cf8dea35c","type":"text","text":"# *~={green}Life cycle assessments of Heat as a Service=~*","x":-4078,"y":-1792,"width":371,"height":108,"color":"4"},
 		{"id":"fce65472aef71176","type":"file","file":"PhD-notes/Literature Review/2021 - Integration of thermal panels in the district heating of Bucharest.md","x":-5965,"y":-1937,"width":400,"height":161,"color":"6"},
-		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-5965,"y":-1720,"width":400,"height":760,"color":"6"},
+		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-5965,"y":-1720,"width":400,"height":166,"color":"6"},
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple}Centralised vs Decentralised Heating=~ ","x":-6163,"y":-2496,"width":396,"height":118,"color":"6"},
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-6435,"y":-2169,"width":314,"height":69,"color":"6"},
 		{"id":"378061b4620320ff","type":"text","text":"# ~={purple}Topography=~","x":-7008,"y":-2258,"width":250,"height":60,"color":"6"},
