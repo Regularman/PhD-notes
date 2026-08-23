@@ -48,7 +48,8 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Biomass integration.                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 | [137] 34.15% decrease in carbon emissions                                                                                                                                                                                                                  |
 ### Other environmental benefits
 
-- r
+- Reduction of freshwater consumption
+- 
 
 #### Where is electricity used in the iron and steel making process currently?
 
