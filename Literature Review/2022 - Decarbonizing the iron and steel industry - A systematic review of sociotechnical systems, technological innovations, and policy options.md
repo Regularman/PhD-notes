@@ -26,7 +26,7 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 - Direct reduction serves as an alternative to blast furnace and can operate at lower temperatures.
 
 ![[Screenshot 2026-08-23 at 1.27.50 pm.png]]
-
+![[Screenshot 2026-08-23 at 2.32.53 pm.png]]
 Liquid crude steel is casted into slabs or billets for post processing
 - The use of coal primarily in the coke production and blast furnace process.
 ## Technologies
