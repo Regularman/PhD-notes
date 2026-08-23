@@ -12,6 +12,8 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 There are more than 271 studies on the decarbonisation of iron and steel industry.
 - Identifies 86 possible transformative technologies
 
+Does not talk about the technologies surrounding the mining industry, alloying element.
+
 ![[Screenshot 2026-08-23 at 1.08.00 pm.png]]
 
 #### What is direct reduced iron?
