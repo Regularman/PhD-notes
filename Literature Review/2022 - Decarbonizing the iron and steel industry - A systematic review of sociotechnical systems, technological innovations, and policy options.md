@@ -7,6 +7,8 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 - Emits 2.6Gt of carbon annually 
 - Already operating close to its thermodynamic efficiency
 - Chinese blast furnace accounts for 50% of all ironmaking activities. However, these blast furnaces are relatively young (12 years) and replacing them will leave stranded assets.
+
+Steel will have growing global demands.
 ## Contributions
 
 There are more than 271 studies on the decarbonisation of iron and steel industry.
@@ -41,4 +43,6 @@ Liquid crude steel is casted into slabs or billets for post processing
 World steel association is the peak body for steel data.
 
 ![[Screenshot 2026-08-23 at 2.10.58 pm.png]]
-- Source from [52] [53] shows that heat production isn't actually the main ener 
+- Source from [52] [53] shows that heat production isn't actually the main energy consumer in iron and steel? However, coke and natural gas and biomass are used for the production of heat, so the context of this source is a little mixed up.
+
+IEA also produced a report on steel decarbonisation
