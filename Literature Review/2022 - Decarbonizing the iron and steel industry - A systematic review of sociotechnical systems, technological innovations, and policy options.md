@@ -9,6 +9,7 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 - Chinese blast furnace accounts for 50% of all ironmaking activities. However, these blast furnaces are relatively young (12 years) and replacing them will leave stranded assets.
 
 Steel will have growing global demands.
+- According to [65], chinese stainless steel has a life cycle emission of 1.76 kgCO2-e per kg of stainless steel produced.
 ## Contributions
 
 There are more than 271 studies on the decarbonisation of iron and steel industry.
