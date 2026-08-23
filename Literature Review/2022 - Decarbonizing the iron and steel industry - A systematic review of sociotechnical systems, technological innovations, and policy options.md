@@ -7,6 +7,7 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 - Emits 2.6Gt of carbon annually 
 - Already operating close to its thermodynamic efficiency
 - Chinese blast furnace accounts for 50% of all ironmaking activities.
+![[Screenshot 2026-08-23 at 1.27.50 pm.png]]
 ## Contributions
 
 There are more than 271 studies on the decarbonisation of iron and steel industry.
