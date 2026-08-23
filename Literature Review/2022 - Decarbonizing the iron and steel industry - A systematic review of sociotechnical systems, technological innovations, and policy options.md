@@ -48,7 +48,9 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Biomass integration.                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 | [137] 34.15% decrease in carbon emissions                                                                                                                                                                                                                  |
 ### Barriers
 
-The barriers to the implementation of decarbonisation solutions 
+The barriers to the implementation of decarbonisation solutions are mostly economic 
+
+- Cheap access to fossil fuel and lack of industry knowledge sharing prohibits implementation of solutions due to a lack of technical certainty, hidden costs, and low informati
 
 
 #### Where is electricity used in the iron and steel making process currently?
