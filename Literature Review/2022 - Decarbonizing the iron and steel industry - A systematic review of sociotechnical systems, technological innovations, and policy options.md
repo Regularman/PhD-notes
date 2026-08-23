@@ -6,7 +6,7 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 - 75% of the energy content used in steel production is consumed in the blast furnace, and the remaining 25% in the sintering and coking plants.
 - Emits 2.6Gt of carbon annually 
 - Already operating close to its thermodynamic efficiency
-- Chinese blast furnace accounts for 50% of all ironmaking activities. However, these blast furnaces are relatively young and replacing them 
+- Chinese blast furnace accounts for 50% of all ironmaking activities. However, these blast furnaces are relatively young (12 years) and replacing them will leave stranded assets.
 ## Contributions
 
 There are more than 271 studies on the decarbonisation of iron and steel industry.
@@ -37,3 +37,5 @@ Liquid crude steel is casted into slabs or billets for post processing
 
 ![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
 - [22] BF-BOF currently accounts for 65% of the world steel production and EAF acounted for about 30% in 2010.
+
+World steel association is the peak body fo
