@@ -30,12 +30,12 @@ Liquid crude steel is casted into slabs or billets for post processing
 - The use of coal primarily in the coke production and blast furnace process.
 ## Technologies
 
-| Technology                 | Description                                                                         | Examples |
-| -------------------------- | ----------------------------------------------------------------------------------- | -------- |
-| Carbon capture and storage | This does don't solve the issue                                                     |          |
-| Hydrogen                   |                                                                                     |          |
-| Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material |          |
-| Bioenergy                  |                                                                                     |          |
+| Technology                 | Description                                                                                                                                                   | Examples |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Carbon capture and storage | This does don't solve the issue of extractivism associated with coke production. The question is how can we displace coal use in the iron and steel industry? |          |
+| Hydrogen                   |                                                                                                                                                               |          |
+| Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material                                                                           |          |
+| Bioenergy                  |                                                                                                                                                               |          |
 ## Further Readings
 
 ![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
