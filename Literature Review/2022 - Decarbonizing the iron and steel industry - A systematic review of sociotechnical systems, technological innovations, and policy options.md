@@ -32,3 +32,5 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 | Bioenergy                  |                                                                                     |          |
 ## Further Readings
 
+![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
+- [22] BF-BOF currently accounts for 65% of the world steel production and EAF acounted for about 30% in 2010.
