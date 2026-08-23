@@ -28,7 +28,7 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 ![[Screenshot 2026-08-23 at 1.27.50 pm.png|544]]
 ![[Screenshot 2026-08-23 at 2.32.53 pm.png|546]]
 
-The chart above shows the carbon flow in the steel making process. Sourced from [79]. producing one ton of crude steel emits around 1418.78kg of arbon
+The chart above shows the carbon flow in the steel making process. Sourced from [79]. producing one ton of crude steel emits around 1418.78kg of carbon dioxide.
 Liquid crude steel is casted into slabs or billets for post processing
 - The use of coal primarily in the coke production and blast furnace process.
 ## Technologies
@@ -40,6 +40,7 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material                                                                                                                                                                                                                                                                                                 |                                                                                                                                   |
 | Bioenergy                  |                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                   |
 | Solid recovered fuel       | Displaces reducing agent such as coke, coal, or natural gas. Does not reduce greenhouse gas emissions directly, but reduces landfill waste disposal, which is a major source of methane emissions. These SRF are produced from plastics, cardboard, wood, and textile through refinement processes. Therefore, the carbon emissions required to produce these materials is unclear. | Steel plants in Austria, Germany, and Japan have used SRF as reducing agents [66]                                                 |
+| Energy efficiency          |                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                   |
 ## Further Readings
 
 ![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
