@@ -1,4 +1,4 @@
-https://www.sciencedirect.com/science/article/pii/S2214629622000706
+![[Screenshot 2026-08-23 at 1.28.54 pm.png]]https://www.sciencedirect.com/science/article/pii/S2214629622000706
 
 Cited by 579.
 
@@ -7,7 +7,6 @@ In 2018, iron and steel uses 33.57EJ (33,570 PJ) globally. (Not just for heat pr
 - Emits 2.6Gt of carbon annually 
 - Already operating close to its thermodynamic efficiency
 - Chinese blast furnace accounts for 50% of all ironmaking activities.
-![[Screenshot 2026-08-23 at 1.27.50 pm.png]]
 ## Contributions
 
 There are more than 271 studies on the decarbonisation of iron and steel industry.
@@ -21,6 +20,8 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 
 - Direct reduction serves as an alternative to blast furnace and can operate at lower temperatures.
 
+![[Screenshot 2026-08-23 at 1.27.50 pm.png]]
+
 ## Technologies
 
 | Technology                 | Description                                                                         | Examples |
@@ -29,3 +30,5 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 | Hydrogen                   |                                                                                     |          |
 | Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material |          |
 | Bioenergy                  |                                                                                     |          |
+## Further Readings
+
