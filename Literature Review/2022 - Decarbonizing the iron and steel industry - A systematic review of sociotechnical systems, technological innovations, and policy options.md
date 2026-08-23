@@ -46,13 +46,14 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Light weighting of vehicles with High Strength Steel | Demand reduction, but these are downstream carbon emissions. World Steel association claims that this will reduce steel applications weight by 40%.                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                            |
 | Waste and recycling                                  | Recycling steel for use as raw input, leading to the use of EAF, can also lower the emission intensity of steel by 62-90%.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                            |
 | Biomass integration.                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 | [137] 34.15% decrease in carbon emissions                                                                                                                                                                                                                  |
+### Barriers
 
-
+The barriers to the implementation of decarbonisation solutions 
 
 
 #### Where is electricity used in the iron and steel making process currently?
 
-
+Direct iron reduction? 
 ## Further Readings
 
 ![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
