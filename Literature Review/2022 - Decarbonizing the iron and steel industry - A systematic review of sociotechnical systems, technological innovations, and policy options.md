@@ -24,6 +24,7 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 
 ![[Screenshot 2026-08-23 at 1.27.50 pm.png]]
 
+Liquid crude steel is casted into slabs or billets for post processing
 ## Technologies
 
 | Technology                 | Description                                                                         | Examples |
