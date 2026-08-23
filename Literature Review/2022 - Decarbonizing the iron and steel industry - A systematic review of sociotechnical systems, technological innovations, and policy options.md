@@ -12,7 +12,11 @@ There are more than 271 studies on the decarbonisation of iron and steel industr
 
 ![[Screenshot 2026-08-23 at 1.08.00 pm.png]]
 
-What is direct reduced iron?
+#### What is direct reduced iron?
+
+Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets have has the oxygen removed with hydrogen and carbon monoxide. 
+
+## Technologies
 
 | Technology                 | Description | Examples |
 | -------------------------- | ----------- | -------- |
