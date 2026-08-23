@@ -83,4 +83,5 @@ The world steel association launched a global initiative to exchange ideas from 
 [152] provides a roadmap for the decarbonisation of iron and steel
 [7] indicates a maximum decarbonisation potential of around 15% between 2010 and 2050.
 
-[170] reviews roadmaps for iron and steel decarbonisation
+[170] reviews roadmaps for decarbonisation of different manufacturing industries
+![[Screenshot 2026-08-23 at 9.17.53 pm.png]]
