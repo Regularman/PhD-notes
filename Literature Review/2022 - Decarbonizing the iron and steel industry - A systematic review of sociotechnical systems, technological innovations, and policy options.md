@@ -32,7 +32,7 @@ Liquid crude steel is casted into slabs or billets for post processing
 
 | Technology                 | Description                                                                         | Examples |
 | -------------------------- | ----------------------------------------------------------------------------------- | -------- |
-| Carbon capture and storage |                                                                                     |          |
+| Carbon capture and storage | This does don't solve the issue                                                     |          |
 | Hydrogen                   |                                                                                     |          |
 | Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material |          |
 | Bioenergy                  |                                                                                     |          |
