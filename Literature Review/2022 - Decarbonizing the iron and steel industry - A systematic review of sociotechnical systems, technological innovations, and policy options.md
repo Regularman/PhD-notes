@@ -58,3 +58,6 @@ World steel association is the peak body for steel data.
 
 IEA also produced a report on steel decarbonisation
 - Sustainable development scenario?
+
+The world steel association launched a global initiative to exchange ideas from regional activities, entitled CO2 breakthrough programmes. These includes
+- ULCOS I and I
