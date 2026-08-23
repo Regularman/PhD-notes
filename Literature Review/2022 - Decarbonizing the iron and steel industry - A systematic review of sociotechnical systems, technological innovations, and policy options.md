@@ -11,3 +11,8 @@ There are more than 271 studies on the decarbonisation of iron and steel industr
 - Identifies 86 possible transformative technologies
 
 ![[Screenshot 2026-08-23 at 1.08.00 pm.png]]
+
+
+| Technology                 | Description | Examples |
+| -------------------------- | ----------- | -------- |
+| Carbon capture and storage |             |          |
