@@ -28,7 +28,7 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 ![[Screenshot 2026-08-23 at 1.27.50 pm.png|544]]
 ![[Screenshot 2026-08-23 at 2.32.53 pm.png|546]]
 
-The chart above shows the carbon flow in the steel making process.
+The chart above shows the carbon flow in the steel making process. Sourced from [79]. producing one ton of crude steel emits around 1418.78kg of arbon
 Liquid crude steel is casted into slabs or billets for post processing
 - The use of coal primarily in the coke production and blast furnace process.
 ## Technologies
