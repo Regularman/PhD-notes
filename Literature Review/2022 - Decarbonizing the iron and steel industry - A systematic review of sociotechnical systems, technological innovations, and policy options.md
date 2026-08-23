@@ -37,6 +37,7 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Hydrogen                   |                                                                                                                                                               |          |
 | Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material                                                                           |          |
 | Bioenergy                  |                                                                                                                                                               |          |
+| Solid recovered fuel       | Displaces reducing agent such as coke,                                                                                                                        |          |
 ## Further Readings
 
 ![[Screenshot 2026-08-23 at 1.28.54 pm 1.png]]
