@@ -46,3 +46,4 @@ World steel association is the peak body for steel data.
 - Source from [52] [53] shows that heat production isn't actually the main energy consumer in iron and steel? However, coke and natural gas and biomass are used for the production of heat, so the context of this source is a little mixed up.
 
 IEA also produced a report on steel decarbonisation
+- Sustainable development scenario?
