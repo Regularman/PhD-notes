@@ -20,9 +20,9 @@ Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets
 
 ## Technologies
 
-| Technology                 | Description | Examples |
-| -------------------------- | ----------- | -------- |
-| Carbon capture and storage |             |          |
-| Hydrogen                   |             |          |
-| Direct electrificaiton     |             |          |
-| Bioenergy                  |             |          |
+| Technology                 | Description                                                                         | Examples |
+| -------------------------- | ----------------------------------------------------------------------------------- | -------- |
+| Carbon capture and storage |                                                                                     |          |
+| Hydrogen                   |                                                                                     |          |
+| Direct electrificaiton     | Uptake of Electric arc furnace is dependent on the stock of recycled steel material |          |
+| Bioenergy                  |                                                                                     |          |
