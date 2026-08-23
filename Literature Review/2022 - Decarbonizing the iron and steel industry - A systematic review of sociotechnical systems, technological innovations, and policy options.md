@@ -39,3 +39,6 @@ Liquid crude steel is casted into slabs or billets for post processing
 - [22] BF-BOF currently accounts for 65% of the world steel production and EAF acounted for about 30% in 2010.
 
 World steel association is the peak body for steel data.
+
+![[Screenshot 2026-08-23 at 2.10.58 pm.png]]
+- Source from [52] [53] shows that heat production isn't actually the main ener 
