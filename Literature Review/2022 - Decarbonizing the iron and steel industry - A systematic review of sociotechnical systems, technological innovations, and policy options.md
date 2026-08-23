@@ -72,4 +72,5 @@ The world steel association launched a global initiative to exchange ideas from 
 - Baosteel and China steel
 - Bluescope Steel and One Steel CSIRO coordination
 
-[152] 
+[152] provides a roadmap for the decarbonisation of iron and steel
+[7] indicates a maximum decarbonisation potential of around 15% 
