@@ -46,7 +46,11 @@ Liquid crude steel is casted into slabs or billets for post processing
 | Light weighting of vehicles with High Strength Steel | Demand reduction, but these are downstream carbon emissions. World Steel association claims that this will reduce steel applications weight by 40%.                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                            |
 | Waste and recycling                                  | Recycling steel for use as raw input, leading to the use of EAF, can also lower the emission intensity of steel by 62-90%.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                            |
 | Biomass integration.                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 | [137] 34.15% decrease in carbon emissions                                                                                                                                                                                                                  |
-#### Where is electricity used in the iron and steel making process?
+### Other environmental benefits
+
+- r
+
+#### Where is electricity used in the iron and steel making process currently?
 
 
 ## Further Readings
@@ -73,4 +77,4 @@ The world steel association launched a global initiative to exchange ideas from 
 - Bluescope Steel and One Steel CSIRO coordination
 
 [152] provides a roadmap for the decarbonisation of iron and steel
-[7] indicates a maximum decarbonisation potential of around 15% 
+[7] indicates a maximum decarbonisation potential of around 15% between 2010 and 2050.
