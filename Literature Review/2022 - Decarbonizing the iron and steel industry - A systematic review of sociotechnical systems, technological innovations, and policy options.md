@@ -60,4 +60,11 @@ IEA also produced a report on steel decarbonisation
 - Sustainable development scenario?
 
 The world steel association launched a global initiative to exchange ideas from regional activities, entitled CO2 breakthrough programmes. These includes
-- ULCOS I and I
+- ULCOS I and II
+- American iron and Steel Institute
+- Canada Steel Producers Association
+- ArcelorMittal Brazil
+- Japanese Iron and Steel Federation
+- POSCO
+- Baosteel and China steel
+- Bluescope Steel and One Steel CSIRO coo
