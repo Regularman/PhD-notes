@@ -1,4 +1,4 @@
-![[Screenshot 2026-08-23 at 1.28.54 pm.png]]https://www.sciencedirect.com/science/article/pii/S2214629622000706
+https://www.sciencedirect.com/science/article/pii/S2214629622000706
 
 Cited by 579.
 
