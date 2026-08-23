@@ -18,6 +18,8 @@ There are more than 271 studies on the decarbonisation of iron and steel industr
 
 Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets have has the oxygen removed with hydrogen and carbon monoxide. Sources of carbon monoxide are natural gas, coal gas, and goal. (Use of NG reduces the need for coal and coke and associated emissions of sulphur oxides and carbon dioxides into the atmosphere)
 
+- Direct reduction serves as an alternative to blast furnace and can operate at lower temperatures.
+
 ## Technologies
 
 | Technology                 | Description                                                                         | Examples |
