@@ -14,7 +14,7 @@ There are more than 271 studies on the decarbonisation of iron and steel industr
 
 #### What is direct reduced iron?
 
-Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets have has the oxygen removed with hydrogen and carbon monoxide. 
+Direct reduced iron wis when the iron ore in the form of lumps, fines or pellets have has the oxygen removed with hydrogen and carbon monoxide. Sources of carbon monoxide are natural gas, coal gas, and goal. (Use of NG reduces the need for coal and coke and associated emissions of sulphur oxides and carbon dioxides into the atmosphere)
 
 ## Technologies
 
