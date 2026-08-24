@@ -54,6 +54,9 @@ There are also other systems in place which reduce carbon emissions. However, th
 - Process modification of kilns,
 - Optimisation of kilns and furnaces
 
+However, other energy efficiency measures can be implemented to reduce peak capacity of renewable energy or hydrogen consumption.
+- WHR with molten slag or cooling liquid, the yse of ceramic ladles to cover the lids, and efficient l
+
 
 ### Barriers
 
@@ -61,8 +64,6 @@ The barriers to the implementation of decarbonisation solutions are mostly econo
 
 - Cheap access to fossil fuel and lack of industry knowledge sharing prohibits implementation of solutions due to a lack of technical certainty, hidden costs, and low information quality.
 - A lot of the steel current in use have a lot of time left in their life span (due to their applications in buildings and infrastructure), which creates a time lag in decarbonisation solutions.
-
-
 #### Where is electricity used in the iron and steel making process currently?
 
 Direct iron reduction? 
