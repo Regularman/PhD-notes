@@ -64,6 +64,9 @@ However, other energy efficiency measures can be implemented to reduce peak capa
 - Top pressure recovery turbines to recover waste pressure from the top of the furnace
 - Recovery fo BF-BOF gas (however, they are often enriched with natural gas or coke oven gas.)
 - Bottom stirring with inert gas injection at the bottom of an EAF to make heat transfer more efficient
+- Oxyfuel burners in EAF can increase heat transfer, reduce electrode consumption, and help remove impurities
+- DC arc furnaces uses less electricity and electrode
+- Sc
 
 Furthermore, in the post processing
 - Hot rolling and casting to near net shape reduces waste
