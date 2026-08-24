@@ -70,13 +70,15 @@ However, other energy efficiency measures can be implemented to reduce peak capa
 - Scrap preheating and continuous charging can improve heat recovery rate,
 - Flue gas monitoring and improved process controls to ensure optimal efficiency in process
 - Eccentric bottom tapping reduces tap to tap time and electrode consumption
-- Twin sheel furnace configuration to reduce energy losses and increase productivity.
+- Twin shell furnace configuration to reduce energy losses and increase productivity.
+- Advanced control of coke oven walls to improve energy efficiency
+- Hot oxygen dispersion in furnace makes coal dispersion and optimize heating performance
 
 The study also talk about energy efficiency methods for reheating furnaces and post-processing methods which are not relevant to this study. For example, hot rolling and casting to near net shape reduces waste in post-processing.
 
 Additionally, reduction of demand is also important, such as
 - Development of high strength steel
-- Recycling of steelmaking dust and low quality scrap through rotary heart dust recycling system or primary energy melt
+- Recycling of steelmaking dust and low quality scrap through rotary heart dust recycling system or primary energy melters.
 
 ### Barriers
 
