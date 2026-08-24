@@ -53,9 +53,13 @@ There are also other systems in place which reduce carbon emissions. However, th
 - Single chamber system coking reactors
 - Process modification of kilns,
 - Optimisation of kilns and furnaces
+- Moisture control of coke and coal
+- Coke dry quenching
 
 However, other energy efficiency measures can be implemented to reduce peak capacity of renewable energy or hydrogen consumption.
-- WHR with molten slag or cooling liquid, the yse of ceramic ladles to cover the lids, and efficient l
+- WHR with molten slag or cooling liquid, the yse of ceramic ladles to cover the lids, and efficient ladle pre-heating
+- Radiation recuperators for the ladle furnace
+- 
 
 
 ### Barriers
