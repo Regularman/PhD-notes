@@ -56,12 +56,17 @@ There are also other systems in place which reduce carbon emissions. However, th
 - Moisture control of coke and coal
 - Coke dry quenching
 - Injection of pulverised coal (skips the coke production process)
+- Changing carbon composite agglomerates improves reduction rates
 
 However, other energy efficiency measures can be implemented to reduce peak capacity of renewable energy or hydrogen consumption.
 - WHR with molten slag or cooling liquid, the yse of ceramic ladles to cover the lids, and efficient ladle pre-heating
 - Radiation recuperators for the ladle furnace
 - Top pressure recovery turbines to recover waste pressure from the top of the furnace
 - Recovery fo BF-BOF gas (however, they are often enriched with natural gas or coke oven gas.)
+- Bottom stirring with inert gas injection at the bottom of an EAF to 
+
+Furthermore, in the post processing
+- Hot rolling and casting to near net shape reduces waste
 
 
 ### Barriers
