@@ -63,7 +63,7 @@ However, other energy efficiency measures can be implemented to reduce peak capa
 - Radiation recuperators for the ladle furnace
 - Top pressure recovery turbines to recover waste pressure from the top of the furnace
 - Recovery fo BF-BOF gas (however, they are often enriched with natural gas or coke oven gas.)
-- Bottom stirring with inert gas injection at the bottom of an EAF to 
+- Bottom stirring with inert gas injection at the bottom of an EAF to make heat transfer more efficient
 
 Furthermore, in the post processing
 - Hot rolling and casting to near net shape reduces waste
