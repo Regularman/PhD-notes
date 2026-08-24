@@ -66,7 +66,9 @@ However, other energy efficiency measures can be implemented to reduce peak capa
 - Bottom stirring with inert gas injection at the bottom of an EAF to make heat transfer more efficient
 - Oxyfuel burners in EAF can increase heat transfer, reduce electrode consumption, and help remove impurities
 - DC arc furnaces uses less electricity and electrode
-- Sc
+- Scrap preheating and continuous charging can improve heat recovery rate,
+- Flue gas monitoring and improved process controls to ensure optimal efficiency in process
+- Eccentric bottom tapping reduces tap to tap time and electrode consumption
 
 Furthermore, in the post processing
 - Hot rolling and casting to near net shape reduces waste
