@@ -71,7 +71,11 @@ However, other energy efficiency measures can be implemented to reduce peak capa
 - Eccentric bottom tapping reduces tap to tap time and electrode consumption
 - Twin sheel furnace configuration to reduce energy losses and increase productivity.
 
-The study also talk about energy efficiency methods for reheating furnaces and post-processing methods which are not relevant to this study. For example, V
+The study also talk about energy efficiency methods for reheating furnaces and post-processing methods which are not relevant to this study. For example, hot rolling and casting to near net shape reduces waste in post-processing.
+
+Additionally, reduction of demand is also important, such as
+- Development of high strength steel
+- 
 
 ### Barriers
 
