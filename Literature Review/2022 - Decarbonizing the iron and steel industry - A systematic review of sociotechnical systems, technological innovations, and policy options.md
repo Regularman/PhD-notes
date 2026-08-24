@@ -58,6 +58,7 @@ There are also other systems in place which reduce carbon emissions. However, th
 - Injection of pulverised coal (skips the coke production process)
 - Changing carbon composite agglomerates improves reduction rates
 - Use of solid recovered fuel and plastic waste to displace coke at certain percentage
+- Cogeneration from untapped coke oven gas, BF 
 
 However, other energy efficiency measures can be implemented to reduce peak capacity of renewable energy or hydrogen consumption.
 - WHR with molten slag or cooling liquid, the yse of ceramic ladles to cover the lids, and efficient ladle pre-heating
@@ -79,6 +80,7 @@ The study also talk about energy efficiency methods for reheating furnaces and p
 Additionally, reduction of demand is also important, such as
 - Development of high strength steel
 - Recycling of steelmaking dust and low quality scrap through rotary heart dust recycling system or primary energy melters.
+- variable speed drives of pumps and fans to respond to different load levels
 
 ### Barriers
 
