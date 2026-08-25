@@ -85,7 +85,8 @@ Demand for natural gas from DRI process might increase price by 2% and increase 
 ## Direct Hydrogen reduction
 
 Sohn HY, Mohassab Y (2016) Greenhouse gas emissions and energy consumption of ironmaking processes. In: Cavaliere P (ed) Ironmaking and steelmaking processes: greenhouse emissions, control, and reduction. Springer, Cham, pp 427–455
-- University of Utah pilot project to eliminate coke, sinter, and pellets from iron and steel making
+- University of Utah pilot project to eliminate coke, sinter, and pellets from iron and steel making 
+- Other studies looks at the possibility of isothermal $H_2$ reduction of commercial iron pellet ore in the $1073-1123K$ temperature range.
 
 Hydrogen can be used to mix in with CO in the blast furnace, or replace it all together.
 
