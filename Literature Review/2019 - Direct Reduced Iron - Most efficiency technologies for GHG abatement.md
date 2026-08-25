@@ -49,6 +49,13 @@ Note that natural has used in direct reduction (which is 75% of the total produc
 
 The main difference between HYL-Energiron and MIDREX is that MIDREX primarily uses CO2 from the shaft furnace for reforming the reducing gas, while HYL-Energiron uses steam with the gas shift reactor. The reformation also happens in the DR shaft, allowing for a higher concentration of carbon in the reduction gas.
 
+### FASTMET and FASTMELT
+
+![[Screenshot 2026-08-26 at 8.23.13 am.png]]
+
+### ITMK3
+
+
 ## Injection of hydrogen injection into blast furnace to reduce CO2 emissions
 
 Yilmaz C, Wendelstorf J, Turek T (2017) Modeling and simulation of hydrogen injection into a blast furnace to reduce carbon dioxide emissions. J Clean Prod 154:488–501. https://doi.org/ 10.1016/j.jclepro.2017.03.162
