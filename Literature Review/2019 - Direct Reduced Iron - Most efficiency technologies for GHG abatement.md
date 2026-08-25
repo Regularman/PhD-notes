@@ -68,6 +68,10 @@ The DRIs with a high content of carbon (DRI4.0 and HBI1.5) were chosen to be pro
 ![[Screenshot 2026-08-25 at 10.08.42 pm.png]]
 
 Different levels of metallisation is because the DRI is mixed with burden (flux of limestone, coke, and iron ore/pellets, which have a lower quality of metallisation)
+## Resource distribution problem of iron ore
+
+1.6 bt/year of iron ore is exported. h
+
 ## Further Reading
 
 
