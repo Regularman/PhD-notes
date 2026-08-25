@@ -86,16 +86,17 @@ Demand for natural gas from DRI process might increase price by 2% and increase 
 
 Sohn HY, Mohassab Y (2016) Greenhouse gas emissions and energy consumption of ironmaking processes. In: Cavaliere P (ed) Ironmaking and steelmaking processes: greenhouse emissions, control, and reduction. Springer, Cham, pp 427–455
 - University of Utah pilot project to eliminate coke, sinter, and pellets from iron and steel making 
-Other studies looks at the possibility of isothermal $H_2$ reduction of commercial iron pellet ore in the $1073-1123K$ temperature range.
+Other studies looks at the possibility of isothermal $H_2$ reduction of commercial iron pellet ore in the $1073-1123K$ temperature range. But this depends on the emergence of a hydrogen economy.
 - Kazemi M, Saffari Pour M, Sichen D (2017) Experimental and modeling study on reduction of hematite pellets by hydrogen gas. Metall Mater Trans B 48:1114–1122. https://doi.org/10.1007/ s11663-016-0895-3
 ![[Screenshot 2026-08-26 at 9.19.40 am.png]]
 Hydrogen can be used to mix in with CO in the blast furnace, or replace it all together.
 
-| Pros                                                                                                                                                                                         | Cons |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Produces water instead of $CO2$ in the reduction process. However, the carbon emissions from the hydrogen depends on whether it is grey, blue, or green hydrogen.                            |      |
-| Waste heat from COG can be used to reform methane into hydrogen in a Japanese case study. Although this is very low (0.5GJ/t of steel) due to the limitations of the coke oven off gas flow. |      |
-| The size of the $H_2$ molecule is much smaller and allows higher penetration into crystal structure of the iron ore and allows for higher degrees of metallisation.                          |      |
+| Pros                                                                                                                                                                                         | Cons                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Produces water instead of $CO2$ in the reduction process. However, the carbon emissions from the hydrogen depends on whether it is grey, blue, or green hydrogen.                            | High cost of hydrogen have limited widespread use |
+| Waste heat from COG can be used to reform methane into hydrogen in a Japanese case study. Although this is very low (0.5GJ/t of steel) due to the limitations of the coke oven off gas flow. |                                                   |
+| The size of the $H_2$ molecule is much smaller and allows higher penetration into crystal structure of the iron ore and allows for higher degrees of metallisation.                          |                                                   |
+| Reduction potential increases with higher hydrogen concentrations in the $H_2$ $CO$ mix.                                                                                                     |                                                   |
 
 ## Further Reading
 
