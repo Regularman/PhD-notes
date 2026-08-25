@@ -97,7 +97,7 @@ Hydrogen can be used to mix in with CO in the blast furnace, or replace it all t
 | Waste heat from COG can be used to reform methane into hydrogen in a Japanese case study. Although this is very low (0.5GJ/t of steel) due to the limitations of the coke oven off gas flow. |                                                   |
 | The size of the $H_2$ molecule is much smaller and allows higher penetration into crystal structure of the iron ore and allows for higher degrees of metallisation.                          |                                                   |
 | Reduction potential increases with higher hydrogen concentrations in the $H_2$ $CO$ mix.                                                                                                     |                                                   |
-| Also allows for the reduction of magnetite rather than just hematite.                                                                                                                        |                                                   |
+| Also allows for the reduction of magnetite rather than just hematite. However, there is a retardation effect at higher temperatures                                                          |                                                   |
 
 ## Further Reading
 
