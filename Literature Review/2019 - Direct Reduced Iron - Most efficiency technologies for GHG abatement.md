@@ -73,8 +73,9 @@ Different levels of metallisation is because the DRI is mixed with burden (flux 
 1.6 btpa of iron ore is exported. China itself imports 1 btpa as it lacks a source of high quality iron ore, whcih is supplies from Australia's Pibara region.
 
 - The manufacturing of DRI and HBI are reliant on low natural gas prices (good NG resources) in that country, as well as the availability of high quality iron ore.
+- As of 2015, there is 25Mtpa production capacity for DRI and HBI,
 
-Demand for natural gas from the 
+Demand for natural gas from DRI process might increase price by 2% and increase demand for liquefied natural gas. 
 
 ## Further Reading
 
