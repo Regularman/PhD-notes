@@ -82,6 +82,13 @@ Different levels of metallisation is because the DRI is mixed with burden (flux 
 Demand for natural gas from DRI process might increase price by 2% and increase demand for liquefied natural gas. 
 - The substitution of natural gas cannot be the answer for the steel industry. This will open up new demands for fossil fuel extraction.
 
+## Direct Hydrogen reduction
+
+
+| Pros | Cons |
+| ---- | ---- |
+|      |      |
+
 ## Further Reading
 
 
