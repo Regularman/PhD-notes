@@ -45,7 +45,7 @@ Note that natural has used in direct reduction (which is 75% of the total produc
 
 A third of the natural gas used in MIDREX can be substituted with hydrogen. It is theoretically possible to use pure hydrogen in DRI for MIDREX according to some laboratory study.
 - The FMO MIDREX® Plant in Venezuela uses a steam reformer, and H2/CO has varied from 3.3 to 3.8.
-- However, in reality, some natural gas is still needed for temperature control and carbon addition. 
+- However, in reality, some natural gas is still needed for temperature control and carbon addition. (Hydrogen will cool the shaft reactor as it enters, added at a rate of 50Nm^3/t-DRI)
 - Another 250Nm^3 of H2 is required to produce heat for the reaction process, and this can be partially displaced by waste heat recovery, electricity, or NG.
 ### HYL-Energiron
 
