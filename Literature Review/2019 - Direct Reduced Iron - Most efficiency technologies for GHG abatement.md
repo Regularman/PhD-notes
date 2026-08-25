@@ -43,7 +43,8 @@ Note that natural has used in direct reduction (which is 75% of the total produc
 ### MIDREX - Direct Reduction method in a shaft furnace
 ![[Screenshot 2026-08-25 at 10.00.55 pm.png]]
 
-A third of the natural gas used in MIDREX can be substituted with hydrogen.
+A third of the natural gas used in MIDREX can be substituted with hydrogen. It is theoretically possible to use pure hydrogen in DRI for MIDREX according to some laboratory study.
+- The FMO MIDREX® Plant in Venezuela uses a steam reformer, and H2/CO has varied from 3.3 to 3.8.
 ### HYL-Energiron
 
 ![[Screenshot 2026-08-25 at 10.29.21 pm.png]]
