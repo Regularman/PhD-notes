@@ -93,7 +93,7 @@ Hydrogen can be used to mix in with CO in the blast furnace, or replace it all t
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | Produces water instead of $CO2$ in the reduction process. However, the carbon emissions from the hydrogen depends on whether it is grey, blue, or green hydrogen.                            |      |
 | Waste heat from COG can be used to reform methane into hydrogen in a Japanese case study. Although this is very low (0.5GJ/t of steel) due to the limitations of the coke oven off gas flow. |      |
-| The size of the $H_2$ molecule is much smaller and allows higher penetration into                                                                                                            |      |
+| The size of the $H_2$ molecule is much smaller and allows higher penetration into crystal structure of the iron ore and allows for higher degrees of metallisation.                          |      |
 
 ## Further Reading
 
