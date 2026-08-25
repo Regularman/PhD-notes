@@ -70,7 +70,9 @@ The DRIs with a high content of carbon (DRI4.0 and HBI1.5) were chosen to be pro
 Different levels of metallisation is because the DRI is mixed with burden (flux of limestone, coke, and iron ore/pellets, which have a lower quality of metallisation)
 ## Resource distribution problem of iron ore
 
-1.6 bt/year of iron ore is exported. h
+1.6 btpa of iron ore is exported. China itself imports 1 btpa as it lacks a source of high quality iron ore, whcih is supplies from Australia's Pibara region.
+
+- The manufacturing of DRI and HBI are reliant on low natural gas prices (good NG resources) in that country, as well as the availability of high quality iron ore.
 
 ## Further Reading
 
