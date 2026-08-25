@@ -20,8 +20,9 @@ Off-gas dust can be recycled via BF-BOF, via sinter, cold-bonded briquettes and 
 Note that direct reduction refers to the removal (reduction) of oxygen from iron ore in its solid state. It is also known as sponge iron with a high level of porosity and carbon content in the range between 0.5-4%, depending on processing time
 - Reducing agent can be coal or natural gas
 
-DRI can be added to EAD to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
+DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
+- Note that DRI can also be introduced into BF to as pre-reduced material
 
 DRI can be performed in many different types of furnaces, as shown in the table below.
 - However, direct reduction must use iron ore with more than 65% of iron content.
