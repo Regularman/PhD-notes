@@ -74,6 +74,8 @@ Different levels of metallisation is because the DRI is mixed with burden (flux 
 
 - The manufacturing of DRI and HBI are reliant on low natural gas prices (good NG resources) in that country, as well as the availability of high quality iron ore.
 
+Demand for natural gas from the 
+
 ## Further Reading
 
 
