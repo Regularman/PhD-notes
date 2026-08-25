@@ -40,11 +40,12 @@ Note that natural has used in direct reduction (which is 75% of the total produc
 ![[Screenshot 2026-08-25 162113.png]]
 ![[Screenshot 2026-08-25 162701.png]]
 
+### 
 ## Injection of hydrogen injection into blast furnace to reduce CO2 emissions
 
 Yilmaz C, Wendelstorf J, Turek T (2017) Modeling and simulation of hydrogen injection into a blast furnace to reduce carbon dioxide emissions. J Clean Prod 154:488–501. https://doi.org/ 10.1016/j.jclepro.2017.03.162
 
-The DRIs with a high content of carbon (DRI4.0 and HBI1.5) were chosen to be produced with NG only. In contrast, DRI2.0 and HBI0.5 were assumed to be produced with as much H2 as possible. The aim of this is to see the difference in carbon emissions to pr
+The DRIs with a high content of carbon (DRI4.0 and HBI1.5) were chosen to be produced with NG only. In contrast, DRI2.0 and HBI0.5 were assumed to be produced with as much H2 as possible. The aim of this is to see the difference in carbon emissions to produce equal amounts of hot metal products, by comparing using different DRI in BF.
 ## Further Reading
 
 
