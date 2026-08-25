@@ -73,9 +73,10 @@ Different levels of metallisation is because the DRI is mixed with burden (flux 
 1.6 btpa of iron ore is exported. China itself imports 1 btpa as it lacks a source of high quality iron ore, whcih is supplies from Australia's Pibara region.
 
 - The manufacturing of DRI and HBI are reliant on low natural gas prices (good NG resources) in that country, as well as the availability of high quality iron ore.
-- As of 2015, there is 25Mtpa production capacity for DRI and HBI, 18 facilities using MIDREX, 3 using HYL-Energiron, and 1 each for CIRCORED, FINMET, and FIOR. However, much of this capacity is not available as merchant HBI, as it is used in internal processes to cheapen steel-making.
+- As of 2015, there is 25Mtpa production capacity for DRI and HBI, 18 facilities using MIDREX, 3 using HYL-Energiron, and 1 each for CIRCORED, FINMET, and FIOR. However, much of this capacity is not available as merchant HBI, as it is used in internal processes to cheapen steel-making. There are also geopolitical issues and oxide pellet shortages.
 
 Demand for natural gas from DRI process might increase price by 2% and increase demand for liquefied natural gas. 
+- The substitution of natural gas cannot be the answer for the steel industry. This will open up new demands for fossil fuel extraction.
 
 ## Further Reading
 
