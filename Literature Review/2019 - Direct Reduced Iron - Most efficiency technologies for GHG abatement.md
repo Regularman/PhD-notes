@@ -98,7 +98,7 @@ Hydrogen can be used to mix in with CO in the blast furnace, or replace it all t
 | The size of the $H_2$ molecule is much smaller and allows higher penetration into crystal structure of the iron ore and allows for higher degrees of metallisation.                          |                                                   |
 | Reduction potential increases with higher hydrogen concentrations in the $H_2$ $CO$ mix.                                                                                                     |                                                   |
 | Also allows for the reduction of magnetite rather than just hematite. However, there is a retardation effect at higher temperatures                                                          |                                                   |
-
+Estimates from the IEA have shown that widespread adoption of hydrogen for DRI, at a rate of 570 Nm^3/t-DRI, 
 ## Further Reading
 
 
