@@ -87,12 +87,13 @@ Demand for natural gas from DRI process might increase price by 2% and increase 
 Sohn HY, Mohassab Y (2016) Greenhouse gas emissions and energy consumption of ironmaking processes. In: Cavaliere P (ed) Ironmaking and steelmaking processes: greenhouse emissions, control, and reduction. Springer, Cham, pp 427–455
 - University of Utah pilot project to eliminate coke, sinter, and pellets from iron and steel making
 
-Hydrogen can be used to mix in with CO in the blas fur
+Hydrogen can be used to mix in with CO in the blast furnace, or replace it all together.
 
 | Pros                                                                                                                                                                                         | Cons |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | Produces water instead of $CO2$ in the reduction process. However, the carbon emissions from the hydrogen depends on whether it is grey, blue, or green hydrogen.                            |      |
 | Waste heat from COG can be used to reform methane into hydrogen in a Japanese case study. Although this is very low (0.5GJ/t of steel) due to the limitations of the coke oven off gas flow. |      |
+| The size of the $H_2$ molecule is much smaller and allows higher penetration into                                                                                                            |      |
 
 ## Further Reading
 
