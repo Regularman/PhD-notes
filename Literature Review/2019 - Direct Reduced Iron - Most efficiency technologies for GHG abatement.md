@@ -42,7 +42,11 @@ Note that natural has used in direct reduction (which is 75% of the total produc
 
 ### MIDREX - Direct Reduction method in a shaft furnace
 ![[Screenshot 2026-08-25 at 10.00.55 pm.png]]
-## Inj![[Screenshot 2026-08-25 at 10.29.21 pm.png]]ection of hydrogen injection into blast furnace to reduce CO2 emissions
+
+### HYL-Energiron
+
+![[Screenshot 2026-08-25 at 10.29.21 pm.png]]
+## Injection of hydrogen injection into blast furnace to reduce CO2 emissions
 
 Yilmaz C, Wendelstorf J, Turek T (2017) Modeling and simulation of hydrogen injection into a blast furnace to reduce carbon dioxide emissions. J Clean Prod 154:488–501. https://doi.org/ 10.1016/j.jclepro.2017.03.162
 
