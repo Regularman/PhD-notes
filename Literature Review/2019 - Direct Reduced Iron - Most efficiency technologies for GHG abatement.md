@@ -56,6 +56,8 @@ The DRIs with a high content of carbon (DRI4.0 and HBI1.5) were chosen to be pro
 - The most favorable operating condition regarding the mitigation of CO2 emissions is determined: using 400 kg/tHM of either of the types of DRI produced with a large share of H2 enables an annual mitigation of 0.79 M t CO2-eq/a for a medium-sized BF (6000 tHM/24 h). In other words, the emissions decrease by a considerable amount of 26.5–26.7% relative to a reference case (120 kg/tHM of PC).
 - On top of this, even when underlying a DRI production solely with NG, the overall CO2 emissions can be reduced by up to 13.8% (400 kg/tHM of DRI).
 ![[Screenshot 2026-08-25 at 10.08.42 pm.png]]
+
+Different levels of metallisation is because the DRI is mixed with burden (flux of limestone, coke, and iron ore/pellets, which have a lower quality of metallisation)
 ## Further Reading
 
 
