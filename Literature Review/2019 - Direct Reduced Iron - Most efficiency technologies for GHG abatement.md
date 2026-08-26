@@ -28,7 +28,9 @@ DRI can be performed in many different types of furnaces, as shown in the table 
 - However, direct reduction must use iron ore with more than 65% of iron content.
 - As the iron ore is never melted, it is richer in ash and sulfur and other gangue (waste/un-needed materials)
 
-Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2.
+Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2).
+- 90% of DRI production around the world is based on MIDREX and HYL/Energiron, based in where natural gas is available.
+- After DRI exists from the bttom of the shaft, it can be compressed to HBI
 
 | Technology             | Common Reductant                                                                                                                                             | Description                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,8 +98,6 @@ Other studies looks at the possibility of isothermal $H_2$ reduction of commerci
 - Otto A, Robinius M, Grube T, Shieban S, Praktiknjo A, Stolten D (2017) Power-to-steel: reducing CO2 through the integration of renewable energy and hydrogen into the German steel industry. Energies 10(4):451–572. https://doi.org/10.3390/en10040451
 - Ahmad JK (2010) Using water hydrogen instead of reducing gas in the production of direct reduced iron (DRI). J Adv Oxid Technol 13(1):124–129. https://doi.org/10.1515/jaots-2010-0116
 	- This is a lab scale prototype of a HYL DRI plant with a capacity of 50kg/h to show that hydrogen is a more effective reductant and that no polluting gas is produced. Furthermore, the mono-gas mixture allows for easier control of the process. Additionally, hydrogen can be produced at room temperature, compared to reformation processes that can reach up to $1000\degree C$.
-
-90% of DRI production 
 ![[Screenshot 2026-08-26 at 9.19.40 am.png]]
 Hydrogen can be used to mix in with CO in the blast furnace, or replace it all together.
 
