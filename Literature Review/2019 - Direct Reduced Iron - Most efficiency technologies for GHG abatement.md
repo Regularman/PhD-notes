@@ -9,11 +9,9 @@ Complete decarbonisation of the steelmaking industry is achievable by mid-centur
 In terms of exergy, seconday steelamking is twice as efficient as ore-based production.
 - Saving of off-gas can save over 4 EJ/year and yield improvements can save just under 1 EJ per year. A global shift to ore-based production to best available operation can save up to 6.4 EJ/year (26% of exergy input)
 - Furthermore, a shift to secondary steelmaking can save 8EJ/year (half of steel still needs to be produced from ore in 2050.)
-<<<<<<< HEAD
-	- Chowdhury JI, Hu Y, Haltas I, Balta-Ozkan N, Matthew G Jr, Varga L (2018) Reducing industrial energy demand in the UK: a review of energy efficiency technologies and energy saving potential in selected sectors. Renew Sustain Energy Rev 94:1153–1178. https://doi.org/10. 1016/j.rser.2018.06.040
-=======
+
 	- Chowdhury JI, Hu Y, Haltas I, Balta-Ozkan N, Matthew G Jr, Varga L (2018) ~={red}Reducing industrial energy demand in the UK: a review of energy efficiency technologies and energy saving potential in selected sectors. =~Renew Sustain Energy Rev 94:1153–1178. https://doi.org/10. 1016/j.rser.2018.06.040
->>>>>>> origin/main
+
 	- 2018. Potential of energy savings and CO2 emissions reduction in China's iron and steel industry
 
 Off-gas dust can be recycled via BF-BOF, via sinter, cold-bonded briquettes and tuyere injections.
@@ -24,27 +22,23 @@ Off-gas dust can be recycled via BF-BOF, via sinter, cold-bonded briquettes and 
 Note that direct reduction refers to the removal (reduction) of oxygen from iron ore in its solid state. It is also known as sponge iron with a high level of porosity and carbon content in the range between 0.5-4%, depending on processing time
 - Reducing agent can be coal or natural gas
 
-<<<<<<< HEAD
+
 DRI can be added to EAD to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
-=======
+
 DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
 - Note that DRI can also be introduced into BF to as pre-reduced material
->>>>>>> origin/main
 
 DRI can be performed in many different types of furnaces, as shown in the table below.
 - However, direct reduction must use iron ore with more than 65% of iron content.
 - As the iron ore is never melted, it is richer in ash and sulfur and other gangue (waste/un-needed materials)
-
-<<<<<<< HEAD
 Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2.
 =======
 Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2).
 - 90% of DRI production around the world is based on MIDREX and HYL/Energiron, based in where natural gas is available.
 - After DRI exists from the bottom of the shaft, it can be compressed to HBI for safe storage and transportation for safe storage and transportation. This is then used to dilute scrap metals passed into EAFs.
 - Alternatively can be used as feed materials in the BF.
->>>>>>> origin/main
 
 | Technology             | Common Reductant                                                                                                                                             | Description                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
