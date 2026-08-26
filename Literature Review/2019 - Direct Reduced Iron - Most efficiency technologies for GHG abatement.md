@@ -115,6 +115,8 @@ CO is better for reduction at a low temperature as it is exothermic, and H2 is b
 #### Hydrogen electrolysis
 
 To produce 1 Mt of DRI pa, the prolonged electrolysis of water will produce 0.43Mt of O2 that is useful for industry and health purposes, as well as 108tpa of heavy water that can be used for nuclear and other industries.
+
+The most promising decarbonisation strategy is the reduction of iron ore with hydrogen, and then feeding into an EAF operated based r
 ## Further Reading
 
 
