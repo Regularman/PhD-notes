@@ -45,6 +45,9 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 - While auctions is a used as a pay-as-clear system that pulls liquidity into a specific time. These are centralised processes. All accepted orders are paid as the clearing price.
 - Day-ahead markets have implicitly transmission rights, while in OTC and forward markets, long term transmission rights are bought and sold separately.
 
+Europe has gone for the zonal approach, where each region has a single price per market time unit. This is due to legacy systems, reflecting national borders, whilst also supporting liquidity. A large bidding zone will allow greater liquidity from the market (debated). Bidding zones can evolve over time to reflect congestions.
+- There are 30 TSOs that calculate capacity of their network and 16NEMOs that collect orders from market participants and use EUPHEMIA to calculate prices and flows between bidding zones.
+
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
 - **How does both engine deal with the co-optimisation problem, solving for both frequency management and the lowest cost?**
@@ -56,8 +59,6 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 	- **Drop out from data center connections?**
 - **How does it handle regional variation in prices, demands, and supplies?**
 
-Europe has gone for the zonal approach, where each region has a single price per market time unit. This is due to legacy systems, reflecting national borders, whilst also supporting liquidity. A large bidding zone will allow greater liquidity from the market (debated). Bidding zones can evolve over time to reflect congestions.
--
 ## Sources
 
 [1]N-SIDE. 2021. The Single Day-ahead Coupling (SDAC) and the PCR EUPHEMIA algorithm  https://www.n-side.com/en/insights/en-the-single-day-ahead-coupling-sdac-and-the-pcr-euphemia-algorithm/ 
