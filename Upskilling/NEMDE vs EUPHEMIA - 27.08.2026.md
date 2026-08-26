@@ -48,6 +48,9 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 Europe has gone for the zonal approach, where each region has a single price per market time unit. This is due to legacy systems, reflecting national borders, whilst also supporting liquidity. A large bidding zone will allow greater liquidity from the market (debated). Bidding zones can evolve over time to reflect congestions.
 - There are 30 TSOs that calculate capacity of their network and 16NEMOs that collect orders from market participants and use EUPHEMIA to calculate prices and flows between bidding zones.
 
+Objective function to maximise social welfare.
+- 
+
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
 - **How does both engine deal with the co-optimisation problem, solving for both frequency management and the lowest cost?**
