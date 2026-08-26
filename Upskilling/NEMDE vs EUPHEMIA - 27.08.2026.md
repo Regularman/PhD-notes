@@ -49,7 +49,7 @@ Europe has gone for the zonal approach, where each region has a single price per
 - There are 30 TSOs that calculate capacity of their network and 16NEMOs that collect orders from market participants and use EUPHEMIA to calculate prices and flows between bidding zones.
 
 Objective function to maximise social welfare.
-- Competitive equilibrium: the acceptance of orders and market clearing prices are such that no market players would prefer other order acceptance levels
+- Competitive equilibrium: the acceptance of orders and market clearing prices are such that no market players would prefer other order acceptance levels, and supply is equal to the demand
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
