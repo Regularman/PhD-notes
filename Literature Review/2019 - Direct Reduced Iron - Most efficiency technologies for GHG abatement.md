@@ -94,7 +94,8 @@ Other studies looks at the possibility of isothermal $H_2$ reduction of commerci
 - Kazemi M, Saffari Pour M, Sichen D (2017) Experimental and modeling study on reduction of hematite pellets by hydrogen gas. Metall Mater Trans B 48:1114–1122. https://doi.org/10.1007/ s11663-016-0895-3
 - Fischedick M, Marzinkowski J, Winzer P, Weigel M (2014) Techno-economic evaluation of innovative steel production technologies. J Clean Prod 84:563–580. https://doi.org/10.1016/j. jclepro.2014.05.063
 - Otto A, Robinius M, Grube T, Shieban S, Praktiknjo A, Stolten D (2017) Power-to-steel: reducing CO2 through the integration of renewable energy and hydrogen into the German steel industry. Energies 10(4):451–572. https://doi.org/10.3390/en10040451
--
+- Ahmad JK (2010) Using water hydrogen instead of reducing gas in the production of direct reduced iron (DRI). J Adv Oxid Technol 13(1):124–129. https://doi.org/10.1515/jaots-2010-0116
+	- This is a lab scale prototype of a HYL DRI plant with a capacity of 50kg/h
 ![[Screenshot 2026-08-26 at 9.19.40 am.png]]
 Hydrogen can be used to mix in with CO in the blast furnace, or replace it all together.
 
