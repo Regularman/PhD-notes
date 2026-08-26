@@ -109,7 +109,7 @@ Hydrogen can be used to mix in with CO in the blast furnace, or replace it all t
 Estimates from the IEA have shown that widespread adoption of hydrogen for DRI, at a rate of 570 Nm^3/t-DRI, would demand 52Mt H2 per year. ![[Screenshot 2026-08-26 at 9.54.15 am.png]] ![[Screenshot 2026-08-26 at 9.54.27 am.png]]
 #### Hydrogen electrolysis
 
-To produce 1 Mt of DRI pa, the prolonged electrolysis of water will produce 4
+To produce 1 Mt of DRI pa, the prolonged electrolysis of water will produce 0.43Mt of O2 that is useful for industry and health purposes, as well as 108tpa of heavy water that can be used for nuclear and other industries.
 ## Further Reading
 
 
