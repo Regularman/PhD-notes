@@ -107,8 +107,9 @@ Hydrogen can be used to mix in with CO in the blast furnace, or replace it all t
 | Also allows for the reduction of magnetite rather than just hematite. However, there is a retardation effect at higher temperatures                                                                                                                                                                                                                                                                    |                                                   |
 | Decouples electricity used to generate the hydrogen from the use as a reductant, compared to iron oxide electrolysis, where the process must be continuous and the operation is susceptible to the energy price fluctuations.                                                                                                                                                                          |                                                   |
 Estimates from the IEA have shown that widespread adoption of hydrogen for DRI, at a rate of 570 Nm^3/t-DRI, would demand 52Mt H2 per year. ![[Screenshot 2026-08-26 at 9.54.15 am.png]] ![[Screenshot 2026-08-26 at 9.54.27 am.png]]
+#### Hydrogen electrolysis
 
-#### Hy
+To produce 1 Mt of DRI pa, the prolonged electrolysis of water will produce 4
 ## Further Reading
 
 
