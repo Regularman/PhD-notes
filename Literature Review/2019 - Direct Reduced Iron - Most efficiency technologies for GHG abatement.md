@@ -30,7 +30,8 @@ DRI can be performed in many different types of furnaces, as shown in the table 
 
 Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2).
 - 90% of DRI production around the world is based on MIDREX and HYL/Energiron, based in where natural gas is available.
-- After DRI exists from the bottom of the shaft, it can be compressed to HBI for safe storage and transportation for safe storage and transportation. This is then used to dilute scrap metals t
+- After DRI exists from the bottom of the shaft, it can be compressed to HBI for safe storage and transportation for safe storage and transportation. This is then used to dilute scrap metals passed into EAFs.
+- Alternatively can be used as feed materi
 
 | Technology             | Common Reductant                                                                                                                                             | Description                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
