@@ -9,7 +9,7 @@ Complete decarbonisation of the steelmaking industry is achievable by mid-centur
 In terms of exergy, seconday steelamking is twice as efficient as ore-based production.
 - Saving of off-gas can save over 4 EJ/year and yield improvements can save just under 1 EJ per year. A global shift to ore-based production to best available operation can save up to 6.4 EJ/year (26% of exergy input)
 - Furthermore, a shift to secondary steelmaking can save 8EJ/year (half of steel still needs to be produced from ore in 2050.)
-	- Chowdhury JI, Hu Y, Haltas I, Balta-Ozkan N, Matthew G Jr, Varga L (2018) Reducing industrial energy demand in the UK: a review of energy efficiency technologies and energy saving potential in selected sectors. Renew Sustain Energy Rev 94:1153–1178. https://doi.org/10. 1016/j.rser.2018.06.040
+	- Chowdhury JI, Hu Y, Haltas I, Balta-Ozkan N, Matthew G Jr, Varga L (2018) ~={red}Reducing industrial energy demand in the UK: a review of energy efficiency technologies and energy saving potential in selected sectors. =~Renew Sustain Energy Rev 94:1153–1178. https://doi.org/10. 1016/j.rser.2018.06.040
 	- 2018. Potential of energy savings and CO2 emissions reduction in China's iron and steel industry
 
 Off-gas dust can be recycled via BF-BOF, via sinter, cold-bonded briquettes and tuyere injections.
