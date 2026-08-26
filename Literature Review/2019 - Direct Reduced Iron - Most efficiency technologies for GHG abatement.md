@@ -120,6 +120,9 @@ The most promising decarbonisation strategy is the reduction of iron ore with hy
 - Lisienko VG, Chesnokov YN, Lapteva AV (2015) Analysis of energy content and CO2 emissions in different combinations of coke-using and coke-less processes for steel production. Metallurgist 59(5–6):359–367. https://doi.org/10.1007/s11015-015-0110-9
 	- This study ranks the greenhouse emission numbers of different crude steel production process. The current best options are EAF operating on a scrap charge, then HyL III + EAF, and then MIDREX + EAF.
 
+#### Some barriers
+Hydrogen has a high energy density by weight, but a low energy density by volume when not compressed or liquefied. Thus, the high cost of a hydrogen fuel cell has been a major economic barrier. 
+- Further issues such as storage, distribution i
 ## Further Reading
 
 
