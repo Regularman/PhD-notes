@@ -116,7 +116,9 @@ CO is better for reduction at a low temperature as it is exothermic, and H2 is b
 
 To produce 1 Mt of DRI pa, the prolonged electrolysis of water will produce 0.43Mt of O2 that is useful for industry and health purposes, as well as 108tpa of heavy water that can be used for nuclear and other industries.
 
-The most promising decarbonisation strategy is the reduction of iron ore with hydrogen, and then feeding into an EAF operated based r
+The most promising decarbonisation strategy is the reduction of iron ore with hydrogen, and then feeding into an EAF operated based on renewable sources. But this technology can take decades to develop. What are some current measures we can do to decarbonise in the short to medium term?
+- Lisienko VG, Chesnokov YN, Lapteva AV (2015) Analysis of energy content and CO2 emissions in different combinations of coke-using and coke-less processes for steel production. Metallurgist 59(5–6):359–367. https://doi.org/10.1007/s11015-015-0110-9
+	- This study ranks the greenhouse emission numbers of different 
 ## Further Reading
 
 
