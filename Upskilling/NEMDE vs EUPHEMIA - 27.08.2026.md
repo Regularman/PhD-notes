@@ -56,7 +56,8 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 	- **Drop out from data center connections?**
 - **How does it handle regional variation in prices, demands, and supplies?**
 
-Europe has gone for the zonal approach, where each region has a single price per market time unit
+Europe has gone for the zonal approach, where each region has a single price per market time unit. This is due to legacy systems, reflecting national borders, whilst also supporting liquidity. A large bidding zone will allow greater liquidity from the market (debated). Bidding zones can evolve over time to reflect congestions.
+-
 ## Sources
 
 [1]N-SIDE. 2021. The Single Day-ahead Coupling (SDAC) and the PCR EUPHEMIA algorithm  https://www.n-side.com/en/insights/en-the-single-day-ahead-coupling-sdac-and-the-pcr-euphemia-algorithm/ 
