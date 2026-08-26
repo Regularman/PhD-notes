@@ -39,7 +39,6 @@ There are four different types of markets
 - Balancing market: Here, transmission operators take over and make sure that the system is maintained reliably. 
 ![[Screenshot 2026-08-27 094715.png]]
 
-
 OTC - Over the counter, you have a direct relationship with the supplier, while in Exchanges, buyers are anonymised in the central process.
 As you get closer to t=0, we get more constraints, it is related to a physics based system that satisfies the constraint of delivering enough power to the consumers.
 - Continuous means that a buy order and a sell order match, and it takes place continuously, you can adjust to new information as they come
@@ -57,6 +56,7 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 	- **Drop out from data center connections?**
 - **How does it handle regional variation in prices, demands, and supplies?**
 
+Europe has gone for the zonal approach, where each region has a single price per market time unit
 ## Sources
 
 [1]N-SIDE. 2021. The Single Day-ahead Coupling (SDAC) and the PCR EUPHEMIA algorithm  https://www.n-side.com/en/insights/en-the-single-day-ahead-coupling-sdac-and-the-pcr-euphemia-algorithm/ 
