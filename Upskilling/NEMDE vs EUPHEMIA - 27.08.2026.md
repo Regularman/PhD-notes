@@ -71,6 +71,7 @@ Definition of surplus for consumer and producer.
 
 ![[Screenshot 2026-08-27 101120.png]]
 
+The welfare can be calculated from this surplus, where $$welfare = \te$$
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
 - **How does both engine deal with the co-optimisation problem, solving for both frequency management and the lowest cost?**
