@@ -62,7 +62,7 @@ Taking the intersection of these two curves.
 	- They set the market clearing price so that they are economically indifferent to produce at any level
 	
 ![[Screenshot 2026-08-27 100037.png]]
-
+This is a pay as clear where every accepted order will pay/rece
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
