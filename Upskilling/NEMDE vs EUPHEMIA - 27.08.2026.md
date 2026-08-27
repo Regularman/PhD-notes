@@ -65,7 +65,10 @@ Taking the intersection of these two curves.
 This is a pay as clear where every accepted order will pay/receive an amount equal to its accepted volume times the market clearing price
 - Alternatively, pay-as-bid setting will pay/receive an amount equal to its accepted volume times the price of the individual order.
 
-![[Screenshot 2026-08-27 100836.png]]- **How does EUPHEMIA and NEMDE recover costs of operation?**
+![[Screenshot 2026-08-27 100836.png]]
+
+
+- **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
 - **How does both engine deal with the co-optimisation problem, solving for both frequency management and the lowest cost?**
 - **How does both optimisation engine respond to black-swan events, as well as issues of renewable integration? This is characteristic of resource availability in both markets as well**
