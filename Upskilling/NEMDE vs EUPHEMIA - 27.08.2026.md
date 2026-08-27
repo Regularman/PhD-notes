@@ -44,6 +44,7 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 - Continuous means that a buy order and a sell order match, and it takes place continuously, you can adjust to new information as they come
 - While auctions is a used as a pay-as-clear system that pulls liquidity into a specific time. These are centralised processes. All accepted orders are paid as the clearing price.
 - Day-ahead markets have implicitly transmission rights, while in OTC and forward markets, long term transmission rights are bought and sold separately.
+- Forward markets operated by non-a
 
 Contract for difference is s PPA, a financial instrument to incentivise investment for green energy, can be unilateral (government will top up when the strike price for producers is below the marginal price, a top up), while a bilateral contract, the producer will pay back to the government when the strike price is below the production price.
 
