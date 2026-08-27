@@ -67,6 +67,9 @@ This is a pay as clear where every accepted order will pay/receive an amount equ
 
 ![[Screenshot 2026-08-27 100836.png]]
 
+##### The obvious question is the surplus from the consumer and the producer
+
+
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
