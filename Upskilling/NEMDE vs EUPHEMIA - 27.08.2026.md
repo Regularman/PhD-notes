@@ -57,7 +57,9 @@ Taking the intersection of these two curves.
 - Fully accepted orders are orders making a profit.
 	- Supply orders with a lower cost then the market clearing price
 	- Demand orders with a higher utility than the market clearing price
-- Fully rejected orders that would lose money
+- Fully rejected orders that would lose money, opposite to the fully accepted orders
+- Partially accepted orders
+	- They set the market clearing price so that they are economically indifferent to produce at any level
 ![[Screenshot 2026-08-27 100037.png]]
 
 
