@@ -53,7 +53,10 @@ Objective function to maximise social welfare.
 ##### Auction mechanism
 ![[Screenshot 2026-08-27 095909.png]]
 Taking the intersection of these two curves. 
-- Every order 
+- Every order will be subjected to the same market clearing price.
+- Fully accepted orders are orders making a profit.
+	- Supply orders with a lower cost then the market clearing price
+	- Demand orders with a higher utility than the market clearing price
 ![[Screenshot 2026-08-27 100037.png]]
 
 
