@@ -71,7 +71,9 @@ Definition of surplus for consumer and producer.
 
 ![[Screenshot 2026-08-27 101120.png]]
 
-The welfare can be calculated from this surplus, where $$\text{Welfare} = \text{Consumer Surplus}-\text{Producer Surplus} + \text{(Congestion Rent)}$$
+The welfare can be calculated from this surplus, where $$\text{Welfare} = \text{Consumer Surplus}+\text{Producer Surplus} + \text{(Congestion Rent)}$$
+It is proven that finding the competitive equilibrium is the same as solving an optimisation problem for which the objective is to maximise the social welfare.
+
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
 - **What happens in islanding events?**
 - **How does both engine deal with the co-optimisation problem, solving for both frequency management and the lowest cost?**
