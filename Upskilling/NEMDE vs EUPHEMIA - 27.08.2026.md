@@ -45,7 +45,7 @@ As you get closer to t=0, we get more constraints, it is related to a physics ba
 - While auctions is a used as a pay-as-clear system that pulls liquidity into a specific time. These are centralised processes. All accepted orders are paid as the clearing price.
 - Day-ahead markets have implicitly transmission rights, while in OTC and forward markets, long term transmission rights are bought and sold separately.
 
-Contract for difference can be unilateral (government will top up when the strike price for producers is below the marginal price, a top up), while a bilateral contract, the producer will pay back to the government when the strike price is below the production price.
+Contract for difference is s PPA, a financial instrument to incentivise investment for green energy, can be unilateral (government will top up when the strike price for producers is below the marginal price, a top up), while a bilateral contract, the producer will pay back to the government when the strike price is below the production price.
 
 Europe has gone for the zonal approach, where each region has a single price per market time unit. This is due to legacy systems, reflecting national borders, whilst also supporting liquidity. A large bidding zone will allow greater liquidity from the market (debated). Bidding zones can evolve over time to reflect congestions.
 - There are 30 TSOs that calculate capacity of their network and 16NEMOs that collect orders from market participants and use EUPHEMIA to calculate prices and flows between bidding zones.
@@ -53,6 +53,8 @@ Europe has gone for the zonal approach, where each region has a single price per
 Objective function to maximise social welfare.
 - Competitive equilibrium: the acceptance of orders and market clearing prices are such that no market players would prefer other order acceptance levels, and supply is equal to the demand. To reach this competitive equilibrium, EUPHEMIA looks at the supply and demand curves
 ##### Auction mechanism
+
+- Incentive to 
 ![[Screenshot 2026-08-27 095909.png]]
 Taking the intersection of these two curves. 
 - Every order will be subjected to the same market clearing price.
