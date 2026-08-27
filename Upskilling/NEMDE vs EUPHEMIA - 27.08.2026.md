@@ -60,6 +60,7 @@ Taking the intersection of these two curves.
 - Fully rejected orders that would lose money, opposite to the fully accepted orders
 - Partially accepted orders
 	- They set the market clearing price so that they are economically indifferent to produce at any level
+	
 ![[Screenshot 2026-08-27 100037.png]]
 
 
