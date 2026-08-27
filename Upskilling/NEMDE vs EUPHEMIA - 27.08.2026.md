@@ -54,7 +54,7 @@ Objective function to maximise social welfare.
 - Competitive equilibrium: the acceptance of orders and market clearing prices are such that no market players would prefer other order acceptance levels, and supply is equal to the demand. To reach this competitive equilibrium, EUPHEMIA looks at the supply and demand curves
 ##### Auction mechanism
 
-- Incentive to 
+Incentive to bid truthfully the marginal cost of production as a high marginal cost mean that you won't get accepted.
 ![[Screenshot 2026-08-27 095909.png]]
 Taking the intersection of these two curves. 
 - Every order will be subjected to the same market clearing price.
