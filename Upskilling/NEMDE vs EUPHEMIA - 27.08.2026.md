@@ -52,6 +52,9 @@ Objective function to maximise social welfare.
 - Competitive equilibrium: the acceptance of orders and market clearing prices are such that no market players would prefer other order acceptance levels, and supply is equal to the demand. To reach this competitive equilibrium, EUPHEMIA looks at the supply and demand curves
 ##### Auction mechanism
 ![[Screenshot 2026-08-27 095909.png]]
+Taking the intersection of these two curves. 
+- Every order 
+![[Screenshot 2026-08-27 100037.png]]
 
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
