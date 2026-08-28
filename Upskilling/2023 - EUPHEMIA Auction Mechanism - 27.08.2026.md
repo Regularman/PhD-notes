@@ -116,7 +116,11 @@ This forms a Primal problem, which solves for the bid acceptance ratios. However
 
 ![[Screenshot 2026-08-28 111558.png]]
 
-- PUN search
+- PUN search: 
+
+These inputs choices are 
+
+![[Screenshot 2026-08-28 111737.png]]
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
