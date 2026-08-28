@@ -58,4 +58,6 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 ![[Screenshot 2026-08-28 152344.png]]
 
-## 
+## Carbon capture with BF gas
+
+Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ 
