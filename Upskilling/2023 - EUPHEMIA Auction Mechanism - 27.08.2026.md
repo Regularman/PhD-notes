@@ -92,6 +92,7 @@ Looking more into these types of inputs
 | Scalable complex orders | These have a fixed cost independent of activation level, and a minimum acceptance volume per hour. As well as ramp conditions attached. The acceptance volume avoids swings in acceptance levels and operational load profiles |
 There are two ways to represent network constraints -
 - Available Transfer Capacities: 
+- Flow-based 
 
 | Ways to t |     |
 | --------- | --- |
