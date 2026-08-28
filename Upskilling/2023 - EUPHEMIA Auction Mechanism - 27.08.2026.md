@@ -126,7 +126,10 @@ These inputs choices are based on electricity market needs.
 #### Assumptions
 - Single bidding area and period
 - Demand curve is price-taking and can be curtailed
-- Supply are non-curtailable block
+- Supply are non-curtailable blocks
+
+This is a Knapsack problem, which is a NP-Complete problem in computer science
+- Assume that we have a knapsack that can keep objects of up to $W kg$ and $Vm^3$, and we have objects of different weights and volumes
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
