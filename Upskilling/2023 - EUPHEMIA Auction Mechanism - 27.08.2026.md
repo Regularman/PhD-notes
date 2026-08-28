@@ -135,7 +135,6 @@ This is a Knapsack problem, which is a NP-Complete problem in computer science
 - Solved using integer linear programming
 ![[Screenshot 2026-08-28 114002.png]]
 
-
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
