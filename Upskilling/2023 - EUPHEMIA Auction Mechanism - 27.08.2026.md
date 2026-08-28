@@ -92,7 +92,11 @@ Looking more into these types of inputs
 | Scalable complex orders | These have a fixed cost independent of activation level, and a minimum acceptance volume per hour. As well as ramp conditions attached. The acceptance volume avoids swings in acceptance levels and operational load profiles |
 There are two ways to represent network constraints -
 - Available Transfer Capacities: 
-- Flow-based 
+- 
+- Flow-based (relying on Power Transfer Distribution Factors - PTDFs): 
+Note that EUPHEMIA combines the two models in different regions
+
+![[Screenshot 2026-08-28 110204.png|327]]
 
 | Ways to t |     |
 | --------- | --- |
