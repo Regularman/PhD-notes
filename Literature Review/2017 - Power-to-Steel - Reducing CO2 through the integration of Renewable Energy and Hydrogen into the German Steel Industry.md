@@ -64,4 +64,6 @@ Through chemical scrubbing, separates out the BF gas into a $CO$ intensive strea
 
 The $CO$ rich gas stream is preheated (with natural gas as there is no secondary stream anymore), and some of it is exported, and the rest fed back into the BF, reducing coke consumption by 30%. 
 - Increased in net energy demand as we are not using BF for heating the air or recirculated gas, as well as the additional thermal and electrical energy demand of the separate $CO_2$ separation  unit.
-- The $CO_2$ is 382 $kgCO_2/t-pig iron$, which increases to $392 kg CO_2/t-pigiron$ after considering the e
+- The $CO_2$ is 382 $kgCO_2/t-pig iron$, which increases to $392 kg CO_2/t-pigiron$ after considering the export of the $CO$ gas stream
+
+## Higher share of steel making in EAF
