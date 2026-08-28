@@ -151,6 +151,7 @@ This is a Knapsack problem, which is a NP-Complete problem in computer science
 - **How does it handle regional variation in prices, demands, and supplies?**
 - What us the difference between OTC and exchange style mechanisms
 - How can you qualify into the electricity market?
+- NEMDE is co-optimised for frequency response and 
 
 ## Sources
 
