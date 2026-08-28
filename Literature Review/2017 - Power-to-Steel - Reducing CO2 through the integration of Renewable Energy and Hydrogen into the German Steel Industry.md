@@ -49,4 +49,5 @@ The power demand is only 3.34 GJ/$t_{liquid-steel}$, and CO2 emissions is 508kg/
 
 The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich stream through Vapor Pressure Swing Adsorption
 - VPSA is where a gas stream is passed through an adsorbent bed at ambient pressure. Some particular portion of the mixture is absorbed into the adsorbent. Then, vacuum is generated to suck the adsorbed gas out of the adsorbent to regenerate it.
-- The $CO$ rich stream is fed into the furnace and the $CO_2$ rich steam, which still contains some $CO$ and $H_2$ is used to preheat the $CO$ rich stream. This red
+- The $CO$ rich stream is fed into the furnace and the $CO_2$ rich steam, which still contains some $CO$ and $H_2$ is used to preheat the $CO$ rich stream. This reduces the amount of coke required to generate the carbon monoxide inside the blast furnace by 45%. 
+![[Screenshot 2026-08-28 152344.png]]
