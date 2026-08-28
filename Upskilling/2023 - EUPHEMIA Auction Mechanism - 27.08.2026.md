@@ -97,7 +97,12 @@ There are two ways to represent network constraints -
 ![[Screenshot 2026-08-28 110204.png|327]]
 Note that EUPHEMIA combines the two models in different regions. But how does inter-regional mechanisms work? Consider the following example from zone A and B.
 ![[Screenshot 2026-08-28 110511.png]]
-In this case, the demand in B can be supplied by low cost supply in A if there's enough transfer capacity between A and B.
+In this case, the demand in B can be supplied by low cost supply in A if there's enough transfer capacity between A and B, and the more expensive supply is dropped, and the price will converge. 
+![[Screenshot 2026-08-28 110603.png]]
+But what happens if we cannot transfer as much as we like? Then the supply will be constrained by the line capacity.
+![[Screenshot 2026-08-28 110712.png]]
+
+Note that the additional 
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
