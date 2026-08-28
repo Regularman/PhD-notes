@@ -132,7 +132,7 @@ These inputs choices are based on electricity market needs.
 
 This is a Knapsack problem, which is a NP-Complete problem in computer science
 - Assume that we have a knapsack that can keep objects of up to $W kg$ and $Vm^3$, and we have objects of different weights and volumes. What is the maximum value we can put in the knapsack
-- Solved using integer linear programming relaxed into a conve 
+- Solved using integer linear programming relaxed into a convex problem.
 ![[Screenshot 2026-08-28 114002.png]]
 
 
