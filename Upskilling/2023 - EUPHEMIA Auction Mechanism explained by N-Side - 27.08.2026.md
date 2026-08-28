@@ -98,7 +98,8 @@ There are two ways to represent network constraints -
 
 ![[Screenshot 2026-08-28 133939.png]]
 
-Note that the use of a more physics based system with higher granularity can optimise Power Shift Transformer tap positions, line switching and alternative flow based domains
+Note that the use of a more physics based system with higher granularity can optimise Power Shift Transformer tap positions, line switching and alternative flow based domains, and HVDC interconnector setpoints (with evolved flow-based models).
+
 Flow based is more complicated and have more constraints to consider. However, it is beneficial for the algorithm, as the integer solution can be relaxed, and there are more solutions to choose from, more social welfare available. Note that EUPHEMIA combines the two models in different regions. But how does inter-regional mechanisms work? Consider the following example from zone A and B.'
 
 
