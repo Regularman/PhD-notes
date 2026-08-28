@@ -83,4 +83,8 @@ The total $CO_2$ emissions is 1.206t/t-pig iron, and energy consumption is $15.9
 
 - Through using electrolysis rather than steam methane reforming, the $CO_2$ emissions is 2.407t/t-pig iron, which is almost 2 times higher. The electricity demand is also 12.5GJ/t-pig iron
 - Furthermore, a steam reformer has efficiency of 84%, while electrolyser has a lower efficiency of 70%. 
-- If the electricity is fully renewable, then the $CO_2$ emissions is only $409 kg/t_{LS}$. The remaining carbon 
+- If the electricity is fully renewable, then the $CO_2$ emissions is only $409 kg/t_{LS}$. The remaining carbon emissions can be attributed to the use of natural gas. 
+
+# Final results - Integrated Steelworks
+
+
