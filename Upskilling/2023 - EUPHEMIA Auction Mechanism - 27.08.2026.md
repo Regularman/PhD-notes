@@ -95,7 +95,7 @@ There are two ways to represent network constraints -
 ![[Screenshot 2026-08-28 110201.png|318]]
 - Flow-based (relying on Power Transfer Distribution Factors - PTDFs): 
 ![[Screenshot 2026-08-28 110204.png|327]]
-Note that EUPHEMIA combines the two models in different regions. But how does inter-regional mechanisms work?
+Note that EUPHEMIA combines the two models in different regions. But how does inter-regional mechanisms work? Consider the following example from zone A and B
 
 ## Questions
 
