@@ -45,3 +45,6 @@ The input material contains iron, such as scrap, that is melted through electric
 The power demand is only 3.34 GJ/$t_{liquid-steel}$, and CO2 emissions is 508kg/$t_{liquid-steel}$.
 - Carbon emissions can come from decarburisation of the steel, electrode burn-off, as well as emissions associated with N2 and O2 separation (grid electricity consumption)
 
+## Blast Furnace Gas Recirculation
+
+The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich stream through Vapor Pressure Swing Adsorption
