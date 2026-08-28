@@ -51,5 +51,7 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 - VPSA is where a gas stream is passed through an adsorbent bed at ambient pressure. Some particular portion of the mixture is absorbed into the adsorbent. Then, vacuum is generated to suck the adsorbed gas out of the adsorbent to regenerate it.
 - The $CO$ rich stream is fed into the furnace and the $CO_2$ rich steam, which still contains some $CO$ and $H_2$ is used to preheat the $CO$ rich stream. This reduces the amount of coke required to reduce the iron lumps and pellets inside the blast furnace by 45%. 
 - Ultimately, the net energy demand per t-pig iron was 11.6GJ.
-- However, loss opportunities to export the blast furnace gas for other purposes, which increases the energy demands.  Additionally, the BF gas is no longer expanded through a CHP, which is another missed opportunities, leading to high
+- However, loss opportunities to export the blast furnace gas for other purposes, which increases the energy demands.  Additionally, the BF gas is no longer expanded through a CHP, which is another missed opportunities, leading to higher electrical energy demands.
+- The $CO_2$ emissions was 1.065t/t-pig iron
+
 ![[Screenshot 2026-08-28 152344.png]]
