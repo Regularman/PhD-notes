@@ -108,7 +108,7 @@ Note that the additional money paid to the supply that has moved across is known
 
 Remember that reaching competitive equilibrium is the same as optimising for social welfare, while ensuring that
 - Supply = demand
-- All vid activation are between $[0,1]$. We can
+- All vid activation are between $[0,1]$
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
@@ -122,6 +122,7 @@ Remember that reaching competitive equilibrium is the same as optimising for soc
 	- **Drop out from data center connections?**
 - **How does it handle regional variation in prices, demands, and supplies?**
 - What us the difference between OTC and exchange style mechanisms
+- How can you qualify into the electricity market?
 
 ## Sources
 
