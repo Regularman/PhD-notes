@@ -117,7 +117,8 @@
 		{"id":"dc1a48d7c8fd9443","type":"file","file":"PhD-notes/Literature Review/2022 - Decarbonizing the iron and steel industry - A systematic review of sociotechnical systems, technological innovations, and policy options.md","x":-4650,"y":-400,"width":400,"height":206,"color":"5"},
 		{"id":"05bf1f1ace912ae5","type":"text","text":"# ~={cyan}Hydrogen=~","x":-4373,"y":581,"width":250,"height":81,"color":"5"},
 		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-4018,"y":-778,"width":407,"height":196},
-		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-4049,"y":-405,"width":358,"height":187,"color":"5"}
+		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-4049,"y":-405,"width":358,"height":187,"color":"5"},
+		{"id":"2a2a661cf38214a8","x":-4049,"y":-194,"width":358,"height":130,"color":"5","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -227,6 +228,7 @@
 		{"id":"5ce707d8c74faa32","fromNode":"3ae5c635ac1acd62","fromSide":"bottom","toNode":"7af19193743cdc1d","toSide":"right"},
 		{"id":"0d602f04e8aa027c","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"dc1a48d7c8fd9443","toSide":"left"},
 		{"id":"b1043a2147d8d757","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"05bf1f1ace912ae5","toSide":"left"},
-		{"id":"8a42c1c18381814c","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"}
+		{"id":"8a42c1c18381814c","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
+		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"}
 	]
 }

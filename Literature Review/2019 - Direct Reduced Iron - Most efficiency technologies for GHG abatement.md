@@ -77,6 +77,10 @@ The main difference between HYL-Energiron and MIDREX is that MIDREX primarily us
 ## FINMET
 
 Uses multiple fluidised beds for reduction, and the off gas are used for further heating of the natural gas for reduction.
+
+##  Circored
+
+
 ## Injection of hydrogen injection into blast furnace to reduce CO2 emissions
 
 Yilmaz C, Wendelstorf J, Turek T (2017) Modeling and simulation of hydrogen injection into a blast furnace to reduce carbon dioxide emissions. J Clean Prod 154:488–501. https://doi.org/ 10.1016/j.jclepro.2017.03.162
