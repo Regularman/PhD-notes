@@ -122,6 +122,11 @@ This forms a Primal problem, which solves for the bid acceptance ratios. However
 These inputs choices are based on electricity market needs.
 
 ![[Screenshot 2026-08-28 111737.png]]
+
+#### Assumptions
+- Single bidding area and period
+- Demand curve is price-taking and can be curtailed
+- Supply are non-curtailable block
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
