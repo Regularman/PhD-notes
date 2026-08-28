@@ -68,4 +68,4 @@ The $CO$ rich gas stream is preheated (with natural gas as there is no secondary
 
 ## Higher share of steel making in EAF
 
-Availability of scrap is limited and German government modelling highlights that the potential for additional steel production is
+Availability of scrap is limited and German government modelling highlights that the potential for additional steel production is limited to 6.1Mt/a. 
