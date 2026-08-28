@@ -69,3 +69,14 @@ The $CO$ rich gas stream is preheated (with natural gas as there is no secondary
 ## Higher share of steel making in EAF
 
 Availability of scrap is limited and German government modelling highlights that the potential for additional steel production is limited to 6.1Mt/a. 
+
+## Circored - blue hydrogen reduction 
+
+Uses hydrogen as a reductant to transform hydrogen fines into iron briquettes (spongy) rather than pig iron, which are then used in EAF operations. 
+- The iron fines are first heated and dried with the combustion of natural gas at temperatures of $850-900\degree C$.
+- The hydrogen used to reduce the iron fines is produced via natural gas reforming, producing water as a by-product
+Commercial-scale plant has operated in Trinidad since 1999 and has a capacity of 65t/a. These reduced iron briquettes has lower carbon values and require the injection of coal into the liquid bath, especially when the charge of the EAF process is greater than 40% directly reduced iron
+
+The total $CO_2$ emissions is 1.206t/t-pig iron, and energy consumption is $15.95GJ/t-pig iron$. However, this does not consider the reduction of coke oven needs and BF gas exported as in conventional BF processes, which have a carbon emission intensity of $1.099t/t-pig iron.
+
+## G
