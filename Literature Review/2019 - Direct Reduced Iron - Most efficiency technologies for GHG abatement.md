@@ -80,7 +80,7 @@ Uses multiple fluidised beds for reduction, and the off gas are used for further
 
 ##  Circored
 
-Uses hydrogen as a reductant to transform hydrogen fines into iron briquettes (songy)
+Uses hydrogen as a reductant to transform hydrogen fines into iron briquettes (spongy), which are then used in EAF operations. Commercial-scale plant has operated in Trinidad since 1999 and has a capacity of 65t/a. These reduced iron briquettes has lower carbon values and require the injection of coal into the liquid bath to ensure 
 ## Injection of hydrogen injection into blast furnace to reduce CO2 emissions
 
 Yilmaz C, Wendelstorf J, Turek T (2017) Modeling and simulation of hydrogen injection into a blast furnace to reduce carbon dioxide emissions. J Clean Prod 154:488–501. https://doi.org/ 10.1016/j.jclepro.2017.03.162
