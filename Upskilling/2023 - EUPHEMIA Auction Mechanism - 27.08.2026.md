@@ -91,9 +91,9 @@ Looking more into these types of inputs
 | Parent child orders     | A link for another order, order A can be activated by EUPHEMIA ONLY IF order B is also activated                                                                                                                               |
 | Scalable complex orders | These have a fixed cost independent of activation level, and a minimum acceptance volume per hour. As well as ramp conditions attached. The acceptance volume avoids swings in acceptance levels and operational load profiles |
 There are two ways to represent network constraints -
-- Available Transfer Capacities: More focussed on regional and zo
+- Available Transfer Capacities: More focused on regional and zonal network constraints
 ![[Screenshot 2026-08-28 110201.png|318]]
-- Flow-based (relying on Power Transfer Distribution Factors - PTDFs): More focussed on the cross zonal elements
+- Flow-based (relying on Power Transfer Distribution Factors - PTDFs):  More focused on the cross zonal elements
 ![[Screenshot 2026-08-28 110204.png|327]]
 
 Flow based is more complicated and have more constraints to consider. However, it is beneficial for the algorithm, as the integer solution can be relaxed, and there are more solutions to choose from, more social welfare available. Note that EUPHEMIA combines the two models in different regions. But how does inter-regional mechanisms work? Consider the following example from zone A and B.
