@@ -134,6 +134,8 @@ This is a Knapsack problem, which is a NP-Complete problem in computer science
 - Assume that we have a knapsack that can keep objects of up to $W kg$ and $Vm^3$, and we have objects of different weights and volumes. What is the maximum value we can put in the knapsack
 - Solved using integer linear programming
 ![[Screenshot 2026-08-28 114002.png]]
+
+
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
