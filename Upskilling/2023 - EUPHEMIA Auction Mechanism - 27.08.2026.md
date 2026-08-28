@@ -112,8 +112,11 @@ Remember that reaching competitive equilibrium is the same as optimising for soc
 - All advanced order conditions
 - All the network constraints
 
-This forms a Primal problem, which solves for the bid acceptance ratios. However, solving the Primal problem does not solve for the price at which the market clears. This must be solved via the Dual problem.
+This forms a Primal problem, which solves for the bid acceptance ratios. However, solving the Primal problem does not solve for the price at which the market clears. This must be solved via the Dual problem, which can be obtained by systematically transforming the primary problem.
 
+![[Screenshot 2026-08-28 111558.png]]
+
+- PUN search
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
