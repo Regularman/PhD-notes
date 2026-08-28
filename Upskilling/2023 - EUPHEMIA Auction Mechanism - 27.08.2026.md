@@ -116,7 +116,8 @@ This forms a Primal problem, which solves for the bid acceptance ratios. However
 
 ![[Screenshot 2026-08-28 111558.png]]
 
-- PUN search: Reconciles the zonal price differences with the flat national 
+- PUN search: Reconciles the zonal price differences with the flat national single price requirement
+- MIC re-insertion - Paradoxically rejected Minimum Income Conditions are iteratively tested and added back to the market conditions
 
 These inputs choices are based on electricity market needs.
 
