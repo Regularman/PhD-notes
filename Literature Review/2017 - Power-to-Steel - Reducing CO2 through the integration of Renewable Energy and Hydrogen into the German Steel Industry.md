@@ -57,3 +57,5 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 - The $CO_2$ emissions was 1.065t/t-pig iron
 
 ![[Screenshot 2026-08-28 152344.png]]
+
+## 
