@@ -87,6 +87,7 @@ Looking more into these types of inputs
 | Order type    | Information                                    |
 | ------------- | ---------------------------------------------- |
 | Hourly orders | Quantity, price, time period, and bidding zone |
+| Block orders  | Hourly or                                      |
 |               |                                                |
 
 ## Questions
