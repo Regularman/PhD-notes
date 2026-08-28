@@ -79,4 +79,7 @@ Commercial-scale plant has operated in Trinidad since 1999 and has a capacity of
 
 The total $CO_2$ emissions is 1.206t/t-pig iron, and energy consumption is $15.95GJ/t-pig iron$. However, this does not consider the reduction of coke oven needs and BF gas exported as in conventional BF processes, which have a carbon emission intensity of $1.099t/t-pig iron.
 
-## G
+## Green hydrogen reduction
+
+- Through using electrolysis rather than steam methane reforming, the $CO_2$ emissions is 2.407t/t-pig iron, which is almost 2 times higher. The electricity demand is also 12.5GJ/t-pig iron
+- Furthermore, a steam reformer has efficiency of 84%, while electrolyser has a lower efficiency o 
