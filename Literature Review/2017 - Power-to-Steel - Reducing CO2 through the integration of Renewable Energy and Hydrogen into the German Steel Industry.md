@@ -67,3 +67,5 @@ The $CO$ rich gas stream is preheated (with natural gas as there is no secondary
 - The $CO_2$ is 382 $kgCO_2/t-pig iron$, which increases to $392 kg CO_2/t-pigiron$ after considering the export of the $CO$ gas stream
 
 ## Higher share of steel making in EAF
+
+Availability of scrap is limited and German government modelling highlights that the potential for additional steel production is
