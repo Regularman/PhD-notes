@@ -62,4 +62,5 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ stream, which can be sold to other industries or stored in underground caverns.
 
-The $CO$ rich gas stream is used to 
+The $CO$ rich gas stream is preheated (with natural gas as there is no secondary stream anymore), and some of it is exported, and the rest fed back into the BF, reducing coke consumption by 30%. 
+- Increased in net energy demand as we are not using BF for heating the air or
