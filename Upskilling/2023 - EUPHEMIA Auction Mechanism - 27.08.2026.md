@@ -84,10 +84,10 @@ Inputs and outputs to the algorithm is shown below.
 
 Looking more into these types of inputs
 
-
-|     |     |
-| --- | --- |
-|     |     |
+| Order type    | Information                                    |
+| ------------- | ---------------------------------------------- |
+| Hourly orders | Quantity, price, time period, and bidding zone |
+|               |                                                |
 
 ## Questions
 
