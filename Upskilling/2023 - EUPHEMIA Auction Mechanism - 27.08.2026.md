@@ -92,6 +92,7 @@ It is proven that finding the competitive equilibrium is the same as solving an 
 	- **Large transmission line failure**
 	- **Drop out from data center connections?**
 - **How does it handle regional variation in prices, demands, and supplies?**
+- What us the difference between OTC and exchange style mechanisms
 
 ## Sources
 
