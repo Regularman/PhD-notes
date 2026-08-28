@@ -102,7 +102,7 @@ In this case, the demand in B can be supplied by low cost supply in A if there's
 But what happens if we cannot transfer as much as we like? Then the supply will be constrained by the line capacity.
 ![[Screenshot 2026-08-28 110712.png]]
 
-Note that the additional 
+Note that the additional money paid to the supply that has moved across is known as the congestion rent
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
