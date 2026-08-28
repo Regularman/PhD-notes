@@ -84,11 +84,12 @@ Inputs and outputs to the algorithm is shown below.
 
 Looking more into these types of inputs
 
-| Order type      | Information                                                                                                                                                            |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hourly orders   | Quantity, price, time period, and bidding zone                                                                                                                         |
-| Block orders    | Hourly order, but the market participant specifies a minimum accepted ratio (80%) for partially accepted orders. It can potentially standing over several time periods |
-| Parent child or |                                                                                                                                                                        |
+| Order type              | Information                                                                                                                                                            |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hourly orders           | Quantity, price, time period, and bidding zone                                                                                                                         |
+| Block orders            | Hourly order, but the market participant specifies a minimum accepted ratio (80%) for partially accepted orders. It can potentially standing over several time periods |
+| Parent child orders     | A link for another order, order A can be activated by EUPHEMIA ONLY IF order B is also activated                                                                       |
+| Scalable complex orders | These have a fixe                                                                                                                                                      |
 
 ## Questions
 
