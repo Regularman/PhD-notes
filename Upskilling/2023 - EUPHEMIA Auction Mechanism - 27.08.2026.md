@@ -108,7 +108,10 @@ Note that the additional money paid to the supply that has moved across is known
 
 Remember that reaching competitive equilibrium is the same as optimising for social welfare, while ensuring that
 - Supply = demand
-- All vid activation are between $[0,1]$
+- All bid activation are between $[0,1]$
+- All advanced order conditions
+- All the network constraints
+
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
