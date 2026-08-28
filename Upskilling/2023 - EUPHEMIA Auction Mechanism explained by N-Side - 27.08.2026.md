@@ -135,8 +135,6 @@ This is a Knapsack problem, which is a NP-Complete problem in computer science
 - Solved using integer linear programming relaxed into a convex problem.
 ![[Screenshot 2026-08-28 114002.png]]
 
-
-
 ## Questions
 
 - **How does EUPHEMIA and NEMDE recover costs of operation?**
@@ -151,7 +149,7 @@ This is a Knapsack problem, which is a NP-Complete problem in computer science
 - **How does it handle regional variation in prices, demands, and supplies?**
 - What us the difference between OTC and exchange style mechanisms
 - How can you qualify into the electricity market?
-- NEMDE is co-optimised for frequency response and 
+- NEMDE is co-optimised for frequency response and EUPHEMIA is not, how will that affect operation of industrial loads
 
 ## Sources
 
