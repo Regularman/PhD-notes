@@ -116,9 +116,9 @@ This forms a Primal problem, which solves for the bid acceptance ratios. However
 
 ![[Screenshot 2026-08-28 111558.png]]
 
-- PUN search: 
+- PUN search: Reconciles the zonal price differences with the flat national 
 
-These inputs choices are 
+These inputs choices are based on electricity market needs.
 
 ![[Screenshot 2026-08-28 111737.png]]
 ## Questions
