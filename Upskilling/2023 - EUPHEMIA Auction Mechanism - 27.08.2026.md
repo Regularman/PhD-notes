@@ -104,13 +104,15 @@ But what happens if we cannot transfer as much as we like? Then the supply will 
 
 Note that the additional money paid to the supply that has moved across is known as the congestion rent. 
 
-#### How EUPHEMIA processes ~250,000 orders per day
+#### How EUPHEMIA processes ~250,000 orders per day, solved in <17 minutes everyday
 
 Remember that reaching competitive equilibrium is the same as optimising for social welfare, while ensuring that
 - Supply = demand
 - All bid activation are between $[0,1]$
 - All advanced order conditions
 - All the network constraints
+
+This forms a Primal problem, which solves for the bid acceptance ratios. However, solving the Primal problem does not solve for the price at which the market clears. This must be solved via the Dual problem.
 
 ## Questions
 
