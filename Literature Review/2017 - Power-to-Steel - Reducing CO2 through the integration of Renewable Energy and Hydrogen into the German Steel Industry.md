@@ -60,4 +60,6 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 ## Carbon capture with BF gas
 
-Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ 
+Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ stream, which can be sold to other industries or stored in underground caverns.
+
+The $CO$ rich gas stream is used to 
