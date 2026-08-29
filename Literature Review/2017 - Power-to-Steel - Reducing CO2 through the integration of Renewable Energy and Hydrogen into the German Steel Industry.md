@@ -68,11 +68,11 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 The integrated steel works in this paper assumes that the exported heat and electricity must stay the same, which requires additional natural gas to help power the turbine. 
 Scope 1 emissions and energy requirement are
-- 1732 kg/t-pig iron
+- 1336 kg/t-pig iron
 - 299kg/t-pig-iron that is exported via BOF gas or heating plant
 - 0.5GJ/t-pig iron of electricity
 - 3.9GJ/t-pig iron of heat
-- Total energy demand of 19.01GJ
+- Total energy demand of 19.01GJ, but the energy input shifts from coal to natural gas and higher shares of grid electricity
 ## Carbon capture with BF gas
 
 Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ stream, which can be sold to other industries or stored in underground caverns.
