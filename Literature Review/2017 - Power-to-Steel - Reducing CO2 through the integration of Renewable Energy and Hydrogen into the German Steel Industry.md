@@ -111,3 +111,6 @@ This is for the production of 27Mt of steel in Germany.
 
 ![[Screenshot 2026-08-30 at 9.57.19 am.png]]
 
+### Considerations of synthetic natural gas
+
+There is no 
