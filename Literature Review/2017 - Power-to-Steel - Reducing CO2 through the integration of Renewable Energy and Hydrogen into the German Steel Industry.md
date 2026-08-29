@@ -19,6 +19,7 @@ The goal in Germany is to achieve
 
 Only considers the operation level of steel making. The analysis is done using the German electricity mix, which has a carbon emission intensity of $160 kg_{CO_2}/GJ$. 
 - In 2012, the German steel industry produces 67.67% of steel through BF-BOF and 32.32% via EAF. with a primary energy demand of 762,76PJ and 57.84MtCO2-e pa. This corresponds to 24% of thermal energy demands in German industries and 28% of carbon emissions.
+- Note that EAF and circored directly produces steel, but they are comparable to the pig iron production as blast furnace is the most energy intensive operation
 
 Only operational data for lifecycle.
 - Note that electricity is still needed to run the blast furnace due to the circulation of hot air required to keep reduction happening at the desired rate.
