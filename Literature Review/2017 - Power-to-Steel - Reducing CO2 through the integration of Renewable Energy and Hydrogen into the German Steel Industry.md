@@ -42,6 +42,9 @@ A large part of the energy provided is coke and coal dust(14.97GJ/15.95GJ). Ther
 Scope 1 emissions and energy requirement are
 - 1732 kg/t-pig iron
 - 299kg/t-pig-iron that is exported via BOF gas or heating plant
+- 0.5GJ/t-pig iron of electricity
+- 3.9GJ/t-pig iron of heat
+- Total energy demand of 19.18GJ
 ### EAF Process
 
 The input material contains iron, such as scrap, that is melted through electrical power, forming liquid steel rather than pig iron. 
@@ -62,6 +65,12 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 ![[Screenshot 2026-08-28 152344.png]]
 
+Scope 1 emissions and energy requirement are
+- 1732 kg/t-pig iron
+- 299kg/t-pig-iron that is exported via BOF gas or heating plant
+- 0.5GJ/t-pig iron of electricity
+- 3.9GJ/t-pig iron of heat
+- Total energy demand of 19.18GJ
 ## Carbon capture with BF gas
 
 Through chemical scrubbing, separates out the BF gas into a $CO$ intensive stream and a $CO_2$ stream, which can be sold to other industries or stored in underground caverns.
