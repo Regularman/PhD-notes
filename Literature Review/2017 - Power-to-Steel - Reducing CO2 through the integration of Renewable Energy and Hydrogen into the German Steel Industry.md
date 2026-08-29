@@ -37,7 +37,11 @@ The energy demand of an average vlast furnace is 15.95GJ/$t_{pig-iron}$, which i
 - The exported BF gas is also burned, releasing and additional 585kgCO2/$t_{pig-iron}$
 
 A large part of the energy provided is coke and coal dust(14.97GJ/15.95GJ). Therefore, its displacement with renewable is unfeasible.
+![[Screenshot 2026-08-30 at 9.29.25 am.png]]
 
+Scope 1 emissions and energy requirement are
+- 1732 kg/t-pig iron
+- 299kg/t-pig-iron that is exported via BOF gas or heating plant
 ### EAF Process
 
 The input material contains iron, such as scrap, that is melted through electrical power, forming liquid steel rather than pig iron. 
