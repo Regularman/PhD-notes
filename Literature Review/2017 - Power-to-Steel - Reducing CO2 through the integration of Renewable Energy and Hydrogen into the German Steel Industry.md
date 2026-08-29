@@ -21,7 +21,7 @@ Only considers the operation level of steel making. The analysis is done using t
 - In 2012, the German steel industry produces 67.67% of steel through BF-BOF and 32.32% via EAF. with a primary energy demand of 762,76PJ and 57.84MtCO2-e pa. This corresponds to 24% of thermal energy demands in German industries and 28% of carbon emissions.
 
 Only operational data for lifecycle.
-- Note that 
+- Note that electricity is still needed to run the blast furnace due to the circulation of hot air required to keep reduction happening at the desired rate.
 ## Content
 
 ### Conventional means of production
