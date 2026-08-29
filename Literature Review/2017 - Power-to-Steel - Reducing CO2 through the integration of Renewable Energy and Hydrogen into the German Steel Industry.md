@@ -98,7 +98,8 @@ The total $CO_2$ emissions is 1.206t/t-pig iron, and energy consumption is $15.9
 
 However, when we look at the whole integrated steelworks, due to the reduced need of coke oven and BF gas combustion,
 - $CO_2$ emissions drops by 46%
-- Energy demand increases by 
+- Energy demand increases by 15% due to increased energy demands of steel methane reforming
+- 
 
 ## Green hydrogen reduction
 
