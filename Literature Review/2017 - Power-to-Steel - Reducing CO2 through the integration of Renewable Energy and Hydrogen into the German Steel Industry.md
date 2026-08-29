@@ -98,9 +98,7 @@ The total $CO_2$ emissions is 1.206t/t-pig iron, and energy consumption is $15.9
 
 However, when we look at the whole integrated steelworks, due to the reduced need of coke oven and BF gas combustion,
 - $CO_2$ emissions drops by 46%
-- Energy demand increases by 15% due to increased energy demands of steel methane reforming
-- 
-
+- Energy demand increases by 15% due to increased energy demands of steel methane reforming 
 ## Green hydrogen reduction
 
 - Through using electrolysis rather than steam methane reforming, the $CO_2$ emissions is 2.407t/t-pig iron, which is almost 2 times higher. The electricity demand is also 12.5GJ/t-pig iron
@@ -109,4 +107,7 @@ However, when we look at the whole integrated steelworks, due to the reduced nee
 
 # Final results - Integrated Steelworks
 
+This is for the production of 27Mt of steel in Germany.
+
+![[Screenshot 2026-08-30 at 9.57.19 am.png]]
 
