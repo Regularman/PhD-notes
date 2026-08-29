@@ -66,7 +66,7 @@ The blast furnace gas is separated into a $CO_2$ rich stream and a $CO$ rich str
 
 ![[Screenshot 2026-08-28 152344.png]]
 
-The integrated steel works in this paper assumes that the exported heat and electricity must stay the same, which requires additional natural gas to help power the turbine. Further natural gas is required to pre-heat the BOF gas stream beofr
+The integrated steel works in this paper assumes that the exported heat and electricity must stay the same, which requires additional natural gas to help power the turbine. Further natural gas is required to heat the coke oven, as there are insufficient carbon in
 Scope 1 emissions and energy requirement are
 - 1336 kg/t-pig iron
 - 299kg/t-pig-iron that is exported via BOF gas or heating plant
