@@ -124,5 +124,6 @@ In the base case, just replacing natural gas with synthetic natural gas, and ele
 - But note that synthetic methane production has a high electricity energy usage of $1.785MJ_{el}/MJ_{CH_4}$. 
 
 Some key discussion points are
-- Carbon capture can capture 27Mt-CO2 pa from 
-- It was shown in this study that only in case 3, the increase in share of EAF use, is the only process which enables simultaneous reduction in $CO_2$ emissio
+- Carbon capture can capture 27Mt-CO2 pa from the integrated steelworks. However, the German government only allows 4Mtpa to be stored in underground storage. The rest will have to be used as chemical feedstock for methanation.
+- It was shown in this study that only in case 3, the increase in share of EAF use, is the only process which enables simultaneous reduction in $CO_2$ emissions and energy demand, but this is limited y the availability of scrap.
+	- Furthermore, market players suc
