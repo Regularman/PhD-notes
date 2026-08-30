@@ -130,4 +130,4 @@ Some key discussion points are
 ![[Screenshot 2026-08-30 at 10.19.48 am.png]]
 
 Note that the electrical demand for integration of renewable energy increases due to the use of synthetic methane (Case 4)
-- The 237 TWh required is higher th
+- The 237 TWh required is higher than the 194TWh generated in Germany in 2015.
