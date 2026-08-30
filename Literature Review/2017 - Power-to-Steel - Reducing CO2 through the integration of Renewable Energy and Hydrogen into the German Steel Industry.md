@@ -122,3 +122,5 @@ This new scenario assumes that electricity is provided by 100% renewable sources
 In the base case, just replacing natural gas with synthetic natural gas, and electricity inputs with renewable energy will displace approximately 5.8PJ of natural gas, which can be replaced with 2.86TWh of renewable electricity (for methanation of synthetic methane). This would be an increase in 0.5% of energy demand and $CO_2$ reduction of only 1%.
 - However, other processes enables the steel making process to become more reliant on natural gas and electricity, which increases the impacts of synthetic methane and renewable electricity, as shown in the figure above.
 - But note that synthetic methane production has a high electricity energy usage of $1.785MJ_{el}/MJ_{CH_4}$. 
+
+It was shown in this study that only in
