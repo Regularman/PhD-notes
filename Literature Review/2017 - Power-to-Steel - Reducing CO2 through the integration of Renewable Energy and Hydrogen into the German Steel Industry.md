@@ -117,4 +117,7 @@ There is no point in using electricity to convert into synthetic methane, and th
 
 This new scenario assumes that electricity is provided by 100% renewable sources, while heat sources are created through synthetic methane.
 
-In the base case, just replacing natural gas with synthetic natural gas, and electricity inputs with renewable energy will displace approximately 5.8PJ of natural gas, which can be replaced with 2.86TWh of renewable electricity (for methanation of synthetic methane). This would be an increase in 0.5% of energy demand an
+![[Screenshot 2026-08-30 at 10.07.48 am.png]]
+
+In the base case, just replacing natural gas with synthetic natural gas, and electricity inputs with renewable energy will displace approximately 5.8PJ of natural gas, which can be replaced with 2.86TWh of renewable electricity (for methanation of synthetic methane). This would be an increase in 0.5% of energy demand and $CO_2$ reduction of only 1%.
+- However, other processes enables the steel making process to become more reliant on natural gas and elec
