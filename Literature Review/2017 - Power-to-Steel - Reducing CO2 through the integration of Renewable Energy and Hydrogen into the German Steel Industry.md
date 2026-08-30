@@ -129,4 +129,4 @@ Some key discussion points are
 	- Furthermore, market players such as China are intentionally generating surpluses to keep their prices low and price out international competitors.
 ![[Screenshot 2026-08-30 at 10.19.48 am.png]]
 
-Note that the electrical demand for integration of renewable energy increases due to the use of synthetic methane.
+Note that the electrical demand for integration of renewable energy increases due to the use of synthetic methane (Case 4)
