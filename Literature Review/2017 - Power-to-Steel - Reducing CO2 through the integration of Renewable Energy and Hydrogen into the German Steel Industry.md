@@ -115,4 +115,4 @@ This is for the production of 27Mt of steel in Germany.
 
 There is no point in using electricity to convert into synthetic methane, and then back into electricity, unless synthetic methane was used as a intermittent storage to soak up excess renewables during the day.
 
-This new scenario assumes that electricity is provided by 100% renewable sources
+This new scenario assumes that electricity is provided by 100% renewable sources, while heat sources are created through synthetic methane.
