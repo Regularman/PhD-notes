@@ -117,4 +117,4 @@ There is no point in using electricity to convert into synthetic methane, and th
 
 This new scenario assumes that electricity is provided by 100% renewable sources, while heat sources are created through synthetic methane.
 
-In the base case, just replacing natural gas with synthetic natural gas, and electricity inputs with renewable energy
+In the base case, just replacing natural gas with synthetic natural gas, and electricity inputs with renewable energy will displace approximately 5.8PJ of natural gas, which can be replaced with 2.86TWh of renewable electricity (for methanation of synthetic methane). This would be an increase in 0.5% of energy demand an
