@@ -119,7 +119,8 @@
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-4049,"y":-405,"width":358,"height":187,"color":"5"},
 		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-4049,"y":-194,"width":358,"height":130,"color":"5"},
 		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":400,"width":358,"height":137,"color":"5"},
-		{"id":"a470f5da88f78fec","x":-4049,"y":13,"width":358,"height":149,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md"}
+		{"id":"a470f5da88f78fec","x":-4049,"y":13,"width":358,"height":149,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md"},
+		{"id":"8b1b1ab79a19d33d","x":-3507,"y":13,"width":400,"height":188,"color":"5","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -231,6 +232,7 @@
 		{"id":"b1043a2147d8d757","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"05bf1f1ace912ae5","toSide":"left"},
 		{"id":"8a42c1c18381814c","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
 		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"},
-		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"}
+		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"},
+		{"id":"817b91565b063a72","fromNode":"a470f5da88f78fec","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"}
 	]
 }
