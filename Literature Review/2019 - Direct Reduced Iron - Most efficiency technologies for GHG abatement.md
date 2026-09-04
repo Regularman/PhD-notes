@@ -23,7 +23,7 @@ Note that direct reduction refers to the removal (reduction) of oxygen from iron
 - Reducing agent can be coal or natural gas
 
 
-DRI can be added to EAD to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
+DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
 
 DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
@@ -34,7 +34,7 @@ DRI can be performed in many different types of furnaces, as shown in the table 
 - However, direct reduction must use iron ore with more than 65% of iron content.
 - As the iron ore is never melted, it is richer in ash and sulfur and other gangue (waste/un-needed materials)
 Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2.
-=======
+
 Note that natural has used in direct reduction (which is 75% of the total production of DRI or HBI) has to be reformed to reducing gas in the form of CO or H2).
 - 90% of DRI production around the world is based on MIDREX and HYL/Energiron, based in where natural gas is available.
 - After DRI exists from the bottom of the shaft, it can be compressed to HBI for safe storage and transportation for safe storage and transportation. This is then used to dilute scrap metals passed into EAFs.
