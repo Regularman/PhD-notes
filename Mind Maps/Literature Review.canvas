@@ -94,7 +94,6 @@
 		{"id":"5d91b87965e283e4","type":"file","file":"PhD-notes/Literature Review/2021 - Electrification & Renewables to Displace Fossil Fuel Process Heating  - RACE 2030.md","x":-4650,"y":221,"width":400,"height":149,"color":"5"},
 		{"id":"04b81f616380fe89","type":"file","file":"PhD-notes/Literature Review/2019 - Renewable Energy Options for Industrial Process Heat.md","x":-4650,"y":404,"width":400,"height":133,"color":"5"},
 		{"id":"856b5da770f3fec9","type":"text","text":"# ~={cyan}CHP Cogeneration=~\nhttps://www.youtube.com/watch?v=2aVbxn5c6zo\n\nCaptures waste heat from power generation, so that the energy capture goes from 30% to 85% in CHP.\n\nCan be powered by biomethane, hydrogen, or natural gas.\n\n1. Fuel input mixed with air creates flue gas that powers the generation turbine, producing electricity. Only a third of the total energy is used\n2. The residual flue gas then can go into another steam turbine (aided by an additional boiler) to create more electricity\n3. Residual waste heat uses heat exchangers to go into the district heating network\n\n- Waste heat is captured ","x":-4541,"y":702,"width":250,"height":81,"color":"5"},
-		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":1,"width":358,"height":137,"color":"5"},
 		{"id":"25326d86e6a5decc","type":"file","file":"PhD-notes/Literature Review/2022 - Renewable energy for process heat -Opportunity study phase 2.md","x":-4650,"y":-153,"width":400,"height":116,"color":"5"},
 		{"id":"40eb9bdce15a355b","type":"text","text":"# ~={cyan}Thermal Storage=~\n","x":-4699,"y":845,"width":250,"height":60,"color":"5"},
 		{"id":"eefbe58a20a3bb00","type":"text","text":"# ~={cyan}Biogas=~\n\n","x":-4968,"y":919,"width":250,"height":72,"color":"5"},
@@ -118,7 +117,8 @@
 		{"id":"05bf1f1ace912ae5","type":"text","text":"# ~={cyan}Hydrogen=~","x":-4373,"y":581,"width":250,"height":81,"color":"5"},
 		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-4018,"y":-778,"width":407,"height":196},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-4049,"y":-405,"width":358,"height":187,"color":"5"},
-		{"id":"2a2a661cf38214a8","x":-4049,"y":-194,"width":358,"height":130,"color":"5","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md"}
+		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-4049,"y":-194,"width":358,"height":130,"color":"5"},
+		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":400,"width":358,"height":137,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
