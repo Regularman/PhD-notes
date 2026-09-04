@@ -8,7 +8,7 @@ Australia mines around $900,000Mt$ of iron ore per year, but most of this ore is
 - Using low grade ores in conventional EAFs can be very inefficient, with higher iron loss, pellet and gas consumption, and higher unusable slag as a by product.
 ![[Screenshot 2026-09-04 152043.png]]
 
-The slag from BF and EScan be used as a raw material for cement manufacturing (high iron oxide content of 24-37%), while BF slag contains less than 1%
+The slag from BF and ESF can be used as a raw material for cement manufacturing (low iron oxide content of 1%), while EAF slag contains less than 24-37%
 ## Electric Smelting Furnaces
 
 Focusses on the melting of liquid iron to separate out impurities from the DRI. The technology has been around for decades, but it needs to be brought into mainstream steel making.
