@@ -13,4 +13,4 @@ The slag from BF and ESF can be used as a raw material for cement manufacturing 
 
 Focusses on the melting of liquid iron to separate out impurities from the DRI. The technology has been around for decades, but it needs to be brought into mainstream steel making.
 
-- The first DRI-smelter-BOF pathway will be demonstrated in the Duisburg steel plant in Germ
+- The first DRI-smelter-BOF pathway will be demonstrated in the Duisburg steel plant in Germany, which will start by the end f 2026, combining a 2.5 Mtpa Midrex DR technology with 2x 100MW smelters to produce pig iron and replace the existing blast furnace. These furnaces are designed based on conventional submerged arc furnaces
