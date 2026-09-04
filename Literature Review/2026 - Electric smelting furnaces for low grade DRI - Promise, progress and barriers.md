@@ -12,3 +12,5 @@ The slag from BF and ESF can be used as a raw material for cement manufacturing 
 ## Electric Smelting Furnaces
 
 Focusses on the melting of liquid iron to separate out impurities from the DRI. The technology has been around for decades, but it needs to be brought into mainstream steel making.
+
+- The first 
