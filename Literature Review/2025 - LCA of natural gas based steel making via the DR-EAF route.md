@@ -23,7 +23,13 @@ Global examples are
 - Blastr Green Steel
 - EC
 - Haskonin Nederland B.V 
-- Tata steel Nederland BV 
+- Tata steel Nederland BV
+- Hydnum steel [[2024 - Hydnum Green Steel Project]]
+- Midrex technologies
+- Millennium steel
+- Saarstahl
+- Salzgitter AG
+- Stegra [[]]
 
 ## Further Readings
 
