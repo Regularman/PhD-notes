@@ -58,7 +58,8 @@ Functional unit of one tonne of crude steel
 ![[Screenshot 2026-09-08 at 9.14.09 am.png]]
 
 - High levels of ADP-e from EAF due to consumption of metal elements such as iron, chromium, and manganese.
-- One effect when increasing the use of DRI in the increased volume of slag, which requires more flux to keep its basicity. This increases the GWP100 by $0.018t/t-CS$.
+- One effect when increasing the use of DRI in the increased volume of slag, which requires more flux to keep its basicity. This increases the GWP100 by $0.018t/t-CS$. However, on the flip side, this translates to more slag credit offsets.
+-  Additionally, the defined alloy mix contributes 5% of impacts to GWP100 (0.072t CO2 eq./t CS), even though it makes up less than 15 kg/t CS.
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
