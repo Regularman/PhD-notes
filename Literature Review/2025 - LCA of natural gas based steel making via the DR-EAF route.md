@@ -37,13 +37,8 @@ Note that BoF can also take scrap metal (at 20-30% charge). The study also consi
 This paper shed some light on the emissions of the continuous casting process. Particularly, the thermal demand through the use of natural gas.
 
 ![[Screenshot 2026-09-08 at 8.57.04 am.png]]
-## Limitations
 
 ![[Screenshot 2026-09-08 at 8.59.08 am.png]]
-
-Secondary metallurgy, as well as the production and consumption of refractory materials and carbon electrodes have been excluded from the analysis due to data constraints.
-- While upstream components such as the production of iron pellets are approximately on the sphera database
-- Furthermore, as scrap steel is treated under waste treatment, they enter the product system burden free
 
 Functional unit of one tonne of crude steel
 
@@ -82,6 +77,14 @@ Decarbonization technologies that process more scrap appear to be environmentall
 ![[Screenshot 2026-09-08 at 9.38.45 am.png]]
 
 The use of renewable energy greatly decreases the ADP-f and GWP100. (Note that integrated steel mills are able to produce their own electricity through the combustion of top gas.)
+## Limitations
+
+Secondary metallurgy, as well as the production and consumption of refractory materials and carbon electrodes have been excluded from the analysis due to data constraints.
+- While upstream components such as the production of iron pellets are approximately on the sphera database
+- Furthermore, as scrap steel is treated under waste treatment, they enter the product system burden free
+- Does not consider the hot charging of DRI
+- Used aggregated daya sets for 
+
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
