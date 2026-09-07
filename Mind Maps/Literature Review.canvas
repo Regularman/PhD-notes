@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"f9170d5f1c80fc4e","x":-2880,"y":260,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/POSCO HyREX-ESF pathway.md"},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":128,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
@@ -235,6 +236,7 @@
 		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"},
 		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"},
 		{"id":"817b91565b063a72","fromNode":"a470f5da88f78fec","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
-		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"}
+		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"},
+		{"id":"c08986c7b5b5d08f","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"}
 	]
 }
