@@ -19,6 +19,8 @@ The HyREX process uses iron fines in hydrogen reduction of the iron fines direct
 	- Looked at slag chemistry for cement recycling
 	- Immersed/brush arc operation for stability and controllable DRI melting
 
+Furthermore, notably, the HyREX process involves oxygen injection in the second and third stage fluidised beds to maintain re
+
 ![[Screenshot 2026-09-07 140807.png]]
 ## Lab scale trials
 
