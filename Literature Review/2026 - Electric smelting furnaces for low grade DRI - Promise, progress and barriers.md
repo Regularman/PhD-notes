@@ -1,7 +1,4 @@
 https://ieefa.org/resources/dri-smelters-promise-progress-and-barriers
-
-Report done by PwC highlights that BF-BOF will be uncompetitive by 2040, due to rising carbon costs in the EU ETS and the Carbon Border Adjustment Mechanism [Source](https://eurometal.net/arcelormittal-to-end-primary-steelmaking-at-duisburg-site-retain-rerolling-operations/.)
-Evidenced by the Dusiburg steel plant by Arcelormitall to be closed by September 2027.
 ## Context
 
 Australia mines around $900,000Mt$ of iron ore per year, but most of this ore is not high grade enough to be used for DRI production. This is as DRI can reduce oxygen from the iron ore efficiently, they cannot remove impurities (As it is non melting). Conversely, EAFs were initially developed to melt scrap metal, and while they are highly efficient at removing impurities, their oxidising environment limits reduction ability.
