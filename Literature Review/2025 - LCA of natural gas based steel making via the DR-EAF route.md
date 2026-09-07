@@ -39,3 +39,5 @@ WSA report shows that DR-EAF route operated with natural gas has an average of 1
 
 - While when using green hydrogen, this drops to 0.75t CO2e/t-CS.
 
+There are already many research into the 
+

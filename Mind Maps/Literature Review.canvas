@@ -122,7 +122,8 @@
 		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-4049,"y":13,"width":358,"height":149,"color":"5"},
 		{"id":"8b1b1ab79a19d33d","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-3507,"y":13,"width":400,"height":188,"color":"5"},
 		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3000,"y":35,"width":400,"height":144,"color":"5"},
-		{"id":"f9170d5f1c80fc4e","x":-3000,"y":230,"width":400,"height":140,"color":"5","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md"}
+		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-3000,"y":230,"width":400,"height":140,"color":"5"},
+		{"id":"8c1488837d199752","x":-3269,"y":-1102,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -237,6 +238,7 @@
 		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"},
 		{"id":"817b91565b063a72","fromNode":"a470f5da88f78fec","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
 		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"},
-		{"id":"c08986c7b5b5d08f","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"}
+		{"id":"c08986c7b5b5d08f","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"},
+		{"id":"b67979a4b9bfd419","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"8c1488837d199752","toSide":"left"}
 	]
 }
