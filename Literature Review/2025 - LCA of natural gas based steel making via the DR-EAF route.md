@@ -3,6 +3,7 @@ https://link.springer.com/article/10.1007/s11367-026-02645-w
 ## Contributions
 
 Compared DR EAF with BF-BOF, and the influence of different burden compositions on the LCA results were analysed.
+- Different 
 
 LCA was conducted using CML 2001 v.2016 and LCA for Experts. Within the boundaries of the LCA is the DRI, EAF, and continuous casting.
 
@@ -29,7 +30,8 @@ Global examples are
 - Millennium steel
 - Saarstahl
 - Salzgitter AG
-- Stegra [[]]
+- Thyssenkrupp [[2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany]]
+- 
 
 ## Further Readings
 
