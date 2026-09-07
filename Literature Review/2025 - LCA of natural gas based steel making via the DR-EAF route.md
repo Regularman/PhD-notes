@@ -46,6 +46,6 @@ There are already many research that looks into the GWP of DR-EAF
 - ~={yellow}Suer, Ahrenhold, et al. 2022. Carbon Footprint and Energy Transformation Analysis of Steel Produced via a Direct Reduction Plant with an Integrated Electric Melting Unit. =~
 - Suer, Traverso, et al. 2022a. Carbon footprint assessment of hydrogen and steel.
 - Vogl et al. 2018. Assessment of hydrogen direct reduction for fossil-free steelmaking
-- Xue et al. 2024
-- Zang et al. 2023
+- ~={yellow}Xue et al. 2024. Comparative analysis of process selection and carbon emissions assessment of innovative steelmaking routes.=~
+- Zang et al. 2023. Cost and Life Cycle Analysis for Deep CO2 Emissions Reduction for Steel Making: Direct Reduced Iron Technologies.
 
