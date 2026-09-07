@@ -59,7 +59,7 @@ A third of the natural gas used in MIDREX can be substituted with hydrogen. It i
 - However, in reality, some natural gas is still needed for temperature control and carbon addition. (Hydrogen will cool the shaft reactor as it enters, added at a rate of 50Nm^3/t-DRI will achieve temperature control and enable a DRI with carbon content of around 1.4%). Note that the carbon in the DRI is necessary to react with the oxygen to provide additional heat to the reaction and reduce energy input at the electric arc furnace. Futhermore, the melting point of steal decreases with increasing carbon content.
 - Another 250Nm^3 of H2 is required to produce heat for the reaction process, and this can be partially displaced by waste heat recovery, electricity, or NG.
 ### HYL-Energiron
-
+![[Screenshot 2026-09-07 at 9.12.58 pm.png]]
 ![[Screenshot 2026-08-25 at 10.29.21 pm.png]]
 
 The main difference between HYL-Energiron and MIDREX is that MIDREX primarily uses CO2 from the shaft furnace for reforming the reducing gas, while HYL-Energiron uses steam with the gas shift reactor. The reformation also happens in the DR shaft, allowing for a higher concentration of carbon in the reduction gas.
