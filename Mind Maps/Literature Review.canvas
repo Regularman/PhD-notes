@@ -97,7 +97,6 @@
 		{"id":"25326d86e6a5decc","type":"file","file":"PhD-notes/Literature Review/2022 - Renewable energy for process heat -Opportunity study phase 2.md","x":-4650,"y":-153,"width":400,"height":116,"color":"5"},
 		{"id":"40eb9bdce15a355b","type":"text","text":"# ~={cyan}Thermal Storage=~\n","x":-4699,"y":845,"width":250,"height":60,"color":"5"},
 		{"id":"eefbe58a20a3bb00","type":"text","text":"# ~={cyan}Biogas=~\n\n","x":-4968,"y":919,"width":250,"height":72,"color":"5"},
-		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4449,"y":968,"width":400,"height":134,"color":"5"},
 		{"id":"cd5473ad32616f70","type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md","x":-4974,"y":1102,"width":400,"height":140,"color":"5"},
 		{"id":"b553b504c6bb897e","type":"file","file":"PhD-notes/Literature Review/2022 - Advancing control and forecasting algorithm (ACFA) for thermal energy storage at a winery - case study.md","x":-4336,"y":1400,"width":400,"height":136},
 		{"id":"d60dde3524ed3147","type":"file","file":"PhD-notes/Literature Review/2024 - Life Cycle Assessment of Dried Organic Apple Value Chains Considering Conventional and Heat-Pump-Assisted Drying Processes - The Case of Sweden.md","x":-4135,"y":1662,"width":399,"height":220},
@@ -116,14 +115,16 @@
 		{"id":"dc1a48d7c8fd9443","type":"file","file":"PhD-notes/Literature Review/2022 - Decarbonizing the iron and steel industry - A systematic review of sociotechnical systems, technological innovations, and policy options.md","x":-4650,"y":-400,"width":400,"height":206,"color":"5"},
 		{"id":"05bf1f1ace912ae5","type":"text","text":"# ~={cyan}Hydrogen=~","x":-4373,"y":581,"width":250,"height":81,"color":"5"},
 		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-4018,"y":-778,"width":407,"height":196},
-		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-4049,"y":-405,"width":358,"height":187,"color":"5"},
-		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-4049,"y":-194,"width":358,"height":157,"color":"5"},
-		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":400,"width":358,"height":137,"color":"5"},
-		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-4049,"y":13,"width":358,"height":149,"color":"5"},
-		{"id":"8b1b1ab79a19d33d","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-3507,"y":13,"width":400,"height":188,"color":"5"},
-		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3000,"y":35,"width":400,"height":144,"color":"5"},
-		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-3000,"y":230,"width":400,"height":140,"color":"5"},
-		{"id":"8c1488837d199752","type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md","x":-3307,"y":-1102,"width":400,"height":142,"color":"4"}
+		{"id":"8c1488837d199752","type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md","x":-3307,"y":-1102,"width":400,"height":142,"color":"4"},
+		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3993,"y":-469,"width":358,"height":187,"color":"5"},
+		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-3993,"y":-231,"width":358,"height":157,"color":"5"},
+		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":227,"width":358,"height":137,"color":"5"},
+		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-3891,"y":743,"width":400,"height":140,"color":"5"},
+		{"id":"8b1b1ab79a19d33d","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-3891,"y":487,"width":400,"height":188,"color":"5"},
+		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3360,"y":531,"width":400,"height":144,"color":"5"},
+		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-3891,"y":968,"width":400,"height":134,"color":"5"},
+		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4393,"y":1108,"width":400,"height":134,"color":"5"},
+		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-3993,"y":-37,"width":358,"height":149,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -236,9 +237,10 @@
 		{"id":"8a42c1c18381814c","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
 		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"},
 		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"},
-		{"id":"817b91565b063a72","fromNode":"a470f5da88f78fec","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
 		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"},
-		{"id":"c08986c7b5b5d08f","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"},
-		{"id":"b67979a4b9bfd419","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"8c1488837d199752","toSide":"left"}
+		{"id":"b67979a4b9bfd419","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"8c1488837d199752","toSide":"left"},
+		{"id":"88c95b37210f6ad9","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
+		{"id":"323699144a52c16a","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"},
+		{"id":"7f6fd96ee0af994f","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"0e49dd5680c68334","toSide":"left"}
 	]
 }
