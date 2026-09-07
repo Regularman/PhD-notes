@@ -37,6 +37,8 @@ Note that BoF can also take scrap metal (at 20-30% charge). The study also consi
 ## Limitations
 
 Secondary metallurgy, as well as the production and consumption of refractory materials and carbon electrodes have been excluded from the analysis due to data constraints.
+
+Functional unit of one tonne of crude steel
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
