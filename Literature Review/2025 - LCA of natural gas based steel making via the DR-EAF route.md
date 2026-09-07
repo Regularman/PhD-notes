@@ -3,7 +3,7 @@ https://link.springer.com/article/10.1007/s11367-026-02645-w
 ## Contributions
 
 Compared DR EAF with BF-BOF, and the influence of different burden compositions on the LCA results were analysed.
-- Different 
+- Different burden composition affects the environmental impacts of EAD as the required fluxing material, electricity consumption, and produced slag quantities depends on the charged input materials.
 
 LCA was conducted using CML 2001 v.2016 and LCA for Experts. Within the boundaries of the LCA is the DRI, EAF, and continuous casting.
 
