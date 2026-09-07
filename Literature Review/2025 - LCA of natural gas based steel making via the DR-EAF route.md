@@ -31,7 +31,7 @@ Global examples are
 - Saarstahl
 - Salzgitter AG
 - Thyssenkrupp [[2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany]]
-- 
+
 
 ## Further Readings
 
@@ -39,5 +39,7 @@ WSA report shows that DR-EAF route operated with natural gas has an average of 1
 
 - While when using green hydrogen, this drops to 0.75t CO2e/t-CS.
 
-There are already many research into the 
+There are already many research that looks into the GWP of DR-EAF
+- Graupner et al. 2023. Low-carbon primary steelmaking using direct reduction and electric arc furnaces: Prospective environmental impact assessment.
+- 
 
