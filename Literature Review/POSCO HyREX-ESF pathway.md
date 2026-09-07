@@ -30,4 +30,8 @@ Note that carbon is still added to the ESF to enable suitable carbon levels in t
 
 The pilot project tested a 1tph ESF capable of 2.5 MVA of power, operated for 5 continuous days, using DRI fines and coke breeze. 
 
+The goal of the pilot project is to just show the technological viability of the HyREX process.
+
 ## Demonstration project
+
+The demonstration project will look at operational stability and reliability, as well as the usability of various ores. Data will be taken from this demonstration plant, (which will produce 0.3Mtpa), and be transferred to a commercial plant (2.5Mtpa)
