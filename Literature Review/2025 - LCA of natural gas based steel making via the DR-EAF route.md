@@ -75,7 +75,7 @@ Decarbonization technologies that process more scrap appear to be environmentall
 
 ### Comparing BF-BOF with the DR-EAF route directly
 
-
+- BF-BOF contribute to the emission of sulfur dioxide and nitrogen oxide emissions. Particularly, the process of sintering (23% for AP and 55% for POCP)
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
