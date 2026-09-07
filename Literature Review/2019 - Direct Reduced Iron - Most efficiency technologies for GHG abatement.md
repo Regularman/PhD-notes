@@ -72,7 +72,7 @@ The main difference between HYL-Energiron and MIDREX is that MIDREX primarily us
 
 ![[Screenshot 2026-08-26 at 8.24.08 am.png]]
 
-## FINMET
+## FINMEX
 
 Uses multiple fluidised beds for reduction, and the off gas are used for further heating of the natural gas for reduction.
 
