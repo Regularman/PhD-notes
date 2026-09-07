@@ -1,5 +1,6 @@
 https://ieefa.org/resources/dri-smelters-promise-progress-and-barriers
 
+Report done by Pw
 ## Context
 
 Australia mines around $900,000Mt$ of iron ore per year, but most of this ore is not high grade enough to be used for DRI production. This is as DRI can reduce oxygen from the iron ore efficiently, they cannot remove impurities (As it is non melting). Conversely, EAFs were initially developed to melt scrap metal, and while they are highly efficient at removing impurities, their oxidising environment limits reduction ability.
