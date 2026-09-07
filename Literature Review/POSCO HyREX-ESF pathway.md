@@ -22,3 +22,4 @@ The HyREX process uses iron fines in hydrogen reduction of the iron fines direct
 ![[Screenshot 2026-09-07 140807.png]]
 ## Lab scale trials
 
+Using in situ X-rays, they showed that DRI fines improved carburising and melting characteristics compared to compact
