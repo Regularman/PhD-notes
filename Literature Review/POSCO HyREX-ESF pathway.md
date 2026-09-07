@@ -32,6 +32,11 @@ The pilot project tested a 1tph ESF capable of 2.5 MVA of power, operated for 5 
 
 The goal of the pilot project is to just show the technological viability of the HyREX process, so that the project can be scaled up to a demonstration level.
 
+This pilot project was done in 2024.
+
+The carbon intensity of the steel produced is 400kg CO2e/t DRI [Source](https://gmk.center/en/news/posco-unveils-pilot-hydrogen-steelmaking-plant/)
+
+
 ## Demonstration project
 
 The demonstration project will look at operational stability and reliability, as well as the usability of various ores. Data will be taken from this demonstration plant, (which will produce 0.3Mtpa), and be transferred to a commercial plant (2.5Mtpa).
