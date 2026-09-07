@@ -35,5 +35,5 @@ https://www.gifa.com/en/Media_News/News/Decarbonization_project_tkH2Steel_by_thy
 Commissioning will be for the end of 2026. However, the EU Commission relaxed the requirements and the plant will be ran on natural gas instead of hydrogen to maintain competetive prices.
 
 EUROFER estimates that 13 direct reduction plants (DRPs) and 20 EAFs with an annual capacity respectively of 26.9 million tonnes and 44.1 million tonnes of low-CO2 steel could be operational by 2035. [Source](https://breakbulk.com/articles/europes-green-steel-ambitions-meet-reality)
-- Note that this site is Europe's largest integrated iron and steel facility.
+- Note that the Thyssenkrupp is Europe's largest integrated iron and steel facility.
 
