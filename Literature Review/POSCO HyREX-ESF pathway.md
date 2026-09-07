@@ -15,7 +15,9 @@ https://worldsteel.org/wp-content/uploads/6.-Myoung-Gyun-SHIN.pdf
 The HyREX process uses iron fines in hydrogen reduction of the iron fines directly, reducing the need for sintering and agglomeration.
 - It is developed from the FINEX multi-stage fluidised bed technology. With the use of hydrogen instead of coke as a reducing agent, POSCO has to redesign for the different temperature profile, specific gas consumption, and target reduction degree. There are also anti-sticking and plating measures to think of, as well as material re-selection for the use of hydrogen.
 - To combat sticking in hydrogen reduced pig iron, POSCO had to optimise ore blending
-- POSCO alos had to redesign the ESF for h2 reduced DRI
+- POSCO also had to redesign the ESF for H2 reduced DRI, based on an existing 135MVA ESF used in an Fe-NI plant. This involved optimal electrode control systems and off gas system for gas recycling.
+	- Looked at slag chemistry for cement recycling
+	- Immersed/brush arc oper
 
 ![[Screenshot 2026-09-07 140807.png]]
 ## Lab scale trials
