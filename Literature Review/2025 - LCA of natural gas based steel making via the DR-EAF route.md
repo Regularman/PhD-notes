@@ -23,3 +23,5 @@ There is a need to decarbonise industry because in Germany, which manufactures 2
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
 
+- While when using green hydrogen, this drops to 0.75t CO2e/t-CS.
+
