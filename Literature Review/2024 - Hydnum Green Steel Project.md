@@ -31,3 +31,4 @@ The plant also uses continuous casting into an integrated rolling mill to reduce
 https://ric.cps.sp.gov.br/handle/123456789/37949
 
 Vale has signed a MOU with Hydnum. The agreement includes the joint evaluation of the construction of an iron ore briquette plant in Hydnum Steel's green steel project in Puertollano, Spain.
+- The introduction of technological innovations in raw materials emerges as one of the most viable and rapid transition strategies. The green briquette, developed by Vale, has been identified as a promising input. Produced cold and without the use of water, the briquette can replace sinter in blast furnaces, with the potential to reduce CO₂ emissions by up to 10% and lower release of particulates and gases such as SOₓ and NOₓ (VALE, 2023). In addition to being a solution applied to the Brazilian context, the product has received international recognition through partnerships with initiatives such as Hydnum Steel in Spain.
