@@ -28,4 +28,4 @@ Using in situ X-rays, they showed that DRI fines improved carburizing and meltin
 
 DC arc furnace that is 280kVA.
 
-Note that carbon is still added to the ESF to enable suitable carbon levels 
+Note that carbon is still added to the ESF to enable suitable carbon levels in the pig iron for BOF.
