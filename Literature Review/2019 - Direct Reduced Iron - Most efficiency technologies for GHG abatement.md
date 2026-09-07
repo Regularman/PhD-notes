@@ -143,7 +143,7 @@ The most promising decarbonisation strategy is the reduction of iron ore with hy
 #### Some barriers
 Hydrogen has a high energy density by weight, but a low energy density by volume when not compressed or liquefied. Thus, the high cost of a hydrogen fuel cell has been a major economic barrier. 
 - Further issues such as storage, distribution infrastructure, and hydrogen purity and safety concerns will have to be addressed for the hydrogen economy to take off.
-## Further Reading
+
 
 
 
