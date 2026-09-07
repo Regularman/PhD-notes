@@ -62,6 +62,7 @@ Functional unit of one tonne of crude steel
 -  Additionally, the defined alloy mix contributes 5% of impacts to GWP100 (0.072t CO2 eq./t CS), even though it makes up less than 15 kg/t CS.
 - The highest process contribution stems from the direct emissions of the DRP, with 0.54 t CO2 eq./t CS. This corresponds to 0.55 t CO2 eq./t DRI. These impacts are caused by the MIDREX reformer in which natural gas and recirculated top gas are reformed into syngas.
 - For ADP-e in particular, hot metal production leads to slightly negative impacts (-4.3E-08 kg Sb eq./t CS), due to the credits generated for co-products in the coke batteries, granulated blast furnace slag, and electricity produced from off-gasses
+- The charging of hot metal reduces electricity consumption, but is compensated by 
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
