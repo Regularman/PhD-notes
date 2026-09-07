@@ -34,4 +34,8 @@ The goal of the pilot project is to just show the technological viability of the
 
 ## Demonstration project
 
-The demonstration project will look at operational stability and reliability, as well as the usability of various ores. Data will be taken from this demonstration plant, (which will produce 0.3Mtpa), and be transferred to a commercial plant (2.5Mtpa)
+The demonstration project will look at operational stability and reliability, as well as the usability of various ores. Data will be taken from this demonstration plant, (which will produce 0.3Mtpa), and be transferred to a commercial plant (2.5Mtpa).
+
+The demonstration plant will also implement its own blue hydrogen plant.
+
+The demonstration project is slated to commence on October 13 2025, with commissioning by mid 2028.
