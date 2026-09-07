@@ -37,3 +37,5 @@ Commissioning will be for the end of 2026. However, the EU Commission relaxed th
 EUROFER estimates that 13 direct reduction plants (DRPs) and 20 EAFs with an annual capacity respectively of 26.9 million tonnes and 44.1 million tonnes of low-CO2 steel could be operational by 2035. [Source](https://breakbulk.com/articles/europes-green-steel-ambitions-meet-reality)
 - Note that the Thyssenkrupp is Europe's largest integrated iron and steel facility.
 
+![[Screenshot 2026-09-07 135535.png]]
+
