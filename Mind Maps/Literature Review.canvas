@@ -124,7 +124,8 @@
 		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3360,"y":531,"width":400,"height":144,"color":"5"},
 		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-3891,"y":968,"width":400,"height":134,"color":"5"},
 		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4393,"y":1108,"width":400,"height":134,"color":"5"},
-		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-3993,"y":-37,"width":358,"height":149,"color":"5"}
+		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-3993,"y":-37,"width":358,"height":149,"color":"5"},
+		{"id":"92396792c583feeb","x":-3891,"y":1175,"width":400,"height":103,"color":"4","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -240,6 +241,7 @@
 		{"id":"b67979a4b9bfd419","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"8c1488837d199752","toSide":"left"},
 		{"id":"88c95b37210f6ad9","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
 		{"id":"323699144a52c16a","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"f9170d5f1c80fc4e","toSide":"left"},
-		{"id":"7f6fd96ee0af994f","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"0e49dd5680c68334","toSide":"left"}
+		{"id":"7f6fd96ee0af994f","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"0e49dd5680c68334","toSide":"left"},
+		{"id":"e149660e583a564d","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"92396792c583feeb","toSide":"left"}
 	]
 }
