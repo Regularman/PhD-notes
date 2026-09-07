@@ -13,5 +13,8 @@ The commercialisation of HyREX and EAF is not going to happen until 2050. In the
 https://worldsteel.org/wp-content/uploads/6.-Myoung-Gyun-SHIN.pdf
 
 The HyREX process uses iron fines in hydrogen reduction of the iron fines directly, reducing the need for sintering and agglomeration.
+- It is developed from the FINEX fluidised bed technology, 
+
+![[Screenshot 2026-09-07 140807.png]]
 ## Lab scale trials
 
