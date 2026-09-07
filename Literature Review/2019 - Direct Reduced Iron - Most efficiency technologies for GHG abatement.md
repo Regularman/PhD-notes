@@ -26,6 +26,8 @@ Note that direct reduction refers to the removal (reduction) of oxygen from iron
 DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
 
+After the 
+
 DRI can be added to EAF to increase the quality of the overall scrap mix. It has a lower amount of tramp elements, and can be used to dilute scrap residuals.
 - 10.4 GJ/t-DRI currently, with CO2 emissions in the range of 0.77-0.92 tCO2/t-steel. Energy consumption is greatly influenced by the iron content
 - Note that DRI can also be introduced into BF to as pre-reduced material
