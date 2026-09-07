@@ -17,7 +17,7 @@ The HyREX process uses iron fines in hydrogen reduction of the iron fines direct
 - To combat sticking in hydrogen reduced pig iron, POSCO had to optimise ore blending
 - POSCO also had to redesign the ESF for H2 reduced DRI, based on an existing 135MVA ESF used in an Fe-NI plant. This involved optimal electrode control systems and off gas system for gas recycling.
 	- Looked at slag chemistry for cement recycling
-	- Immersed/brush arc oper
+	- Immersed/brush arc operation for stability and controllable DRI melting
 
 ![[Screenshot 2026-09-07 140807.png]]
 ## Lab scale trials
