@@ -40,6 +40,9 @@ The carbon intensity of the steel produced is 400kg CO2e/t DRI [Source](https://
 
 The demonstration project will look at operational stability and reliability, as well as the usability of various ores. Data will be taken from this demonstration plant, (which will produce 0.3Mtpa), and be transferred to a commercial plant (2.5Mtpa).
 
+The ESF used will have a capacity of 37tph and a rectangular furnace eqipped with 6 Soderberg electrodes.
+- POSCO has also signed a MOU with BP to collaborate on the future of HyREX
+
 The demonstration plant will also implement its own blue hydrogen plant.
 
 The demonstration project is slated to commence on October 13 2025, with commissioning by mid 2028. 
