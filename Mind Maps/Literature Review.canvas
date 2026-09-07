@@ -123,7 +123,7 @@
 		{"id":"8b1b1ab79a19d33d","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-3507,"y":13,"width":400,"height":188,"color":"5"},
 		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3000,"y":35,"width":400,"height":144,"color":"5"},
 		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-3000,"y":230,"width":400,"height":140,"color":"5"},
-		{"id":"8c1488837d199752","x":-3269,"y":-1102,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md"}
+		{"id":"8c1488837d199752","type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md","x":-3307,"y":-1102,"width":400,"height":142,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
