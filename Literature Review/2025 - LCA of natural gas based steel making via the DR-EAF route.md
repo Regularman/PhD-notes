@@ -17,5 +17,9 @@ The gap in literature is that there are not many papers that look beyond the glo
 There is a need to decarbonise industry because in Germany, which manufactures 29% of the European crude steel, 72% is manufactured using the BF-BOF route.
 
 1. Iron ore pellets that have been agglomerated are placed into Midrex shaft furnaces, which reacts with syngas or coal gasification gas, or coke oven gas
-2. After the DRI process, the DRI is melted into HBI and cooled to prevent re-oxidation and reduce reactivity. Alternatively, it can be charged into the EAF hot
+2. After the DRI process, the DRI is melted into HBI and cooled to prevent re-oxidation and reduce reactivity. Alternatively, it can be charged into the EAF hot.
+
+## Further Readings
+
+WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
 
