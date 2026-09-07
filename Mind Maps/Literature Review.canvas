@@ -121,7 +121,7 @@
 		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4049,"y":400,"width":358,"height":137,"color":"5"},
 		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-4049,"y":13,"width":358,"height":149,"color":"5"},
 		{"id":"8b1b1ab79a19d33d","type":"file","file":"2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-3507,"y":13,"width":400,"height":188,"color":"5"},
-		{"id":"0ed3e49acac256b3","x":-3000,"y":35,"width":400,"height":144,"color":"5","type":"file","file":"2026 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md"}
+		{"id":"0ed3e49acac256b3","x":-3000,"y":35,"width":400,"height":144,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
