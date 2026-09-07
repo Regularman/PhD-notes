@@ -26,4 +26,8 @@ The plant also uses continuous casting into an integrated rolling mill to reduce
 - The plant will be cold rolled and coated as the final product. They will provide hot rolled pickled coils, cold rolled coils, and galvanised coils, and galvanised coils.
 
 150 million euros is secured from CONFIDES.
-- Startup capacity of 1.5Mtpa and will ramp up to 2.7Mtpa.
+- Startup capacity of 1.5Mtpa by 2026 and will ramp up to 2.7Mtpa by 2030.
+
+https://ric.cps.sp.gov.br/handle/123456789/37949
+
+Vale has signed a MOU with Hydnum. The agreement includes the joint evaluation of the construction of an iron ore briquette plant in Hydnum Steel's green steel project in Puertollano, Spain.
