@@ -39,3 +39,4 @@ EUROFER estimates that 13 direct reduction plants (DRPs) and 20 EAFs with an ann
 
 ![[Screenshot 2026-09-07 135535.png]]
 
+Accoridng to [Source](https://onlinelibrary.wiley.com/doi/full/10.1002/csc3.70003), the MIDREX-H2 process consumes approximately 550Nm^3 of hydrogen per ton of iron for reduction and additional 250Nm^3 for fuel.
