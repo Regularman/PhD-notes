@@ -48,5 +48,3 @@ The ESF used will have a capacity of 37tph and a rectangular furnace eqipped wit
 The demonstration plant will also implement its own blue hydrogen plant.
 
 The demonstration project is slated to commence on October 13 2025, with commissioning by mid 2028. 
-
-N
