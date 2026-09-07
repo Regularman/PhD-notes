@@ -42,10 +42,10 @@ WSA report shows that DR-EAF route operated with natural gas has an average of 1
 There are already many research that looks into the GWP of DR-EAF
 - Graupner et al. 2023. Low-carbon primary steelmaking using direct reduction and electric arc furnaces: Prospective environmental impact assessment.
 - Nduagu et al. 2022. Comparative life cycle assessment of natural gas and coal-based directly reduced iron (DRI) production: A case study for India.
-- Rechberger et al. 2020.
-- Suer, Ahrenhold, et al. 2022.
-- Suer, Traverso, et al. 2022a
-- Vogl et al. 2018
+- Rechberger et al. 2020. Green Hydrogen-Based Direct Reduction for Low-Carbon Steelmaking.
+- ~={yellow}Suer, Ahrenhold, et al. 2022. Carbon Footprint and Energy Transformation Analysis of Steel Produced via a Direct Reduction Plant with an Integrated Electric Melting Unit. =~
+- Suer, Traverso, et al. 2022a. Carbon footprint assessment of hydrogen and steel.
+- Vogl et al. 2018. Assessment of hydrogen direct reduction for fossil-free steelmaking
 - Xue et al. 2024
 - Zang et al. 2023
 
