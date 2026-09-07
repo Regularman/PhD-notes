@@ -34,11 +34,30 @@ Global examples are
 
 Note that BoF can also take scrap metal (at 20-30% charge). The study also considers a scenario where blast furnace and direct reduced metal are operating concurrently.
 
+This paper shed some light on the emissions of the continuous casting process. Particularly, the thermal demand through the use of natural gas.
+
+![[Screenshot 2026-09-08 at 8.57.04 am.png]]
 ## Limitations
 
+![[Screenshot 2026-09-08 at 8.59.08 am.png]]
+
 Secondary metallurgy, as well as the production and consumption of refractory materials and carbon electrodes have been excluded from the analysis due to data constraints.
+- While upstream components such as the production of iron pellets are approximately on the sphera database
+- Furthermore, as scrap steel is treated under waste treatment, they enter the product system burden free
 
 Functional unit of one tonne of crude steel
+
+### Some observations
+
+![[Screenshot 2026-09-08 at 9.06.54 am.png]]
+
+- The production of DRI is the major contributor in scenario 1. Particularly, the production of iron ore pellets is a hotspot across multiple categories. This is due to the induration process during pellet production, which requires high amounts of thermal energy, generated through the consumption of heavy fuel oil
+	- The study notes that pellet production leads to an ADP-f of $2.6E+03 MJ/t CS$, and GWP100 of $0.24 t CO2 eq./t CS$. We can calculate here using $94.6ktCO2_{eq}/PJ$ of coal/heavy fuel oil, that $2.54GJ/t-CS$ is needed for sintering.
+	- The study assumes that the pellets are produced in Australia, Brazil, and Canada. Closer inspection of the database documentation reveals that the combustion of heavy fuel oil in Brazil is tied to 1.7 kg SO2/GJ fuel input and 0.20 kg NOx /GJ fuel input.
+
+![[Screenshot 2026-09-08 at 9.14.09 am.png]]
+
+- High levels of ADP-e from EAF due to consumption of metal elements such as iron, chromium, and manganese.
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
