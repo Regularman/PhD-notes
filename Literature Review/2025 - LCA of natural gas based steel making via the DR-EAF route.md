@@ -73,7 +73,9 @@ The author comments -
 Decarbonization technologies that process more scrap appear to be environmentally favorable, even though it is unlikely that an improvement in environmental performance is achieved at a global level
 - This is because of energy required to process the scraps and transportation costs.
 
-### 
+### Comparing BF-BOF with the DR-EAF route directly
+
+
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
