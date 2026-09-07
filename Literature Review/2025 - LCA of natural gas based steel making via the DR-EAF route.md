@@ -81,7 +81,7 @@ Decarbonization technologies that process more scrap appear to be environmentall
 
 ![[Screenshot 2026-09-08 at 9.38.45 am.png]]
 
-The use of renewable energy greatly decreases the ADP
+The use of renewable energy greatly decreases the ADP-f and GWP100. (Note that integrated steel mills are able to produce their own electricity through the combustion of top gas.)
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
