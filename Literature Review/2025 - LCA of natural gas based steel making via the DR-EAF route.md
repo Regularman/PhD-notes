@@ -65,10 +65,11 @@ Functional unit of one tonne of crude steel
 - For ADP-e in particular, hot metal production leads to slightly negative impacts (-4.3E-08 kg Sb eq./t CS), due to the credits generated for co-products in the coke batteries, granulated blast furnace slag, and electricity produced from off-gasses
 - The charging of hot metal reduces electricity consumption  in the EAF (90 kWh/t CS), but is compensated by the increased direct emissions of the BF process, and the increased flux consumption.
 - In the scrap only scenario, more coal must be injected to compensate the negligible amount of carbon entering the furnace through scrap charge
-
+![[Screenshot 2026-09-08 at 9.33.39 am.png]]
+![[Screenshot 2026-09-08 at 9.33.24 am.png]]
 The author comments - 
 Decarbonization technologies that process more scrap appear to be environmentally favorable, even though it is unlikely that an improvement in environmental performance is achieved at a global level
-- This is because 
+- This is because of energy required to process the scraps and transportation costs.
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
