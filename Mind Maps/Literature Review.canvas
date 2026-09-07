@@ -125,7 +125,7 @@
 		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-3891,"y":968,"width":400,"height":134,"color":"5"},
 		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4393,"y":1108,"width":400,"height":134,"color":"5"},
 		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-3993,"y":-37,"width":358,"height":149,"color":"5"},
-		{"id":"92396792c583feeb","x":-3891,"y":1175,"width":400,"height":103,"color":"4","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md"}
+		{"id":"92396792c583feeb","x":-3891,"y":1175,"width":400,"height":103,"color":"5","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
