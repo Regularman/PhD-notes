@@ -32,7 +32,11 @@ Global examples are
 - Salzgitter AG
 - Thyssenkrupp [[2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany]]
 
-Note that BoF can also take scrap metal (at 20-30% charge). The study also considers a scenario where blast furnace and direct reduced metal
+Note that BoF can also take scrap metal (at 20-30% charge). The study also considers a scenario where blast furnace and direct reduced metal are operating concurrently.
+
+## Limitations
+
+Secondary metallurgy, as well as the production and consumption of refractory materials and carbon electrodes have been excluded from the analysis due to data constraints.
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
