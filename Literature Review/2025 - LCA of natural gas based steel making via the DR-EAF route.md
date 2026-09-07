@@ -83,7 +83,7 @@ Secondary metallurgy, as well as the production and consumption of refractory ma
 - While upstream components such as the production of iron pellets are approximately on the sphera database
 - Furthermore, as scrap steel is treated under waste treatment, they enter the product system burden free
 - Does not consider the hot charging of DRI
-- Used aggregated daya sets for 
+- Used aggregated daya sets for the BF-BOF configuration
 
 ## Further Readings
 
