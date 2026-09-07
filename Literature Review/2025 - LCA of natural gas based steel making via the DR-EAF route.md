@@ -76,6 +76,8 @@ Decarbonization technologies that process more scrap appear to be environmentall
 ### Comparing BF-BOF with the DR-EAF route directly
 
 - BF-BOF contribute to the emission of sulfur dioxide and nitrogen oxide emissions. Particularly, the process of sintering (23% for AP and 55% for POCP)
+- Regarding GWP100, direct emissions are greatly reduced due to the substitution of coal with natural gas as the main energy source.
+- For example, the electrical energy demand of scenario 1 equals 2.5 GJ/t CS. In contrast, other authors report electricity demands for the BF-BOF route varying between 0.51 and 0.97 GJ/t CS
 ## Further Readings
 
 WSA report shows that DR-EAF route operated with natural gas has an average of 1.4tCO2/t CS. Compared to the BF-BOF route, this corresponds to a reduction of 41%.
