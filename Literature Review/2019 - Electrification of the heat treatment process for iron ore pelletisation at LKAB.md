@@ -1,6 +1,6 @@
 https://odr.chalmers.se/server/api/core/bitstreams/f2234f8d-4c1f-4bec-b6ea-f4978d7c98af/content
 
-Sintering takes between 1.26 (global best)-
+Sintering takes between 1.26 (global best)-3.2 GJ/t sinter. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
 ## Contributions
 
 LKAB mines 80% of EU ores. In 2017, LKAB produced over 27.2 million ton iron ore products and iron ore pellets accounted for around 83 % of LKAB’s iron ore deliveries.
@@ -35,12 +35,12 @@ Note that is should be easier to replace the straight-grate process because repl
 In considering sintering there are four reactions
 
 
-| Reaction                                                                                                                                                                                                                                           | Formula                                  | Enthalpy change ($kJ/kg$) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------- |
-| Evaporation - from 9% wt% to 0%                                                                                                                                                                                                                    |                                          | 2256                      |
-| Oxidation - However, the sintering of hematite will not have this exothermic reaction. Reaches maximum conversion efficiency at $1100\degree C$. If the temperature exceeds $1300\degree C$ then the hematite will disassociate back to magnetite. | $$4Fe_3O_4+O_2\rightarrow6Fe_2O_3$$      | -119 $kJ/mol$             |
-| Calcination from the limestone additives. But there is relatively little limestone and therefore little heat demand. Occurs from 600-900$\degree C$                                                                                                | $$CaCO_3\rightarrow CaO+ CO_2$$          | 182 $kJ/mol$              |
-| Decomposition of dolomite. Low heat demand due to low concentration.                                                                                                                                                                               | $$CaMg(CO)_3\rightarrow CaO+MgO +2CO_2$$ | 296$kJ/mol$               |
+| Reaction                                                                                                                                                                                                                                           | Formula                                  | Enthalpy change ($kJ/kg$)  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------- |
+| Evaporation - from 9% wt% to 0%                                                                                                                                                                                                                    |                                          | 2256                       |
+| Oxidation - However, the sintering of hematite will not have this exothermic reaction. Reaches maximum conversion efficiency at $1100\degree C$. If the temperature exceeds $1300\degree C$ then the hematite will disassociate back to magnetite. | $$4Fe_3O_4+O_2\rightarrow6Fe_2O_3$$      | -119 $kJ/mol$ of magnetite |
+| Calcination from the limestone additives. But there is relatively little limestone and therefore little heat demand. Occurs from 600-900$\degree C$                                                                                                | $$CaCO_3\rightarrow CaO+ CO_2$$          | 182 $kJ/mol$               |
+| Decomposition of dolomite. Low heat demand due to low concentration.                                                                                                                                                                               | $$CaMg(CO)_3\rightarrow CaO+MgO +2CO_2$$ | 296$kJ/mol$                |
 
 ![[Screenshot 2026-09-08 140541.png]]
 ### Drying
