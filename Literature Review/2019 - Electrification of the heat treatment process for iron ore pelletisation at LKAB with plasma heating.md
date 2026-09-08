@@ -164,4 +164,5 @@ Validated against Cementa testing results [41].
 - Considered two methods of NO reduction
 	- Re-burning through mixing with methane to destroy NO through hydrocarbon radicals
 	- Reduction of oxygen content in the mixing air with combustion (complete combustion with methane)
-	- 
+
+## Implementation of microwaves - simulation results
