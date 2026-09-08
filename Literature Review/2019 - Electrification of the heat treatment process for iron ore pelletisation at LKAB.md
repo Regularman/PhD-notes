@@ -97,3 +97,6 @@ The surface layers of the pellet bed showed considerably higher temperatures whe
 Plasma is when the material gets so hot that the electrons leave it and we get a positively charges gas. The high temperature in combination high reactivity translates to a high heat transfer rate and chemical reactions.
 
 - Thermal plasmas with low degree of ionisation and equal temperature of ionised gas and electrons
+![[Screenshot 2026-09-08 152650.png]]
+
+These devices work by creating an electric arc between a cathode and an anode using a DC current, which is more stable and easy to
