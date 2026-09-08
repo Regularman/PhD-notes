@@ -171,4 +171,4 @@ Ultimately showed that there was no decrease in fossil fuel use, as most of the 
 
 ![[Screenshot 2026-09-09 084955.png]]
 
-This means that the fossil fuel usage decreased by 0.398%. This must be assuming they process around 450.89 tph
+This means that the fossil fuel usage decreased by 0.398%. This must be assuming they process around 450.89 tph.
