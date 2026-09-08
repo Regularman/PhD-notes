@@ -156,6 +156,8 @@ The quantities of NOx produced from a plasma torch can be qualitatively estimate
 Looked at three cases
 - NOMIX - which does not consider mixing with gas and only considers the NOX formation from the hot plasma
 - MixTP - which considers the temperature of the gas to the same as the reference case
-- MixEE - 
+- MixEE - Which calculates using energy balance, the temperature of the mixed air as you move down the grate. 
+
+In the case where there is air mixing, the reaction area increases linearly from Note that this 
 
 Validated against Cementa testing results [41]
