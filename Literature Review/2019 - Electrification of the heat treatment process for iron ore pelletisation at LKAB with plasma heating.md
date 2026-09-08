@@ -186,3 +186,5 @@ The use of plasma torches can completely displace fossil fuel. Also note that th
 
 We can lower the mass flow of process gas to reduce the energy consumption, but this will lower the magnetite conversion rate. Subsequently, to get the same quality of pellets as the reference case, power consumption can drop by 18%.
 - Similar adjustments can be made to the production rate. Higher levels of production rate will lead to a faster process and lower magnetite conversion (3% increase in production rate to equal to reference case magnetite content)![[Screenshot 2026-09-09 092844.png]]
+
+## NOX formation results
