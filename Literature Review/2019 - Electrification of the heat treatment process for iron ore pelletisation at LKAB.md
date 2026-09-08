@@ -68,6 +68,7 @@ Microwaves have been shown to heat up metal powders, but not when presented in b
 Magnetite and hematite shows good absorption of microwaves. The water in the microwave are also good absorber of water.
 - However arcing has been observed at high temperature
 
-Microwave causes more rapid heating as the heat does not diffuse from the surface, but happens from within. This means that non-homogenous materials can heat unevenly. The heat distribution depends on the dielectric and conductive ptoperites of the materials
-
+Microwave causes more rapid heating as the heat does not diffuse from the surface, but happens from within. This means that non-homogenous materials can heat unevenly. The heat distribution depends on the dielectric and conductive properties of the materials.
+- This is governed by the di-electric properties and polarity of the material. Polar molecules will oscillate under the presence of an EM field, and the thermal energy spread throughout the material, driven by thermal gradients.
+- This
 
