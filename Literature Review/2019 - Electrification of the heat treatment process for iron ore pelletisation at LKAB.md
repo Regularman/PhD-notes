@@ -62,6 +62,9 @@ The products are then cooled down to below $100\degree C$.
 
 ### Microwaves
 
-Microwaves have been shown to heat up metal powders, but not when presented in bulk. Material propertie affect whether the particles transmit, reflect, or absorb the microwave radiation.
+Microwaves have been shown to heat up metal powders, but not when presented in bulk. Material properties affect whether the particles transmit, reflect, or absorb the microwave radiation.
+- Electrons will become concentrated at the surface and arc if the metallic surface is reflective of microwaves
+
+Magnetite shows good absorption of microwaves. The water in the microwave are also good absorber of water.
 
 
