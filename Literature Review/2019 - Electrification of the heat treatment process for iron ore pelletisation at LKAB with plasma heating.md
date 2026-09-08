@@ -139,3 +139,6 @@ Validated against lab scale tests as a model of the straight grate and grate kil
 ![[Screenshot 2026-09-09 at 12.24.09 am.png]]
 - However, more important attributes of pellet strength and deformation could not be simulated in the model, which only looks at mass and energy balance. Furthermore, too high temperatures can lead to difficult handling of the sinter at the end
 - The calculations do not include the thermal efficiency of the burner
+- It is known that BedSim overestimates the temperature from the AF zone as it does not model the leakage of air
+
+![[Screenshot 2026-09-09 at 12.28.57 am.png]]
