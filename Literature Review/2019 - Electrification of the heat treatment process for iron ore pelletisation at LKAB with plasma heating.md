@@ -174,3 +174,5 @@ Ultimately showed that there was no decrease in fossil fuel use, as most of the 
 This means that the fossil fuel usage decreased by 0.398%. This must be assuming they process around 450.89 tph. To combat this, the paper suggested alternative design. This can be done by altering the grate area in the cooling and UDD zone. By optimising these parameters, it was possible to slightly displace the high temperature heat with low temperature microwave.![[Screenshot 2026-09-09 085807.png]]
 
 ## Plasma gun
+
+The use of plasma torches can compl
