@@ -182,3 +182,6 @@ The use of plasma torches can completely displace fossil fuel. Also note that th
 
 ![[Screenshot 2026-09-09 091915.png]]
 
+#### Optimisation
+
+We can lower the mass flow of process gas to reduce the energy consumption, but 
