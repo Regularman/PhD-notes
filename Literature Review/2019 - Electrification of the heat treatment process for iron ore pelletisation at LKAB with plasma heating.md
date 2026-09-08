@@ -182,6 +182,6 @@ The use of plasma torches can completely displace fossil fuel. Also note that th
 
 ![[Screenshot 2026-09-09 091915.png]]
 
-#### Optimisation
+#### Optimisation of plasma torch process
 
-We can lower the mass flow of process gas to reduce the energy consumption, but 
+We can lower the mass flow of process gas to reduce the energy consumption, but this will lower the magnetite conversion rate. Subsequently, to get the same quality of pellets as the reference case, power consumption can drop by 18%.
