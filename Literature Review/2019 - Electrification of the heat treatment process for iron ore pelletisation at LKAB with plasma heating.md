@@ -167,4 +167,4 @@ Validated against Cementa testing results [41].
 
 ## Implementation of microwaves - simulation results
 
-Ultimately showed that
+Ultimately showed that there was no decrease in fossil fuel use, as most of the microwave is being carried out by the process gas flow. The temperature of the gas flow leaving the UDD zone would likely be around, or even below, 100 °C assuming that it reaches approximately the same temperature as the pellets in the top layer of the bed. This is low-grade heat which has limited application areas.
