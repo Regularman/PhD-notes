@@ -1,7 +1,7 @@
 https://odr.chalmers.se/server/api/core/bitstreams/f2234f8d-4c1f-4bec-b6ea-f4978d7c98af/content
 
 Sintering takes between 1.26 (global best)-2.55 GJ/t sinter for Indian sources. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
-While US sources highlights that it is around 1.5-1.7Gj/t-sinter. 
+While US sources highlights that it is around 1.5-1.7Gj/t-product. [Source](https://www.osti.gov/servlets/purl/1026806)
 
 ## Contributions
 
@@ -115,6 +115,7 @@ These devices work by creating an electric arc between a cathode and an anode us
 | Annual Electricity needed                | 0.3 GWh                                                                                           | 20 GWh                                  |
 | Power provided                           | 17.52 MWh                                                                                         | 17.52 MWh                               |
 | Carbon emissions                         | $115kgCO2_{eq}/GJ$                                                                                | Dependent on the source of electricity. |
-| Energy needed to make $1t$ of sinter     | $2.09GJ/t$                                                                                        |                                         |
+| Energy needed to make $1t$ of sinter     | $1.29GJ/t$                                                                                        |                                         |
 | Sinter to DRI efficiency                 | $1.5t$ sinter pellets/t DRI [[2025 - LCA of natural gas based steel making via the DR-EAF route]] |                                         |
-| Energy needed to make $1t-CS$ for sinter |                                                                                                   |                                         |
+| Energy needed to make $1t-CS$ for sinter | $1.935GJ/t-CS$                                                                                    |                                         |
+| Emissions due to sintering t             |                                                                                                   |                                         |
