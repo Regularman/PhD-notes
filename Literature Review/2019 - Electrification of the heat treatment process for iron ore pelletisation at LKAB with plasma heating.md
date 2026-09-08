@@ -132,7 +132,7 @@ These devices work by creating an electric arc between a cathode and an anode us
 Validated against lab scale tests as a model of the straight grate and grate kiln processes.
 - The model performs calculations for chemical reactions as well as mass and heat transfer between the process gas and the bed. 
 ![[Screenshot 2026-09-09 at 12.26.06 am.png|545]]
-- Note that LKAB MK3 straight grate uses 5L of oil per ton of finished pellet. Since the density of is around $750-850 \frac{kg}{m^3}$, 
+- Note that LKAB MK3 straight grate uses 5L of oil per ton of finished pellet. Since the density of is around $750-850 \frac{kg}{m^3}$, and the energy content is ~$38.6\frac{MJ}{L}$, then
 
 - The main goal of the simulation model is to calculate the NOX formation of the plasma gun case using a reactor model, as well as the degree of oxidation from magnetite into hematite, the gas temperature throughout the grate, and the pellet temperature (which is important to control the oxidation reactions).
 
