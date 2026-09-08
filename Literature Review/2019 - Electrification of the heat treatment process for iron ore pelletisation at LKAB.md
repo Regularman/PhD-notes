@@ -1,6 +1,8 @@
 https://odr.chalmers.se/server/api/core/bitstreams/f2234f8d-4c1f-4bec-b6ea-f4978d7c98af/content
 
-Sintering takes between 1.26 (global best)-2.09 GJ/t sinter. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
+Sintering takes between 1.26 (global best)-2.55 GJ/t sinter for Indian sources. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
+While US sources highlights that it is around 1.5-1.7Gj/t-sinter. 
+
 ## Contributions
 
 LKAB mines 80% of EU ores. In 2017, LKAB produced over 27.2 million ton iron ore products and iron ore pellets accounted for around 83 % of LKAB’s iron ore deliveries.
