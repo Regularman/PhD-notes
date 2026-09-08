@@ -76,6 +76,7 @@ Microwave causes more rapid heating as the heat does not diffuse from the surfac
 - Heating is also caused by the movement of electrons in the metallic lattice
 
 However, this method does not displace fossil fuel because drying gas is from the waste heat form the cooling region anyways.
+- From test 1 and 2 bleow, 
 #### Test 1 - purely microwave
 
 In early 2018, there was a study published by Athayde et al. [23] investigating kinetic parameters of the iron ore pellet drying process assisted by microwave technology. In this study, green pellets were produced from hematite ore and sieved into three size categories with average diameters of 10.75, 13.5 and 15.25 mm having a moisture content of 10 %. Samples of 100 g were subjected to microwave radiation for 180 s with intervals of 30 s using a turnable-tray microwave oven normally used for heating food. The frequency used was 2.45 GHz and the power levels used were 300, 600 and 1000 W. The tests were conducted at temperatures lower than 500 °C.
@@ -84,4 +85,8 @@ In early 2018, there was a study published by Athayde et al. [23] investigating 
 - Effects on pellet quality was assessed by evaluating the crushing strength of the pellets after drying with microwaves. Results showed strength levels varying between 0.6-2.5 kg/pellet which is considerably lower than conventional methods.
 
 #### Test 2 - combined convection and microwave
-. The effect of combining microwaves and traditional convective heating was evaluated against the traditional processing technique using only convective heating.
+
+The effect of combining microwaves and traditional convective heating was evaluated against the traditional processing technique using only convective heating. The UDD mode introduced an airflow with an inlet temperature of 290 °C during 175 seconds before switching to the DDD mode which introduced an airflow with an inlet temperature of 280 °C during 340 seconds. The microwaves were used only during the UDD operation mode at a frequency of 915 MHz and a constant power supply of 10 kW. Green pellets were produced using iron ore dominated by hematite mineral. The majority of the pellets had a diameter between 9-16 mm. The moisture content was adjusted to batches of 10 % and 10.3 %
+
+The surface layers of the pellet bed showed considerably higher temperatures when using microwaves. At 60 mm depth the temperature reached 115 °C compared to 71 °C in the purely convective case.
+- Results from moisture measurements in different levels of the bed at the end of the UDD section showed that purely convective flow increased the moisture content in the upper layers of the bed by 0.08 - 0.36% compared to initial levels due to recondensation of moisture. The microwave assisted drying process decreased the moisture content in the higher layers by 0.12 - 0.8% compared to initial levels, which was a considerable improvement.
