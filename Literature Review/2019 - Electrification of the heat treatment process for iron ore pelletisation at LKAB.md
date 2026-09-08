@@ -100,7 +100,9 @@ Plasma is when the material gets so hot that the electrons leave it and we get a
 ![[Screenshot 2026-09-08 152650.png]]
 
 These devices work by creating an electric arc between a cathode and an anode using a DC current, which is more stable and easy to control compared to AC. 
-- The working gas is pumped along the outer boundary of the gun to cool the boundary layer in a vortex or linear flow to guide the plasma jet. The working gas can be argon, hydrogen, nitrogen, helium and air. If high energy content are desirable, use diatomic particles due to disassociation reactions before ionisation
+- The working gas is pumped along the outer boundary of the gun to cool the boundary layer in a vortex or linear flow to guide the plasma jet. The working gas can be argon, hydrogen, nitrogen, helium and air. If high energy content are desirable, use diatomic particles due to disassociation reactions before ionisation. If inert environment is required, use argon, and reactive gases like H2, O2, and N2 can be used to provide reducing or oxidising effects.
+- When the ionised gas leaves the gun, it returns to its non-ionised state, but is still superheated
+- Electrothermal efficiency of 50-70
 - Industrial applications of up to 8MW.
 - Can burn between 5000 to 30000K.
 - A non-transferred plasma torch has the anode inside the gun. The example above is non-transferred.
