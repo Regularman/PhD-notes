@@ -73,8 +73,11 @@ Microwave causes more rapid heating as the heat does not diffuse from the surfac
 - This can cause thermal runaway, and crack the iron pellets as well as the reduction of hematite back to magnetite. Thermal runaway is difficult to detect as it is internal
 - Heating is also caused by the movement of electrons in the metallic lattice
 
+#### Test 1 - purely microwave
+
 In early 2018, there was a study published by Athayde et al. [23] investigating kinetic parameters of the iron ore pellet drying process assisted by microwave technology. In this study, green pellets were produced from hematite ore and sieved into three size categories with average diameters of 10.75, 13.5 and 15.25 mm having a moisture content of 10 %. Samples of 100 g were subjected to microwave radiation for 180 s with intervals of 30 s using a turnable-tray microwave oven normally used for heating food. The frequency used was 2.45 GHz and the power levels used were 300, 600 and 1000 W. The tests were conducted at temperatures lower than 500 °C.
 - When drying the pellets, an intense heating rate was observed in the beginning of the drying phase. The heating rate slowed down as the moisture content of the pellets decreased which indicates that the moisture content is an important parameter for the ability of the pellets to absorb microwave energy. 
 - The dryout time was slower in small pellets than in large pellets. This was likely due to the large surface area to volume ratio which leads to large heat loss to the surroundings.
 - Effects on pellet quality was assessed by evaluating the crushing strength of the pellets after drying with microwaves. Results showed strength levels varying between 0.6-2.5 kg/pellet which is considerably lower than conventional methods.
 
+#### 
