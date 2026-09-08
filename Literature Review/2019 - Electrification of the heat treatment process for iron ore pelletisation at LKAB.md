@@ -121,4 +121,5 @@ These devices work by creating an electric arc between a cathode and an anode us
 ![[Screenshot 2026-09-08 155620.png]]
 
 - Are there energy savings when using hydrogen or oxygen as a plasma gas due to the oxidation or reduction that occurs?
-- The heating of process gas with elect
+- The heating of process gas with electricity rather than combustion will produce less water vapour within the process gas that is used for drying, which is good. However, the effect of this is not discussed in the paper
+- High temperatures of the plasma gas can lead to undesira
