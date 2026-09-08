@@ -158,6 +158,9 @@ Looked at three cases
 - MixTP - which considers the temperature of the gas to the same as the reference case
 - MixEE - Which calculates using energy balance, the temperature of the mixed air as you move down the grate. 
 
-In the case where there is air mixing, the reaction area increases linearly from the outlet of the AF section to the outlet of the cooling section. Note that this study does not consider the dependency between outlet diameter and the amount of mixing air, which affects the 
+In the case where there is air mixing, the reaction area increases linearly from the outlet of the AF section to the outlet of the cooling section. Note that this study does not consider the dependency between outlet diameter and the amount of mixing air, which affects the gas residence time.
 
-Validated against Cementa testing results [41]
+Validated against Cementa testing results [41].
+- Considered two methods of NO reduction
+	- Re-burning through mixing with methane to destroy NO through hydrocarbon radicals
+	- 
