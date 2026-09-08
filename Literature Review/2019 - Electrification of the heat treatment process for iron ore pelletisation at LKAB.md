@@ -120,4 +120,5 @@ These devices work by creating an electric arc between a cathode and an anode us
 
 ![[Screenshot 2026-09-08 155620.png]]
 
-- Are there energy savings when using hydrogen as a plasma gas
+- Are there energy savings when using hydrogen or oxygen as a plasma gas due to the oxidation or reduction that occurs?
+- The heating of process gas with elect
