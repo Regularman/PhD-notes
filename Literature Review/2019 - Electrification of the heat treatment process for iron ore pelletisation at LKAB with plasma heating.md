@@ -126,3 +126,7 @@ These devices work by creating an electric arc between a cathode and an anode us
 	- There are three ways to create NO; thermal NO from high temperatures, fuel NO from oxidation of nitrogen in fuel with oxygen in air, and prompt NO from the nitrogen in air and hydrocarbon radicals in fuel. Thermal NO can be described by the Zeldovich equations $$\begin{align} N_2+O&\leftrightarrow NO+N \\ N+O_2&\leftrightarrow NO+O\\ N+OH &\leftrightarrow NO + H \end{align}$$We can avoid thermal NOX by decreasing oxygen concentration and reducing thermal peaks, as well as balancing the equilibrium and gas residence time. 
 
 - Lack of mixing in the design causes thermal stresses and uneven oxidation of the pellets.
+## Bedsim model
+
+Validated against lab scale tests as a model of the straight grate and grate kiln processes.
+- The model performs calculations for chemical reactions as well as mass and heat transfer between the process gas and the bed.
