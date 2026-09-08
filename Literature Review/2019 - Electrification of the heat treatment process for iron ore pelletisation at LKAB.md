@@ -99,4 +99,8 @@ Plasma is when the material gets so hot that the electrons leave it and we get a
 - Thermal plasmas with low degree of ionisation and equal temperature of ionised gas and electrons
 ![[Screenshot 2026-09-08 152650.png]]
 
-These devices work by creating an electric arc between a cathode and an anode using a DC current, which is more stable and easy to
+These devices work by creating an electric arc between a cathode and an anode using a DC current, which is more stable and easy to control compared to AC. 
+- The working gas is pumped along the outer boundary of the gun to cool the boundary layer 
+- Industrial applications of up to 8MW.
+- Can burn between 5000 to 30000K.
+- 
