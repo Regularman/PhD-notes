@@ -91,3 +91,7 @@ The effect of combining microwaves and traditional convective heating was evalua
 
 The surface layers of the pellet bed showed considerably higher temperatures when using microwaves. At 60 mm depth the temperature reached 115 °C compared to 71 °C in the purely convective case.
 - Results from moisture measurements in different levels of the bed at the end of the UDD section showed that purely convective flow increased the moisture content in the upper layers of the bed by 0.08 - 0.36% compared to initial levels due to recondensation of moisture. The microwave assisted drying process decreased the moisture content in the higher layers by 0.12 - 0.8% compared to initial levels, which was a considerable improvement.
+
+### Plasma torches
+
+Plasma is when the material gets so hot that the electrons leave it and we get a positively charges gas. The high temperature in
