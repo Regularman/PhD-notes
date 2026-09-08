@@ -1,6 +1,6 @@
 https://odr.chalmers.se/server/api/core/bitstreams/f2234f8d-4c1f-4bec-b6ea-f4978d7c98af/content
 
-Sintering takes between 1.26 (global best)-3.2 GJ/t sinter. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
+Sintering takes between 1.26 (global best)-2.09 GJ/t sinter. [Source](https://www.sciencedirect.com/topics/engineering/sinter-machine)
 ## Contributions
 
 LKAB mines 80% of EU ores. In 2017, LKAB produced over 27.2 million ton iron ore products and iron ore pellets accounted for around 83 % of LKAB’s iron ore deliveries.
@@ -113,4 +113,5 @@ These devices work by creating an electric arc between a cathode and an anode us
 | Annual Electricity needed            | 0.3 GWh            | 20 GWh                                  |
 | Power provided                       | 17.52 MWh          | 17.52 MWh                               |
 | Carbon emissions                     | $115kgCO2_{eq}/GJ$ | Dependent on the source of electricity. |
-| Energy needed to make $1t$ of sinter |                    |                                         |
+| Energy needed to make $1t$ of sinter | $2.09GJ/t$         |                                         |
+| Sinter to DRI effi                   |                    |                                         |
