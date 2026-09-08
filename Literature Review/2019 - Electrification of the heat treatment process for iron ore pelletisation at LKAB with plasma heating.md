@@ -154,6 +154,6 @@ The quantities of NOx produced from a plasma torch can be qualitatively estimate
 - Meant to be a guideline for choosing plasma torches
 
 Looked at three cases
-- NOMIX - where there 
+- NOMIX - where the
 
-Validated agains
+Validated against Cementa testing results [41]
