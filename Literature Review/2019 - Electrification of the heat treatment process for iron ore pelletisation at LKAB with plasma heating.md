@@ -158,6 +158,6 @@ Looked at three cases
 - MixTP - which considers the temperature of the gas to the same as the reference case
 - MixEE - Which calculates using energy balance, the temperature of the mixed air as you move down the grate. 
 
-In the case where there is air mixing, the reaction area increases linearly from Note that this 
+In the case where there is air mixing, the reaction area increases linearly from the outlet of the AF section to the outlet of the cooling section. Note that this study does not consider the dependency between outlet diameter and the amount of mixing air, which affects the 
 
 Validated against Cementa testing results [41]
