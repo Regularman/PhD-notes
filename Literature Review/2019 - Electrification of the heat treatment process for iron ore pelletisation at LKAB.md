@@ -76,7 +76,8 @@ Microwave causes more rapid heating as the heat does not diffuse from the surfac
 - Heating is also caused by the movement of electrons in the metallic lattice
 
 However, this method does not displace fossil fuel because drying gas is from the waste heat form the cooling region anyways.
-- From test 1 and 2 bleow, 
+- From test 1 and 2 below, microwaves could be used in the updraft zone to eliminate the recondensation of moisture in the higher layers by heating the bed from both sides i.e. convective heating from below and microwave heating from above.
+- This will shorten the drying time and lead to increased production rate and higher quality end product
 #### Test 1 - purely microwave
 
 In early 2018, there was a study published by Athayde et al. [23] investigating kinetic parameters of the iron ore pellet drying process assisted by microwave technology. In this study, green pellets were produced from hematite ore and sieved into three size categories with average diameters of 10.75, 13.5 and 15.25 mm having a moisture content of 10 %. Samples of 100 g were subjected to microwave radiation for 180 s with intervals of 30 s using a turnable-tray microwave oven normally used for heating food. The frequency used was 2.45 GHz and the power levels used were 300, 600 and 1000 W. The tests were conducted at temperatures lower than 500 °C.
