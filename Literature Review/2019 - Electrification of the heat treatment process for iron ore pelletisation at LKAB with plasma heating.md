@@ -130,4 +130,4 @@ These devices work by creating an electric arc between a cathode and an anode us
 ## Bedsim model
 
 Validated against lab scale tests as a model of the straight grate and grate kiln processes.
-- The model performs calculations for chemical reactions as well as mass and heat transfer between the process gas and the bed.
+- The model performs calculations for chemical reactions as well as mass and heat transfer between the process gas and the bed. The main goal of the simulation model is to calc
