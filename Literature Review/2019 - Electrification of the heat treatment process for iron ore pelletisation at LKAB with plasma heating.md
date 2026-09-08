@@ -177,7 +177,7 @@ This means that the fossil fuel usage decreased by 0.398%. This must be assuming
 
 The use of plasma torches can completely displace fossil fuel. Also note that the flow rate of the plasma gun is low relative to the air flow in the work grate.
 
-- Also showed improvement in the magnetite content (lower) in the final product as there is more oxygen in the process gas from the lack of combustion.
+- Also showed improvement in the magnetite content (lower) in the final product as there is more oxygen in the process gas from the lack of combustion. The maximum magnetite content at the end of the process is 2.28 % for air but decreased even further to 0.60 % for oxygen, which indicates that using oxygen as a working gas is 
 
 ![[Screenshot 2026-09-09 091915.png]]
 
