@@ -188,3 +188,7 @@ We can lower the mass flow of process gas to reduce the energy consumption, but 
 - Similar adjustments can be made to the production rate. Higher levels of production rate will lead to a faster process and lower magnetite conversion (3% increase in production rate to equal to reference case magnetite content)![[Screenshot 2026-09-09 092844.png]]
 
 ## NOX formation results
+
+For all of the cases, it can be discussed if it is really a plasma if gas molecules are still present. There is always some degree of ionization in a plasma which affects the chemical reactions. This behavior is not captured by the present model and it is therefore unclear whether plasmas can be accurately described by reaction modelling. 
+
+Another uncertainty is the effect of radiation. For this model the plasma torch is assumed to be adiabatic, meaning that convective cooling is dominating over radiation. However, if gas radiation is significant, this will also affect the absolute amount of NO formation.
