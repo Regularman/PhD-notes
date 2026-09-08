@@ -70,5 +70,6 @@ Magnetite and hematite shows good absorption of microwaves. The water in the mic
 
 Microwave causes more rapid heating as the heat does not diffuse from the surface, but happens from within. This means that non-homogenous materials can heat unevenly. The heat distribution depends on the dielectric and conductive properties of the materials.
 - This is governed by the di-electric properties and polarity of the material. Polar molecules will oscillate under the presence of an EM field, and the thermal energy spread throughout the material, driven by thermal gradients.
-- This
+- This can cause thermal runawat, and crack the iron pellets.
+- Heating is also caused by the movement of electrons in the metallic lattic
 
