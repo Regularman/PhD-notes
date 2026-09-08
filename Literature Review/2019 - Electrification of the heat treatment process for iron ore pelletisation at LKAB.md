@@ -107,11 +107,11 @@ These devices work by creating an electric arc between a cathode and an anode us
 - Can burn between 5000 to 30000K.
 - A non-transferred plasma torch has the anode inside the gun. The example above is non-transferred.
 
-|                                      | Fuel oil burner    | Plasma gun                              |
-| ------------------------------------ | ------------------ | --------------------------------------- |
-| Thermal capacity                     | 2 MW               | 2 MW                                    |
-| Annual Electricity needed            | 0.3 GWh            | 20 GWh                                  |
-| Power provided                       | 17.52 MWh          | 17.52 MWh                               |
-| Carbon emissions                     | $115kgCO2_{eq}/GJ$ | Dependent on the source of electricity. |
-| Energy needed to make $1t$ of sinter | $2.09GJ/t$         |                                         |
-| Sinter to DRI effi                   |                    |                                         |
+|                                      | Fuel oil burner             | Plasma gun                              |
+| ------------------------------------ | --------------------------- | --------------------------------------- |
+| Thermal capacity                     | 2 MW                        | 2 MW                                    |
+| Annual Electricity needed            | 0.3 GWh                     | 20 GWh                                  |
+| Power provided                       | 17.52 MWh                   | 17.52 MWh                               |
+| Carbon emissions                     | $115kgCO2_{eq}/GJ$          | Dependent on the source of electricity. |
+| Energy needed to make $1t$ of sinter | $2.09GJ/t$                  |                                         |
+| Sinter to DRI efficiency             | $1.5t$ sinter pellets/t DRI |                                         |
