@@ -137,8 +137,12 @@ Validated against lab scale tests as a model of the straight grate and grate kil
 - The main goal of the simulation model is to calculate the NOX formation of the plasma gun case using a reactor model, as well as the degree of oxidation from magnetite into hematite, the gas temperature throughout the grate, and the pellet temperature (which is important to control the oxidation reactions).
 
 ![[Screenshot 2026-09-09 at 12.24.09 am.png]]
-- However, more important attributes of pellet strength and deformation could not be simulated in the model, which only looks at mass and energy balance. Furthermore, too high temperatures can lead to difficult handling of the sinter at the end
+- However, more important attributes of pellet strength and deformation could not be simulated in the model, which only looks at mass and energy balance. 
+- Thermal runaway, heating rate, crushing strength of the pellets and decreased pellet deformation and clogging cannot be measured with the simulation model and therefore these must be analysed in practical tests.
+- Furthermore, too high temperatures can lead to difficult handling of the sinter at the end
 - The calculations do not include the thermal efficiency of the burner
 - It is known that BedSim overestimates the temperature from the AF zone as it does not model the leakage of air
+
+The model is validated through comparing with experimental results produced by [25]
 
 ![[Screenshot 2026-09-09 at 12.28.57 am.png]]
