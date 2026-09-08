@@ -131,7 +131,10 @@ These devices work by creating an electric arc between a cathode and an anode us
 
 Validated against lab scale tests as a model of the straight grate and grate kiln processes.
 - The model performs calculations for chemical reactions as well as mass and heat transfer between the process gas and the bed. 
-![[Screenshot 2026-09-09 at 12.26.06 am.png]]
+![[Screenshot 2026-09-09 at 12.26.06 am.png|545]]
+
+
 - The main goal of the simulation model is to calculate the NOX formation of the plasma gun case using a reactor model, as well as the degree of oxidation from magnetite into hematite, the gas temperature throughout the grate, and the pellet temperature (which is important to control the oxidation reactions).
 
 ![[Screenshot 2026-09-09 at 12.24.09 am.png]]
+- However, more important attributes of pellet strength and deformation could not be simulated in the model, which only looks at mass
