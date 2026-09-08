@@ -84,3 +84,4 @@ In early 2018, there was a study published by Athayde et al. [23] investigating 
 - Effects on pellet quality was assessed by evaluating the crushing strength of the pellets after drying with microwaves. Results showed strength levels varying between 0.6-2.5 kg/pellet which is considerably lower than conventional methods.
 
 #### Test 2 - combined convection and microwave
+. The effect of combining microwaves and traditional convective heating was evaluated against the traditional processing technique using only convective heating.
