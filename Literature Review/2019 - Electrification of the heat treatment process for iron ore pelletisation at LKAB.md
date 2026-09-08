@@ -108,8 +108,9 @@ These devices work by creating an electric arc between a cathode and an anode us
 - A non-transferred plasma torch has the anode inside the gun. The example above is non-transferred.
 
 
-|                           | Fuel oil burner | Plasma gun |
-| ------------------------- | --------------- | ---------- |
-| Thermal capacity          | 2 MW            | 2 MW       |
-| Annual Electricity needed | 0.3 GWh         | 20 GWh     |
-| Power provided            |                 |            |
+|                           | Fuel oil burner    | Plasma gun     |
+| ------------------------- | ------------------ | -------------- |
+| Thermal capacity          | 2 MW               | 2 MW           |
+| Annual Electricity needed | 0.3 GWh            | 20 GWh         |
+| Power provided            | 17.52 MWh          | 17.52 MWh      |
+| Carbon emissions          | $115kgCO2_{eq}/GJ$ | Dependent on t |
