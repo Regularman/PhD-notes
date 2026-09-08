@@ -146,3 +146,5 @@ Validated against lab scale tests as a model of the straight grate and grate kil
 The model is validated through comparing with experimental results produced by [25]
 
 ![[Screenshot 2026-09-09 at 12.28.57 am.png]]
+
+## Chemkin model for NOX formation
