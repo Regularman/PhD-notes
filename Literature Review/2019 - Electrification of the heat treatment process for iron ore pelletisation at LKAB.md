@@ -109,13 +109,13 @@ These devices work by creating an electric arc between a cathode and an anode us
 - Can burn between 5000 to 30000K.
 - A non-transferred plasma torch has the anode inside the gun. The example above is non-transferred.
 
-|                                          | Fuel oil burner                                                                                   | Plasma gun                               |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Thermal capacity                         | 2 MW                                                                                              | 2 MW                                     |
-| Annual Electricity needed                | 0.3 GWh                                                                                           | 20 GWh                                   |
-| Power provided                           | 17.52 MWh                                                                                         | 17.52 MWh                                |
-| Carbon emissions                         | $115kgCO2_{eq}/GJ$                                                                                | Dependent on the source of electricity.  |
-| Energy needed to make $1t$ of sinter     | $1.29GJ/t$. See above.                                                                            | $1.29GJ/t$. See above.                   |
-| Sinter to DRI efficiency                 | $1.5t$ sinter pellets/t DRI [[2025 - LCA of natural gas based steel making via the DR-EAF route]] | $1.5t$ sinter pellets/t DRI. Same source |
-| Energy needed to make $1t-CS$ for sinter | $1.935GJ/t-CS$                                                                                    | $1.935GJ/t-CS$                           |
-| Emissions due to sinter per t of product | $222.525 kgCO2$                                                                                   |                                          |
+|                                             | Fuel oil burner                                                                                   | Plasma gun                               |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Thermal capacity                            | 2 MW                                                                                              | 2 MW                                     |
+| Annual Electricity needed                   | 0.3 GWh                                                                                           | 20 GWh                                   |
+| Power provided                              | 17.52 MWh                                                                                         | 17.52 MWh                                |
+| Carbon emissions                            | $115kgCO2_{eq}/GJ$                                                                                | Dependent on the source of electricity.  |
+| Energy needed to make $1t$ of sinter        | $1.29GJ/t$. See above.                                                                            | $1.29GJ/t$. See above.                   |
+| Sinter to DRI efficiency                    | $1.5t$ sinter pellets/t DRI [[2025 - LCA of natural gas based steel making via the DR-EAF route]] | $1.5t$ sinter pellets/t DRI. Same source |
+| Energy needed to make $1t-CS$ for sinter    | $1.935GJ/t-CS$                                                                                    | $1.935GJ/t-CS$                           |
+| Emissions due to sintering per t of product | $222.525 kgCO2-eq/t-CS$. ntoe that this is consistent with [[P]]                                  | Potentially $0$ with renewable energy    |
