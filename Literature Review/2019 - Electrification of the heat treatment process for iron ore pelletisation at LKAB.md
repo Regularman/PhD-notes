@@ -119,3 +119,5 @@ These devices work by creating an electric arc between a cathode and an anode us
 #### Applications of plasma torch
 
 ![[Screenshot 2026-09-08 155620.png]]
+
+- Are there energy savings when using hydrogen as a plasma gas
