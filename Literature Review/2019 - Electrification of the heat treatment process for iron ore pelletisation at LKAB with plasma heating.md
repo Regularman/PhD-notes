@@ -151,4 +151,7 @@ The model is validated through comparing with experimental results produced by [
 
 The quantities of NOx produced from a plasma torch can be qualitatively estimated by reaction modelling in Chemkin based on established gas phase reaction kinetics. A common type of reactor model used for combustion modelling is the one-dimensional plug flow reactor (PFR). In the PFR a temperature profile can be defined and the reactions are calculated at different distances from the reactor inlet.
 - Since many parameters of the torches are unknown, the study is of a qualitative nature instead of a quantitative
-- Meant to be a guideline for choosing pl
+- Meant to be a guideline for choosing plasma torches
+
+Looked at three cases
+- NOMIX - where there 
