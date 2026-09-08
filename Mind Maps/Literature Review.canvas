@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"d0c42088a88c2ef4","x":-3185,"y":987,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md"},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":128,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
@@ -129,7 +128,7 @@
 		{"id":"92396792c583feeb","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md","x":-3891,"y":1175,"width":400,"height":103,"color":"5"},
 		{"id":"12445b7880be9f35","type":"file","file":"PhD-notes/Literature Review/2020 - Toward a Fossil Free Future with HYBRIT - Development of Iron and Steelmaking Technology in Sweden and Finland.md","x":-3360,"y":733,"width":400,"height":150,"color":"5"},
 		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-5936,"y":823,"width":250,"height":60,"color":"5"},
-		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6496,"y":845,"width":400,"height":136,"color":"5"}
+		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6496,"y":845,"width":400,"height":176,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
