@@ -175,4 +175,6 @@ This means that the fossil fuel usage decreased by 0.398%. This must be assuming
 
 ## Plasma gun
 
-The use of plasma torches can compl
+The use of plasma torches can completely displace fossil fuel. Also note that the flow rate of the plasma gun is low relative to the air flow in the work grate.
+
+- ALso 
