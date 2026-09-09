@@ -56,3 +56,5 @@ Normally, hot metal charging in EAF is 30-35%, and up top 70%. The addition of l
 - However, more carbon means an increased oxygen level int he system, which is the main constraint on the EAF plant.
 The virgin iron also dilutes unwanted copper and tin in the scrap mix.
 
+However, due to the low Si and P in the hot metal charge, the requirements for slagging materials increases for the EAF.
+
