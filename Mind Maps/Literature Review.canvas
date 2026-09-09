@@ -113,7 +113,6 @@
 		{"id":"7af19193743cdc1d","type":"file","file":"PhD-notes/Literature Review/2025 - Decarbonising Heat with Heat Pumps.md","x":-5936,"y":1547,"width":400,"height":116,"color":"5"},
 		{"id":"dc1a48d7c8fd9443","type":"file","file":"PhD-notes/Literature Review/2022 - Decarbonizing the iron and steel industry - A systematic review of sociotechnical systems, technological innovations, and policy options.md","x":-4650,"y":-400,"width":400,"height":206,"color":"5"},
 		{"id":"05bf1f1ace912ae5","type":"text","text":"# ~={cyan}Hydrogen=~","x":-4373,"y":581,"width":250,"height":81,"color":"5"},
-		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-4018,"y":-778,"width":407,"height":196},
 		{"id":"8c1488837d199752","type":"file","file":"PhD-notes/Literature Review/2025 - LCA of natural gas based steel making via the DR-EAF route.md","x":-3307,"y":-1102,"width":400,"height":142,"color":"4"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3993,"y":-469,"width":358,"height":187,"color":"5"},
 		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-3993,"y":-231,"width":358,"height":157,"color":"5"},
@@ -129,9 +128,11 @@
 		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-5936,"y":823,"width":250,"height":60,"color":"5"},
 		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6600,"y":801,"width":400,"height":176,"color":"5"},
 		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-4949,"y":507,"width":250,"height":60,"color":"5"},
-		{"id":"775a5bff74493a58","x":-5165,"y":349,"width":250,"height":61,"color":"5","type":"text","text":"# ~={cyan}Biomass=~"},
-		{"id":"55b192e506817707","x":-5239,"y":80,"width":345,"height":141,"type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md"},
-		{"id":"ecebce1edc511b20","x":-4650,"y":-580,"width":400,"height":128,"color":"5","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md"}
+		{"id":"775a5bff74493a58","type":"text","text":"# ~={cyan}Biomass=~","x":-5165,"y":349,"width":250,"height":61,"color":"5"},
+		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":80,"width":345,"height":141},
+		{"id":"ecebce1edc511b20","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md","x":-4650,"y":-580,"width":400,"height":128,"color":"5"},
+		{"id":"58e0e8779d21093c","x":-4036,"y":-673,"width":400,"height":140,"color":"5","type":"file","file":"2013 - ULCOS - Development of Top Gas Recycling.md"},
+		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-3507,"y":-84,"width":407,"height":196}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -254,6 +255,7 @@
 		{"id":"c5928b2febebc3e7","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"4e25f136d896d093","toSide":"right"},
 		{"id":"1afc189fd2651503","fromNode":"5586e5a01ed1442c","fromSide":"top","toNode":"775a5bff74493a58","toSide":"bottom"},
 		{"id":"b9f6e7694be1e7da","fromNode":"775a5bff74493a58","fromSide":"top","toNode":"55b192e506817707","toSide":"bottom"},
-		{"id":"9235c2738b6d31e8","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ecebce1edc511b20","toSide":"left"}
+		{"id":"9235c2738b6d31e8","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ecebce1edc511b20","toSide":"left"},
+		{"id":"be28fa78b2e10793","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"58e0e8779d21093c","toSide":"left"}
 	]
 }
