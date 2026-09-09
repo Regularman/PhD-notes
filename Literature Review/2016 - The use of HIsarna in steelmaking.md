@@ -42,3 +42,5 @@ A reminder that HIsarna liquid metal have lower silicon and carbon, virtually no
 Due to the the lower C and Si content in the HIsarna liquid metal, there isn't as much energy in post combustion processes, reducing scrap metal rates in the BOF.
 - However, there is a high scrap metal rate in the HIsarna smelting furnace
 Furthermore, the lower Si and C level means that less oxygen is needed (15% less), and as there is little slag (with lower Si and C and P contents), the blow rate can be increased without worrying about excessive slag foaming. This reduces the blowing time and overall process time of the BOF.
+
+Due to the lower gangue content in the iron, less flux is requires. Lowr phosphorus loading means m
