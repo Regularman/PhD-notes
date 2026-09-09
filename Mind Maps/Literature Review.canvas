@@ -87,7 +87,6 @@
 		{"id":"3ae5c635ac1acd62","type":"text","text":"# ~={cyan}High Temperature Heat Pumps=~","x":-5489,"y":1114,"width":250,"height":128,"color":"5"},
 		{"id":"50f6e035972065f9","type":"text","text":"# ~={cyan}MVR=~\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-5290,"y":961,"width":250,"height":60,"color":"5"},
 		{"id":"5586e5a01ed1442c","type":"text","text":"# ~={cyan}Existing Technology=~","x":-5220,"y":692,"width":360,"height":50,"color":"5"},
-		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-5153,"y":537,"width":250,"height":60,"color":"5"},
 		{"id":"04e2dde29adde56b","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$","x":-5536,"y":379,"width":250,"height":50,"color":"5"},
 		{"id":"55bb8b03d284039a","type":"text","text":"# ~={cyan}Electric Boilers=~","x":-5689,"y":632,"width":250,"height":60,"color":"5"},
 		{"id":"f5a95c6b0d3bae5d","type":"file","file":"PhD-notes/Literature Review/2026 - Pathways to Net-Zero Alumina - Integrating Low-Emission Technologies and Policy Reform in Australia.md","x":-4650,"y":1,"width":400,"height":173,"color":"5"},
@@ -128,7 +127,9 @@
 		{"id":"92396792c583feeb","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md","x":-3891,"y":1175,"width":400,"height":103,"color":"5"},
 		{"id":"12445b7880be9f35","type":"file","file":"PhD-notes/Literature Review/2020 - Toward a Fossil Free Future with HYBRIT - Development of Iron and Steelmaking Technology in Sweden and Finland.md","x":-3360,"y":733,"width":400,"height":150,"color":"5"},
 		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-5936,"y":823,"width":250,"height":60,"color":"5"},
-		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6496,"y":845,"width":400,"height":176,"color":"5"}
+		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6600,"y":801,"width":400,"height":176,"color":"5"},
+		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-4949,"y":507,"width":250,"height":60,"color":"5"},
+		{"id":"775a5bff74493a58","x":-5165,"y":349,"width":250,"height":61,"color":"5","type":"text","text":"# ~={cyan}Biomass=~"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -248,6 +249,7 @@
 		{"id":"e149660e583a564d","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"92396792c583feeb","toSide":"left"},
 		{"id":"f60c487cae1b6b9f","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"12445b7880be9f35","toSide":"left"},
 		{"id":"c79d8d08c1b009ab","fromNode":"5586e5a01ed1442c","fromSide":"left","toNode":"202be8ce8af7c032","toSide":"right"},
-		{"id":"c5928b2febebc3e7","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"4e25f136d896d093","toSide":"right"}
+		{"id":"c5928b2febebc3e7","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"4e25f136d896d093","toSide":"right"},
+		{"id":"1afc189fd2651503","fromNode":"5586e5a01ed1442c","fromSide":"top","toNode":"775a5bff74493a58","toSide":"bottom"}
 	]
 }
