@@ -51,4 +51,5 @@ Lower manganese content means higher cost for secondary metal inputs for steel p
 
 ## Conversion of HIsarna liquid metal into steel - EAF
 
-Normally, hot metal charging 
+Normally, hot metal charging in EAF is 30-35%, and up top 70%. The addition of liquid hot metal adds carbon into the EAF, and the hot metal is already hot, requiring less energy to bring the batch up to temperature.
+- The presence of carbon assists in the foaming slag practise, reducing the need to add 
