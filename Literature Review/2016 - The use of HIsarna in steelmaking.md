@@ -15,6 +15,8 @@ With the need for ore agglomeration or coke making, the carbon emissions savings
 The HIsarna concept consists of a coal based smelter process with a smelt cyclone as prereduction stage. The entire reactor is maintained at above melting temperature of iron, and as iron or enters the smelting cyclone, it is melted into liquid metal. 
 - Note that oxygen is injected into the cyclone to aid in pre-reduction and melting of the iron fines.
 
-The pre-reduced liquid ore then drips down into the main shaft reactor where the iron oxides will dissolve in the slag layer. 
-- In the slag layer is where the granulated coal is injected, which creates a turbulence conducive to heat and mass trna
+The pre-reduced liquid ore then drips down into the main, highly reducing bath where the iron oxides will dissolve in the slag layer. 
+- In the slag layer is where the granulated coal is injected, which creates a turbulence conducive to heat and mass transfer in the liquid bath
+- This causes CO to rise from the slag and post combust into CO2 which generates heat
+
 ![[Screenshot 2026-09-09 175132.png]]
