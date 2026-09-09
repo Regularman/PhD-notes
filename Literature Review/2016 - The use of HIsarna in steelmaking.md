@@ -35,7 +35,7 @@ Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, a
 
 ![[Screenshot 2026-09-09 182333.png]]
 
-## Conversion of Hisarna liquid metal into steel - BOF
+## Conversion of HIsarna liquid metal into steel - BOF
 
 A reminder that HIsarna liquid metal have lower silicon and carbon, virtually no phosphorus, and very high sulphur contents. This is due to the less reducing nature of the slag in the smelter compared to conventional blast furnace. 
 
@@ -46,3 +46,7 @@ Furthermore, the lower Si and C level means that less oxygen is needed (15% less
 Due to the lower gangue content in the iron, less flux is requires. Lower phosphorus loading means more slag recycling, and the lime usage is 10% of conventional practices.
 - Lower slag volume also means lower cost of slag handling and disposal
 - Due to lower volume of slog, the Fe loss is much lower, but the increased Fe percentage in the conventional blast furnace may attack the lining of the converter
+
+Lower manganese content means higher cost for secondary metal inputs for steel production
+
+## Conversion of HIsarna liquid metal into steel - EAF
