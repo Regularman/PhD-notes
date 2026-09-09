@@ -34,3 +34,5 @@ Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, a
 - The KR method is an alternative option achieving high mixing power by mechanical stirring with an impeller. While a refractory lined rotating impeller is immersed into the metal and thus providing a good mixing of reagent, metal and slag, cheap coarse lime is fed by a vibration feeding system as the reagent. (However, the paper has not found applications of the KR method in steel production)
 
 ![[Screenshot 2026-09-09 182333.png]]
+
+## Conversion of Hisarna liquid metal into steel - EAF 
