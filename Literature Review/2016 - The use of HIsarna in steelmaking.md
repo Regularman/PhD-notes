@@ -22,5 +22,8 @@ The pre-reduced liquid ore then drips down into the main, highly reducing bath w
 - Liquid metal is tapped from the slag bath
 
 As a result, the HIsarna process produces hot metal between 3.5-4.6% in C wt%. This can be compared to normal blast furnaces where the carbon content is 4.4-4.7%. There are also higher sulfur content, which means that the liquid metal must undergo desulphurisation before steel production in the BOF.
+- High sulphur content is also due to the lower reducing nature of the HIsarna reactor
 
 ![[Screenshot 2026-09-09 175132.png]]
+
+### Sulphur removal
