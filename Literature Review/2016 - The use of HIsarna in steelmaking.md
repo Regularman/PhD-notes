@@ -52,7 +52,7 @@ Lower manganese content means higher cost for secondary metal inputs for steel p
 ## Conversion of HIsarna liquid metal into steel - EAF
 
 Normally, hot metal charging in EAF is 30-35%, and up top 70%. The addition of liquid hot metal adds carbon into the EAF, and the hot metal is already hot, requiring less energy to bring the batch up to temperature.
-- The presence of carbon assists in the foaming slag practice, reducing the need to add carbon into the EAF process
-- However, more carbon means an increased oxygen level int he system, whcih is the main constraint on the EAF p
+- The presence of carbon assists in the foaming slag practice, reducing the need to add carbon into the EAF process. (As HIsarna does not have as much silicon and carbon, it is expected that the charge is much lower)
+- However, more carbon means an increased oxygen level int he system, which is the main constraint on the EAF plant.
 The virgin iron also dilutes unwanted copper and tin in the scrap mix.
 
