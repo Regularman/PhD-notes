@@ -35,4 +35,6 @@ Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, a
 
 ![[Screenshot 2026-09-09 182333.png]]
 
-## Conversion of Hisarna liquid metal into steel - EAF 
+## Conversion of Hisarna liquid metal into steel - BOF
+
+A reminder that HIsarna liquid metal have lower silicon and carbon, virtually no phosphorus, and very high sulphur contents. This is due to the less reducing nature of the slag in the smelter compated to conventional blast furnace.
