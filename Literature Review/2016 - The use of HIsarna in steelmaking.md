@@ -16,6 +16,6 @@ The HIsarna concept consists of a coal based smelter process with a smelt cyclon
 - Note that oxygen is injected into the cyclone to aid in pre-reduction and melting of the iron fines.
 
 
-This drips down into the main shaft reactor where the
+The pre-reduced liqudrips down into the main shaft reactor where the
 
 ![[Screenshot 2026-09-09 175132.png]]
