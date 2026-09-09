@@ -16,5 +16,5 @@ The HIsarna concept consists of a coal based smelter process with a smelt cyclon
 - Note that oxygen is injected into the cyclone to aid in pre-reduction and melting of the iron fines.
 
 The pre-reduced liquid ore then drips down into the main shaft reactor where the iron oxides will dissolve in the slag layer. 
-- In the slag layer is where the granulated coal is injected
+- In the slag layer is where the granulated coal is injected, which creates a turbulence conducive to heat and mass trna
 ![[Screenshot 2026-09-09 175132.png]]
