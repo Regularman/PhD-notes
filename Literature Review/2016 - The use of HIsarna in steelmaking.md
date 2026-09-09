@@ -39,4 +39,5 @@ Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, a
 
 A reminder that HIsarna liquid metal have lower silicon and carbon, virtually no phosphorus, and very high sulphur contents. This is due to the less reducing nature of the slag in the smelter compared to conventional blast furnace. 
 
-Due to the the lower C and Si content in the HIsarna liquid metal, th
+Due to the the lower C and Si content in the HIsarna liquid metal, there isn't as much energy in post combustion processes, reducing scrap metal rates in the BOF.
+- However, there is a high scrap metal rate in the 
