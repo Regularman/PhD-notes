@@ -29,4 +29,6 @@ As a result, the HIsarna process produces hot metal between 3.5-4.6% in C wt%. T
 
 ### Sulphur removal
 
-Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, and the injection of desulphurisation reagents in the torpedo ladle
+Tata steel considered Kanbara Reactor desulphurisation in the hot metal ladle, and the injection of desulphurisation reagents in the torpedo ladle.
+- Hot metal desulphurisation by injection technology is carried out by deep injection of powdery reagents such as lime, calcium carbide, magnesium, soda ash, or mixtures thereof into the ladle
+- The KR method is an alternative option achieving high mixing power by mechanical stirring with an impeller. While a refractory lined rotating impeller is immersed into the metal and thus providing a good mixing of reagent, metal and slag, cheap coarse lime is fed by a vibration feeding system as the reagent.
