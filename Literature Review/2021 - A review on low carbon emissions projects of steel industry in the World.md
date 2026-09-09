@@ -6,4 +6,8 @@ Cited by 447
 
 ## Projects to look at
 
-- COURSE50
+
+| Project name | Details                                                               | Obsidian page link |
+| ------------ | --------------------------------------------------------------------- | ------------------ |
+| COURSE 50    | Use reformed hydrogen from coke oven gas to inject into blast furnace |                    |
+| FINEX+CEM    |                                                                       |                    |
