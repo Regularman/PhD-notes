@@ -7,11 +7,15 @@ The pilot plant was set up in 2011 in the Netherlands and has been through 4 tes
 
 If the technology can be developed successfully on an industrial scale, it will take ten years to reach the stage of commercial use.
 
-With the need for ore aggolomeration or coke making, the carbon emissions savings is around 20%. 
+With the need for ore agglomeration or coke making, the carbon emissions savings is around 20%. 
 - The main motivation for the ULCOS project and the development of HIsarna is that reductant per ton of hot metal is already around 500kg/t-hm, which is 5% below the theoretical minimum. Therefore breakthrough technologies are needed.
 
 ## The technology
 
-The HIsarna concept consists of a coal based smelter process with a smelt cyclone as prereduction stage. The entire reactor is maintained at above melting temperature of iron, and as iron or enters the smelting cyclone, it is melted into liquid metal. This drips down into the main shaft reactor where the
+The HIsarna concept consists of a coal based smelter process with a smelt cyclone as prereduction stage. The entire reactor is maintained at above melting temperature of iron, and as iron or enters the smelting cyclone, it is melted into liquid metal. 
+- Note that 
+
+
+This drips down into the main shaft reactor where the
 
 ![[Screenshot 2026-09-09 175132.png]]
