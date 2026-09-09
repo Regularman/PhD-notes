@@ -43,4 +43,5 @@ Due to the the lower C and Si content in the HIsarna liquid metal, there isn't a
 - However, there is a high scrap metal rate in the HIsarna smelting furnace
 Furthermore, the lower Si and C level means that less oxygen is needed (15% less), and as there is little slag (with lower Si and C and P contents), the blow rate can be increased without worrying about excessive slag foaming. This reduces the blowing time and overall process time of the BOF.
 
-Due to the lower gangue content in the iron, less flux is requires. Lowr phosphorus loading means m
+Due to the lower gangue content in the iron, less flux is requires. Lower phosphorus loading means more slag recycling, and the lime usage is 10% of conventional practices.
+- Lower slag volume also means lower cost of slag handling and disposal
