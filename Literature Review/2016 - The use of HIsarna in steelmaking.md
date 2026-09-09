@@ -13,7 +13,7 @@ With the need for ore agglomeration or coke making, the carbon emissions savings
 ## The technology
 
 The HIsarna concept consists of a coal based smelter process with a smelt cyclone as prereduction stage. The entire reactor is maintained at above melting temperature of iron, and as iron or enters the smelting cyclone, it is melted into liquid metal. 
-- Note that 
+- Note that oxygen is injected into the cyclone to aid in pre-reduction and melting of the iron fines.
 
 
 This drips down into the main shaft reactor where the
