@@ -50,3 +50,5 @@ Due to the lower gangue content in the iron, less flux is requires. Lower phosph
 Lower manganese content means higher cost for secondary metal inputs for steel production
 
 ## Conversion of HIsarna liquid metal into steel - EAF
+
+Normally, hot metal charging 
