@@ -20,9 +20,10 @@ The pre-reduced liquid ore then drips down into the main, highly reducing bath w
 - In the slag layer is where the granulated coal is injected, which creates a turbulence conducive to heat and mass transfer in the liquid bath. The iron oxides in the slag will be reduced into iron carbide
 - This causes CO to rise from the slag and post combust into CO2 which generates heat
 - Liquid metal is tapped from the slag bath
-
+![[Screenshot 2026-09-09 181924.png]]
 As a result, the HIsarna process produces hot metal between 3.5-4.6% in C wt%. This can be compared to normal blast furnaces where the carbon content is 4.4-4.7%. There are also higher sulfur content, which means that the liquid metal must undergo desulphurisation before steel production in the BOF.
 - High sulphur content is also due to the lower reducing nature of the HIsarna reactor
+- The lower Phosphorus content allows for production of low phosphor steel that has lower slag volume.
 
 ![[Screenshot 2026-09-09 175132.png]]
 
