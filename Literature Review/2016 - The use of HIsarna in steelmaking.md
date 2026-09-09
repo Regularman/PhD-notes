@@ -45,3 +45,4 @@ Furthermore, the lower Si and C level means that less oxygen is needed (15% less
 
 Due to the lower gangue content in the iron, less flux is requires. Lower phosphorus loading means more slag recycling, and the lime usage is 10% of conventional practices.
 - Lower slag volume also means lower cost of slag handling and disposal
+- Due to lower volume of slog, the Fe loss is much lower, but the increased Fe percentage in the conventional blast furnace may attack the lining of the converter
