@@ -41,6 +41,11 @@ The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility w
 #### Oxidation reaction
 
 Most energy loss take place in the anodic reaction of oxygen evolution, and lowering this over potential is one of the most important sources of energy improvement.
+
+- The oxygen evolution reaction is a sluggish 4 electron transfer process and require an overvoltage to speed it up. minimising this overvoltage is required to reduce energy consumption in electrowinning.
+- The suspension of hematite already act as a catalyst.
+- Nick
+- Other solutions includes
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
