@@ -54,7 +54,7 @@ Most energy loss take place in the anodic reaction of oxygen evolution, and lowe
 
 Anode also needs to be designed for efficient transfer of electrons and capture of evolving oxygen gas.
 
-### Scaling up the process - Development of a labora
+### Scaling up the process - Development of a laboratory scale pilot
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
