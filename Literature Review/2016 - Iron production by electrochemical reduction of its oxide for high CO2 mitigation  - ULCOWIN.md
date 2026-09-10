@@ -57,7 +57,7 @@ Anode also needs to be designed for efficient transfer of electrons and capture 
 
 ### Scaling up the process - Development of a laboratory scale pilot
 
-In the first pilot plant, l
+In the first pilot plant, low faradaic yield was reported due to electrolyte leakage , and the settling of the iron fines, creates short circuits that bypasses the redox reaction.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
