@@ -59,10 +59,10 @@ Anode also needs to be designed for efficient transfer of electrons and capture 
 
 In the first pilot plant, low faradaic yield was reported due to electrolyte leakage, and the settling of the iron fines, creates short circuits that bypasses the redox reaction. The new pilot cell sets out to fix these issues to improve faradaic efficiency. Some other design changes made were
 - Even current distribution on the cathode to control the growth of iron solid phase and uniformity of the reaction rate
-- Tightening of the cell to prevent leakage of ele
+- Tightening of the cell to prevent leakage of electrolyte and short circuiting
 
 The ULCOWIN cell version N°2 was operated eighteen times. Each experimental test lasts typically several tens of hours. It resulted in the production of weight significant iron samples. These experiments contributed to test if the technology developed checked the specifications.
-- The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages.
+- The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages. Iron plates are harvested without dismantling the cells
 
 During this second pilot trial, 3.605kg of iron deposit was collected with a 70% faradaic efficiency over the long term. However, short term efficiency was 91% (this was the maximum reduction rate shown in early lab scale trials), suggesting degradation of performance overtime. Some positives were 
 - Showed that in situ harvesting of the deposit is possible on the magnesium and graphite cathode but not the cupronickel.
