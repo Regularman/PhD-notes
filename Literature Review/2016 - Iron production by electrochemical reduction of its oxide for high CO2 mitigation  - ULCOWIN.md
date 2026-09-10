@@ -37,6 +37,10 @@ Looking at the Faradaic efficiency, which is how well the current produces a cer
 ![[Screenshot 2026-09-10 151928.png]]
 
 The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility was established of electrowinning of iron from iron ores containing 10 wt% SiO2 and 0.5-1 wt% Al2O3 in alkaline solution without any further solution purification. Current efficiencies were typically > 85%. However, these may loosen the deposits and reduce yield of iron.
+
+#### Oxidation reaction
+
+Most energy loss take place in the anodic reaction of oxygen evolution, and lowering this over potential 
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
