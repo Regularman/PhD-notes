@@ -9,3 +9,4 @@ There are concerns with the scalability of electrowinning to produce millions of
 The baseline pathways for iron and steel making emissions are shown below, and is consistent with other references
 
 ![[Screenshot 2026-09-11 at 8.16.27 am.png]]
+This is from IEA report from 2020 about achieving net zero.
