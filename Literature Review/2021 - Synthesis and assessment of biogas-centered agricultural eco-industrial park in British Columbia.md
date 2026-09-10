@@ -2,6 +2,8 @@ https://www.sciencedirect.com/science/article/pii/S0959652621029656?pes=vor&utm_
 
 ## Contribution
 
+[[]]
+
 Primarily contributed to literature by suggesting the implementation of mushroom farms to the IS so that residual digestate from biogas production is not wasted. Biogas implementation in greenhouse was already explored, but faced issues of residual digestate management. This way, residual digestate can replace synthetic manure in mushroom growing to reduce acidification impacts.
  
 After they commented on the GHG impact of a single case, commented on potential BC wide impacts if it was implemented.
