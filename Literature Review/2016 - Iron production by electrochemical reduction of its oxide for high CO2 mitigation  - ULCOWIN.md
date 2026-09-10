@@ -65,7 +65,7 @@ The ULCOWIN cell version N°2 was operated eighteen times. Each experimental tes
 - The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages. Remember that cobalt is plated on nickel to accelerate the 
 
 During this second pilot trial, 3.605kg of iron deposit was collected with a 70% faradaic efficiency over the long term. However, short term efficiency was 91% (this was the maximum reduction rate shown in early lab scale trials), suggesting degradation of performance overtime. Some positives were 
-- Showed that in situ harvesting of the deposit is possible on the magnesium and graphite cathode but not the cupronickel. Iron plates are harvested without dismantling the cells. Cupronic
+- Showed that in situ harvesting of the deposit is possible on the magnesium and graphite cathode but not the cupronickel. Iron plates are harvested without dismantling the cells. Cupronickel is unsuited due to iron sticking and magnesium is hydrogen sensitive
 
 Based on the learnings of the second pilot scale tests, improvements have been made and CFD simulations 
 
