@@ -31,6 +31,8 @@ We need a voltage across the electrolyte to give the electrons enough energy to 
 ![[Screenshot 2026-09-10 151203.png]]
 
 - Convection has a lesser effect at high Fe2O3 content; the dependence of polarization curve on rotation speed is marginal.
+
+Looking at the Faradaic efficiency, which is how well the current produces a certain chemical product
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
