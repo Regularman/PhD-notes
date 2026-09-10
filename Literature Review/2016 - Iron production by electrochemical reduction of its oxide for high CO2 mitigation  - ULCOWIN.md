@@ -64,7 +64,7 @@ several tens of hours. It resulted in the production of weight significant iron 
 experiments contributed to test if the technology developed checked the specifications.
 - The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages.
 
-During this second pilot trial, 3.605kg of iron deposit was collected with a 70% faradaic efficiency over the long term. However, short term effie
+During this second pilot trial, 3.605kg of iron deposit was collected with a 70% faradaic efficiency over the long term. However, short term efficiency was 91%, suggesting degradation of performance overtime.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
