@@ -9,7 +9,7 @@ Highlights that carbon emissions can go down by 25% at the BF and with CCS, this
 
 Test were done in an experimental blast furnace in LKAB with Lulea, which did not have CCS. The experimental blast furnace had production capacity of 36 tHM/day and a fuel rate of 540kg of coal/tHM. 
 - Trials we done in 2007, 2009, and 2010
-- The results of these trials were smooth. They found good smooth burden descent and hot metal quality, high thermal sstability, no equipment failure and BF recovery after shut downs were easy.
+- The results of these trials were smooth. They found good smooth burden descent and hot metal quality, high thermal stability, no equipment failure and BF recovery after shut downs were easy.
 	- Recycling rates of up to 90% is possible and the CO recovery was 88%
 	- In terms of coke, the carbon savings were 140 kg/tHM 
 	- Ultimately reduced emissions by up to 23%
