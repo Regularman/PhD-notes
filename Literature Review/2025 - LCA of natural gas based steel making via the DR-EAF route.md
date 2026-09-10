@@ -35,7 +35,8 @@ Global examples are
 Note that BoF can also take scrap metal (at 20-30% charge). The study also considers a scenario where blast furnace and direct reduced metal are operating concurrently.
 
 This paper shed some light on the emissions of the continuous casting process. Particularly, the thermal demand through the use of natural gas.
-- Note that the natural gas used for a MIDREX DRI plant is 10Gj/t-DRI and a MIDREX DRI plant, including EAF, will make 980kgCO2-e/t-CS.
+- Note that the natural gas used for a MIDREX DRI plant is 10Gj/t-DRI and a MIDREX DRI plant, including EAF, will make 980kgCO2-e/t-CS. The natural gas used for direct reduction contributes to 560 kgCO2.
+- 
 
 ![[Screenshot 2026-09-08 at 8.57.04 am.png]]
 
