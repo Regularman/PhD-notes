@@ -131,10 +131,11 @@
 		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":80,"width":345,"height":141},
 		{"id":"ecebce1edc511b20","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md","x":-4650,"y":-580,"width":400,"height":128,"color":"5"},
 		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-3507,"y":-84,"width":407,"height":196},
-		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4035,"y":-930,"width":400,"height":140,"color":"5"},
-		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4035,"y":-755,"width":400,"height":111,"color":"5"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3360,"y":256,"width":400,"height":187,"color":"5"},
-		{"id":"0d13b4fa33a2291d","x":-4035,"y":-580,"width":400,"height":215,"color":"5","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md"}
+		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4014,"y":-1063,"width":400,"height":140,"color":"5"},
+		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4014,"y":-887,"width":400,"height":111,"color":"5"},
+		{"id":"0d13b4fa33a2291d","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4010,"y":-736,"width":400,"height":215,"color":"5"},
+		{"id":"d397d71d9daf5a9e","x":-4010,"y":-481,"width":400,"height":163,"color":"5","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -260,6 +261,7 @@
 		{"id":"be28fa78b2e10793","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"58e0e8779d21093c","toSide":"left"},
 		{"id":"09537ecd169b3830","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"23a5f803f8bee5d5","toSide":"left"},
 		{"id":"eef0be3c4b272520","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
-		{"id":"8e6777d69e2abb8d","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"0d13b4fa33a2291d","toSide":"left"}
+		{"id":"8e6777d69e2abb8d","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"0d13b4fa33a2291d","toSide":"left"},
+		{"id":"4d1cc77262efebdb","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"d397d71d9daf5a9e","toSide":"left"}
 	]
 }
