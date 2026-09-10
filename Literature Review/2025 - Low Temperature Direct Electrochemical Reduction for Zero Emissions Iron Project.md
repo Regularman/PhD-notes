@@ -10,6 +10,7 @@ The baseline pathways for iron and steel making emissions are shown below, and i
 
 ![[Screenshot 2026-09-11 at 8.16.27 am.png]]
 This is from IEA report from 2020 about achieving net zero.
+- With DRI-H2, the tot
 
 ## Further Readings 
 
