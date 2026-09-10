@@ -30,3 +30,4 @@ Boston Metal is the main player in the space of molten ore electrolysis, where t
 ArcelorMittal and John Cockerill started the construction of the first low temperature, iron ore electrowinning plant in 2024 with operations are expected to start in 2027 [8]
 
 Electra, a US startup founded in 2020, has developed a process dissolves iron ore in a water-based acid solution and uses electricity to electroplate iron.
+- The company recently announced the commissioning of a small pilot facility in the USA and has ambitions to demonstrate the technology with a 50,000-ton plant before the end of the decade [7].
