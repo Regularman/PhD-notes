@@ -19,7 +19,7 @@ This is from IEA report from 2020 about achieving net zero.
 The full chemical reaction pathway for the electrochemical reduction of iron ore is shown below.
 ![[Screenshot 2026-09-11 at 8.37.12 am.png]]
 
-Another advantage of the electrochemical pathway is that there are lower storage requirements and lower operation costs. Therefore the pathway to com
+Another advantage of the electrochemical pathway is that there are lower storage requirements and lower operation costs. Therefore the pathway to commercialisation will most likely be cheaper compared to green hydrogen reduction.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
