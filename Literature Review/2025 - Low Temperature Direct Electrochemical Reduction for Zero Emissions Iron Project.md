@@ -10,7 +10,8 @@ The baseline pathways for iron and steel making emissions are shown below, and i
 
 ![[Screenshot 2026-09-11 at 8.16.27 am.png]]
 This is from IEA report from 2020 about achieving net zero.
-- With DRI-H2, the tot
+- With DRI-H2, the total electricity required is around 4 to 5.5 MWh/t iron for the total H2-DRI process [2].
+- Conversely, electrochemical process can achieve reduction through a theoretical 2.8M
 
 ## Further Readings 
 
