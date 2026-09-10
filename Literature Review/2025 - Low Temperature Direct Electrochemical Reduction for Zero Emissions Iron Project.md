@@ -25,3 +25,4 @@ Fortescue has announced the development of a pilot plant at its Christmas Creek 
 There is also a new Circored facility in Frankfurt opened by Metso
 
 Boston Metal is the main player in the space of molten ore electrolysis, where the ore is electrolysis at $2000\degree C$ and has validated the technology at semi-industrial scale, currently working on the scaleup of their pilot facility in the USA [6]
+- The major barrier is commercial viability of inert electrodes in a corrosive environment
