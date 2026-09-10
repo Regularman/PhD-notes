@@ -17,8 +17,9 @@ The goal of the study is to operate a laboratory pilot cell.
 
 Note that this includes the electricity generated from COG and BF gas. This is pretty similar to POWER to STEEL example in terms of the numbers.
 ![[Screenshot 2026-09-10 142145.png]]
-### Mechanism
+### Mechanism - Electrowinning
 
+The electrowinning of iron is based on the following reaction carried out in an alkaline aquesour 
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
