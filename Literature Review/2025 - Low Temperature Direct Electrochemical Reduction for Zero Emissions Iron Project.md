@@ -23,3 +23,5 @@ The full chemical reaction pathway for the electrochemical reduction of iron ore
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
 
 There is also a new Circored facility in Frankfurt opened by Metso
+
+Boston Metal is the main player in the space of molten ore electrolysis, where the ore is electrolysis at $2000\degree C$ and has validated the technology at semi-industrial scale, currently working on the scaleup of their pilot facility in the USA [6]
