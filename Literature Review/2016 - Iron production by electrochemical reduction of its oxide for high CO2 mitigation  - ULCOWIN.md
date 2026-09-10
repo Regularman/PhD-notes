@@ -74,7 +74,8 @@ Based on the learnings of the second pilot scale tests, improvements have been m
 ![[Screenshot 2026-09-10 141026.png]]
 
 The LCA for electrowinning is high level and developed from the operational emissions perspective. 
-- Note that the electricity for leaching uses a simple COP equation, $COP = \frac{T_{hot}}{T_{hot}-T_{cold}}$, which is $COP = \frac{1}{1-\frac{T_{cold}}{T_{hot}}}$. Hence, the electricity required is the $$heat \times COP$$
+- Note that the electricity for leaching uses a simple COP equation, $COP = \frac{T_{hot}}{T_{hot}-T_{cold}}$, which is $COP = \frac{1}{1-\frac{T_{cold}}{T_{hot}}}$. Hence, the electricity required is the $$heat \times COP$$However, I was able to calculate much lower electrical consumptions due to an error in the 
+
 
 - The electrowinning step also assumes 95% Faradaic efficiency and 100% conversion on a cell voltage of 1.7V.
 ![[Screenshot 2026-09-10 at 11.11.39 pm.png]]
