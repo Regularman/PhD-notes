@@ -14,3 +14,5 @@ This is from IEA report from 2020 about achieving net zero.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
+
+There is also a new Circored facility in Frankfurt opened by Metso
