@@ -14,6 +14,10 @@ This is from IEA report from 2020 about achieving net zero.
 - Conversely, electrochemical process can achieve reduction through a theoretical 2.8MWh/t. This corroborates with earlier research, which states ~3.3MWh/t of hot rolled steel. [[2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN]]
 - Furthermore, there is a less strict requirement for high grade ores with electrochemical processing
 
+## Mechanics
+
+The full chemical reaction pathway for the electrochemical reduction of iron ore is shown below.
+![[Screenshot 2026-09-11 at 8.37.12 am.png]]
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
