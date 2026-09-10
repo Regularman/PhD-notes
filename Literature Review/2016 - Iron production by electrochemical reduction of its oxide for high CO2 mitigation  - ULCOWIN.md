@@ -21,7 +21,7 @@ Note that this includes the electricity generated from COG and BF gas. This is p
 
 The electrowinning of iron (hematite) is based on the following reaction carried out in an alkaline aqueous solution (sodium hydroxide and water). The iron is reduced as a solid as ultra fine particles around 10 $\micro$m in diameter suspended in solution$$Fe_2O_3\rightarrow 2Fe +\frac{3}{2}O_2$$
 The process occurs at $110\degree C$, the current density is $0.1A/cm^2$ at 1.7V. 
-- Cathode - Reduction - $$Fe_2O_3+3H_2O+6e^-\rightarrow2Fe+6OH^-$$
+- Cathode - Reduction - The iron is deposited on the cathode $$Fe_2O_3+3H_2O+6e^-\rightarrow2Fe+6OH^-$$
 - Anode - Nickel - oxidation occurs that takes electrons to form oxygen gas which bubbles out of solution $$6OH^-\rightarrow\frac{3}{2}O_2+3H_2O+6e^-$$
 ### LCA
 
