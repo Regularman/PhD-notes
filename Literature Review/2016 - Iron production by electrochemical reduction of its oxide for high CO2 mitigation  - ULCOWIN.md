@@ -51,6 +51,10 @@ Most energy loss take place in the anodic reaction of oxygen evolution, and lowe
 - The suspension of hematite already act as a catalyst.
 - Nickel cobalt alloy minimises this overvoltage optimally.
 - Other solutions includes cobalt based oxide spinels in a nickel matrix to speed up the reaction.
+
+Anode also needs to be designed for efficient transfer of electrons and capture of evolving oxygen gas.
+
+### Scaling up the process
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
