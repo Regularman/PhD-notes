@@ -33,6 +33,7 @@ We need a voltage across the electrolyte to give the electrons enough energy to 
 - Convection has a lesser effect at high Fe2O3 content; the dependence of polarization curve on rotation speed is marginal.
 
 Looking at the Faradaic efficiency, which is how well the current produces a certain chemical product. Note that there is a competing hydrogen evolution redox reaction with the water, which is shown at higher current densities. Found that the window for highest faradaic efficiency is 1-3 A/m^2, reaching 97% efficiency.
+- ~={red}Is it possible to collect the hydrogen?=~
 
 ![[Screenshot 2026-09-10 151928.png]]
 
