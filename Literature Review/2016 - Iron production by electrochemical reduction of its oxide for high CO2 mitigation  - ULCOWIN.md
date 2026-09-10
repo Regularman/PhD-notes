@@ -44,8 +44,8 @@ Most energy loss take place in the anodic reaction of oxygen evolution, and lowe
 
 - The oxygen evolution reaction is a sluggish 4 electron transfer process and require an overvoltage to speed it up. minimising this overvoltage is required to reduce energy consumption in electrowinning.
 - The suspension of hematite already act as a catalyst.
-- Nick
-- Other solutions includes
+- Nickel cobalt alloy minimises this overvoltage optimally.
+- Other solutions includes cobalt based oxide spinels in a nickel matrix to speed up the reaction.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
