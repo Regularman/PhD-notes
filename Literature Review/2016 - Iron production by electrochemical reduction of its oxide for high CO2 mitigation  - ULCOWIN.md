@@ -73,4 +73,5 @@ Based on the learnings of the second pilot scale tests, improvements have been m
 
 ![[Screenshot 2026-09-10 141026.png]]
 
-[^1]: 
+The LCA for electrowinning is 
+![[Screenshot 2026-09-10 at 11.11.39 pm.png]]
