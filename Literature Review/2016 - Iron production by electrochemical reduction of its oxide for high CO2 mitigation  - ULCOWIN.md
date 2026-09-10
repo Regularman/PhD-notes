@@ -27,7 +27,7 @@ Note that there is an impeller rotating the solution to agitate it and blend the
 
 #### Reduction reaction
 
-We need a voltage across the electrolyte to give the electrons enough energy to reduce,m according to the reduction potential
+We need a voltage across the electrolyte to give the electrons enough energy to reduce, according to the reduction potential of steel. This has been mapped out in laboratory scale trials
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
