@@ -41,6 +41,8 @@ The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility w
 A good cathode is one that 
 - Has good adherence to the deposit
 - Mechanical strength to withstand fastening condition
+- High overpotential for competing hydrogen evolution
+- Material should be cheap and widely available
 #### Oxidation reaction
 
 Most energy loss take place in the anodic reaction of oxygen evolution, and lowering this over potential is one of the most important sources of energy improvement.
