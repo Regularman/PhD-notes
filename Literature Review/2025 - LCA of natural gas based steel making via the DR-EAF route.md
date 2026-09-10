@@ -35,6 +35,7 @@ Global examples are
 Note that BoF can also take scrap metal (at 20-30% charge). The study also considers a scenario where blast furnace and direct reduced metal are operating concurrently.
 
 This paper shed some light on the emissions of the continuous casting process. Particularly, the thermal demand through the use of natural gas.
+- Note that the natural gas used for a MIDREX DRI p
 
 ![[Screenshot 2026-09-08 at 8.57.04 am.png]]
 
