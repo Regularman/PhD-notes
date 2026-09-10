@@ -40,7 +40,7 @@ The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility w
 
 #### Oxidation reaction
 
-Most energy loss take place in the anodic reaction of oxygen evolution, and lowering this over potential 
+Most energy loss take place in the anodic reaction of oxygen evolution, and lowering this over potential is one of the most important sources of energy improvement.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
