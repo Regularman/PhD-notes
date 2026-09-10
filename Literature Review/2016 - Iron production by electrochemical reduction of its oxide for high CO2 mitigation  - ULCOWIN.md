@@ -27,7 +27,10 @@ Note that there is an impeller rotating the solution to agitate it and blend the
 
 #### Reduction reaction
 
-We need a voltage across the electrolyte to give the electrons enough energy to reduce, according to the reduction potential of steel. This has been mapped out in laboratory scale trials, as a function of he
+We need a voltage across the electrolyte to give the electrons enough energy to reduce, according to the reduction potential of steel. This has been mapped out in laboratory scale trials, as a function of hematite concentration and the voltage across the cell. The x axis is cell potential and the y axis is conductivity, which will increase as reduction capacity
+![[Screenshot 2026-09-10 151203.png]]
+
+
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
