@@ -32,10 +32,11 @@ We need a voltage across the electrolyte to give the electrons enough energy to 
 
 - Convection has a lesser effect at high Fe2O3 content; the dependence of polarization curve on rotation speed is marginal.
 
-Looking at the Faradaic efficiency, which is how well the current produces a certain chemical product. Note that there is a competing hydrogen evolution redox reaction with the water, which is shown at higher current densities. Found that the window for highest faradaic efficiency is 1-3 A/m^2.
+Looking at the Faradaic efficiency, which is how well the current produces a certain chemical product. Note that there is a competing hydrogen evolution redox reaction with the water, which is shown at higher current densities. Found that the window for highest faradaic efficiency is 1-3 A/m^2, reaching 97% efficiency.
+
 ![[Screenshot 2026-09-10 151928.png]]
 
-The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility was established of electrowinning of iron from iron ores containing 10 wt% SiO2 and 0.5-1 wt% Al2O3 in alkaline solution without any further solution purification. Current efficiencies were typically > 85%.
+The iron ore can have impurities such as SiO2 and Al2O3 in it. The feasibility was established of electrowinning of iron from iron ores containing 10 wt% SiO2 and 0.5-1 wt% Al2O3 in alkaline solution without any further solution purification. Current efficiencies were typically > 85%. However, these may loosen the deposits and reduce yield of iron.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
