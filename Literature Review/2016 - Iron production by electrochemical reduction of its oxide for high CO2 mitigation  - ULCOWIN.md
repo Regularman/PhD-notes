@@ -23,6 +23,7 @@ The electrowinning of iron (hematite) is based on the following reaction carried
 The process occurs at $110\degree C$, the current density is $0.1A/cm^2$ at 1.7V. 
 - Cathode - Graphite - Reduction - The iron is deposited on the cathode $$Fe_2O_3+3H_2O+6e^-\rightarrow2Fe+6OH^-$$
 - Anode - Nickel - oxidation occurs that takes electrons to form oxygen gas which bubbles out of solution $$6OH^-\rightarrow\frac{3}{2}O_2+3H_2O+6e^-$$
+Note that there is an impeller rotating the solution to agitate it and blend the liquid
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
