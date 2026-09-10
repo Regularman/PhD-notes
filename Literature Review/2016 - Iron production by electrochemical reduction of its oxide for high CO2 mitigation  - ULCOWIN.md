@@ -19,7 +19,7 @@ Note that this includes the electricity generated from COG and BF gas. This is p
 ![[Screenshot 2026-09-10 142145.png]]
 ### Mechanism - Electrowinning
 
-The electrowinning of iron is based on the following reaction carried out in an alkaline aquesour 
+The electrowinning of iron is based on the following reaction carried out in an alkaline aqueous solution. 
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
