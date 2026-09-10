@@ -19,8 +19,8 @@ Note that this includes the electricity generated from COG and BF gas. This is p
 ![[Screenshot 2026-09-10 142145.png]]
 ### Mechanism - Electrowinning
 
-The electrowinning of iron (hematite) is based on the following reaction carried out in an alkaline aqueous solution (sodium hydroxide and water). The iron is reduced as a solid as ultra fineparticles suspended in solution$$Fe_2O_3\rightarrow 2Fe +\frac{3}{2}O_2$$
-The process occurs at 
+The electrowinning of iron (hematite) is based on the following reaction carried out in an alkaline aqueous solution (sodium hydroxide and water). The iron is reduced as a solid as ultra fine particles around 10 $\micro$m in diameter suspended in solution$$Fe_2O_3\rightarrow 2Fe +\frac{3}{2}O_2$$
+The process occurs at $110\degree C$, the current density is $0.1A/cm^2$ at 1.7V, 
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
