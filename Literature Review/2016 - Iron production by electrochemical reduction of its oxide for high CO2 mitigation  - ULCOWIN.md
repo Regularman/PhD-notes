@@ -57,7 +57,12 @@ Anode also needs to be designed for efficient transfer of electrons and capture 
 
 ### Scaling up the process - Development of a laboratory scale pilot
 
-In the first pilot plant, low faradaic yield was reported due to electrolyte leakage , and the settling of the iron fines, creates short circuits that bypasses the redox reaction. The new pilot cell sets out to fix these issues to impor
+In the first pilot plant, low faradaic yield was reported due to electrolyte leakage , and the settling of the iron fines, creates short circuits that bypasses the redox reaction. The new pilot cell sets out to fix these issues to improve faradaic efficiency.
+
+The ULCOWIN cell version N°2 was operated eighteen times. Each experimental test lasts typically
+several tens of hours. It resulted in the production of weight significant iron samples. These
+experiments contributed to test if the technology developed checked the specifications.
+- The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages.
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
