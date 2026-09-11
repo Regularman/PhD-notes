@@ -57,6 +57,9 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 ### Ancillary services
 
 This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas vent system.
+- This needs to supply the electrolyte at the correct composition, temperature, flow, and pressure
+- Control the voltage across the electrolyser stack
+- 
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
