@@ -41,6 +41,10 @@ For corrosive resistant materials, due to elevated temperatures, common material
 - The polymers exposed to hot caustic may experience cracking due to sudden change in temperature, and potentially softening, degradation, or decomposition when exposed to caustic over a long period of time. 
 - Similarly, the steels may corrode due to hot caustic, and there may be erosion-corrosion due to the abrasiveness of the iron ore. More importantly, catastrophic failure in the form of “caustic stress corrosion cracking” can happen with steels exposed to hot caustic. Hence, highly alloyed stainless steel like duplex, super duplex or even nickel alloys may be required.
 Although, 316L and 2205 duplex stainless steel was used, there is a lack of data showing their operations in highly caustic solutions in elevated temperatures.
+
+## Effect of gangue in the slurry
+
+
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
