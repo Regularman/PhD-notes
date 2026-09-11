@@ -63,6 +63,8 @@ This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas v
 Note that iron fines is explosive when in contact with atmosphere, and the storage of these product will raise concerns with transport and storage.
 
 Since sodium damages the refractory lining of the EAF, the produced iron has to be rinsed thoroughly before insertion into EAF.
+- Silica and alumina are required to be below 3% for addition to an EAF or BOF. The DER product is currently meeting these levels, but if the feed ore is changed or the impurities are not appropriately managed this will need to be monitored.
+- Nickel and chrome from the stainless steel has been detected in the iron product, which will have to be tracked.
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
