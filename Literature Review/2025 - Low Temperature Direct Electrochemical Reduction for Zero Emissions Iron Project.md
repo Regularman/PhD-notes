@@ -14,6 +14,8 @@ This is from IEA report from 2020 about achieving net zero.
 - Conversely, electrochemical process can achieve reduction through a theoretical 2.8MWh/t. This corroborates with earlier research, which states ~3.3MWh/t of hot rolled steel. [[2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN]]
 - Furthermore, there is a less strict requirement for high grade ores with electrochemical processing
 
+Iron mainly exports iron ore that is 56-62% iron.
+
 ## Mechanics
 
 The full chemical reaction pathway for the electrochemical reduction of iron ore is shown below.
