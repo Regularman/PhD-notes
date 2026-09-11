@@ -29,6 +29,9 @@ The cathode is a carbon fibres and a polymer matrix pressed onto a steel-backed 
 - This might be due to the reactivity between the polymer and the alkaline aqueous solution
 - Or because the temperature of the cell is above the glass melting temperature which softens the polymer
 - Currently finding suitable thermoplastics with glass melting temperature above $110\degree C$
+
+The hydrogen gas produced can also adhere to the surface of the electrode, reducing the surface area in contact with the solution and blocking sites where the reduction of iron can occur. However, it is possible to suppress the Hydrogen Evolution Reaction (HER), by changing its onset potential.
+- We can do this by changing the cell voltage so that the onset potential of hydrogen evolution is not approached.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
