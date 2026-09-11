@@ -52,6 +52,11 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 
 - High degree of iron sticks to the stainless steel electrode. However, more tests need to be ran to determine if this process can be scaled up and what happens at longer durations.
 - Furthermore, experiments showed that higher cell flow velocity (which impacts flow regime (the distribution of fluid phase across the cell), causes higher slurry iron concentration that is deposited)
+- Cell stacking: 1 cell produced 19g of iron, 2 cells produced 31g of metal, and 3 cells produced 54g of metal.
+
+### Ancillary services
+
+This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas vent system.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
