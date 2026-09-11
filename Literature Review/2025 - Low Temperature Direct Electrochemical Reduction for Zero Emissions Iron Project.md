@@ -60,7 +60,9 @@ This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas v
 - Control the voltage across the electrolyser stack
 - Gas control and return electrolyte
 
-Note that iron fines is explosive when in contact with atmosphere, and the sto
+Note that iron fines is explosive when in contact with atmosphere, and the storage of these product will raise concerns with transport and storage.
+
+Since sodium damages the refractory lining of the EAF, the produced iron has to be rinsed thoroughly before insertion into EAF.
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
