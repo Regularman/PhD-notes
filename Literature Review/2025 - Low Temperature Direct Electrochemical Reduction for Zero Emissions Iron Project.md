@@ -46,7 +46,8 @@ Although, 316L and 2205 duplex stainless steel was used, there is a lack of data
 
 The dissolution of gangue in the slurry solution and its build up in the recycled electrolyte can inhibit the evolution of iron from the iron oxide ore.
 - By testing iron oxide reduction in fresh caustic and saturated liquor, it was found that reduction occurred at a significantly higher level in fresh caustic. However, results varied widely between different batches of iron deposit. Inconsistencies also stem from inconsistent flow rate of slurries at different concentration levels
-- Research is done to associate the flow rate with the iron deposit composition to enhance iron recovery 
+- Research is done to associate the flow rate with the iron deposit composition to enhance iron recovery.
+
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
