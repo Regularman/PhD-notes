@@ -44,7 +44,8 @@ Although, 316L and 2205 duplex stainless steel was used, there is a lack of data
 
 ## Effect of gangue in the slurry
 
-
+The dissolution of gangue in the slurry solution and its build up in the recycled electrolyte can inhibit the evolution of iron from the iron oxide ore.
+- By testing iron oxide reduction in fresh caustic an
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
