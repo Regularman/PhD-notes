@@ -72,7 +72,9 @@ Fortescue is developing a DER plant Pilbara operation to deploy the DER technolo
 - It should be noted that the confirmed LEDER specifications are anticipated to be finalised after the Financial Investment Decision on the process with the Fortescue Executive Board which (at the time of writing) is scheduled for March 2025
 
 It is also recognised, that the pure green iron produced via DER lacks carbon. Hence, without carbon the melting point of the iron is significantly higher which may cause smelting operations to change (1536°C cf. 1147°C for iron with 4.3% carbon).
-- They are investigating adding carbon to EAF to decreas
+- They are investigating adding carbon to EAF to decrease melting temperature. However, this will increase the carbon emissions of the process
+
+The budget for the LEDER project feasibility study is estimated to be ~160M AUD.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
