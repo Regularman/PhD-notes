@@ -15,6 +15,8 @@ This is from IEA report from 2020 about achieving net zero.
 - Furthermore, there is a less strict requirement for high grade ores with electrochemical processing
 
 Iron mainly exports iron ore that is 56-62% iron.
+- A significant increase in the demand for DR-grade iron ore is expected towards 2030, which currently makes up only 5% of the global seaborne market.
+- There 
 
 ## Mechanics
 
