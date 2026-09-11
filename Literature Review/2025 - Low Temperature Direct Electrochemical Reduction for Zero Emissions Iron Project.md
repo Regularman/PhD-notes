@@ -16,7 +16,7 @@ This is from IEA report from 2020 about achieving net zero.
 
 Iron mainly exports iron ore that is 56-62% iron.
 - A significant increase in the demand for DR-grade iron ore is expected towards 2030, which currently makes up only 5% of the global seaborne market.
-- There are pressures to decrease production for low grade iron ore, 
+- There are pressures to decrease production for low grade iron ore, due to EAF production from China and increased high grade iron deposits found in Guinea
 
 ## Mechanics
 
