@@ -48,6 +48,9 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 - By testing iron oxide reduction in fresh caustic and saturated liquor, it was found that reduction occurred at a significantly higher level in fresh caustic. However, results varied widely between different batches of iron deposit. Inconsistencies also stem from inconsistent flow rate of slurries at different concentration levels
 - Research is done to associate the flow rate with the iron deposit composition to enhance iron recovery.
 
+### Effect of cell design on production of iron
+
+
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
