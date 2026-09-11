@@ -25,7 +25,9 @@ The full chemical reaction pathway for the electrochemical reduction of iron ore
 
 Another advantage of the electrochemical pathway is that there are lower storage requirements and lower operation costs. Therefore the pathway to commercialisation will most likely be cheaper compared to green hydrogen reduction.
 
-The cathode is a carbon fibres and a polymer matrix pressed onto a steel-backed plate. However, the arbon 
+The cathode is a carbon fibres and a polymer matrix pressed onto a steel-backed plate. However, the carbon is delaminating from this plate during the electrochemical conversion of iron ore, leading to failure of the cell.
+- This might be due to the reactivity between the polymer and the alkaline aquesous solution
+- Or because the temperature of the cell is above the 
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
