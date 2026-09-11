@@ -33,7 +33,8 @@ The cathode is a carbon fibres and a polymer matrix pressed onto a steel-backed 
 The hydrogen gas produced can also adhere to the surface of the electrode, reducing the surface area in contact with the solution and blocking sites where the reduction of iron can occur. However, it is possible to suppress the Hydrogen Evolution Reaction (HER), by changing its onset potential.
 - We can do this by changing the cell voltage so that the onset potential of hydrogen evolution is not approached.
 ![[Screenshot 2026-09-11 at 11.31.08 am.png]]
-The first reaction is the reaction of free hydrogen ions in the electrochemical cell in an acidic solution. However, in a alkaline solution, the hydrogen must be disassociated from water, which carries a larger reduction potential. Therefore, there is significantly lower hydrogen evolution in 
+The first reaction is the reaction of free hydrogen ions in the electrochemical cell in an acidic solution. However, in a alkaline solution, the hydrogen must be disassociated from water, which carries a larger reduction potential. Therefore, there is significantly lower hydrogen evolution in alkaline solution.
+- Hydrogen evolution can also be mitigated through the use of surfactant which repels hydrogen from the surface of the electrochemical cell. This discourages hydrogen evolution and also ensures that hydrogen 
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
