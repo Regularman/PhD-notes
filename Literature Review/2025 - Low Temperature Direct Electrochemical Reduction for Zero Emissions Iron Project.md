@@ -35,6 +35,8 @@ The hydrogen gas produced can also adhere to the surface of the electrode, reduc
 ![[Screenshot 2026-09-11 at 11.31.08 am.png]]
 The first reaction is the reaction of free hydrogen ions in the electrochemical cell in an acidic solution. However, in a alkaline solution, the hydrogen must be disassociated from water, which carries a larger reduction potential. Therefore, there is significantly lower hydrogen evolution in alkaline solution.
 - Hydrogen evolution can also be mitigated through the use of surfactant which repels hydrogen from the surface of the electrochemical cell. This discourages hydrogen evolution and also ensures that hydrogen bubbles do not stick to the cell, which increases turbulence and solution mixing to reduce the inhibiting impact of hydrogen evolution.
+
+For corrosive resistant materials, due to elevated temperatures, common materials such as polyethylene, polyvinyl chloride, carbon steel cannot be used.
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
