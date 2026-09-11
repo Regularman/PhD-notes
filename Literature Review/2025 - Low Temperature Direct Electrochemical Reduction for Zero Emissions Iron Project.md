@@ -28,7 +28,7 @@ Another advantage of the electrochemical pathway is that there are lower storage
 The cathode is a carbon fibres and a polymer matrix pressed onto a steel-backed plate. However, the carbon is delaminating from this plate during the electrochemical conversion of iron ore, leading to failure of the cell.
 - This might be due to the reactivity between the polymer and the alkaline aqueous solution
 - Or because the temperature of the cell is above the glass melting temperature which softens the polymer
-- Currently finding suitable thermoplastics with glass melting temperature above $110
+- Currently finding suitable thermoplastics with glass melting temperature above $110\degree C$
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
