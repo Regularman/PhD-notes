@@ -53,13 +53,18 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 - High degree of iron sticks to the stainless steel electrode. However, more tests need to be ran to determine if this process can be scaled up and what happens at longer durations.
 - Furthermore, experiments showed that higher cell flow velocity (which impacts flow regime (the distribution of fluid phase across the cell), causes higher slurry iron concentration that is deposited)
 - Cell stacking: 1 cell produced 19g of iron, 2 cells produced 31g of metal, and 3 cells produced 54g of metal.
-
 ### Ancillary services
 
 This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas vent system.
 - This needs to supply the electrolyte at the correct composition, temperature, flow, and pressure
 - Control the voltage across the electrolyser stack
 - Gas control and return electrolyte
+
+Note that iron fines is explosive when in contact with atmosphere, and the sto
+### Next steps
+
+Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
+- It should be noted that the confirmed LEDER specifications are anticipated to be finalised after the Financial Investment Decision on the process with the Fortescue Executive Board which (at the time of writing) is scheduled for March 2025
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
