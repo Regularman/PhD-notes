@@ -61,8 +61,7 @@ This includes rectifier, electrolyte tanks, heaters, circulation pumps and gas v
 - Gas control and return electrolyte
 
 Note that iron fines is explosive when in contact with atmosphere, and the storage of these product will raise concerns with transport and storage.
-- Can be addressed through briquetting for transport
-
+- Can be addressed through briquetting for transport. Needs to exceed $5 t/m^3$ density can be achieved to prevent pyrolytic reactions
 Since sodium damages the refractory lining of the EAF, the produced iron has to be rinsed thoroughly before insertion into EAF.
 - Respond to this through the development of automated metal detection systems
 - Silica and alumina are required to be below 3% for addition to an EAF or BOF. The DER product is currently meeting these levels, but if the feed ore is changed or the impurities are not appropriately managed this will need to be monitored.
@@ -73,6 +72,7 @@ Fortescue is developing a DER plant Pilbara operation to deploy the DER technolo
 - It should be noted that the confirmed LEDER specifications are anticipated to be finalised after the Financial Investment Decision on the process with the Fortescue Executive Board which (at the time of writing) is scheduled for March 2025
 
 It is also recognised, that the pure green iron produced via DER lacks carbon. Hence, without carbon the melting point of the iron is significantly higher which may cause smelting operations to change (1536°C cf. 1147°C for iron with 4.3% carbon).
+- They are investigating adding carbon to EAF to decreas
 ## Further Readings 
 
 Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
