@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
-		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2422,"y":-298,"width":430,"height":128,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2065,"y":-2160,"width":400,"height":193,"color":"1"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
@@ -61,8 +60,6 @@
 		{"id":"5e9f83f6b5f9c4b8","type":"file","file":"PhD-notes/Literature Review/2026 - Multi-sectoral Energy Integration of Low Temperature Brewery Process, Manufacturing Industry and District Heating Network.md","x":-5965,"y":-1268,"width":400,"height":145,"color":"6"},
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1495,"width":400,"height":189,"color":"6"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-5165,"y":-680,"width":400,"height":200,"color":"6"},
-		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2960,"y":-292,"width":400,"height":122,"color":"3"},
-		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3507,"y":-644,"width":400,"height":175,"color":"3"},
 		{"id":"a4f221d6d032dc7c","type":"file","file":"PhD-notes/Literature Review/2018 - Finding the cost of flexible operation with a heat pump using exergoeconomic calculations.md","x":-3045,"y":-641,"width":400,"height":172,"color":"3"},
 		{"id":"8d1be414973da2bc","type":"text","text":"# ~={yellow}Operation Optimisation=~","x":-2852,"y":-832,"width":250,"height":72,"color":"3"},
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1720,"width":400,"height":166,"color":"6"},
@@ -136,7 +133,10 @@
 		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4014,"y":-887,"width":400,"height":111,"color":"5"},
 		{"id":"0d13b4fa33a2291d","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4010,"y":-736,"width":400,"height":215,"color":"5"},
 		{"id":"d397d71d9daf5a9e","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4010,"y":-481,"width":400,"height":163,"color":"5"},
-		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-3516,"y":-359,"width":400,"height":165,"color":"5"}
+		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-3516,"y":-359,"width":400,"height":165,"color":"5"},
+		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3491,"y":-736,"width":400,"height":175,"color":"3"},
+		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2327,"y":-63,"width":430,"height":128,"color":"3"},
+		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2457,"y":-318,"width":400,"height":122,"color":"3"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
