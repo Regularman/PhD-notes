@@ -63,6 +63,8 @@ The ULCOWIN cell version N°2 was operated eighteen times. Each experimental tes
 several tens of hours. It resulted in the production of weight significant iron samples. These
 experiments contributed to test if the technology developed checked the specifications.
 - The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages.
+
+This stage produced
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
