@@ -57,14 +57,28 @@ Anode also needs to be designed for efficient transfer of electrons and capture 
 
 ### Scaling up the process - Development of a laboratory scale pilot
 
-In the first pilot plant, low faradaic yield was reported due to electrolyte leakage , and the settling of the iron fines, creates short circuits that bypasses the redox reaction. The new pilot cell sets out to fix these issues to improve faradaic efficiency.
+In the first pilot plant, low faradaic yield was reported due to electrolyte leakage, and the settling of the iron fines, creates short circuits that bypasses the redox reaction. The new pilot cell sets out to fix these issues to improve faradaic efficiency. Some other design changes made were
+- Even current distribution on the cathode to control the growth of iron solid phase and uniformity of the reaction rate
+- Tightening of the cell to prevent leakage of electrolyte and short circuiting. Previously, loosening of the cell was caused by the poor structural properties of the graphite cathode. This has been replaced with magnesium and cupronickel
+
+The ULCOWIN cell version N°2 was operated eighteen times. Each experimental test lasts typically several tens of hours. It resulted in the production of weight significant iron samples. These experiments contributed to test if the technology developed checked the specifications.
+- The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages. Remember that cobalt is plated on nickel to accelerate the 
+
+During this second pilot trial, 3.605kg of iron deposit was collected with a 70% faradaic efficiency over the long term. However, short term efficiency was 91% (this was the maximum reduction rate shown in early lab scale trials), suggesting degradation of performance overtime. Some positives were 
+- Showed that in situ harvesting of the deposit is possible on the magnesium and graphite cathode but not the cupronickel. Iron plates are harvested without dismantling the cells. Cupronickel is unsuited due to iron sticking and magnesium is hydrogen sensitive, fuses with hydrogen radicals in the iron to form magnesium oxide, which consumes the magnesium. Therefore, it is proposed graphite is used with stiff cupronickel support.
+
+Based on the learnings of the second pilot scale tests, improvements have been made and CFD simulations 
 
 The ULCOWIN cell version N°2 was operated eighteen times. Each experimental test lasts typically
 several tens of hours. It resulted in the production of weight significant iron samples. These
 experiments contributed to test if the technology developed checked the specifications.
 - The electrocatalytic anode with nickel cobalt plating did not work due to the dissolution of cobalt during electrolysis at higher voltages.
-
-This stage produced
 ### LCA
 
 ![[Screenshot 2026-09-10 141026.png]]
+
+The LCA for electrowinning is high level and developed from the operational emissions perspective. 
+- Note that the electricity for leaching uses a simple COP equation, $COP = \frac{T_{hot}}{T_{hot}-T_{cold}}$, which is $COP = \frac{1}{1-\frac{T_{cold}}{T_{hot}}}$. Hence, the electricity required is the $$heat \times COP$$However, I was able to calculate much lower electrical consumptions due to an error in the paper's calculation. Since ~4.3GJ/t-alumina is required, using digestion at $150\degree C$, we can say that the electricity required per tonne of of alumina is $352.97kWh/t-alumina$. The amount of alumina, as the iron oxide concentration goes from 95% to 98%, and the amount of alumina in bauxite is 41%, is $0.41\times (1-\frac{0.95}{0.98})$. Therefore, the electricity consumption per ton of iron metal is around $6.64kWh/t-metal$, rather than the suggested $200kWh/t-metal$. 
+
+- The electrowinning step also assumes 95% Faradaic efficiency and 100% conversion on a cell voltage of 1.7V.
+![[Screenshot 2026-09-10 at 11.11.39 pm.png]]
