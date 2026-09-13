@@ -66,12 +66,14 @@ Scope 3 emission consider that other sectors that provide the secondary material
 - 15% lower energy demand compared to BF BOF
 
 However, this study does not count the coal and natural gas that is needed in the EAF or induction furnace stage?
-- Assumes that there is not coal or natural gas used, which means that more electrical energy is needed at the induction furnace stage?
+- Assumes that there is not coal or natural gas used, which means that more electrical energy is needed at the induction furnace stage? However, this does not include the natural gas and coal which is inserted into EAF processes and hot rolling processes to accommodate for the fact that the hot charge coming out of the electrochemical cell is very low in carbon. (This may account for the higher electricity comsumption (4.7MWh/t-HRC compared to 3.3MWh in the ULCOWIN paper). [[2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN]]
 - However, there is a lot of uncertainty around the H-DRI and SIDERWIN data due to a lack of industrial case studies to look at.
 - Only focuses on raw material extraction, steel production, and steel recycling. Steel manufacturing and use was too varied to look at.
 ![[Screenshot 2026-09-13 120159.png]]
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
+![[Screenshot 2026-09-13 124351.png]]
+
 
 ## Techno-economic analysis
 
