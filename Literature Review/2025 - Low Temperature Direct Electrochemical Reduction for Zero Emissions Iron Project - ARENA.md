@@ -81,7 +81,7 @@ The cell electrochemistry depends on the thermodynamic potential, electrode over
 
 ![[Screenshot 2026-09-13 142356.png|399]]
 
-
+More work needs to be done to understand the long term continuous of the membrane under the given overvo
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
