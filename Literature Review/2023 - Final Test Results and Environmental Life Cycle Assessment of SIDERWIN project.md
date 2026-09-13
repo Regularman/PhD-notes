@@ -74,14 +74,14 @@ However, this study does not count the coal and natural gas that is needed in th
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
 
 ![[Screenshot 2026-09-13 124351.png]]
-- DCAL - DeCalcification by Acid Leaching
+- DCAL - Decalcification by Acid Leaching
 - LTDA - Low Temperature De-alumination
 - UFMI - Ultrafine milling of iron ore
 - EWIM - Electrowinning of iron metal
-- ARME - Acid base regeneration by membrane elctronisation
+- ARME - Acid base regeneration by membrane electronisation
 - IMIS - Induction melting of iron metal into steel
-- CCOS
-- 
+- CCOS - Carbon capture and sequestration
+- SHRM - Steel hot rolling mill
 
 ## Techno-economic analysis
 
