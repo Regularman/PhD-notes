@@ -13,9 +13,9 @@ Potential to incorporate mill scales from the steel industry as inputs for circu
 ## Pilot Technical Performance
 
 
-| Trial | Pros | Cons |
-| ----- | ---- | ---- |
-|       |      |      |
+| Trial | Pros                                                                                                                                                                   | Cons |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 1     | based on the ULCOWIN trials, performed in 50 wt% NaOH electrolyte solution with 33wt% of synthetic hematite. Used a graphite cathode and nickel anode leading to fragm |      |
 
 ## LCA - final results
 
