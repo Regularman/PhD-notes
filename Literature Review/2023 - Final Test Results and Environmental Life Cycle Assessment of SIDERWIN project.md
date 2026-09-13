@@ -97,9 +97,7 @@ Note that there is no carbon input into the entire SIDERWIN process. This is com
 
 However, ultimately, the LCA does not look at the difference in ore qualities used for the electrochemical reduction process. Furthermore, there are location specific impact factors such as eco-toxicity that depends on the availability of wastewater treatment facilities,.
 
-### End of life analysis
-
-Due to the high recycling rate of steel,
+It should be noted that due to the oc
 ## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
