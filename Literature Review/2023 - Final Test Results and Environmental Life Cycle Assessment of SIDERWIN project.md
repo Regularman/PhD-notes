@@ -10,6 +10,13 @@ Confirmed 2.7MWh of Fe produced are reachable in optimised conditions.
 
 Potential to incorporate mill scales from the steel industry as inputs for circular economy practises.
 
+## Pilot Technical Performance
+
+
+| Trial | Pros | Cons |
+| ----- | ---- | ---- |
+|       |      |      |
+
 ## LCA - final results
 
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
@@ -42,7 +49,7 @@ However, this study does not count the coal and natural gas that is needed in th
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
 
-### Techno-economic analysis
+## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
 
