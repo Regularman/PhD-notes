@@ -95,7 +95,7 @@ Note that there is no carbon input into the entire SIDERWIN process. This is com
 
 ![[Screenshot 2026-09-13 132805 1.png]]
 
-However, ultimately, the LCA does not look at the difference in ore qualities used for the electrochemical reduction process
+However, ultimately, the LCA does not look at the difference in ore qualities used for the electrochemical reduction process. Furthermore, there are location specific impact factors such as eco-toxicity that depends on the availability of wastewater treatment facilities,.
 
 ## Techno-economic analysis
 
