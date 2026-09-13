@@ -28,7 +28,8 @@ To have a full picture of the environmental impact of all assessed technologies,
 
 ### Results
 
-Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid, which in the renewable scenario, the grid is 100% decarbonised. In the mixed scenario, the SIDERWIN process is also operating as 
+Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid, which in the renewable scenario, the grid is 100% decarbonised. In the mixed scenario, the SIDERWIN process is also operating as demand responser operator.
 
 Scope 3 emission consider that other sectors that provide the secondary material source such as iron ore mining and titanium mining, are also decarbonising. Therefore, the emission data may be over-estimated.
+- In the mixed scenario, SIDERWIN has 9% more higher water consumption due to evaporated water du to hydropower production. While land use land use for SIDERWIN is 126% hgiher 
 ![[Screenshot 2026-09-13 120159.png]]
