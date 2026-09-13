@@ -94,6 +94,9 @@ Note that there is no carbon input into the entire SIDERWIN process. This is com
 ![[Screenshot 2026-09-13 132659.png]]
 
 ![[Screenshot 2026-09-13 132805 1.png]]
+
+However, ultimately, the LCA does not look at the difference in ore qualities used for the electrochemical reduction process
+
 ## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
