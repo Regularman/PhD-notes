@@ -100,10 +100,5 @@ However, ultimately, the LCA does not look at the difference in ore qualities us
 It should be noted that due to the consumption of natural gas and coal for CSS, the increasing reliance of iron and steel making does not actually reduce the cumulative energy demand of with SIDERWIN.![[Screenshot 2026-09-13 140721.png]]
 
 Rather, a full decarbonisation of the grid supply, by taking out coal and gas with CCS, is required to reduce the total fuel consumption required.
-## Techno-economic analysis
 
-![[Screenshot 2026-09-13 121355.png]]
-
-The market for DSR and grid flexibility is increasing due to the growth of intermittent renewables.
-
-Economic results show that SIDERWIN has the potential to be profitable form 2030 onwards.
+One last note on the end of life management of the steel. It is noted that due to the high recy
