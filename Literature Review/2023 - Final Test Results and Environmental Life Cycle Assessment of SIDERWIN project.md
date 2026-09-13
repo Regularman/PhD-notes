@@ -98,6 +98,8 @@ Note that there is no carbon input into the entire SIDERWIN process. This is com
 However, ultimately, the LCA does not look at the difference in ore qualities used for the electrochemical reduction process. Furthermore, there are location specific impact factors such as eco-toxicity that depends on the availability of wastewater treatment facilities,.
 
 It should be noted that due to the consumption of natural gas and coal for CSS, the increasing reliance of iron and steel making does not actually reduce the cumulative energy demand of with SIDERWIN.![[Screenshot 2026-09-13 140721.png]]
+
+Rather, a full decarbonisation of the grid supply, by taking out coal and gas with CCS, is required to reduce the total fuel consumption required.
 ## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
