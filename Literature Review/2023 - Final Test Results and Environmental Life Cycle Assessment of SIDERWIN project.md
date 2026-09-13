@@ -12,4 +12,4 @@ Potential to incorporate mill scales from the steel industry as inputs for circu
 
 ## LCA - final results
 
-Assuming that renewable energy will have 
+Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
