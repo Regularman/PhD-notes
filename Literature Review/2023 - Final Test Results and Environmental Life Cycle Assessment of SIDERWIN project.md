@@ -85,6 +85,7 @@ In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking
 - SHRM - Steel hot rolling mill
 
 Note that there is no carbon input into the entire SIDERWIN process. This is compared to the energy and mass balance of H-DRI and BF-BOF.
+- It is also assumed that all electricity for the SIDERWIN process comes from hydro-electricity, which is not realistic when considering other impacts
 ![[Screenshot 2026-09-13 132659.png]]
 
 
