@@ -31,6 +31,7 @@ The heating elements can be split up based on
 - Introduction and heating of the electrolyte in the loop
 - Electrolysis
 - Hot rinsing and extraction of the plate
+Interruption of the heating elements were maintained in the step 1,2, and 4. Due to the heat loss during the cut off period, these process have a relatively long recovery phase,
 ## LCA - final results
 
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
