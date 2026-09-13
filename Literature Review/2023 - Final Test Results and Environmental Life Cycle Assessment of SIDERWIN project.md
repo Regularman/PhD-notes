@@ -30,5 +30,5 @@ Does not consider that other sectors that provide the secondary material source 
 
 ### Results
 
-Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid, which t
+Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid, which in the renewable scenario, the grid is 100% decarbonised.
 ![[Screenshot 2026-09-13 120159.png]]
