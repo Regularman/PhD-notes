@@ -65,6 +65,8 @@ Scope 3 emission consider that other sectors that provide the secondary material
 - SIDERWIN has 43% lower human health impact
 - 15% lower energy demand compared to BF BOF
 
+Assuming total penetration of the SIDERWIN project and 4000Mt CO2-eq in Europe in 2020, the implementation of SIDERWIN can lead to a reduction of total European emission by 3%.
+
 However, this study does not count the coal and natural gas that is needed in the EAF or induction furnace stage?
 - Assumes that there is not coal or natural gas used, which means that more electrical energy is needed at the induction furnace stage? However, this does not include the natural gas and coal which is inserted into EAF processes and hot rolling processes to accommodate for the fact that the hot charge coming out of the electrochemical cell is very low in carbon. (This may account for the higher electricity comsumption (4.7MWh/t-HRC compared to 3.3MWh in the ULCOWIN paper). [[2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN]]
 - However, there is a lot of uncertainty around the H-DRI and SIDERWIN data due to a lack of industrial case studies to look at.
