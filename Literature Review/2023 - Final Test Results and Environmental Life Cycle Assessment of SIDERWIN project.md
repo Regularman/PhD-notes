@@ -72,6 +72,7 @@ However, this study does not count the coal and natural gas that is needed in th
 ![[Screenshot 2026-09-13 120159.png]]
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
+- The scope 3 emissions in the SIDERWIN case is ~400kgCO2/t-HRC. This mostly stems from the transporta
 
 ![[Screenshot 2026-09-13 124351.png]]
 - DCAL - Decalcification by Acid Leaching
@@ -88,7 +89,7 @@ Note that there is no carbon input into the entire SIDERWIN process. This is com
 - It is also assumed that all electricity for the SIDERWIN process comes from hydro-electricity, which is not realistic when considering other impacts
 ![[Screenshot 2026-09-13 132659.png]]
 
-
+![[Screenshot 2026-09-13 132805 1.png]]
 ## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
