@@ -76,6 +76,11 @@ In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking
 ![[Screenshot 2026-09-13 124351.png]]
 - DCAL - DeCalcification by Acid Leaching
 - LTDA - Low Temperature De-alumination
+- UFMI - Ultrafine milling of iron ore
+- EWIM - Electrowinning of iron metal
+- ARME - Acid base regeneration by membrane elctronisation
+- IMIS - Induction melting of iron metal into steel
+- CCOS
 - 
 
 ## Techno-economic analysis
