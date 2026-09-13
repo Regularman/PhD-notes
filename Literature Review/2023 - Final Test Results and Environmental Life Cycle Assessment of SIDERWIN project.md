@@ -39,3 +39,5 @@ Scope 3 emission consider that other sectors that provide the secondary material
 However, this study does not count the coal and natural gas that is needed in the EAF or induction furnace stage?
 - Assumes that there is not coal or natural gas used, which means that more electrical energy is needed at the induction furnace stage?
 ![[Screenshot 2026-09-13 120159.png]]
+
+In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to 
