@@ -27,3 +27,8 @@ If the entire steel industry converted to SIDERWIN technology, the grid load per
 To have a full picture of the environmental impact of all assessed technologies, not only climate change impacts are considered but also other indicators such as water use, land use, human health, ecosystem quality and energy demand.
 
 Does not consider that other sectors that provide the secondary material source such as iron ore mining and titanium mining, are also decarbonising. Therefore, the emission data may be over-estimated.
+
+### Results
+
+Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid, which t
+![[Screenshot 2026-09-13 120159.png]]
