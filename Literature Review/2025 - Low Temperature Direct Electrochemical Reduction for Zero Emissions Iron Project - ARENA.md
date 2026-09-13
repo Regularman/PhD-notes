@@ -81,7 +81,9 @@ The cell electrochemistry depends on the thermodynamic potential, electrode over
 
 ![[Screenshot 2026-09-13 142356.png|399]]
 
-More work needs to be done to understand the long term continuous of the membrane under the given overvo
+More work needs to be done to understand the long term continuous of the membrane under the given overvoltage conditions and caustic environments.
+- Furthermore, since thinner membranes shows vulnerability, research is done to incorporate a thin protective layer to enhance gas barrier performance
+- Pore size engineering for improved ionic conductivity, gas separation, and overall performance.
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
