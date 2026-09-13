@@ -84,6 +84,8 @@ In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking
 - CCOS - Carbon capture and sequestration
 - SHRM - Steel hot rolling mill
 
+This is compared to the energy and mass balance of H-DRI and BF-BOF.
+![[Screenshot 2026-09-13 132659.png]]
 ## Techno-economic analysis
 
 ![[Screenshot 2026-09-13 121355.png]]
