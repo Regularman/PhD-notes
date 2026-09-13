@@ -15,3 +15,5 @@ Potential to incorporate mill scales from the steel industry as inputs for circu
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
 
 - The functional unit is 1t of HRC and the total steel production in Europe.
+
+Considers the use of an induction furnace for the melting of the iron to form hot rolled steel. The total electricity consumption is 4.3MWh/t of HRC
