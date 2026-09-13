@@ -72,6 +72,10 @@ Since sodium damages the refractory lining of the EAF, the produced iron has to 
 - Respond to this through the development of automated metal detection systems
 - Silica and alumina are required to be below 3% for addition to an EAF or BOF. The DER product is currently meeting these levels, but if the feed ore is changed or the impurities are not appropriately managed this will need to be monitored.
 - Nickel and chrome from the stainless steel has been detected in the iron product, which will have to be tracked.
+### Membrane development
+
+The cell electrochemistry depends on the thermodynamic potential, electrode overpotentials, and ohmic losses to which the electrolyte and membrane (separator) are major contributors. 
+- Thciker memb
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
