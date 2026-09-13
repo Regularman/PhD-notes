@@ -72,7 +72,7 @@ However, this study does not count the coal and natural gas that is needed in th
 ![[Screenshot 2026-09-13 120159.png]]
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
-- The scope 3 emissions in the SIDERWIN case is ~400kgCO2/t-HRC. This mostly stems from the transportation of beneficiated iron ore, as well as the input of secondary metals for steel property calibration. Therefore, the total scope 1 and 2 emissions, which is what is counted in the APVI spreadsheet, is ~0.1tCO23/t-HRC, which represents 
+- The scope 3 emissions in the SIDERWIN case is ~400kgCO2/t-HRC. This mostly stems from the transportation of beneficiated iron ore, as well as the input of secondary metals for steel property calibration. Therefore, the total scope 1 and 2 emissions, which is what is counted in the APVI spreadsheet, is ~0.1tCO23/t-HRC, which represents ~93% reduction in carbon emissions, down from 1.5tCO2 needed for BF-BOF processes
 
 ![[Screenshot 2026-09-13 133721.png|368]]
 
