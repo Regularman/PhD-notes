@@ -52,6 +52,7 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 Note that Goethite thermally dehydroxylates to hematite once heated above $300\degree C$. This phase transformation released 10wt% of water and drives structural rearrangement from goethite to corundum type hematite lattice. 
 - This creates microporosity and increases surface area to maximise NaOH wetting and permeability in the solid particle during leaching. This also shortens diffusion path lengths for ionic transport and increase the electrochemically active interfacial area to improve DER kinetics and Faradaic efficiency.
 
+ The study also shows that highly caustic solutions is required to work with iron ore of complex purity and overcome the chemical complexity of the indsutrial feedstocks.
 
 This hints at the potential need for a thermal pre-treatment process to turn goethite into hematite.
 - Time-series studies showed that goethite is consumed first, followed by hematite and magnetite, implying that residual goethite limits metallic iron formation and motivating ore pre-treatment, such as thermal conversion of goethite to hematite
