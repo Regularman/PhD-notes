@@ -44,3 +44,8 @@ In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking
 
 ### Techno-economic analysis
 
+![[Screenshot 2026-09-13 121355.png]]
+
+The market for DSR and grid flexibility is increasing due to the growth of intermittent renewables.
+
+Economic results show that SIDERWIN has the potential to be profitable form 2030 onwards.
