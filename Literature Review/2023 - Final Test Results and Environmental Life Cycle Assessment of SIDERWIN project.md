@@ -22,6 +22,8 @@ The average metallic iron content across the different trials was found to be ar
 - Based on the weight of the iron plate produced and the assessment of hydrogen produces, was close to 90% under stable working conditions
 
 Showed energy consumptions of 2.7MWh/t under stable operating conditions such as thermal stability, good gas management and uniform and stable electrolute flow.  However, in some trials, this can rise to 7MWh/t due to imperfect conditions.
+
+Reactive power is about 30% of the active power and is satisfactory in comparison to the 40% limit set by France. Correction capacitors can be implemented to reduce the reactive power
 ## LCA - final results
 
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
