@@ -1,4 +1,5 @@
 https://arena.gov.au/assets/2025/05/Fortescue-Low-Temp-DER-for-Zero-Emissions-Iron-Core-Research-Interim-Report.pdf
+https://arena.gov.au/assets/2026/01/Fortescue-Low-Temp-Direct-Electrochemical-Reduction-for-Zero-Emissions-Iron-Core-Research-Final-Report.pdf
 
 Part of the ARENA Transforming Research Accelerating Commercialisation Research.
 ## Context
@@ -49,7 +50,9 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 - Research is done to associate the flow rate with the iron deposit composition to enhance iron recovery.
 
 Note that Goethite thermally dehydroxylates to hematite once heated above $300\degree C$. This phase transformation released 10wt% of water and drives structural rearrangement from goethite to corundum type hematite lattice. 
-- This creates microporosity and increases surface area to maximise NaOH wetting and permeability in the solid particle during leaching. This also shortens diffusion pat
+- This creates microporosity and increases surface area to maximise NaOH wetting and permeability in the solid particle during leaching. This also shortens diffusion path lengths for ionic transport and increase the electrochemically active interfacial area to improve DER kinetics and Faradaic efficiency.
+
+This hints at the potential need for a thermal pre-treatment process to turn goethite into hematite.
 
 ### Effect of cell design on production of iron
 
