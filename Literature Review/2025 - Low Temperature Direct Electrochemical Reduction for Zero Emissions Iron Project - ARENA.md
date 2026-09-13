@@ -48,6 +48,8 @@ The dissolution of gangue in the slurry solution and its build up in the recycle
 - By testing iron oxide reduction in fresh caustic and saturated liquor, it was found that reduction occurred at a significantly higher level in fresh caustic. However, results varied widely between different batches of iron deposit. Inconsistencies also stem from inconsistent flow rate of slurries at different concentration levels
 - Research is done to associate the flow rate with the iron deposit composition to enhance iron recovery.
 
+Note that Goethite thermally dehydroxylates to hematite once heated above $300\degree C$. This pahse transofrma
+
 ### Effect of cell design on production of iron
 
 - High degree of iron sticks to the stainless steel electrode. However, more tests need to be ran to determine if this process can be scaled up and what happens at longer durations.
