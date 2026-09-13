@@ -78,6 +78,10 @@ The cell electrochemistry depends on the thermodynamic potential, electrode over
 - Thicker membrane increases the ionic path length and energy use but improves the mechanical robustness.
 - Thinner membranes allow for higher current densities
 - The separator must simultaneously separate gas, block solid crossover and withstand alkaline conditions.
+
+![[Screenshot 2026-09-13 142356.png|399]]
+
+
 ### Next steps
 
 Fortescue is developing a DER plant Pilbara operation to deploy the DER technology at scale. This plant will be known as the Pilbara Low Energy Direct Electrochemical Reduction Process plant (Pilbara LEDER Plant) hereafter. The Pilbara LEDER plant is targeted at a 150 tonne per annum scale.
