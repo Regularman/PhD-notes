@@ -21,7 +21,7 @@ Potential to incorporate mill scales from the steel industry as inputs for circu
 The average metallic iron content across the different trials was found to be around 96% and can be up to 98.7 % under stable working conditions.
 - Based on the weight of the iron plate produced and the assessment of hydrogen produces, was close to 90% under stable working conditions
 
-
+Showed energy consumptions of 2.7MWh/t under stable operating conditions such as thermal stability, good gas management and uniform and stable electrolute flow.  However, 
 ## LCA - final results
 
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
