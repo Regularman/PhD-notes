@@ -72,7 +72,9 @@ However, this study does not count the coal and natural gas that is needed in th
 ![[Screenshot 2026-09-13 120159.png]]
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
-- The scope 3 emissions in the SIDERWIN case is ~400kgCO2/t-HRC. This mostly stems from the transporta
+- The scope 3 emissions in the SIDERWIN case is ~400kgCO2/t-HRC. This mostly stems from the transportation of beneficiated iron ore, as well as the input of secondary metals for steel property calibration
+
+![[Screenshot 2026-09-13 133721.png|368]]
 
 ![[Screenshot 2026-09-13 124351.png]]
 - DCAL - Decalcification by Acid Leaching
