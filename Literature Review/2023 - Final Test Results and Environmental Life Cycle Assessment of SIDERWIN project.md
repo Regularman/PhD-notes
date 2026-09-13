@@ -62,7 +62,7 @@ Note that in the mixed case, we are assuming 2050 scenario of 70% renewable grid
 Scope 3 emission consider that other sectors that provide the secondary material source such as iron ore mining and titanium mining, are also decarbonising. Therefore, the emission data may be over-estimated.
 - In the mixed scenario, SIDERWIN has 9% more higher water consumption due to evaporated water du to hydropower production as well as cooling water required to produce nuclear electricity
 - While land use for SIDERWIN is 126% higher, due to the forest occupation required to produce woodchip for bioenergy production
-- SIDERWIN has 43% lower human health impact due to the lower emissions of respiratory organics from the cking process and iron ore extraction and transport
+- SIDERWIN has 43% lower human health impact due to the lower emissions of respiratory organics from the coking process and iron ore extraction and transport
 - 15% lower energy demand compared to BF BOF
 
 Assuming total penetration of the SIDERWIN project and 4000Mt CO2-eq in Europe in 2020, the implementation of SIDERWIN can lead to a reduction of total European emission by 3%.
