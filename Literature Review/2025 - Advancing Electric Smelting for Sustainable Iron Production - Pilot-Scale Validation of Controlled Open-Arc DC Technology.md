@@ -19,6 +19,11 @@ AC furnaces have three electrodes, while DC furnaces only have one electrode. DC
 - However, in this case, DC smelting identified as more optimal for the electric smelting of DRI, due to arc stability, heat transfer efficiency and smelting intensity potential. Precise control is requried to achieve optimal metallurgical performance. 
 
 There are two types of operations - arc smelting, and resistance heating through submerged electrodes.
+
+The DC SOAC (open arc furnace) with 150mm graphite electrode with am imbedded pin anode design, DC furnace. The voltage is maintained through a hoist system that controls the voltage at a specific target, which is made easier to manage as the system is DC.
 ## Pilot Project
 
+Achieved thermal efficiency of 424kW/m^2 of bath power, and a feed rate of 216 kg/h/m^2. The rate of energy loss was 96kWh/h.
+
+This technology could support the lowe carbon pathways of DRI-EAF, which can integrate hydrogen DRI and remove the need for coke ovens and blas furnaces in the industry. The electric smelter is needed to remove impurities in lower grade iron ores before processing in EAF.
 ## Demonstration Project
