@@ -16,4 +16,6 @@ Assuming that renewable energy will have 50% of the demand by 2040 and 70% of th
 
 - The functional unit is 1t of HRC and the total steel production in Europe.
 
-Considers the use of an induction furnace for the melting of the iron to form hot rolled steel. The total electricity consumption is 4.3MWh/t of HRC
+Considers the use of an induction furnace for the melting of the iron to form hot rolled steel. The total electricity consumption is 4.3MWh/t of HRC.
+
+If the entire steel industry converted to SIDERWIN technology, the grid load per year will be an additional 470TWh, which is the additional electricity demand of France
