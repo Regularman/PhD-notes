@@ -22,3 +22,4 @@ Considers the use of an induction furnace for the melting of the iron to form ho
 
 If the entire steel industry converted to SIDERWIN technology, the grid load per year will be an additional 470TWh, which is the additional electricity demand of France
 - The power demand in Europe will be an additional 53.8GW, 42.8GW of which is due to electrolysis
+- To best meet this demand, the EU is considering either nuclear or offshore wind technologies. The building of additional generation will also transform the power system, and the direct C
