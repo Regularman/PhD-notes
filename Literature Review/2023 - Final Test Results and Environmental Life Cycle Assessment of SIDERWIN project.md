@@ -21,4 +21,4 @@ Assuming that renewable energy will have 50% of the demand by 2040 and 70% of th
 Considers the use of an induction furnace for the melting of the iron to form hot rolled steel. The total electricity consumption is 4.3MWh/t of HRC.
 
 If the entire steel industry converted to SIDERWIN technology, the grid load per year will be an additional 470TWh, which is the additional electricity demand of France
-- The power deman in Europe will be an additional 53.8GW, 42.8GW of which is due to electrollise.
+- The power demand in Europe will be an additional 53.8GW, 42.8GW of which is due to electrolysis
