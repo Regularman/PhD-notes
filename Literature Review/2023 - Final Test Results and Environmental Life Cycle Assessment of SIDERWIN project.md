@@ -101,4 +101,4 @@ It should be noted that due to the consumption of natural gas and coal for CSS, 
 
 Rather, a full decarbonisation of the grid supply, by taking out coal and gas with CCS, is required to reduce the total fuel consumption required.
 
-One last note on the end of life management of the steel. It is noted that due to the high recy
+One last note on the end of life management of the steel. It is noted that due to the high recycling rate, the end of life emission of steel is often negative. However, the 
