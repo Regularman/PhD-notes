@@ -23,6 +23,8 @@ The average metallic iron content across the different trials was found to be ar
 
 Showed energy consumptions of 2.7MWh/t under stable operating conditions such as thermal stability, good gas management and uniform and stable electrolute flow.  However, in some trials, this can rise to 7MWh/t due to imperfect conditions.
 
+### Demand flexibility
+
 Reactive power is about 30% of the active power and is satisfactory in comparison to the 40% limit set by France. Correction capacitors can be implemented to reduce the reactive power
 - The main electrical consumers, heating elements and electrolyser, implemented at the different stages of the process, are easy to control independently and have an excellent responsiveness to cut-off as the power can drop from full power to 0 in less than 100 ms on request. This level of responsiveness means that this process could, at an industrial scale, be positioned on the most challenging and profitable demand response markets, such as the interruptibility mechanism in France, which requires a maximum delay of 5s.
 
@@ -33,7 +35,7 @@ The heating elements can be split up based on
 - Hot rinsing and extraction of the plate
 Interruption of the heating elements were maintained in the step 1,2, and 4. Due to the heat loss during the cut off period, these process have a relatively long recovery phase, which increases specific power consumption and increases product cycle duration. However, this was not the case for the electrolyser, where the power and production recovery is almost instantaneous provided that the temperature condition remain stable during the cut-off period.
 
-- Did not evaluate the impact of interruption on the product quality as extended production itnerruption could not be maint
+- Did not evaluate the impact of interruption on the product quality as extended production interruption could not be maintained in the pilot scale facility.
 ## LCA - final results
 
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
