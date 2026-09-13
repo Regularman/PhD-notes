@@ -136,7 +136,8 @@
 		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-3516,"y":-359,"width":400,"height":165,"color":"5"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3491,"y":-736,"width":400,"height":175,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2327,"y":-63,"width":430,"height":128,"color":"3"},
-		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2457,"y":-318,"width":400,"height":122,"color":"3"}
+		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2457,"y":-318,"width":400,"height":122,"color":"3"},
+		{"id":"4ee44f12a55fc5d5","x":-3516,"y":-521,"width":400,"height":122,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -264,6 +265,7 @@
 		{"id":"eef0be3c4b272520","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
 		{"id":"8e6777d69e2abb8d","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"0d13b4fa33a2291d","toSide":"left"},
 		{"id":"4d1cc77262efebdb","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"d397d71d9daf5a9e","toSide":"left"},
-		{"id":"b2cf8cf764fe1675","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"7635801f656da2b9","toSide":"left"}
+		{"id":"b2cf8cf764fe1675","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"7635801f656da2b9","toSide":"left"},
+		{"id":"01125fdbb5f0fc82","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"4ee44f12a55fc5d5","toSide":"left"}
 	]
 }
