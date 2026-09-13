@@ -9,6 +9,7 @@ From the pilot trial, the cathode has been scaled up to $1.25m^2$
 Confirmed 2.7MWh of Fe produced are reachable in optimised conditions.
 
 Potential to incorporate mill scales from the steel industry as inputs for circular economy practises.
+- However, different compositions of the mill scale will affect the electrochemical cell differently, and more investigation is needed to investigate the percentage that mill scales can be used as substitutes for hematite concentrate in the facility.
 
 ## Pilot Technical Performance
 
