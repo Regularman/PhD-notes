@@ -15,6 +15,8 @@ Potential to incorporate mill scales from the steel industry as inputs for circu
 Assuming that renewable energy will have 50% of the demand by 2040 and 70% of the demand by 2050. 
 
 - The functional unit is 1t of HRC and the total steel production in Europe.
+- Assumes that iron production is a continuous process with a common 5% interruptions for maintenance and regulatory control. Therefore, the electrical power is 0.33kW/t-iron/year
+- 90% of the electrolysis power could be modulated or stopped during a deactivation period
 
 Considers the use of an induction furnace for the melting of the iron to form hot rolled steel. The total electricity consumption is 4.3MWh/t of HRC.
 
