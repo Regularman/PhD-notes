@@ -72,8 +72,11 @@ However, this study does not count the coal and natural gas that is needed in th
 ![[Screenshot 2026-09-13 120159.png]]
 
 In a realistic scenario, SIDERWIN can reduce the carbon footprint of steelmaking to ~0.9kg CO2/tHRC.
-![[Screenshot 2026-09-13 124351.png]]
 
+![[Screenshot 2026-09-13 124351.png]]
+- DCAL - DeCalcification by Acid Leaching
+- LTDA - Low Temperature De-alumination
+- 
 
 ## Techno-economic analysis
 
