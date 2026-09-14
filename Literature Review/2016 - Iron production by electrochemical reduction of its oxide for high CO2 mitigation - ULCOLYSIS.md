@@ -27,4 +27,7 @@ The lab scale trials conducted by IERO looked at
 ## LCA
 
 ULCOLYSIS could be the dominant technology in Europe after 2035 if the price of electricity remains low, there is a high carbon price.
+
 ![[Screenshot 2026-09-14 183530.png]]
+
+Therefore, the direct electrolysis process has lower carbon emissions as you do not need the EAF step, since liquid steel is directly produced.
