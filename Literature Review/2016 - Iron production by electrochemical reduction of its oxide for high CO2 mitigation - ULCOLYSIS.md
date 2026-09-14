@@ -30,6 +30,8 @@ ULCOLYSIS could be the dominant technology in Europe after 2035 if the price of 
 
 ![[Screenshot 2026-09-14 183530.png]]
 
+For the ULCOLYSIS route, the main assumption is the thermal efficiency of the ULCOLYSIS cell. The DC EAF has many common characteristics of a ULCOLYSIS cell: it operates at the same temperature level of 1600°C, it produces liquid steel, it is driven by electricity and it does not involve cooling systems to protect the vessel lining. The theoretical need to melts steel from room temperature is 375 kWh.t -1 liquidsteel; on the other hand, the energy need of a DC EAF is conservatively lower than 550 kWh.t -1 liquidsteel. The thermal efficiency of 68% for DC EAF is applied to an ULCOLYSIS cell. Then, the energy need to produce a unit tonne of liquid steel is 3864kwh.tliquid steel -1 , cf. Figure 19
+
 Therefore, the direct electrolysis process has lower carbon emissions as you do not need the EAF step, since liquid steel is directly produced.
 - In BF process, the use of coke or natural gas as a reductant means that a BOF is needed to reduce the carbon out of the pig iron.
 
