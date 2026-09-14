@@ -36,4 +36,6 @@ Therefore, the direct electrolysis process has lower carbon emissions as you do 
 The study also performed an Exergy analysis of the process using the following assumption
 ![[Screenshot 2026-09-14 184421.png]]
 
-Thus it shows that electrolytic processes have much higher exergetic efficiency
+Thus it shows that electrolytic processes have much higher exegetic efficiency. The high exergy losses of the conventional BF-BOF route comes from the combustion of the off-gases in the power plant.
+- Note that if electricity was produced with fossi
+
