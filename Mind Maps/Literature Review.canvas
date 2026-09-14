@@ -127,7 +127,6 @@
 		{"id":"775a5bff74493a58","type":"text","text":"# ~={cyan}Biomass=~","x":-5165,"y":349,"width":250,"height":61,"color":"5"},
 		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":80,"width":345,"height":141},
 		{"id":"ecebce1edc511b20","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md","x":-4650,"y":-580,"width":400,"height":128,"color":"5"},
-		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-3507,"y":-84,"width":407,"height":196},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3360,"y":256,"width":400,"height":187,"color":"5"},
 		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4014,"y":-1063,"width":400,"height":140,"color":"5"},
 		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4014,"y":-887,"width":400,"height":111,"color":"5"},
@@ -137,7 +136,9 @@
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3491,"y":-736,"width":400,"height":175,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2327,"y":-63,"width":430,"height":128,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2457,"y":-318,"width":400,"height":122,"color":"3"},
-		{"id":"4ee44f12a55fc5d5","x":-3516,"y":-521,"width":400,"height":122,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md"}
+		{"id":"4ee44f12a55fc5d5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md","x":-3516,"y":-521,"width":400,"height":122,"color":"5"},
+		{"id":"c346ac5103a22e93","type":"file","file":"2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-3516,"y":-170,"width":400,"height":157,"color":"5"},
+		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-3009,"y":38,"width":407,"height":196}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -266,6 +267,7 @@
 		{"id":"8e6777d69e2abb8d","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"0d13b4fa33a2291d","toSide":"left"},
 		{"id":"4d1cc77262efebdb","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"d397d71d9daf5a9e","toSide":"left"},
 		{"id":"b2cf8cf764fe1675","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"7635801f656da2b9","toSide":"left"},
-		{"id":"01125fdbb5f0fc82","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"4ee44f12a55fc5d5","toSide":"left"}
+		{"id":"01125fdbb5f0fc82","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"4ee44f12a55fc5d5","toSide":"left"},
+		{"id":"177e852f82b94208","fromNode":"d397d71d9daf5a9e","fromSide":"right","toNode":"c346ac5103a22e93","toSide":"left"}
 	]
 }
