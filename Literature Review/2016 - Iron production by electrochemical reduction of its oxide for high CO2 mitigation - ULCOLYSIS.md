@@ -32,3 +32,8 @@ ULCOLYSIS could be the dominant technology in Europe after 2035 if the price of 
 
 Therefore, the direct electrolysis process has lower carbon emissions as you do not need the EAF step, since liquid steel is directly produced.
 - In BF process, the use of coke or natural gas as a reductant means that a BOF is needed to reduce the carbon out of the pig iron.
+
+The study also performed an Exergy analysis of the process using the following assumption
+![[Screenshot 2026-09-14 184421.png]]
+
+Thus it shows that electrolytic processes have much higher exergetic efficiency
