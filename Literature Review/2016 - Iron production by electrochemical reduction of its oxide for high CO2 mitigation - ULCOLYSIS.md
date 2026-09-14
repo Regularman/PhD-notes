@@ -4,8 +4,8 @@ Research at the lab scale investigated several components that can unlock the hi
 
 The lab scale trials conducted by IERO looked at
 
-| Field of Research                                                                                           | Findings                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Iron electrochemistry - what are the thermodynamics and kinetics of iron electrolysis at high temperatures? | Through cyclic voltammetry, found that cathodic reaction is reversible as the reaction varies propertionally to $vand limited by diffusional transport. |
-|                                                                                                             |                                                                                                                                                         |
+| Field of Research                                                                                           | Findings                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Iron electrochemistry - what are the thermodynamics and kinetics of iron electrolysis at high temperatures? | Through cyclic voltammetry, found that cathodic reaction is reversible as the reaction varies proportionally to $v^{1/2}$, which is the scan rate of the voltammetry test. and limited by diffusional transport. |
+|                                                                                                             |                                                                                                                                                                                                                  |
 
