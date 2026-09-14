@@ -31,3 +31,4 @@ ULCOLYSIS could be the dominant technology in Europe after 2035 if the price of 
 ![[Screenshot 2026-09-14 183530.png]]
 
 Therefore, the direct electrolysis process has lower carbon emissions as you do not need the EAF step, since liquid steel is directly produced.
+- In BF process, the use of coke or natural gas as a reductant 
