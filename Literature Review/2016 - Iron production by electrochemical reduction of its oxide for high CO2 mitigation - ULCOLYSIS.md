@@ -37,5 +37,7 @@ The study also performed an Exergy analysis of the process using the following a
 ![[Screenshot 2026-09-14 184421.png]]
 
 Thus it shows that electrolytic processes have much higher exegetic efficiency. The high exergy losses of the conventional BF-BOF route comes from the combustion of the off-gases in the power plant.
-- Note that if electricity was produced with fossi
+- Note that if electricity was produced with fossil fuel then it would occur with this drawback
+
+![[Screenshot 2026-09-14 184609.png]]
 
