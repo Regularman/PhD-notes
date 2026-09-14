@@ -98,14 +98,14 @@ It is also recognised, that the pure green iron produced via DER lacks carbon. H
 The budget for the LEDER project feasibility study is estimated to be ~160M AUD.
 ## Further Readings 
 
-Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4].
+Fortescue has announced the development of a pilot plant at its Christmas Creek site to help derisk hydrogen-based reduction pathways and demonstrate the viability of using Pilbara ores as feedstock [4]. [[2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA]]
 
 There is also a new Circored facility in Frankfurt opened by Metso
 
 Boston Metal is the main player in the space of molten ore electrolysis, where the ore is electrolysis at $2000\degree C$ and has validated the technology at semi-industrial scale, currently working on the scaleup of their pilot facility in the USA [6]
 - The major barrier is commercial viability of inert electrodes in a corrosive environment
 
-ArcelorMittal and John Cockerill started the construction of the first low temperature, iron ore electrowinning plant in 2024 with operations are expected to start in 2027 [8] [[]]
+ArcelorMittal and John Cockerill started the construction of the first low temperature, iron ore electrowinning plant in 2024 with operations are expected to start in 2027 [8] [[2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project]]
 
 Electra, a US startup founded in 2020, has developed a process dissolves iron ore in a water-based acid solution and uses electricity to electroplate iron.
 - The company recently announced the commissioning of a small pilot facility in the USA and has ambitions to demonstrate the technology with a 50,000-ton plant before the end of the decade [7]. [[2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning]]
