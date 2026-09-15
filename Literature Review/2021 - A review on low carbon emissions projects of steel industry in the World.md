@@ -22,5 +22,6 @@ Cited by 447
 The paper also highlights hydrogen flash smelting, which does not need the sintering/pelletising process and reduces the fine ore powder to a higher metallisation rate by using thermal reduction gas in a suspended state.
 - This thermal reduction gas can be hydrogen or carbon monoxide made from the incomplete combustion of coal, or a mixed syngas. [Source](Junge, H., Yanling, G., 2011. Analysis of the Progress and Application Prospects of New Low-Carbon Ironmaking Technology in the United States. Metallurgical Management) shows that energy demand in the steelmaking process can be reduced by 38% compared to the BF route.
 
-The paper highlights that there are two types of way 
+The paper highlights that there are two types of ways to achieve CCS
+- Chemical separation through the absorption of $CO_2$ in an absorbent which is then heated to realease the
 
