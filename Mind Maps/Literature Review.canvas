@@ -99,12 +99,11 @@
 		{"id":"0d13b4fa33a2291d","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4715,"y":1610,"width":400,"height":215,"color":"5"},
 		{"id":"92396792c583feeb","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md","x":-4115,"y":1642,"width":400,"height":103,"color":"5"},
 		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-4115,"y":1435,"width":400,"height":134,"color":"5"},
-		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5463,"y":331,"width":345,"height":349},
+		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5463,"y":505,"width":345,"height":175},
 		{"id":"775a5bff74493a58","type":"text","text":"# ~={cyan}Biomass=~","x":-5389,"y":816,"width":250,"height":61,"color":"5"},
 		{"id":"04e2dde29adde56b","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$","x":-5760,"y":846,"width":250,"height":50,"color":"5"},
 		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-5173,"y":974,"width":250,"height":60,"color":"5"},
-		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-4238,"y":390,"width":358,"height":157,"color":"5"},
-		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-4234,"y":567,"width":358,"height":149,"color":"5"},
+		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-4255,"y":390,"width":402,"height":157,"color":"5"},
 		{"id":"0e80436abe7e6b6f","type":"file","file":"PhD-notes/Literature Review/2022 - Roadmap for decarbonising Australian alumina refining - ARENA.md","x":-4234,"y":734,"width":358,"height":137,"color":"5"},
 		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4255,"y":170,"width":400,"height":111,"color":"5"},
 		{"id":"f5a95c6b0d3bae5d","type":"file","file":"PhD-notes/Literature Review/2026 - Pathways to Net-Zero Alumina - Integrating Low-Emission Technologies and Policy Reform in Australia.md","x":-4874,"y":468,"width":400,"height":173,"color":"5"},
@@ -118,10 +117,7 @@
 		{"id":"50f6e035972065f9","type":"text","text":"# ~={cyan}MVR=~\n\n![[Screenshot 2026-07-28 114023.png]]\n\nExchange with vapor to condensate at the Calandria. The condensate falls down to the bottom and the vapor mixture goes into a separator, where the unused vapor and recycled and recompressed with a strong turbo fan to increase pressure and temperature for the next cycle","x":-5514,"y":1428,"width":250,"height":60,"color":"5"},
 		{"id":"5586e5a01ed1442c","type":"text","text":"# ~={cyan}Existing Technology=~","x":-5444,"y":1159,"width":360,"height":50,"color":"5"},
 		{"id":"cd5473ad32616f70","type":"file","file":"PhD-notes/Literature Review/2024 - ARENA MVR Implementation into Wagerup Refinery - Close Out Report.md","x":-5323,"y":1575,"width":400,"height":140,"color":"5"},
-		{"id":"d00f5724ef5fa225","type":"file","file":"PhD-notes/Literature Review/2023 - Reduction of GHG Emissions and Increase Operational Reliability Using Immersed Electrode Boiler in an Alumina Refinery.md","x":-6485,"y":1004,"width":400,"height":209,"color":"5"},
-		{"id":"55bb8b03d284039a","type":"text","text":"# ~={cyan}Electric Boilers=~","x":-5913,"y":1099,"width":250,"height":60,"color":"5"},
-		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6824,"y":1268,"width":400,"height":176,"color":"5"},
-		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-6160,"y":1290,"width":250,"height":60,"color":"5"},
+		{"id":"55bb8b03d284039a","type":"text","text":"# ~={cyan}Electric Heating=~","x":-5913,"y":1099,"width":250,"height":60,"color":"5"},
 		{"id":"0ee1b9d8aa0b76d7","type":"text","text":"# ~={cyan}Adsorption Heat Pumps=~\n\nhttps://link.springer.com/chapter/10.1007/978-3-030-72180-0_2\n\nhttps://www.sciencedirect.com/science/article/pii/S1364032107000998\n\n## Why use Adsorption Heat pumps\n\n- Can operate with thermal driving energy sources such as waste heat, solar, and geothermal energies\n- Can work with low temperature driving energy sources\n- No moving parts \n- Low noise and vibration\n- Cam be employed as thermal energy storage device as the adsorbate stays in the adsorbent bed\n\nHowever\n\n- They have low COP values, \n- are intermittent, which means that cooling is only provided during certain phases of the cycle. This means that adsorption heat pumps are not applicable to use cases that needs continuous heating or cooling\n- Requires special design to maintain the vacuum and\n- Have a large volume and weight relative to traditional mechanical heat pump systems\n\nhttps://www.novapublishers.com/wp-content/uploads/2022/07/978-1-62417-070-6.pdf\n\nChemisorption heat pumps can reach up to $350 \\degree C$.","x":-6085,"y":1448,"width":240,"height":81,"color":"5"},
 		{"id":"1fe914bae26a3aa5","type":"file","file":"PhD-notes/Literature Review/2014 - Technical and economic feasibility analysis of using CST in the cement production process.md","x":-6744,"y":179,"width":400,"height":135,"color":"5"},
 		{"id":"dd5e137bfb9ab792","type":"file","file":"PhD-notes/Literature Review/2018 - Solar driven production of lime for ordinary Portland cement.md","x":-6245,"y":183,"width":400,"height":131,"color":"5"},
@@ -141,7 +137,12 @@
 		{"id":"c085736639582767","type":"file","file":"PhD-notes/Literature Review/2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4234,"y":2435,"width":400,"height":120},
 		{"id":"41bb6994b3f52913","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation - ULCOLYSIS.md","x":-4715,"y":2302,"width":400,"height":146,"color":"5"},
 		{"id":"c346ac5103a22e93","type":"file","file":"2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4234,"y":2024,"width":400,"height":143,"color":"5"},
-		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4234,"y":2210,"width":400,"height":165,"color":"5"}
+		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4234,"y":2210,"width":400,"height":165,"color":"5"},
+		{"id":"d00f5724ef5fa225","type":"file","file":"PhD-notes/Literature Review/2023 - Reduction of GHG Emissions and Increase Operational Reliability Using Immersed Electrode Boiler in an Alumina Refinery.md","x":-6485,"y":987,"width":400,"height":155,"color":"5"},
+		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-6478,"y":1163,"width":358,"height":149,"color":"5"},
+		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-6170,"y":1342,"width":250,"height":60,"color":"5"},
+		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6720,"y":1353,"width":400,"height":176,"color":"5"},
+		{"id":"76b208c57096b1a0","x":-5212,"y":47,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -250,7 +251,6 @@
 		{"id":"0d602f04e8aa027c","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"dc1a48d7c8fd9443","toSide":"left"},
 		{"id":"b1043a2147d8d757","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"05bf1f1ace912ae5","toSide":"left"},
 		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"},
-		{"id":"e8b0743444e0cb4d","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"a470f5da88f78fec","toSide":"left"},
 		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"},
 		{"id":"b67979a4b9bfd419","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"8c1488837d199752","toSide":"left"},
 		{"id":"88c95b37210f6ad9","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"8b1b1ab79a19d33d","toSide":"left"},
@@ -274,6 +274,8 @@
 		{"id":"c4674488d22f7685","fromNode":"9ca142e291d3aaaa","fromSide":"bottom","toNode":"d397d71d9daf5a9e","toSide":"left"},
 		{"id":"eb4fd1de6cd7ff15","fromNode":"9ca142e291d3aaaa","fromSide":"bottom","toNode":"41bb6994b3f52913","toSide":"left"},
 		{"id":"e7620f07b862dc74","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ab83b54dbbdfdaff","toSide":"left"},
-		{"id":"c89fee4bdd25d72e","fromNode":"41bb6994b3f52913","fromSide":"right","toNode":"c085736639582767","toSide":"left"}
+		{"id":"c89fee4bdd25d72e","fromNode":"41bb6994b3f52913","fromSide":"right","toNode":"c085736639582767","toSide":"left"},
+		{"id":"6c374f13403d67fb","fromNode":"55bb8b03d284039a","fromSide":"left","toNode":"a470f5da88f78fec","toSide":"right"},
+		{"id":"637f2e1291d6c49a","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"76b208c57096b1a0","toSide":"bottom"}
 	]
 }
