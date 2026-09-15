@@ -112,7 +112,6 @@
 		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6600,"y":801,"width":400,"height":176,"color":"5"},
 		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-4949,"y":507,"width":250,"height":60,"color":"5"},
 		{"id":"775a5bff74493a58","type":"text","text":"# ~={cyan}Biomass=~","x":-5165,"y":349,"width":250,"height":61,"color":"5"},
-		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":80,"width":345,"height":141},
 		{"id":"ecebce1edc511b20","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md","x":-4650,"y":-580,"width":400,"height":128,"color":"5"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3360,"y":256,"width":400,"height":187,"color":"5"},
 		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4014,"y":-1063,"width":400,"height":140,"color":"5"},
@@ -140,7 +139,8 @@
 		{"id":"4ee44f12a55fc5d5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md","x":-4010,"y":1392,"width":400,"height":122,"color":"5"},
 		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4010,"y":1557,"width":400,"height":165,"color":"5"},
 		{"id":"c346ac5103a22e93","type":"file","file":"2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4010,"y":1751,"width":400,"height":157,"color":"5"},
-		{"id":"c085736639582767","x":-4250,"y":2024,"width":400,"height":120,"type":"file","file":"2025 - Boston Metal - Molten Oxide Electrolysis.md"}
+		{"id":"c085736639582767","x":-4250,"y":2024,"width":400,"height":120,"type":"file","file":"2025 - Boston Metal - Molten Oxide Electrolysis.md"},
+		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":-136,"width":345,"height":349}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
