@@ -32,6 +32,7 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 - The demand of hydrogen can also be reduced by using alternative energy sources to heat up the hydrogen stream before input into the reduction chamber
 - This will also require an additional 341 TWh/a of electricity. This is based on 80-125 kWh/t required for the compressors and water supply needed in the DRI production process, as well as the 310-640 kWh/t-CS required for the EAF, and also, finally, the electricity required for green hydrogen electrolysis.
 	- 45TWh would be intended for the operation of the EAF and the auxiliaries, while 295TWh/a would be used for the electrolyser. Estimates 33GW of electrolysis capacity is required to fulfil this need. (IRENA indicates 45GW of hydrogen capacity)
+	- It is noted that green hydrogen can be competitive with CCS and $CO_2$ sequestration if it can be delivered below $1-2 euros/kg$ 
 
 ![[Screenshot 2026-09-15 141318.png]]
 ![[Screenshot 2026-09-15 141718.png|592]]
