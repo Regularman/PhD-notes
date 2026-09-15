@@ -11,3 +11,7 @@ Included a techno-economic study of H-DRI, natural gas DRI, and BF operations as
 
 Did not implement H-DRI, but use hydrogen production data from the 6MW electrolyser at Linz as input into the steelmaking process.
 
+## H-DRI process
+
+Outlines that even with hydrogen direct reduction technologies 
+
