@@ -26,8 +26,8 @@ Currently looking to expand to a demonstration project that will be operational 
 Aims to extract high value minerals from mining waste using MOE
 - The company is focused on producing niobium, tantalum and tin ferroalloys
 
-- Accident in the Brazil facility caused facility to shut down. This led an additional funding round of $75M USD and a restructuring that led to a layoff of 71 employees.
+Accident in the Brazil facility caused facility to shut down. This led an additional funding round of $75M USD and a restructuring that led to a layoff of 71 employees.
 
-However, one of the differences is that the commercial 
+However, one of the differences is that the commercial iron making versus high value/rare mineral failure is
 
 ## Further Readings
