@@ -27,5 +27,5 @@ The EAF process can range from 310-640kWh/t-CS, which depends on
 - Whether the DRI is inserted a hot DRI, cold DRI or Hot Briquette Iron. Cold charge have higher levels of acid gangue, which requires more lime flux and more slag production
 - Higher share of DRI increases temperature requirement. More DRI requires more electrical energy due to the presence of acid gangue in the iron ore
 
-The study estimates that to completely replace the 
+The study estimates that to completely replace all BF-BOF operation to H2 DRI will require an overall hydrogen demand of 62.5 billion m^3/a with an additional 4 billion m^3/a of natural 
 
