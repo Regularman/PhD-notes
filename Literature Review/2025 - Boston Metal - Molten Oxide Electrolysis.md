@@ -21,11 +21,13 @@ Currently looking to expand to a demonstration project that will be operational 
 
 ## Commercial facility - Brazil
 
-[(https://www.bostonmetal.com/wp-content/uploads/2026/07/Boston-Metal-Brasil-Fact-Sheet-EN-202607.pdf)
+[Factsheet](https://www.bostonmetal.com/wp-content/uploads/2026/07/Boston-Metal-Brasil-Fact-Sheet-EN-202607.pdf)
 
 Aims to extract high value minerals from mining waste using MOE
+- The company is focused on producing niobium, tantalum and tin ferroalloys
 
 - Accident in the Brazil facility caused facility to shut down. This led an additional funding round of $75M USD and a restructuring that led to a layoff of 71 employees.
 
+However, one of the differences is that the commercia
 
 ## Further Readings
