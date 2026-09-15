@@ -29,6 +29,7 @@ The EAF process can range from 310-640kWh/t-CS, which depends on
 
 The study estimates that to completely replace all BF-BOF operation to H2 DRI will require an overall hydrogen demand of 62.5 billion m^3/a with an additional 4 billion m^3/a of natural gas to carburise the liquid bath in EAF operations. This is calculated as a function of 
 - Scrap steel share in the EAF operation. Note that a higher scrap steel share will lower the DRI requirement and therefore the hydrogen requirement for the production of crude steel
-- The demand of hydrogen can also be reduced by using alternative energy sources to heat up the hydrogen stream
+- The demand of hydrogen can also be reduced by using alternative energy sources to heat up the hydrogen stream before input into the reduction chamber
+- This will also require an additional 341 TWh/a of electricity. This is based on 80-125 
 
 ![[Screenshot 2026-09-15 141318.png]]
