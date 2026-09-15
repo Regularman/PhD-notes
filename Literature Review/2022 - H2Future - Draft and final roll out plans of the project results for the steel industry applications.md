@@ -35,6 +35,9 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 ![[Screenshot 2026-09-15 141318.png]]
 ![[Screenshot 2026-09-15 141718.png|592]]
 
+## Limitations 
+
+The paper only highlights mature projects. Projects in their first research stages which consequently offer lower production capacities were omitted, considering as a result only those projects close to commercial operation and thus capable to produce large quantities of steel.
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
