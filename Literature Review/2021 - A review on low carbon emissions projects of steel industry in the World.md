@@ -23,5 +23,6 @@ The paper also highlights hydrogen flash smelting, which does not need the sinte
 - This thermal reduction gas can be hydrogen or carbon monoxide made from the incomplete combustion of coal, or a mixed syngas. [Source](Junge, H., Yanling, G., 2011. Analysis of the Progress and Application Prospects of New Low-Carbon Ironmaking Technology in the United States. Metallurgical Management) shows that energy demand in the steelmaking process can be reduced by 38% compared to the BF route.
 
 The paper highlights that there are two types of ways to achieve CCS
-- Chemical separation through the absorption of $CO_2$ in an absorbent which is then heated to realease the
+- Chemical separation through the absorption of $CO_2$ in an absorbent which is then heated to release the $CO_2$
+- Physical separation through adsorption, which uses Pressure Swing to release the carbon dioxide.
 
