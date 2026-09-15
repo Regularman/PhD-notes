@@ -22,6 +22,8 @@ The HyREX process uses iron fines in hydrogen reduction of the iron fines direct
 Furthermore, notably, the HyREX process involves oxygen injection in the second and third stage fluidised beds to maintain reaction temperatures.
 
 ![[Screenshot 2026-09-07 140807.png]]
+
+Together with
 ## Lab scale trials
 
 Using in situ X-rays, they showed that DRI fines improved carburizing and melting characteristics compared to compacts.
