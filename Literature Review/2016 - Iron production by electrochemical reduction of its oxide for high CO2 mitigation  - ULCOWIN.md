@@ -2,6 +2,8 @@ https://op.europa.eu/en/publication-detail/-/publication/4255cd56-9a96-11e6-9bca
 
 ## Contributions
 
+- Also provides a timeline for the implementation of electrolysis and electrowinning in steelmaking
+
 Shows that high carbon value of 150euro/t-CO2 is required, as well as a price ration of electricity on coal of lower than $3$.
 
 Provides a LCA and exergy analysis of the electrochemical process.
