@@ -14,5 +14,6 @@ Did not implement H-DRI, but use hydrogen production data from the 6MW electroly
 ## H-DRI process
 
 Outlines that even with hydrogen direct reduction technologies still requires natural gas for carbonisation of the sponge iron.
-- However [[2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project]] does not use a carbon 
+- However [[2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project]] does not use a carbonising substance and just uses more electricity in the EAF step. However carbon is also needed to to foam the slag for heat insulation
+- 
 
