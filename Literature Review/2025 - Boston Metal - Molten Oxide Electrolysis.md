@@ -30,5 +30,6 @@ Aims to extract high value minerals from mining waste using MOE
 Boston Metal's Brazilian high-value-metals facility, meant to produce niobium, tantalum and tin, suffered a refractory failure and electrolyte leak in January 2026, delaying startup to around September 2026 and triggering 71 layoffs in April 2026.
 
 However, one of the differences is that the commercial iron making versus high value/rare mineral failure is more forgiving economically. Furthermore, the electrochemistry of niobium, tantalum and tin ferroalloys will be different to the production of liquid steel.
+- Commercial steel also requires more uptime and scale compared to critical minerals
 
 ## Further Readings
