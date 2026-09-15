@@ -16,5 +16,8 @@ Did not implement H-DRI, but use hydrogen production data from the 6MW electroly
 Outlines that even with hydrogen direct reduction technologies still requires natural gas for carbonisation of the sponge iron.
 - However [[2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project]] does not use a carbonising substance and just uses more electricity in the EAF step. However carbon is also needed to to foam the slag for heat insulation. H2Future project suggests a mix of 95% hydrogen and 5% natural gas.
 - Furthermore, MIDREX processes can switch out natural gas for hydrogen. This will just involve switching out the reformer for a gas heater, which can be fuelled by a sustainable/renewable fuel source.
+- Hydrogen reduction of oxygen is also endothermic, compared to $CO$ reduction of iron oxide, which makes the reaction less thermodynamically favourable.
+
+![[Screenshot 2026-09-15 at 1.42.27 pm.png]]
 - 
 
