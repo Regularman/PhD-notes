@@ -34,3 +34,7 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 
 ![[Screenshot 2026-09-15 141318.png]]
 ![[Screenshot 2026-09-15 141718.png|592]]
+
+## Further Readings
+
+The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen
