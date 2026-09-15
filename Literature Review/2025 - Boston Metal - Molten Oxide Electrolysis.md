@@ -25,8 +25,9 @@ Currently looking to expand to a demonstration project that will be operational 
 
 Aims to extract high value minerals from mining waste using MOE
 - The company is focused on producing niobium, tantalum and tin ferroalloys
+- This demonstrates the Molten Oxide Electrolysis cell at the industrial scale
 
-Accident in the Brazil facility caused facility to shut down. This led an additional funding round of $75M USD and a restructuring that led to a layoff of 71 employees.
+Boston Metal's Brazilian high-value-metals facility, meant to produce niobium, tantalum and tin, suffered a refractory failure and electrolyte leak in January 2026, delaying startup to around September 2026 and triggering 71 layoffs in April 2026.
 
 However, one of the differences is that the commercial iron making versus high value/rare mineral failure is more forgiving economically. Furthermore, the electrochemistry of niobium, tantalum and tin ferroalloys will be different to the production of liquid steel.
 
