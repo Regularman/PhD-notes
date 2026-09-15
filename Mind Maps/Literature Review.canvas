@@ -142,7 +142,8 @@
 		{"id":"a470f5da88f78fec","type":"file","file":"PhD-notes/Literature Review/2026 - Electric smelting furnaces for low grade DRI - Promise, progress and barriers.md","x":-6478,"y":1163,"width":358,"height":149,"color":"5"},
 		{"id":"202be8ce8af7c032","type":"text","text":"# ~={cyan}Plasma Heating=~","x":-6170,"y":1342,"width":250,"height":60,"color":"5"},
 		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-6720,"y":1353,"width":400,"height":176,"color":"5"},
-		{"id":"76b208c57096b1a0","x":-5212,"y":47,"width":250,"height":60,"type":"text","text":""}
+		{"id":"76b208c57096b1a0","x":-5334,"y":54,"width":250,"height":82,"color":"5","type":"text","text":"# ~={cyan}Iron and Steelmaking=~"},
+		{"id":"c44ab94825a2c3ac","x":-4929,"y":248,"width":250,"height":60,"type":"text","text":"# General Heat Processes"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -248,7 +249,6 @@
 		{"id":"5c099eccc628a6b8","fromNode":"dd5e137bfb9ab792","fromSide":"left","toNode":"1fe914bae26a3aa5","toSide":"right"},
 		{"id":"84f18ca12f635dba","fromNode":"543462e890b7dff1","fromSide":"bottom","toNode":"f2dff038a8d8bbb8","toSide":"left"},
 		{"id":"5ce707d8c74faa32","fromNode":"3ae5c635ac1acd62","fromSide":"bottom","toNode":"7af19193743cdc1d","toSide":"right"},
-		{"id":"0d602f04e8aa027c","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"dc1a48d7c8fd9443","toSide":"left"},
 		{"id":"b1043a2147d8d757","fromNode":"5586e5a01ed1442c","fromSide":"right","toNode":"05bf1f1ace912ae5","toSide":"left"},
 		{"id":"ce87e0fc41eca95b","fromNode":"dc1a48d7c8fd9443","fromSide":"right","toNode":"2a2a661cf38214a8","toSide":"left"},
 		{"id":"8de83502c624c9c6","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"0ed3e49acac256b3","toSide":"left"},
@@ -262,7 +262,6 @@
 		{"id":"c5928b2febebc3e7","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"4e25f136d896d093","toSide":"right"},
 		{"id":"1afc189fd2651503","fromNode":"5586e5a01ed1442c","fromSide":"top","toNode":"775a5bff74493a58","toSide":"bottom"},
 		{"id":"b9f6e7694be1e7da","fromNode":"775a5bff74493a58","fromSide":"top","toNode":"55b192e506817707","toSide":"bottom"},
-		{"id":"9235c2738b6d31e8","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ecebce1edc511b20","toSide":"left"},
 		{"id":"be28fa78b2e10793","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"58e0e8779d21093c","toSide":"left"},
 		{"id":"09537ecd169b3830","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"23a5f803f8bee5d5","toSide":"left"},
 		{"id":"eef0be3c4b272520","fromNode":"8b1b1ab79a19d33d","fromSide":"right","toNode":"e32b558b8af427e3","toSide":"left"},
@@ -276,6 +275,8 @@
 		{"id":"e7620f07b862dc74","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ab83b54dbbdfdaff","toSide":"left"},
 		{"id":"c89fee4bdd25d72e","fromNode":"41bb6994b3f52913","fromSide":"right","toNode":"c085736639582767","toSide":"left"},
 		{"id":"6c374f13403d67fb","fromNode":"55bb8b03d284039a","fromSide":"left","toNode":"a470f5da88f78fec","toSide":"right"},
-		{"id":"637f2e1291d6c49a","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"76b208c57096b1a0","toSide":"bottom"}
+		{"id":"637f2e1291d6c49a","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"76b208c57096b1a0","toSide":"bottom"},
+		{"id":"9309cd4b12183c08","fromNode":"76b208c57096b1a0","fromSide":"right","toNode":"ecebce1edc511b20","toSide":"left"},
+		{"id":"7847d02f8e9d8992","fromNode":"76b208c57096b1a0","fromSide":"right","toNode":"dc1a48d7c8fd9443","toSide":"left"}
 	]
 }
