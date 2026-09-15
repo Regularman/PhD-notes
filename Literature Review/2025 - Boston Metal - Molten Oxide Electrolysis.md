@@ -6,7 +6,7 @@ Company started in 2013 as a spinout from MIT, who did research into MOE for the
 
 ![[Screenshot 2026-09-15 at 10.27.32 am.png|429]]
 
-Most other European companies 
+Most other European companies and ULCOLYSIS partners are backing Boston Metal rather than starting their own demonstration facility.
 ## Pilot plant - 2018 to 2023
 
 The end goal of the pilot plant is to demonstrate the stable production of iron and oxygen. It moved the TRL from lab scale testing of inert anode and pilot cell to long duration operation of the pilot cell.
