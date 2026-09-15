@@ -28,6 +28,6 @@ Aims to extract high value minerals from mining waste using MOE
 
 - Accident in the Brazil facility caused facility to shut down. This led an additional funding round of $75M USD and a restructuring that led to a layoff of 71 employees.
 
-However, one of the differences is that the commercia
+However, one of the differences is that the commercial 
 
 ## Further Readings
