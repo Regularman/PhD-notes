@@ -31,6 +31,7 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 - Scrap steel share in the EAF operation. Note that a higher scrap steel share will lower the DRI requirement and therefore the hydrogen requirement for the production of crude steel
 - The demand of hydrogen can also be reduced by using alternative energy sources to heat up the hydrogen stream before input into the reduction chamber
 - This will also require an additional 341 TWh/a of electricity. This is based on 80-125 kWh/t required for the compressors and water supply needed in the DRI production process, as well as the 310-640 kWh/t-CS required for the EAF, and also, finally, the electricity required for green hydrogen electrolysis.
+	- 45Twh the
 
 ![[Screenshot 2026-09-15 141318.png]]
 ![[Screenshot 2026-09-15 141718.png|592]]
