@@ -31,5 +31,6 @@ Boston Metal's Brazilian high-value-metals facility, meant to produce niobium, t
 
 However, one of the differences is that the commercial iron making versus high value/rare mineral failure is more forgiving economically. Furthermore, the electrochemistry of niobium, tantalum and tin ferroalloys will be different to the production of liquid steel.
 - Commercial steel also requires more uptime and scale compared to critical minerals
+- In the Brazilian facility, we are also changing the feedstock, which changes the electrolyte concentration, cell voltage, slag  and anode materials.
 
 ## Further Readings
