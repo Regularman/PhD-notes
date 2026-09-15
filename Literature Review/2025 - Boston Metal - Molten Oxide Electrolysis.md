@@ -33,6 +33,6 @@ However, one of the differences is that the commercial iron making versus high v
 - Commercial steel also requires more uptime and scale compared to critical minerals
 - In the Brazilian facility, we are also changing the feedstock, which changes the electrolyte concentration, cell voltage, slag feedstock, and anode materials.
 
-However, the anode material should still be the same, which is one of the main 
+However, the anode material should still be the same, which is one of the main barriers to Molten Oxide Electrolysis deployment.
 
 ## Further Readings
