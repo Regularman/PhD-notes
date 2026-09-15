@@ -22,5 +22,5 @@ Outlines that even with hydrogen direct reduction technologies still requires na
 
 ![[Screenshot 2026-09-15 at 1.42.27 pm.png]]
 
-
+The EAF 
 
