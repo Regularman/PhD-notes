@@ -22,5 +22,7 @@ Outlines that even with hydrogen direct reduction technologies still requires na
 
 ![[Screenshot 2026-09-15 at 1.42.27 pm.png]]
 
-The EAF process can range from 310-640kWh/t-
+The EAF process can range from 310-640kWh/t-CS, which depends on 
+- The preheated temperature of the DRI charge
+- Whether the DRI is inserted a hot DRI, cold DRI or Hot Briquette Iron. Cold charge have higher levels of acid ganguag
 
