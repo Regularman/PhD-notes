@@ -114,8 +114,6 @@
 		{"id":"775a5bff74493a58","type":"text","text":"# ~={cyan}Biomass=~","x":-5165,"y":349,"width":250,"height":61,"color":"5"},
 		{"id":"ecebce1edc511b20","type":"file","file":"PhD-notes/Literature Review/2021 - A review on low carbon emissions projects of steel industry in the World.md","x":-4650,"y":-580,"width":400,"height":128,"color":"5"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3360,"y":256,"width":400,"height":187,"color":"5"},
-		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4014,"y":-1063,"width":400,"height":140,"color":"5"},
-		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4014,"y":-887,"width":400,"height":111,"color":"5"},
 		{"id":"780e6fada12ecd86","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal operation of industrial heat pumps with stratified thermal energy storage for emissions and cost reduction using day-ahead predictions.md","x":-3491,"y":-736,"width":400,"height":175,"color":"3"},
 		{"id":"d9bbe6cb6d937719","type":"file","file":"PhD-notes/Literature Review/2020 - Electricity market options for heat pumps in rural district heating networks in Austria.md","x":-2327,"y":-63,"width":430,"height":128,"color":"3"},
 		{"id":"9c07b3bf706b2d06","type":"file","file":"PhD-notes/Literature Review/2017 - Business models using the flexibility of Heat Pumps - A discourse.md","x":-2457,"y":-318,"width":400,"height":122,"color":"3"},
@@ -132,15 +130,18 @@
 		{"id":"8976ce8bceb054e5","type":"file","file":"PhD-notes/Literature Review/2026 - Mechanical Vapor Recompression - Challenges and Solutions in Existing Processes.md","x":-5099,"y":1745,"width":400,"height":163,"color":"5"},
 		{"id":"e47fa27b3abb004a","type":"file","file":"PhD-notes/Literature Review/2016 - Energetically optimised concentration of fruit juices.md","x":-5099,"y":1960,"width":400,"height":128,"color":"5"},
 		{"id":"8c34549e97c7b32e","type":"file","file":"PhD-notes/Literature Review/2026 - Mechanical Vapor Recompression in the Bayer Process Evaporation Stage - An Assessment of Energy Efficiency, Economic Impact and Decarbonization Performance.md","x":-5099,"y":2144,"width":400,"height":221,"color":"5"},
-		{"id":"9ca142e291d3aaaa","x":-4824,"y":961,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}Electrolysis=~"},
+		{"id":"9ca142e291d3aaaa","type":"text","text":"# ~={cyan}Electrolysis=~","x":-4824,"y":961,"width":250,"height":60,"color":"5"},
 		{"id":"0d13b4fa33a2291d","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4491,"y":1143,"width":400,"height":215,"color":"5"},
 		{"id":"d397d71d9daf5a9e","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4491,"y":1394,"width":400,"height":163,"color":"5"},
 		{"id":"41bb6994b3f52913","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation - ULCOLYSIS.md","x":-4491,"y":1605,"width":400,"height":146,"color":"5"},
 		{"id":"4ee44f12a55fc5d5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md","x":-4010,"y":1392,"width":400,"height":122,"color":"5"},
 		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4010,"y":1557,"width":400,"height":165,"color":"5"},
 		{"id":"c346ac5103a22e93","type":"file","file":"2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4010,"y":1751,"width":400,"height":157,"color":"5"},
-		{"id":"c085736639582767","x":-4250,"y":2024,"width":400,"height":120,"type":"file","file":"2025 - Boston Metal - Molten Oxide Electrolysis.md"},
-		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":-136,"width":345,"height":349}
+		{"id":"c085736639582767","type":"file","file":"2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4250,"y":2024,"width":400,"height":120},
+		{"id":"55b192e506817707","type":"file","file":"2020 - The feasibility of replacing coal with biomass in iron ore pelletising plant with respect to melt-induced slagging.md","x":-5239,"y":-136,"width":345,"height":349},
+		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-4031,"y":-297,"width":400,"height":111,"color":"5"},
+		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-4031,"y":-480,"width":400,"height":140,"color":"5"},
+		{"id":"ab83b54dbbdfdaff","type":"file","file":"2025 - Material Challenges in Developing a Sustainable Metal Processing Infrastructure - Workshop Report.md","x":-4650,"y":-980,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -272,6 +273,7 @@
 		{"id":"5dcd97884f8a1690","fromNode":"9ca142e291d3aaaa","fromSide":"bottom","toNode":"0d13b4fa33a2291d","toSide":"left"},
 		{"id":"c4674488d22f7685","fromNode":"9ca142e291d3aaaa","fromSide":"bottom","toNode":"d397d71d9daf5a9e","toSide":"left"},
 		{"id":"eb4fd1de6cd7ff15","fromNode":"9ca142e291d3aaaa","fromSide":"bottom","toNode":"41bb6994b3f52913","toSide":"left"},
-		{"id":"4f7835666dda79c0","fromNode":"41bb6994b3f52913","fromSide":"bottom","toNode":"c085736639582767","toSide":"left"}
+		{"id":"4f7835666dda79c0","fromNode":"41bb6994b3f52913","fromSide":"bottom","toNode":"c085736639582767","toSide":"left"},
+		{"id":"e7620f07b862dc74","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"ab83b54dbbdfdaff","toSide":"left"}
 	]
 }
