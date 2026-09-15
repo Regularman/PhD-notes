@@ -25,5 +25,7 @@ Outlines that even with hydrogen direct reduction technologies still requires na
 The EAF process can range from 310-640kWh/t-CS, which depends on 
 - The preheated temperature of the DRI charge
 - Whether the DRI is inserted a hot DRI, cold DRI or Hot Briquette Iron. Cold charge have higher levels of acid gangue, which requires more lime flux and more slag production
-- Higher share of DRI increases temperature requirement. More DRI 
+- Higher share of DRI increases temperature requirement. More DRI requires more electrical energy due to the presence of acid gangue in the iron ore
+
+The study estimates that
 
