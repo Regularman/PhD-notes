@@ -23,7 +23,7 @@ Furthermore, notably, the HyREX process involves oxygen injection in the second 
 
 ![[Screenshot 2026-09-07 140807.png]]
 
-Together with
+Uses around 850kg/t Fe of fuel [Source](https://scindeks-clanci.ceon.rs/data/pdf/proc-0055/2025/proc-00552504281H.pdf)
 ## Lab scale trials
 
 Using in situ X-rays, they showed that DRI fines improved carburizing and melting characteristics compared to compacts.
