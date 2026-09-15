@@ -26,3 +26,7 @@ The paper highlights that there are two types of ways to achieve CCS
 - Chemical separation through the absorption of $CO_2$ in an absorbent which is then heated to release the $CO_2$
 - Physical separation through adsorption, which uses Pressure Swing to release the carbon dioxide.
 
+## Limitation 
+
+Says that FINEX reduces the $CO_2$ emissions by 45% when combined with 
+
