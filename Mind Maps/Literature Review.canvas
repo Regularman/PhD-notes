@@ -97,8 +97,6 @@
 		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4674,"y":1391,"width":400,"height":134,"color":"5"},
 		{"id":"9ca142e291d3aaaa","type":"text","text":"# ~={cyan}Electrolysis=~","x":-5048,"y":1428,"width":250,"height":60,"color":"5"},
 		{"id":"0d13b4fa33a2291d","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation  - ULCOWIN.md","x":-4715,"y":1610,"width":400,"height":215,"color":"5"},
-		{"id":"92396792c583feeb","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md","x":-4115,"y":1642,"width":400,"height":103,"color":"5"},
-		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-4115,"y":1435,"width":400,"height":134,"color":"5"},
 		{"id":"04e2dde29adde56b","type":"text","text":"# ~={cyan}Solar Thermal=~\n\nThere are three main types of solar thermal\n\n- Evacuated Tube - $200\\degree C$\n- Parabolic Trough - $230 \\degree C$\n- Fresnel - $400 \\degree C$","x":-5760,"y":846,"width":250,"height":50,"color":"5"},
 		{"id":"239b241930bb4faf","type":"text","text":"# ~={cyan}TRL=~","x":-5173,"y":974,"width":250,"height":60,"color":"5"},
 		{"id":"05bf1f1ace912ae5","type":"text","text":"# ~={cyan}Hydrogen=~","x":-4597,"y":1048,"width":250,"height":81,"color":"5"},
@@ -118,7 +116,6 @@
 		{"id":"1aee1aef663d6622","type":"file","file":"PhD-notes/Literature Review/2023 - Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process.md","x":-6245,"y":772,"width":400,"height":149,"color":"5"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3584,"y":723,"width":400,"height":187,"color":"5"},
 		{"id":"0ed3e49acac256b3","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX-H2 - Thyseenkrupp - Hydrogen DRI and Electric smelting in Duisburg Germany.md","x":-3584,"y":998,"width":400,"height":144,"color":"5"},
-		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-4115,"y":1210,"width":400,"height":140,"color":"5"},
 		{"id":"c085736639582767","type":"file","file":"PhD-notes/Literature Review/2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4234,"y":2435,"width":400,"height":120,"color":"5"},
 		{"id":"41bb6994b3f52913","type":"file","file":"PhD-notes/Literature Review/2016 - Iron production by electrochemical reduction of its oxide for high CO2 mitigation - ULCOLYSIS.md","x":-4715,"y":2302,"width":400,"height":146,"color":"5"},
 		{"id":"c346ac5103a22e93","type":"file","file":"2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4234,"y":2024,"width":400,"height":143,"color":"5"},
@@ -143,8 +140,11 @@
 		{"id":"23a5f803f8bee5d5","type":"file","file":"PhD-notes/Literature Review/2016 - The use of HIsarna in steelmaking.md","x":-3893,"y":-230,"width":400,"height":111,"color":"5"},
 		{"id":"58e0e8779d21093c","type":"file","file":"PhD-notes/Literature Review/2013 - ULCOS - Development of Top Gas Recycling.md","x":-3891,"y":-403,"width":400,"height":140,"color":"5"},
 		{"id":"2a2a661cf38214a8","type":"file","file":"PhD-notes/Literature Review/2019 - Direct Reduced Iron - Most efficiency technologies for GHG abatement.md","x":-3895,"y":-84,"width":402,"height":157,"color":"5"},
-		{"id":"8b1b1ab79a19d33d","type":"file","file":"PhD-notes/Literature Review/2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-4115,"y":742,"width":400,"height":188,"color":"5"},
-		{"id":"12445b7880be9f35","type":"file","file":"PhD-notes/Literature Review/2020 - Toward a Fossil Free Future with HYBRIT - Development of Iron and Steelmaking Technology in Sweden and Finland.md","x":-4115,"y":992,"width":400,"height":150,"color":"5"}
+		{"id":"0e49dd5680c68334","type":"file","file":"PhD-notes/Literature Review/2026 - MIDREX H2 -  Stegra green steel manufacturing in Sweden.md","x":-4080,"y":1471,"width":400,"height":134,"color":"5"},
+		{"id":"92396792c583feeb","type":"file","file":"PhD-notes/Literature Review/2024 - Hydnum Green Steel Project.md","x":-4080,"y":1678,"width":400,"height":103,"color":"5"},
+		{"id":"f9170d5f1c80fc4e","type":"file","file":"PhD-notes/Literature Review/2024 - POSCO HyREX-ESF pathway.md","x":-4080,"y":1246,"width":400,"height":140,"color":"5"},
+		{"id":"8b1b1ab79a19d33d","type":"file","file":"PhD-notes/Literature Review/2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-4080,"y":778,"width":400,"height":188,"color":"5"},
+		{"id":"12445b7880be9f35","type":"file","file":"PhD-notes/Literature Review/2020 - Toward a Fossil Free Future with HYBRIT - Development of Iron and Steelmaking Technology in Sweden and Finland.md","x":-4080,"y":1028,"width":400,"height":150,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
