@@ -5,6 +5,8 @@ Company started in 2013 as a spinout from MIT, who did research into MOE for the
 - So far has received $\$700 M$ AUD in funding to commercialise the molten oxide technology according to MIT Technology Review [Source](https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/)
 
 ![[Screenshot 2026-09-15 at 10.27.32 am.png|429]]
+
+Most other European companies 
 ## Pilot plant - 2018 to 2023
 
 The end goal of the pilot plant is to demonstrate the stable production of iron and oxygen. It moved the TRL from lab scale testing of inert anode and pilot cell to long duration operation of the pilot cell.
@@ -35,4 +37,3 @@ However, one of the differences is that the commercial iron making versus high v
 
 However, the anode material should still be the same, which is one of the main barriers to Molten Oxide Electrolysis deployment.
 
-## Further Readings
