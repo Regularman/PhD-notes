@@ -37,4 +37,4 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 
 ## Further Readings
 
-The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen
+The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
