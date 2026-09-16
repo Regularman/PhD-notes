@@ -47,7 +47,7 @@ This study assumes 25% scrap input in the EAF, and 855.5kg of DRI is needed
 
 - ~={red} Steelanol which involves the construction of the first large-scale plant to capture carbon from the steelmaking process and biologically convert it into bioethanol=~
 
-~={red}However, these solutions promotes =~
+~={red}However, these solutions promotes the extraction of carbon from the ground.=~
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
