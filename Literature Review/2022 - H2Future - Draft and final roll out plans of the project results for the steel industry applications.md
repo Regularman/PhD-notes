@@ -52,7 +52,7 @@ This study assumes 25% scrap input in the EAF, and 855.5kg of DRI is needed
 Many projects mentioned in this report in 2022 that is led by Arcelor Mittal has been stalled and postponed citing unstable natural gas prices and uncertain hydrogen economy.
 
 - Dunkirk, France plant - DRI investment redirected into EAF
-- Sies
+- Sestao, Spain plant - DRI investment deferred into EAF expansion
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
