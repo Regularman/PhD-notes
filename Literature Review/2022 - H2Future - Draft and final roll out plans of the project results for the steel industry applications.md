@@ -43,7 +43,9 @@ The paper only highlights mature projects. Projects in their first research stag
 
 This study assumes 25% scrap input in the EAF, and 855.5kg of DRI is needed
 
-There are projec
+There are projects that such as 
+
+- Steelanol which involves the construction of the first large-scale plant to capture carbon from the steelmaking process and biologically convert it into bioethanol
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
