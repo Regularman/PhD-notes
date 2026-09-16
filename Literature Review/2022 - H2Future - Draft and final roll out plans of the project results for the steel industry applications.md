@@ -49,7 +49,7 @@ This study assumes 25% scrap input in the EAF, and 855.5kg of DRI is needed
 
 ~={red}However, these solutions promotes the extraction of carbon from the ground.=~
 
-Many projects mentioned in this report in 2022 
+Many projects mentioned in this report in 2022 that is led by Arcelor Mittal has been stalled and postponed citing unstable natural gas prices and uncertain hydrogen economy.
 
 ## Further Readings
 
