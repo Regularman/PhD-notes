@@ -42,6 +42,8 @@ The study estimates that to completely replace all BF-BOF operation to H2 DRI wi
 The paper only highlights mature projects. Projects in their first research stages which consequently offer lower production capacities were omitted, considering as a result only those projects close to commercial operation and thus capable to produce large quantities of steel.
 
 This study assumes 25% scrap input in the EAF, and 855.5kg of DRI is needed
+
+There are projec
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)
