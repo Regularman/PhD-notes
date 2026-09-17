@@ -22,4 +22,4 @@ The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature
 
 ![[Screenshot 2026-09-17 at 6.36.23 pm.png|309]]
 
-As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 M
+As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa of iron.
