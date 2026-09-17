@@ -140,16 +140,16 @@
 		{"id":"12445b7880be9f35","type":"file","file":"PhD-notes/Literature Review/2020 - Toward a Fossil Free Future with HYBRIT - Development of Iron and Steelmaking Technology in Sweden and Finland.md","x":-4080,"y":1169,"width":400,"height":135,"color":"5"},
 		{"id":"8b1b1ab79a19d33d","type":"file","file":"PhD-notes/Literature Review/2025 - Advancing Electric Smelting for Sustainable Iron Production - Pilot-Scale Validation of Controlled Open-Arc DC Technology.md","x":-4080,"y":941,"width":400,"height":188,"color":"5"},
 		{"id":"e32b558b8af427e3","type":"file","file":"PhD-notes/Literature Review/2017 - Power-to-Steel - Reducing CO2 through the integration of Renewable Energy and Hydrogen into the German Steel Industry.md","x":-3584,"y":778,"width":400,"height":187,"color":"5"},
-		{"id":"4ee44f12a55fc5d5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md","x":-4160,"y":1825,"width":400,"height":156,"color":"5"},
-		{"id":"c346ac5103a22e93","type":"file","file":"PhD-notes/Literature Review/2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4160,"y":2212,"width":400,"height":163,"color":"5"},
-		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4160,"y":2024,"width":400,"height":165,"color":"5"},
-		{"id":"c085736639582767","type":"file","file":"PhD-notes/Literature Review/2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4160,"y":2431,"width":400,"height":120,"color":"5"},
 		{"id":"a513ff4aeb224797","type":"file","file":"PhD-notes/Literature Review/2022 - Thermal energy Storage for Renewable Energy Uptake in Wineries (PCM-TES).md","x":-4715,"y":1441,"width":400,"height":134,"color":"5"},
 		{"id":"ee0615b3b04e3af5","type":"file","file":"PhD-notes/Literature Review/2022 - H2Future - Draft and final roll out plans of the project results for the steel industry applications.md","x":-4543,"y":-648,"width":400,"height":137},
 		{"id":"509117994da6666d","type":"file","file":"PhD-notes/Literature Review/2016 - HISmelt - Molong Shandong Facility Operations.md","x":-3895,"y":-561,"width":400,"height":120,"color":"5"},
 		{"id":"83fd23e83824a1ed","type":"file","file":"2018 - Sustainability Assessment for Advanced Biofuel from Waste Wood Integrated in the Steel Industry - Torero project.md","x":-5710,"y":503,"width":342,"height":181},
-		{"id":"3c551ce1ec1d250e","x":-4080,"y":794,"width":400,"height":102,"color":"5","type":"file","file":"PhD-notes/Literature Review/2025 - Using 100% Hydrogen on an Industrial Scale to Reheat Steel Before Rolling - Ovako.md"},
-		{"id":"36ee4f590da34bbd","x":-4241,"y":2679,"width":400,"height":153,"type":"file","file":"PhD-notes/Literature Review/2023 - KS5 Pilot Plant Study Report - ZESTY ARENA project.md"}
+		{"id":"3c551ce1ec1d250e","type":"file","file":"PhD-notes/Literature Review/2025 - Using 100% Hydrogen on an Industrial Scale to Reheat Steel Before Rolling - Ovako.md","x":-4080,"y":794,"width":400,"height":102,"color":"5"},
+		{"id":"36ee4f590da34bbd","type":"file","file":"PhD-notes/Literature Review/2023 - KS5 Pilot Plant Study Report - ZESTY ARENA project.md","x":-4080,"y":1813,"width":400,"height":153,"color":"5"},
+		{"id":"4ee44f12a55fc5d5","type":"file","file":"PhD-notes/Literature Review/2023 - Final Test Results and Environmental Life Cycle Assessment of SIDERWIN project.md","x":-4080,"y":2024,"width":400,"height":156,"color":"5"},
+		{"id":"7635801f656da2b9","type":"file","file":"PhD-notes/Literature Review/2025 - Low Temperature Direct Electrochemical Reduction for Zero Emissions Iron Project - ARENA.md","x":-4080,"y":2223,"width":400,"height":165,"color":"5"},
+		{"id":"c346ac5103a22e93","type":"file","file":"PhD-notes/Literature Review/2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4080,"y":2411,"width":400,"height":163,"color":"5"},
+		{"id":"c085736639582767","type":"file","file":"PhD-notes/Literature Review/2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4080,"y":2630,"width":400,"height":120,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -290,6 +290,7 @@
 		{"id":"d3cede131cf860e9","fromNode":"76b208c57096b1a0","fromSide":"right","toNode":"ee0615b3b04e3af5","toSide":"left"},
 		{"id":"9771077cbce6ff40","fromNode":"ecebce1edc511b20","fromSide":"right","toNode":"509117994da6666d","toSide":"left"},
 		{"id":"9ff014f9dc2650eb","fromNode":"775a5bff74493a58","fromSide":"top","toNode":"83fd23e83824a1ed","toSide":"right"},
-		{"id":"c5fd2a502da49c6c","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"3c551ce1ec1d250e","toSide":"left"}
+		{"id":"c5fd2a502da49c6c","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"3c551ce1ec1d250e","toSide":"left"},
+		{"id":"1ed4665e7e8972d9","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"36ee4f590da34bbd","toSide":"left"}
 	]
 }
