@@ -43,3 +43,5 @@ This is where the iron fines passes through a series of fluidised beds until it 
 This is the same as Finmet, except that hydrogen is used as a reducing gas. [[2024 - POSCO HyREX-ESF pathway]]
 
 #### Circored
+
+This is the only process which has operated at a commercial scale. The iron ores are first dried and preheated in a circulating fluidised preheater and 
