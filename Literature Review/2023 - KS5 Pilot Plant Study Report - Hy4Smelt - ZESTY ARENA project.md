@@ -73,3 +73,7 @@ Currently planning a demonstration plant for 2027 with 3tph of production capaci
 Uniquely, HyFOR is the only process without a counter current of reducing gas, utilising instead a cross current of reducing gas ($H_2$).
 
 ![[Screenshot 2026-09-17 at 7.19.31 pm.png]]
+
+#### Comparison of processes
+![[Screenshot 2026-09-17 at 7.23.46 pm.png]]
+![[Screenshot 2026-09-17 at 7.23.15 pm.png]]
