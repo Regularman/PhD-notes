@@ -15,7 +15,7 @@ The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fu
 ![[Screenshot 2026-09-17 at 6.36.43 pm.png|223]]
 ### Current Flash iron making processes
 
-#### Flash Iron-making Technology
+#### Flash Iron-making Technology (FIT)
 
 The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature of $1200-1600\degree C$. This produces the heat required for the reaction
 - External heating may be required through electric, gas, or plasma heating.
@@ -38,7 +38,7 @@ As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa 
 
 This is where the iron fines passes through a series of fluidised beds until it reaches the last fluidised bed at $800\degree C$.  This later inspired the POSCO HyRex process in South Korea.
 
-- This is the only process which requires high process pressure
+- This is the only process which requires high process pressure, but this means that it has the shortest residence time. Comparatively MIDREX can have residence time of hours.
 
 #### HyREX
 
