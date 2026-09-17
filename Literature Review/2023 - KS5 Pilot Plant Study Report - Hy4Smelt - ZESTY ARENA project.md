@@ -38,6 +38,8 @@ As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa 
 
 This is where the iron fines passes through a series of fluidised beds until it reaches the last fluidised bed at $800\degree C$.  This later inspired the POSCO HyRex process in South Korea.
 
+- This is the only process which requires high process pressure
+
 #### HyREX
 
 This is the same as Finmet, except that hydrogen is used as a reducing gas. [[2024 - POSCO HyREX-ESF pathway]]
@@ -68,6 +70,6 @@ The hydrogen is also preheated before entering the reactor. The material can be 
 
 Currently planning a demonstration plant for 2027 with 3tph of production capacity.
 
-Uniquely, HyFOR is the only process without a counter current of reducing gas.
+Uniquely, HyFOR is the only process without a counter current of reducing gas, utilising instead a cross current of reducing gas ($H_2$).
 
 ![[Screenshot 2026-09-17 at 7.19.31 pm.png]]
