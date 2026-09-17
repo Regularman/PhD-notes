@@ -21,7 +21,7 @@ Utilise waste heat recovery to drive a steam turbine to produce electricity for 
 ### Pilot testing insights
 
 - The collection efficiency is a function of temperature, fine particle size distribution and off gas flow.
-- However, these factors also causes change in the metallisation degree and reduction degree.
+- However, these factors also causes change in the metallisation degree and reduction degree. With particle size 
 ### Current Flash iron making processes
 
 #### Flash Iron-making Technology (FIT)
