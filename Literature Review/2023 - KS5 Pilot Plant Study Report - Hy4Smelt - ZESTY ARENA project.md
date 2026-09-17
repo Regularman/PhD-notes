@@ -40,6 +40,7 @@ This is where the iron fines passes through a series of fluidised beds until it 
 
 - This is the only process which requires high process pressure, but this means that it has the shortest residence time. Comparatively MIDREX can have residence time of hours.
 
+Currently has an operational plant in Venezuela
 #### HyREX
 
 This is the same as Finmet, except that hydrogen is used as a reducing gas. [[2024 - POSCO HyREX-ESF pathway]]
@@ -77,3 +78,6 @@ Uniquely, HyFOR is the only process without a counter current of reducing gas, u
 #### Comparison of processes
 ![[Screenshot 2026-09-17 at 7.23.46 pm.png]]
 ![[Screenshot 2026-09-17 at 7.23.15 pm.png]]
+#### Economic feasibility
+
+![[Screenshot 2026-09-17 at 7.24.15 pm.png]]
