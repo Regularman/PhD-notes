@@ -2,6 +2,8 @@ https://arena.gov.au/assets/2024/03/Calix-Zesty-Tech-%E2%80%93-Zero-Emissions-Ir
 
 ## Contribution
 
+The study identified areas in Australia with high potential for green steel production, with a significant focus on the Pilbara and South Australia regions. The Pilbara region, in particular, is rich in high-grade hematite-goethite mix ores, while South Australia has a substantial magnetite-rich resource base, but with enough haematite resources for the demonstration plant.
+
 ## Content
 
 Highlights that the blast furnace route for steelmaking currently uses $15.28GJ/t$.

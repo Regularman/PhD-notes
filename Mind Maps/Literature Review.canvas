@@ -149,7 +149,7 @@
 		{"id":"509117994da6666d","type":"file","file":"PhD-notes/Literature Review/2016 - HISmelt - Molong Shandong Facility Operations.md","x":-3895,"y":-561,"width":400,"height":120,"color":"5"},
 		{"id":"83fd23e83824a1ed","type":"file","file":"2018 - Sustainability Assessment for Advanced Biofuel from Waste Wood Integrated in the Steel Industry - Torero project.md","x":-5710,"y":503,"width":342,"height":181},
 		{"id":"3c551ce1ec1d250e","x":-4080,"y":794,"width":400,"height":102,"color":"5","type":"file","file":"PhD-notes/Literature Review/2025 - Using 100% Hydrogen on an Industrial Scale to Reheat Steel Before Rolling - Ovako.md"},
-		{"id":"36ee4f590da34bbd","x":-4241,"y":2679,"width":400,"height":153,"type":"file","file":"PhD-notes/Literature Review/2023 - KS5 Pilot Plant Study Report - Hy4Smelt - ZESTY ARENA project.md"}
+		{"id":"36ee4f590da34bbd","x":-4241,"y":2679,"width":400,"height":153,"type":"file","file":"PhD-notes/Literature Review/2023 - KS5 Pilot Plant Study Report - ZESTY ARENA project.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
