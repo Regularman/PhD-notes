@@ -4,4 +4,6 @@ https://arena.gov.au/assets/2024/03/Calix-Zesty-Tech-%E2%80%93-Zero-Emissions-Ir
 
 ## Content
 
-Highlights that the blast furnace route for steel aking currently uses 15.
+Highlights that the blast furnace route for steelmaking currently uses $15.28GJ/t$.
+
+Hydrogen hgas 
