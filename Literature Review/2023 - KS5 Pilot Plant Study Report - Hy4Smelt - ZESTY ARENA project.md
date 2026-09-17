@@ -17,6 +17,6 @@ The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fu
 
 #### Flash Iron-making Technology
 
-
+The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature of $1200-1600d
 
 
