@@ -30,4 +30,6 @@ As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa 
 - Demonstrated that a wider bed reactor reduced particle sticking
 - Looked at output as a molten metal and as iron fine
 - Place of feeding iron fines should be near the flame but not in it
+- Volume of the reactor can be reduced by increasing pressure, but that increases safety risk
 
+![[Screenshot 2026-09-17 at 6.46.50 pm.png]]
