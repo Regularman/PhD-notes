@@ -55,3 +55,5 @@ The iron ore fines is placed through a series of fluidised bed reactor, and then
 #### HIsmelt
 
 [[2016 - HISmelt - Molong Shandong Facility Operations]]
+
+Coal is dried and placed into the smelter, which reduces the iron fines. The off gas is post combusted, and the heat is transferred through slag droplets back to the hot metal bath.
