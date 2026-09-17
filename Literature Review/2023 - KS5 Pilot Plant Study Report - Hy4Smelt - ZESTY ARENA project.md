@@ -13,7 +13,7 @@ Hydrogen has a higher calorific value, higher reaction rate, especially when rea
 The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fuel.
 - A cyclone and a dust collection system is in place so that iron fines that is entrained with the hydrogen gas can be collected and recycled.
 ![[Screenshot 2026-09-17 at 6.36.43 pm.png|223]]
-### Current fluidised test bed methods
+### Current Flash iron making processes
 
 #### Flash Iron-making Technology
 
@@ -33,3 +33,7 @@ As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa 
 - Volume of the reactor can be reduced by increasing pressure, but that increases safety risk
 
 ![[Screenshot 2026-09-17 at 6.46.50 pm.png]]
+
+### Finmet
+
+This is where the 
