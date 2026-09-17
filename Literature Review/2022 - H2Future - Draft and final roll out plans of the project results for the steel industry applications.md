@@ -53,6 +53,7 @@ Many projects mentioned in this report in 2022 that is led by Arcelor Mittal has
 
 - Dunkirk, France plant - DRI investment redirected into EAF
 - Sestao, Spain plant - DRI investment deferred into EAF expansion
+- Carbon2Chem project, which uses BFG for ammonia, methanol, and other products
 ## Further Readings
 
 The report also highlights research into the reduction of iron ore fines in a fluid state using hydrogen, otherwise known as the hydrogen plasma smelting reduction. However, this is lower TRL and have lower production capacities (100-800 kg)

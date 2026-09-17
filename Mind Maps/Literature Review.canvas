@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"36ee4f590da34bbd","x":-4241,"y":2679,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2022 - HYFOR - Hydrogen Based Direct Iron Ore Reduction Plant Simulation.md"},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
 		{"id":"8cfb6f2f27a342a2","type":"file","file":"PhD-notes/Literature Review/2021 - The potential of Heat as a Service as a route to the decarbonisation for Scotland.md","x":-2065,"y":-2160,"width":400,"height":193,"color":"1"},
@@ -149,7 +148,8 @@
 		{"id":"ee0615b3b04e3af5","type":"file","file":"PhD-notes/Literature Review/2022 - H2Future - Draft and final roll out plans of the project results for the steel industry applications.md","x":-4543,"y":-648,"width":400,"height":137},
 		{"id":"509117994da6666d","type":"file","file":"PhD-notes/Literature Review/2016 - HISmelt - Molong Shandong Facility Operations.md","x":-3895,"y":-561,"width":400,"height":120,"color":"5"},
 		{"id":"83fd23e83824a1ed","type":"file","file":"2018 - Sustainability Assessment for Advanced Biofuel from Waste Wood Integrated in the Steel Industry - Torero project.md","x":-5710,"y":503,"width":342,"height":181},
-		{"id":"3c551ce1ec1d250e","x":-4080,"y":794,"width":400,"height":102,"color":"5","type":"file","file":"PhD-notes/Literature Review/2025 - Using 100% Hydrogen on an Industrial Scale to Reheat Steel Before Rolling - Ovako.md"}
+		{"id":"3c551ce1ec1d250e","x":-4080,"y":794,"width":400,"height":102,"color":"5","type":"file","file":"PhD-notes/Literature Review/2025 - Using 100% Hydrogen on an Industrial Scale to Reheat Steel Before Rolling - Ovako.md"},
+		{"id":"36ee4f590da34bbd","x":-4241,"y":2679,"width":400,"height":153,"type":"file","file":"PhD-notes/Literature Review/2022 - HYFOR - Hydrogen Based Direct Iron Ore Reduction Plant Simulation.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
