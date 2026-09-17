@@ -68,4 +68,6 @@ The hydrogen is also preheated before entering the reactor. The material can be 
 
 Currently planning a demonstration plant for 2027 with 3tph of production capacity.
 
+Uniquely, HyFOR is the only process without a counter current of reducing gas.
+
 ![[Screenshot 2026-09-17 at 7.19.31 pm.png]]
