@@ -80,4 +80,4 @@ Uniquely, HyFOR is the only process without a counter current of reducing gas, u
 ![[Screenshot 2026-09-17 at 7.23.15 pm.png]]
 #### Economic feasibility
 
-![[Screenshot 2026-09-17 at 7.24.15 pm.png]]
+![[Screenshot 2026-09-17 at 7.24.15 pm.png]]![[Screenshot 2026-09-17 at 7.25.57 pm.png]]
