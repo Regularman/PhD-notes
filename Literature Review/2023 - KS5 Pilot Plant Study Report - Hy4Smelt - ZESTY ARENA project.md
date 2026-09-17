@@ -64,4 +64,8 @@ Can reduce any grade of iron fines concentrate from magnetite to hematite to lim
 
 Material is preheated and in the case of magnetite, it is oxidised to hematite before reduction (as magnetite is harder to reduce)
 
-The hydrogen is also preheated before entering the reactor. The material can be recollected back inot the cyclone and recharged to achieve a desired level of me
+The hydrogen is also preheated before entering the reactor. The material can be recollected back inot the cyclone and recharged to achieve a desired level of metallisation.
+
+Currently planning a demonstration plant for 2027 with 3tph of production capacity.
+
+![[Screenshot 2026-09-17 at 7.19.31 pm.png]]
