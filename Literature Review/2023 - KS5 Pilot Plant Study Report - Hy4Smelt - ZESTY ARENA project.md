@@ -59,3 +59,7 @@ The iron ore fines is placed through a series of fluidised bed reactor, and then
 Coal is dried and placed into the smelter, which reduces the iron fines. The off gas is post combusted, and the heat is transferred through slag droplets back to the hot metal bath.
 
 #### HyFOR
+
+Can reduce any grade of iron fines concentrate from magnetite to hematite to limonio
+
+Material is preheated and i
