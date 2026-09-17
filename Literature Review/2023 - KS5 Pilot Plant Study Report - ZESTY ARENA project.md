@@ -9,7 +9,7 @@ The study identified areas in Australia with high potential for green steel prod
 Highlights that the blast furnace route for steelmaking currently uses $15.28GJ/t$.
 
 Hydrogen has a higher calorific value, higher reaction rate, especially when reacting with iron fines. This is none as the flash smelting of iron where iron fines ($<500\micro m$) are reduced without agglomeration and sintering. It is reacted through a fluidised bed reactor with an electric heating zone and a counter current of hydrogen. 
-- It can then be sold as Hot Briquette iron or melted in the melting unit to remove gangue from the iron
+- It can then be sold as Hot Briquette iron or melted in the melting unit to remove gangue from the iron. In HBI, the iron is densified immediately after production of DRI to reduce 
 - Since the heating process can handle intermittent heating, renewable energy is suitable
 
 The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fuel.
