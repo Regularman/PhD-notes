@@ -12,11 +12,12 @@ Hydrogen has a higher calorific value, higher reaction rate, especially when rea
 
 The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fuel.
 - A cyclone and a dust collection system is in place so that iron fines that is entrained with the hydrogen gas can be collected and recycled.
-
+![[Screenshot 2026-09-17 at 6.36.43 pm.png]]
 ### Current fluidised test bed methods
 
 #### Flash Iron-making Technology
 
-The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature of $1200-1600d
+The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature of $1200-1600\degree C$. 
+- External
 
-
+![[Screenshot 2026-09-17 at 6.36.23 pm.png]]
