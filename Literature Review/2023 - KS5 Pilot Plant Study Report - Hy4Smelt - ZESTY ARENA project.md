@@ -60,6 +60,6 @@ Coal is dried and placed into the smelter, which reduces the iron fines. The off
 
 #### HyFOR
 
-Can reduce any grade of iron fines concentrate from magnetite to hematite to limonio
+Can reduce any grade of iron fines concentrate from magnetite to hematite to limonite.
 
-Material is preheated and i
+Material is preheated and in the case of magnetite, it is oxidised to hematite before reduction (as magnetite is harder to reduce)
