@@ -36,4 +36,4 @@ As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa 
 
 ### Finmet
 
-This is where the 
+This is where the iron fines passes through a seires 
