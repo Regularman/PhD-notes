@@ -49,4 +49,5 @@ This is the only process which has operated at a commercial scale. The iron ores
 
 #### FINEX 
 
-The iron ore fines is placed through a series of fluidised bed reactor, and then they are heated and reduced to DRI using gasified coal. The DRI is then sent to a melter gasifier to convert into hot metal.
+The iron ore fines is placed through a series of fluidised bed reactor, and then they are heated and reduced to DRI using gasified coal. The DRI is compacted into HBI then sent to a melter gasifier to convert into hot metal.
+![[Screenshot 2026-09-17 at 7.05.51 pm.png|547]]
