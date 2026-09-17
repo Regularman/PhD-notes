@@ -1,7 +1,3 @@
-
+https://arena.gov.au/assets/2024/03/Calix-Zesty-Tech-%E2%80%93-Zero-Emissions-Iron-and-Steel-KS5-Pilot-Plant-Study-Report.pdf
 
 ## Contribution
-
-Simulation engine for the operation of the future Hyfor plant including the reduction agent production (hydrogen), the ore preheater, and the reduction section on the fluidised bed.
-
-- The HyFOR process can also work with
