@@ -11,3 +11,5 @@ Hydrogen has a higher calorific value, higher reaction rate, especially when rea
 
 The stoichiometry is $54kg/t$ of hydrogen.
 - A cyclone and a dust collection system is in place so that iron fines that is entrained with the hydrogen gas can be collected and recycled.
+
+### Curren
