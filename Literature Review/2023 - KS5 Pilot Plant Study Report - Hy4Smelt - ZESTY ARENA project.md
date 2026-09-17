@@ -29,5 +29,5 @@ The laboratory scale model is consisted of an electrical furnace housing a stain
 As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa of iron.
 - Demonstrated that a wider bed reactor reduced particle sticking
 - Looked at output as a molten metal and as iron fine
-- Place of feeding iron fines should be 
+- Place of feeding iron fines should be near the flame but not in it
 
