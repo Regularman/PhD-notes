@@ -18,7 +18,10 @@ The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fu
 ![[Screenshot 2026-09-17 at 6.36.43 pm.png|223]]
 Utilise waste heat recovery to drive a steam turbine to produce electricity for the plant.
 
-### Pilot testing i
+### Pilot testing insights
+
+- The collection efficiency is a function of temperature, fine particle size distribution and off gas flow.
+- However, these factors also causes change in the metallisation degree and reduction degree.
 ### Current Flash iron making processes
 
 #### Flash Iron-making Technology (FIT)
