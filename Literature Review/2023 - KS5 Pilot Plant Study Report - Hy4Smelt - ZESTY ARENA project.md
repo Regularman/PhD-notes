@@ -10,9 +10,12 @@ Hydrogen has a higher calorific value, higher reaction rate, especially when rea
 - It can then be sold as Hot Briquette iron or melted in the melting unit to remove gangue from the iron
 - Since the heating process can handle intermittent heating, renewable energy is suitable
 
-The stoichiometry is $54kg/t$ of hydrogen.
+The stoichiometry is $54kg/t$ of hydrogen. When used as a reductant and not a fuel.
 - A cyclone and a dust collection system is in place so that iron fines that is entrained with the hydrogen gas can be collected and recycled.
 
 ### Current fluidised test bed methods
+
+#### Flash Iron-making Technology
+
 
 
