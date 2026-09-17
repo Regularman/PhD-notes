@@ -63,3 +63,5 @@ Coal is dried and placed into the smelter, which reduces the iron fines. The off
 Can reduce any grade of iron fines concentrate from magnetite to hematite to limonite.
 
 Material is preheated and in the case of magnetite, it is oxidised to hematite before reduction (as magnetite is harder to reduce)
+
+The hydrogen is also preheated before entering the reactor. The material can be recollected back inot the cyclone and recharged to achieve a desired level of me
