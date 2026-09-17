@@ -44,4 +44,4 @@ This is the same as Finmet, except that hydrogen is used as a reducing gas. [[20
 
 #### Circored
 
-This is the only process which has operated at a commercial scale. The iron ores are first dried and preheated in a circulating fluidised preheater and 
+This is the only process which has operated at a commercial scale. The iron ores are first dried and preheated in a circulating fluidised preheater and then placed into a bubbling circulating fluidised bed reactor. The temperature of the last reactor, where the cross flow of reducing gas and iron fines take place, reaches 630-650
