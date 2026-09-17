@@ -22,9 +22,10 @@ The reducing gas $CH_4$ or $H_2$ is burnt partially with oxygen at a temperature
 
 The laboratory scale model is consisted of an electrical furnace housing a stainless-steel tube, a gas delivery system, a powder feeding system, a power control system, an off-gas scrubbing system, and an off-gas burner.
 - Iron can be made through hydrogen or natural gas or a mix of both
-- Nitrogen is used as a carrier gas and
+- Nitrogen is used as a carrier gas for the iron fines
 
 ![[Screenshot 2026-09-17 at 6.36.23 pm.png|309]]
 
 As of 2023, CFD modelling has produced plants of 100,000 tpa and up to 1.0 Mtpa of iron.
+- Demonstrated that a wider bed reactor reduced particle sticking
 
