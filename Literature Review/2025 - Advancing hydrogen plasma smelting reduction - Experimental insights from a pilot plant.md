@@ -41,4 +41,7 @@ Note that the slag and metal phase will separate when the crucible is allowed to
 
 ### Limitations
 
-Note that the process has not been optimised 
+Note that the process has not been optimised yet, and the pilot plant was primarily used to figure out the reduction kinetics of the experimental setup,
+- The cathode will have to be redesigned for a larger throughput
+- The bath's surface area to volume influences reduction significantly
+- MgO-P refractory material is recom
