@@ -38,3 +38,7 @@ The cathode is lowered until it comes into contact with the charged material, wh
 ![[Screenshot 2026-09-18 at 2.32.41 pm.png]]
 
 Note that the slag and metal phase will separate when the crucible is allowed to cool down in an inert nitrogen atmosphere.
+
+### Limitations
+
+Note that the process has not been optimised 
