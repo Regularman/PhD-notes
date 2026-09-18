@@ -45,4 +45,4 @@ Note that the process has not been optimised yet, and the pilot plant was primar
 - The cathode will have to be redesigned for a larger throughput and facilitate large power input
 - The bath's surface area to volume influences reduction significantly
 - MgO-P refractory material is recommended for further experiments
-- Insulation of the upper vessel can reduce the necessary power input by ip to 25%
+- Insulation of the upper vessel can reduce the necessary power input by up to 25%
