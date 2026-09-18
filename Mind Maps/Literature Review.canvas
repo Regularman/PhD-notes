@@ -150,7 +150,8 @@
 		{"id":"c346ac5103a22e93","type":"file","file":"PhD-notes/Literature Review/2024 - Electrochemistry in Action - Iron and Steel  Manufacturing - Electra - Acidic Electrowinning.md","x":-4080,"y":2411,"width":400,"height":163,"color":"5"},
 		{"id":"c085736639582767","type":"file","file":"PhD-notes/Literature Review/2025 - Boston Metal - Molten Oxide Electrolysis.md","x":-4080,"y":2630,"width":400,"height":120,"color":"5"},
 		{"id":"4e25f136d896d093","type":"file","file":"PhD-notes/Literature Review/2019 - Electrification of the heat treatment process for iron ore pelletisation at LKAB with plasma heating.md","x":-7100,"y":1226,"width":400,"height":176,"color":"5"},
-		{"id":"07b9185932c68526","x":-7100,"y":1425,"width":400,"height":127,"color":"5","type":"file","file":"PhD-notes/Literature Review/2025 - Advancing hydrogen plasma smelting reduction - Experimental insights from a pilot plant.md"}
+		{"id":"07b9185932c68526","type":"file","file":"PhD-notes/Literature Review/2025 - Advancing hydrogen plasma smelting reduction - Experimental insights from a pilot plant.md","x":-7100,"y":1425,"width":400,"height":127,"color":"5"},
+		{"id":"88c02e2c44aa157a","x":-5710,"y":354,"width":342,"height":127,"type":"file","file":"2021 - Experiences of Bio-Coal Applications in the Blast Furnace Process - Opportunities and Limitations.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -293,6 +294,7 @@
 		{"id":"9ff014f9dc2650eb","fromNode":"775a5bff74493a58","fromSide":"top","toNode":"83fd23e83824a1ed","toSide":"right"},
 		{"id":"c5fd2a502da49c6c","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"3c551ce1ec1d250e","toSide":"left"},
 		{"id":"1ed4665e7e8972d9","fromNode":"05bf1f1ace912ae5","fromSide":"right","toNode":"36ee4f590da34bbd","toSide":"left"},
-		{"id":"36683a611ef87080","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"07b9185932c68526","toSide":"right"}
+		{"id":"36683a611ef87080","fromNode":"202be8ce8af7c032","fromSide":"left","toNode":"07b9185932c68526","toSide":"right"},
+		{"id":"158292228dc0d76d","fromNode":"775a5bff74493a58","fromSide":"top","toNode":"88c02e2c44aa157a","toSide":"right"}
 	]
 }
