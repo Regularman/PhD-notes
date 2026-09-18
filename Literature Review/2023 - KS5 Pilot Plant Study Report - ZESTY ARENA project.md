@@ -84,7 +84,7 @@ Uniquely, HyFOR is the only process without a counter current of reducing gas, u
 
 ![[Screenshot 2026-09-17 at 7.19.31 pm.png]]
 
-In the Hy4smelt pilot project in voestalpine, the slag can be used in the cement industry and the high calorific off gas can be used as a substitute for natural gas. 
+In the Hy4smelt pilot project in voestalpine, the slag can be used in the cement industry and the high calorific off gas can be used as a substitute for natural gas. Using the smelting process, it can produce steel from a large variety of iron ores of different grade.
 #### Comparison of processes
 ![[Screenshot 2026-09-17 at 7.23.46 pm.png]]
 ![[Screenshot 2026-09-17 at 7.23.15 pm.png]]
