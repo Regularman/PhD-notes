@@ -51,6 +51,8 @@ Results show that using the 5GDHC compared to the reference case offers savings 
 - The simulation in GIS is quasi-dynamic, as the tool is able to figure out the flow direction of the heating network between base and peak flow rates.
 
 Did not specify how to minimise hydaulic loss. Rather than answering what is the most sustainable way to meet the heat of this industrial district, it applied 5GDHC to show emissions and cost savings.
+
+Outlines pipe radius to be a factor for the capacity of flow rate but does not explicitly outline 
 ## Limitations
 
 Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)
@@ -65,5 +67,6 @@ Therefore, it can be said that this paper is limited to the techno-economic anal
 - What is the over-capacity and utilisation of the technology? Since the study is on space heating, there is only one quality of heat required, which is not what industry needs.
 
 Does not five into the logistics of heat pump installation
+
 
 
