@@ -31,6 +31,10 @@ The analyse have loads that vary, such as
 - Also consider that 69% of the network operates at high temperatures and pressures while the other 31% operates at lower conditions
 
 The heat demands are space heating, water heating, and process heating.
+
+### Results
+
+Found that in Scenario 3, solar thermal panels have limited contributions due to the low temperature output of the panels and the high temperature of the network
 ## Further Readings
 
 Outlines that decision support tools available for the design of DHNs, including
