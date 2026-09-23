@@ -25,7 +25,7 @@ The paper then performs hotspot analysis based on the EPD requirements for elect
 - ozone creating potential
 - Eutrophication potential
 - Mineral, fossil and renewable resource depletion impact category
-
+![[Screenshot 2026-09-24 091347.png]]
 
 ## Limitations
 
