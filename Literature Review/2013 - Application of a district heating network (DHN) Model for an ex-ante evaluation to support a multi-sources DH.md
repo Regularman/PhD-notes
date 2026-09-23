@@ -21,5 +21,10 @@ Outlines that decision support tools available for the design of DHNs, including
 In the model, the DH system is represented as an orientated graph and its energy behaviour is simulated at each timestep using LP.
 - There are $n$ nodes (substations) and $m$ branches (pipes)
 
+The unknowns to be solved are
+- The heat flow in each branch
+- Power production from each heat source
+
+
 
 
