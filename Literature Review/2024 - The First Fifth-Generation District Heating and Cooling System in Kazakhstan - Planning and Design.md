@@ -56,7 +56,8 @@ The study is also technology agnostic, the specifications of the heat pump is no
 The study is not a comparative study that breaks down what is meant by the design of a good heating network.
 - The placement of the booster heat pump is also specified to be distributed. There is also a centralised heat pump. There is no comparison on what is a good district heating network
 
-Therefore, it can be said that this paper is limited to the techno-economic analysis of application of 5GDHC in an industrial park in Khasakhtan.
+Therefore, it can be said that this paper is limited to the techno-economic analysis of application of 5GDHC in an industrial park in Kazakhstan.
 
+- What is the over-capacity and utilisation of the technology? Since the study is on space heating, there is only one quality of heat required, which is not what industry 
 
 
