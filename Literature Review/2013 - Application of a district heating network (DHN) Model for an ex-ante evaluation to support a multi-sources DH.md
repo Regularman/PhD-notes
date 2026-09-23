@@ -22,6 +22,8 @@ The analyse have loads that vary, such as
 - An incineration plant that uses municipal solid waste from local hospitals and other industrial wastes
 - Two hospitals with their own 6MW and 10MW boilers
 - Also consider that 69% of the network operates at high temperatures and pressures while the other 31% operates at lower conditions
+
+The heat demands are space heating, water heating, and process heating.
 ## Further Readings
 
 Outlines that decision support tools available for the design of DHNs, including
