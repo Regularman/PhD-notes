@@ -34,16 +34,16 @@ The study includes a heat pump set-back strategy when the building (commercial o
 - Personal comfort level
 
 Looks at the following metrics,
-- Maximal heating and cooling demand (maximal heating demand [kW], maximal cooling demand [kW]);
-- Volume heating and cooling demand (volume heating demand [MWh/y], volume cooling demand [MWh/y]);
-- Net volume heat on the grid (net volume heat (grid) [MWh/y]);
-- Maximum electric demand (maximal electric demand [kW]);
-- CO2 emissions from heat pumps and circulation pumps (W_HP_CO2 [kgCO2/y], W_pump_CO2 [kgCO2/y]);
-- Costs related to heat pumps, pumps, and valves (W_HP_cost [EUR/y], W_pump_cost [EUR/y], W_valve_cost [EUR/y]).
+- Maximal heating and cooling demand 
+- Volume heating and cooling demand
+- Net volume heat on the grid 
+- Maximum electric demand 
+- CO2 emissions from heat pumps and circulation pumps
+- Costs related to heat pumps, pumps, and valves
 
 Fixes network temperature, electricity prices, and constant supply temperatures.
 
-Only looks at the space heating demand.
+Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)
 
 
 
