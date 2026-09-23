@@ -14,7 +14,7 @@ The proposed model incorporates waste heat recovery from local sources, includin
 ![[Screenshot 2026-09-23 114001.png]]
 
 Focused on heat pumps in ultra low temperature district heating networks.
-- Energy is stored in a aquifier o
+- Energy is stored in a aquifier pond
 
 The paper highlights the operational strategy (set back temperature) of the 5GDHC and how it impacts the metrics outlined in the content section of this notes summary.
 ## Content
@@ -54,7 +54,9 @@ Only looks at the space heating demand. (Also only looks at the peak demand rath
 The study is also technology agnostic, the specifications of the heat pump is not specified.
 
 The study is not a comparative study that breaks down what is meant by the design of a good heating network.
-- The placement of the heat pump is also specified to be distributed.
+- The placement of the booster heat pump is also specified to be distributed. There is also a centralised heat pump. There is no comparison on what is a good district heating network
+
+Therefore, it can be said that this paper is limited to the techno-economic analysis of application of 5GDHC in an industrial park in Khasakhtan.
 
 
 
