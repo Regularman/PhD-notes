@@ -14,6 +14,7 @@ The proposed model incorporates waste heat recovery from local sources, includin
 ![[Screenshot 2026-09-23 114001.png]]
 
 Focused on heat pumps in ultra low temperature district heating networks.
+- Energy is stored in a aquifier o
 
 The paper highlights the operational strategy (set back temperature) of the 5GDHC and how it impacts the metrics outlined in the content section of this notes summary.
 ## Content
