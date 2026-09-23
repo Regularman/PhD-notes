@@ -20,8 +20,8 @@ Looks at technology and standalone vs distributed applications.
 
 ## Limitations
 
-Does not vary the load.
-Heat pumps are statically sized at 41.5MW and has a constant COP value of 4.2
+- Does not vary the load and therefore represents a static analysis of the system
+- Heat pump for the geothermal scenario are statically sized at 41.5MW and has a constant COP value of 4.2
 ## Further readings
 
 [19] Development of district heating and its relationship to renewable development in the power system
