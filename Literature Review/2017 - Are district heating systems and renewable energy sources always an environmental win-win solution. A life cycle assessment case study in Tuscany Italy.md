@@ -37,7 +37,7 @@ The paper then performs hotspot analysis based on the EPD requirements for elect
 - The boundary of the system cuts off at recycling and only includes assembly, operation, and EOL)
 - Does not include the transportation of natural gas or other resources, nor the extraction of mineral required for heat pumps and geothermal systems
 - Scenarios assume short transportation distances 
-- Does not provide prospective impacts as the electricity grid decarbonises
+- Does not provide prospective impacts as the electricity grid decarbonises, as the boudnaries of the LCA does not include the power ststen
 ## Further readings
 
 [19] Development of district heating and its relationship to renewable development in the power system
