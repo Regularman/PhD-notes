@@ -25,10 +25,13 @@ The paper then performs hotspot analysis based on the EPD requirements for elect
 - ozone creating potential
 - Eutrophication potential
 - Mineral, fossil and renewable resource depletion impact category
+
+
 ## Limitations
 
 - Does not vary the load and therefore represents a static analysis of the system
 - Heat pump for the geothermal scenario are statically sized at 41.5MW and has a constant COP value of 4.2
+- The boundary of the system cuts off at recycling and only includes assembly, operation, and EOL)
 ## Further readings
 
 [19] Development of district heating and its relationship to renewable development in the power system
