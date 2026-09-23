@@ -9,6 +9,8 @@ Conducts a cradle to grave analysis of 3 different heating systems for a residen
 - Biomass system
 - 2 other systems based on natural gas as a fossil fuel
 
+The data refers to 2007-2011 period/ Cradle to grave analysis
+
 Looks at technology and standalone vs distributed applications.
 
 ## Content
