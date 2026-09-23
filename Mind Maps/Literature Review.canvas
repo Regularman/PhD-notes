@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2b4fc0a627ac540e","x":-6371,"y":-2610,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
@@ -152,7 +151,8 @@
 		{"id":"170168a084fa3f55","type":"file","file":"PhD-notes/Literature Review/2019 - Energy Systems Catapult - Smart Systems and Heat.md","x":-793,"y":-2400,"width":400,"height":124,"color":"1"},
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":400,"height":175,"color":"6"}
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":400,"height":175,"color":"6"},
+		{"id":"2b4fc0a627ac540e","x":-6558,"y":-2720,"width":400,"height":130,"type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},

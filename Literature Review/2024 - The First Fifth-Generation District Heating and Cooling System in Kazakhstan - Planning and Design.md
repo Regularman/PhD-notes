@@ -50,7 +50,7 @@ Results show that using the 5GDHC compared to the reference case offers savings 
 
 - The simulation in GIS is quasi-dynamic, as the tool is able to figure out the flow direction of the heating network between base and peak flow rates.
 
-Did not specify how to mi
+Did not specify how to minimise hydaulic loss. Rather than answering what is the most sustainable way to meet the heat of this industrial district, it applied 5GDHC to show emissions and cost savings.
 ## Limitations
 
 Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)
