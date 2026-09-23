@@ -19,7 +19,12 @@ Looks at technology and standalone vs distributed applications.
 ## Content
 ![[Screenshot 2026-09-24 090931.png]]
 
-The paper then performs hotspot analysis based on the EOD 
+The paper then performs hotspot analysis based on the EPD requirements for electricity, steam and hot/cold water generation and distribution
+- GWP
+- acidification potential
+- ozone creating potential
+- Eutrophication potential
+- Mineral, fossil and renewable resource depletion impact category
 ## Limitations
 
 - Does not vary the load and therefore represents a static analysis of the system
