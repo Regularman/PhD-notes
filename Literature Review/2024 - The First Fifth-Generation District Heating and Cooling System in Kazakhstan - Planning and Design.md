@@ -60,6 +60,6 @@ Therefore, it can be said that this paper is limited to the techno-economic anal
 
 - What is the over-capacity and utilisation of the technology? Since the study is on space heating, there is only one quality of heat required, which is not what industry needs.
 
-Does not five into the 
+Does not five into the logistics of heat pump installation
 
 
