@@ -43,7 +43,16 @@ Looks at the following metrics,
 
 Fixes network temperature, electricity prices, and constant supply temperatures.
 
+## Results
+
+
+## Limitations
+
 Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)
+
+The study is also technology agnostic, the specifications of the heat pump is not specified.
+
+The study is not a comparative study that breaks down what is meant by the design of a good heating network.
 
 
 
