@@ -53,6 +53,7 @@ Only looks at the space heating demand. (Also only looks at the peak demand rath
 The study is also technology agnostic, the specifications of the heat pump is not specified.
 
 The study is not a comparative study that breaks down what is meant by the design of a good heating network.
+- The placement of the heat pump is also specified to be distributed.
 
 
 
