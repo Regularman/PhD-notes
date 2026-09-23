@@ -25,7 +25,7 @@ The unknowns to be solved are
 - The heat flow in each branch
 - Power production from each heat source
 
-The system minimises heat production cost at each timestep
+The system minimises heat production cost at each timestep, with respect to the constraints of maximal heat production capacities, fuel costs, therm
 
 
 
