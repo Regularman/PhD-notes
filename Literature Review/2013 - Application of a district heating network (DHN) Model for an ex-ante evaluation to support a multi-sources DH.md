@@ -16,3 +16,7 @@ Outlines that decision support tools available for the design of DHNs, including
 - Energy mix optimisation
 - Mid-term operational planning tools [Dotsauer](https://www.sciencedirect.com/science/article/pii/S0360544203001518)
 
+## Content
+
+In the model, the DH system is represented aas an
+
