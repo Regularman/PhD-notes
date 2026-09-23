@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"2b4fc0a627ac540e","x":-6371,"y":-2610,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"},
 		{"id":"e6b10110bd1e4c0e","type":"file","file":"PhD-notes/Literature Review/2024 - Review of Business Models for Industrial Heat Pumps.md","x":-2457,"y":-600,"width":419,"height":134,"color":"3"},
 		{"id":"23c8af248eda3ec1","type":"file","file":"PhD-notes/Literature Review/2019 - Business case for heat pumps and thermal storage to replace straw-boilers in Samso, Denmark.md","x":-1912,"y":-298,"width":422,"height":128,"color":"3"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
