@@ -7,7 +7,8 @@ Questions the assumption that district heating is an optimal solutions, offering
 Conducts a cradle to grave analysis of 3 different heating systems for a residential neighbourhood of 1000 inhabitants in Tuscany, Italy, serving sanitary hot water, space heating and cooling
 - Geothermal heat pump
 - Biomass system
-- 2 other systems based on natural gas as a fossil fuel
+- A district heating system using natural gas
+- A system with boilers and air to air heat pumps, diffused at each dwelling 
 
 The data refers to 2007-2011 period/ Cradle to grave analysis
 
