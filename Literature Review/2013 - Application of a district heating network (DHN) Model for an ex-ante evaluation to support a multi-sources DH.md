@@ -7,6 +7,12 @@ Provides a linear programming model to emulate a DHN to support the design and d
 
 - However, immediately frames DH as the solution doe decarbonisation, due to its ability to integrate biomass, waste heat, or geothermal energy
 The LP is applied to a French District heating network that is 22km long and has 116 substation, providing 130,000 MWh of heat
+
+Analyses three scenarios based on
+- Main heat production is the waste incineration plant and extra heat is supplied by a thermal plant using a fossil fuel boiler
+- Storage is added to scenario 1, with capacity of 400MWh
+- Waste incineration plant reduced 50% capacit
+
 ## Content
 
 In the model, the DH system is represented as an orientated graph and its energy behaviour is simulated at each timestep using LP.
