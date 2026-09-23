@@ -18,5 +18,8 @@ Outlines that decision support tools available for the design of DHNs, including
 
 ## Content
 
-In the model, the DH system is represented aas an
+In the model, the DH system is represented as an orientated graph and its energy behaviour is simulated at each timestep using LP.
+- There are $n$ nodes (substations) and $m$ branches (pipes)
+
+
 
