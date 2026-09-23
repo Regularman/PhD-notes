@@ -14,3 +14,5 @@ Looks at technology and standalone vs distributed applications.
 ## Content
 
 ### What are the main considerations regarding sustainability? A literature review
+
+## Furth
