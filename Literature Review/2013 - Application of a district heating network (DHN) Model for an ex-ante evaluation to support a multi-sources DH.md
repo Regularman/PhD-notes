@@ -11,7 +11,8 @@ The LP is applied to a French District heating network that is 22km long and has
 Analyses three scenarios based on
 - Main heat production is the waste incineration plant and extra heat is supplied by a thermal plant using a fossil fuel boiler
 - Storage is added to scenario 1, with capacity of 400MWh
-- Waste incineration plant reduced 50% capacit
+- Waste incineration plant reduced 50% capacity and extra heat is supplied by a thermal plant and thermal solar panels.
+Simulations are carried out over the year in hour timesteps.
 
 ## Content
 
