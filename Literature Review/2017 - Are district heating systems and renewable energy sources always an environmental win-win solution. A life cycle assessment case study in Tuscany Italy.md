@@ -20,7 +20,7 @@ Looks at technology and standalone vs distributed applications.
 
 ## Limitations
 
-Does not 
+Does not vary the load, and the load is uniform
 ## Further readings
 
 [19] Development of district heating and its relationship to renewable development in the power system
