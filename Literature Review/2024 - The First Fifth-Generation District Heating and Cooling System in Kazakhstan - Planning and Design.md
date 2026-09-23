@@ -46,7 +46,9 @@ Fixes network temperature, electricity prices, and constant supply temperatures.
 
 ## Results
 
+Results show that using the 5GDHC compared to the reference case offers savings and reduces CO2 emissions, with a payback perio dof 15 years.
 
+- The simulation in GIS is quasi-dynamic, as the tool is ab
 ## Limitations
 
 Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)
