@@ -19,4 +19,4 @@ Looks at technology and standalone vs distributed applications.
 
 [19] Development of district heating and its relationship to renewable development in the power system
 
-[21] LCA of
+[21] LCA of distribution of heating networks
