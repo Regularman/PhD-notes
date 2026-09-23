@@ -41,7 +41,9 @@ Looks at the following metrics,
 - CO2 emissions from heat pumps and circulation pumps (W_HP_CO2 [kgCO2/y], W_pump_CO2 [kgCO2/y]);
 - Costs related to heat pumps, pumps, and valves (W_HP_cost [EUR/y], W_pump_cost [EUR/y], W_valve_cost [EUR/y]).
 
-Fixes network temperature, electricity prices, and constant supply temperature
+Fixes network temperature, electricity prices, and constant supply temperatures.
+
+Only looks at the space heating demand.
 
 
 
