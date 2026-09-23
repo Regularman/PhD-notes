@@ -52,7 +52,7 @@ Results show that using the 5GDHC compared to the reference case offers savings 
 
 Did not specify how to minimise hydaulic loss. Rather than answering what is the most sustainable way to meet the heat of this industrial district, it applied 5GDHC to show emissions and cost savings.
 
-Outlines pipe radius to be a factor for the capacity of flow rate but does not explicitly outline 
+Outlines pipe radius to be a factor for the capacity of flow rate but does not explicitly outline how to best optimise this pipe radius.
 ## Limitations
 
 Only looks at the space heating demand. (Also only looks at the peak demand rather than the load profiles of each plant)

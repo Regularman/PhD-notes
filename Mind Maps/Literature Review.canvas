@@ -152,7 +152,7 @@
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":400,"height":175,"color":"6"},
-		{"id":"2b4fc0a627ac540e","x":-6558,"y":-2720,"width":400,"height":130,"type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"}
+		{"id":"2b4fc0a627ac540e","x":-6558,"y":-2720,"width":400,"height":130,"color":"6","type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
