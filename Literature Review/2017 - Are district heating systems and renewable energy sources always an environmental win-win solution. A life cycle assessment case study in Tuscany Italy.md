@@ -15,4 +15,6 @@ Looks at technology and standalone vs distributed applications.
 
 ### What are the main considerations regarding sustainability? A literature review
 
-## Furth
+## Further readings
+
+[19] Development of district heating and its relationship to renewable development in the power system
