@@ -151,7 +151,7 @@
 		{"id":"170168a084fa3f55","type":"file","file":"PhD-notes/Literature Review/2019 - Energy Systems Catapult - Smart Systems and Heat.md","x":-793,"y":-2400,"width":400,"height":124,"color":"1"},
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":501,"height":175,"color":"6"}
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":400,"height":175,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -212,7 +212,6 @@
 		{"id":"e3e3b8e77204e37f","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"d48b6c74b5c5bf39","toSide":"left"},
 		{"id":"e6893c5d720e4730","fromNode":"cabd4f6f1b11d73e","fromSide":"top","toNode":"9760a039016c0b98","toSide":"left"},
 		{"id":"e3442349d923380d","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"138cddac4942deea","toSide":"right"},
-		{"id":"d6e1a2ca05d8ac0b","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"top"},
 		{"id":"b6e6280c38264e37","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"6109e47dc2d010a3","toSide":"left"},
 		{"id":"3d7b1a90859aa37d","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"8d1be414973da2bc","toSide":"top"},
 		{"id":"5d69f6c3d00d18d5","fromNode":"8d1be414973da2bc","fromSide":"bottom","toNode":"a4f221d6d032dc7c","toSide":"top"},
@@ -295,6 +294,7 @@
 		{"id":"7a4742ab9e00ec18","fromNode":"71cd8a28a3fda54b","fromSide":"top","toNode":"0ddc5405c5c10558","toSide":"right"},
 		{"id":"63fdf12273836eab","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"left"},
 		{"id":"d1de3798d9061d66","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"105f615de74ce3fd","toSide":"left"},
-		{"id":"8b6a79aed4c2e741","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"b499a57d38d08989","toSide":"left"}
+		{"id":"8b6a79aed4c2e741","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"b499a57d38d08989","toSide":"left"},
+		{"id":"454ea1542c5c275f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"right"}
 	]
 }
