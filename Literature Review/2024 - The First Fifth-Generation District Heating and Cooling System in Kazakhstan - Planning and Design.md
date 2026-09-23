@@ -15,7 +15,7 @@ The proposed model incorporates waste heat recovery from local sources, includin
 
 Focused on heat pumps in ultra low temperature district heating networks.
 
-The paper highlights the operational strategy (set back temperature) of the 5GDHC and how it impacts the metrics outlined in the content section of
+The paper highlights the operational strategy (set back temperature) of the 5GDHC and how it impacts the metrics outlined in the content section of this notes summary.
 ## Content
 
 There are different types of models for heating networks
