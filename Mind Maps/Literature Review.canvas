@@ -54,7 +54,6 @@
 		{"id":"8d1be414973da2bc","type":"text","text":"# ~={yellow}Operation Optimisation=~","x":-2852,"y":-832,"width":250,"height":72,"color":"3"},
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1720,"width":400,"height":166,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1207,"width":400,"height":168,"color":"6"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6558,"y":-1488,"width":501,"height":175,"color":"6"},
 		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"},
 		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3100,"width":400,"height":194,"color":"4"},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4678,"y":-2060,"width":400,"height":145,"color":"4"},
@@ -151,7 +150,8 @@
 		{"id":"b499a57d38d08989","type":"file","file":"PhD-notes/Literature Review/2021 - Exploring the potential of Heat as a Service in Decarbonisation - Evidence needs and research gaps.md","x":-1363,"y":-2159,"width":383,"height":143,"color":"1"},
 		{"id":"170168a084fa3f55","type":"file","file":"PhD-notes/Literature Review/2019 - Energy Systems Catapult - Smart Systems and Heat.md","x":-793,"y":-2400,"width":400,"height":124,"color":"1"},
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
-		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"}
+		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":501,"height":175,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
