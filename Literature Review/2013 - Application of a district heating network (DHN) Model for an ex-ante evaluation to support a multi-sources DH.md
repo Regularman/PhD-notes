@@ -11,7 +11,7 @@ Outlines that decision support tools available for the design of DHNs, including
 - Network topology optimisation [Soderman](https://www.sciencedirect.com/science/article/pii/S0301421513003418)
 - Optimisation of pipe 
 	- through the PipeLab model 2010 through energy loss 
-	- Cost and economic variabl
+	- Cost and economic variables, namely the total cost of the system through Persson's model in 2011
 - Network design optimisation [Gustafsson](https://www.sciencedirect.com/science/article/pii/0360544292900658)
 - Energy mix optimisation
 - Mid-term operational planning tools [Dotsauer](https://www.sciencedirect.com/science/article/pii/S0360544203001518)
