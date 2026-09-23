@@ -19,7 +19,9 @@ Looks at technology and standalone vs distributed applications.
 ## Content
 ![[Screenshot 2026-09-24 090931.png]]
 
-Although both the 
+Although both biomass and geothermal reduces the climate change impacts,
+- Biomass have worse human toxicity, particulate matter generation, acidification, landuse and mineral and resource depletion impacts
+- while geothermal has 
 The paper then performs hotspot analysis based on the EPD requirements for electricity, steam and hot/cold water generation and distribution
 - GWP
 - acidification potential
