@@ -4,6 +4,8 @@ https://www.aivc.org/sites/default/files/p_2433_0.pdf
 ## Contribution
 
 Provides a linear programming model to emulate a DHN to support the design and decision making.
+- However it should be said that the efficiency of the heat source is a non-linear system, and linearisation simplifies the problem and approximates the optimal
+- Note that the objective of this paper is not optimisation, but evaluation of a system
 
 - However, immediately frames DH as the solution doe decarbonisation, due to its ability to integrate biomass, waste heat, or geothermal energy
 The LP is applied to a French District heating network that is 22km long and has 116 substation, providing 130,000 MWh of heat
@@ -30,7 +32,7 @@ The analyse have loads that vary, such as
 - Two hospitals with their own 6MW and 10MW boilers
 - Also consider that 69% of the network operates at high temperatures and pressures while the other 31% operates at lower conditions
 
-The heat demands are space heating, water heating, and process heating. Note that the objective of this paper is not optimisation, but evaluation of a system
+The heat demands are space heating, water heating, and process heating. 
 - However does not include investment and fixed cost of the system
 
 ### Results
