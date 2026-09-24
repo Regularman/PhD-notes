@@ -77,6 +77,7 @@ Traditionally, the energy needs of communities are reported in terms of heat rat
 ![[Screenshot 2026-09-24 145150.png]]
 
  The main variable that is changed is the different levels of temperatures used for the heating network heat transfer fluid.
+ - Note that exer
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
