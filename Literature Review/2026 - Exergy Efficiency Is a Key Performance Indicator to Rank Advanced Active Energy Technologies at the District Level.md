@@ -63,7 +63,9 @@ $E_{\gamma, comb}$ is the exergy transformation rate of the oxidation network. $
 Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using this formula.
 
 ![[Screenshot 2026-09-24 at 1.53.32 pm.png]]
-#### Integration
+#### Integration of 5GDHC with SOFC
+
+
 
 ## Further Readings
 
