@@ -13,3 +13,5 @@ heating was the main concern until recently. The multiplication of data centers 
 (Artificial Intelligence) with high cooling needs is a major challenge, but also represents
 opportunities for waste heat recovery at the district level.
 ## Content 
+
+To analyse the exergy efficiency
