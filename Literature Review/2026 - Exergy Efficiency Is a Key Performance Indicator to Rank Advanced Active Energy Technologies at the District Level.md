@@ -73,6 +73,8 @@ Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using
 #### Evaluation of the district heating system
 
 Traditionally, the energy needs of communities are reported in terms of heat rates. Energy and exergy composites allows us to account for the temperature required by the heat distribution system inside each building
+
+![[Screenshot 2026-09-24 145150.png]]
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
