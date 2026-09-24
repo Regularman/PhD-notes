@@ -30,13 +30,14 @@ The analyse have loads that vary, such as
 - Two hospitals with their own 6MW and 10MW boilers
 - Also consider that 69% of the network operates at high temperatures and pressures while the other 31% operates at lower conditions
 
-The heat demands are space heating, water heating, and process heating.
+The heat demands are space heating, water heating, and process heating. Note that the objective of this paper is not optimisation, but evaluation of a system
+- However does not include investment and fixed cost of the system
 
 ### Results
 
 Found that in Scenario 3, solar thermal panels have limited contributions due to the low temperature output of the panels and the high temperature of the network![[Screenshot 2026-09-24 095810.png]]
 
-Also shows the cost of each scenario, demonstrating the operational cost of each system. Note that the objective of this paper is not optimisation, but evaluation of a system
+Also shows the cost of each scenario, demonstrating the operational cost of each system.
 
 ![[Screenshot 2026-09-24 095834.png]]
 ## Further Readings
