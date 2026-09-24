@@ -56,7 +56,7 @@ In both case the gas turbine has a pressure coefficient of $3$.
 Exergy efficiency can be calculated as $$\frac{E_{GT}+E_{SOFC}+E_{\gamma, CO_2}+E_{\gamma,water}+M_{CO_2}e_{d,CO_2}-E_{water-pump}}{E_{\gamma, comb}+M_{O_2}e_{d,oxygen-burner}}$$
 The numerator is the electrical power obtained from the gas turbine and the SOFC, the remaining exergy transformation rate in the condensed water and $CO_2$, as well as the power required to operate the water pump.
 
-$E_{\gamma, comb}$ is the exergy transformation rate of the oxidation network. $$E_{\gamma, comb}=\dot{M_F} \times EXV$$where $EXV$ is the exergy value of the fuel. Further, $e_{d,CO_2}$ and $e_{d,oxygen-burner}$ are the $CO_2$ and $O_2$ diffusion rates, 
+$E_{\gamma, comb}$ is the exergy transformation rate of the oxidation network. $$E_{\gamma, comb}=\dot{M_F} \times EXV$$where $EXV$ is the exergy value of the fuel. Further, $e_{d,CO_2}$ and $e_{d,oxygen-burner}$ are the $CO_2$ and $O_2$ diffusion rates, Exergy diffusion represents the spreading of useful work potential as the system moves towards thermodynamic equilibrium through irreversible processes.
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
