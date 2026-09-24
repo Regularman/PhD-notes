@@ -19,7 +19,8 @@ Users have different requirements, and the paper explores the distribution of us
 ![[Screenshot 2026-09-25 085024.png|368]]
 ## Results
 
-Sensitivity and optimisation analysis shows that network supply temperature was clearly the dominant independent variable. Some other variables that were consid
+Sensitivity and optimisation analysis shows that network supply temperature was clearly the dominant independent variable. Some other variables that were considered was
+- Share of heat pumps, gas turbines, gas engines, and boilers in the network, considering their manufacturing and disassembly costs.
 ## Limitations
 
 Simplification to the superstructure is made, such as
