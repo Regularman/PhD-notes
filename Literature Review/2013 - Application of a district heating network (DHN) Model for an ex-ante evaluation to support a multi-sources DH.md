@@ -36,7 +36,7 @@ The heat demands are space heating, water heating, and process heating.
 
 Found that in Scenario 3, solar thermal panels have limited contributions due to the low temperature output of the panels and the high temperature of the network![[Screenshot 2026-09-24 095810.png]]
 
-Also shows the cost of each scenario, demonstrating the operational stage of 
+Also shows the cost of each scenario, demonstrating the operational cost of each system. Note that the objective of this paper is not optimisation, but evaluation of a system
 
 ![[Screenshot 2026-09-24 095834.png]]
 ## Further Readings
