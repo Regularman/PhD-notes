@@ -9,7 +9,7 @@ Ultimately shows that integration of SOFC (solid oxide fuel cell gas turbine) co
 
 To set the scene, global warming and heat island phenomena are reinforcing the need for cooling even in the central to northern areas of the northern hemisphere, where heating was the main concern until recently. The multiplication of data centers for AI (Artificial Intelligence) with high cooling needs is a major challenge, but also represents opportunities for waste heat recovery at the district level.
 
-Ultimately showed that exergy efficiency is at 21.3% when integrating a rankinge cycle 
+Ultimately showed that exergy efficiency is at 21.3% when integrating a rankinge cycle in the SOFC-GT loop. Conventional 4th gen DH has 9.6% efficiency and gen 5 DHN without cogeneration has an exergy efficiency of 13.8%. 
 ## Content 
 
 To analyse the exergy efficiency, we can break the over all system into
