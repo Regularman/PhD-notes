@@ -102,6 +102,8 @@ We have to consider the length of the network, but the study only looks at the t
 
 Why is exergy a better KPI?
 - The paper just says it is a more coherent KPI, but does not give reasons why. Maybe [6] will give insights into why exergy is a good KPI to evaluate DHNs.
+
+Also includes only heating systems
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
