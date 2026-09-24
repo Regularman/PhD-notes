@@ -66,7 +66,8 @@ Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using
 #### Integration of 5GDHC with SOFC
 
 5GDHC has a cold stream for waste heat recovery and flue gas condensation, which improves $CO_2$ recovery efficiency
-- The captured $CO_2$ can be renete
+- The captured $CO_2$ can be re-entered into the district heating network 
+- The $CO_2$ can also be stored to generate synthetic natural gas
 
 ## Further Readings
 
