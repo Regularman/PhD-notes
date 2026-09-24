@@ -53,7 +53,7 @@ The study considers two cases for the SOFC
 - A SOFC with reverse Brayton cycle and additional rankine cycle adding waste heat into the burner
 In both case the gas turbine has a pressure coefficient of $3$.
 
-Exergy efficiency can be calculated as $$\frac{E_{GT}+E_{SOFC}+E_{\gamma, CO_2}+E_{\gamma,water}+M_{CO_2}e_{d,CO_2}-E_{water-pump}}{E_{\gamma, comb}+M_{O_2}e_{d,oxygen-burner}}$$
+Exergy efficiency can be calculated as $$\frac{E_{GT}+E_{SOFC}+E_{\gamma, CO_2}+E_{\gamma,water}+M_{CO_2}e_{d,CO_2}-E_{water-pump}}{E_{\gamma, comb}+\frac{M_{O_2}e_{d,oxygen-burner}}{\eta_{sep}}}$$
 - Note that the mass flow rate of $CO_2$ from the system is negative!
 
 The numerator is the electrical power obtained from the gas turbine and the SOFC, the remaining exergy transformation rate in the condensed water and $CO_2$, as well as the power required to operate the water pump.
