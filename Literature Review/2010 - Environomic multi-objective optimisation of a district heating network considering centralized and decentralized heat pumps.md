@@ -25,12 +25,12 @@ Sensitivity and optimisation analysis shows that network supply temperature was 
 Showed that the optimal solution without pollution costs occurred at $89.5\degree C$. This is as the cost includes buildings, equipments, networks, administration, and energy costs. However, the paper does not specify how these costs are calculated.
 - High supply temperature meant that hot water demands can be met with heat exchangers on the supply line without heat pump use. The mass flow rate of user 3 and 4 is enough to allow the second user to make use of the return line heat exchanger. 
 - However does not consider heat loss and efficiency?
-
-The results are inconclusive and does not show how the heat system should be designed to optimise the KPI. There were comments on
 ## Limitations
 
 Simplification to the superstructure is made, such as
 - Removed return line heat pumps on the user side
 - Network is in series and driven by an electric pump
 - Electricity could be used internally, or to supply users of the heating network, but not be sold back to the electricity grid.
-- Qausi-steady state as demand is modelled as simplified adjustements to the nominal operating regime. Accounts fr temperature variations in the COP but does not look at effects such as early morning overheating.
+- Qausi-steady state as demand is modelled as simplified adjustements to the nominal operating regime. Accounts for temperature variations in the COP but does not look at effects such as early morning overheating.
+
+The results are inconclusive and does not show how the heat system should be designed to optimise the KPI. There were comments on the fact that high pollution tax is required to cause an inflection of technology from natural gas + heat pump to only heat pump technologies at the central plant configuration.
