@@ -28,3 +28,9 @@ Tables for the exergy efficiencies of each subsystem was provided, along with th
 
 While $5^{th}$ generation heating networks can either be
 - Two pipe bidirectional networks operating close to ground level temperatures, satisfying local eating through heat pumps and cooling directly or through local refrigeration unit. Water networks require large pipes and large pumping losses. While $CO_2$ networks uses the latent heat of vaporisation at high pressures (35-50bars). The use of latent, rather than sensible heat results in a higher heat capacity per unit of volume flow and requires the use of smaller pipe dimaeters
+- There are also one pipe bidrectional networks that require on the energy balance between hot and cold users along the network.
+
+#### Cogene
+## Further Readings
+
+Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
