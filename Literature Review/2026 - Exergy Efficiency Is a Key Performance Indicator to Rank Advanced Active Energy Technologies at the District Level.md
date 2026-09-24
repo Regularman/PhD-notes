@@ -21,7 +21,7 @@ To analyse the exergy efficiency, we can break the over all system into
 - room heat distributor
 
 Tables for the exergy efficiencies of each subsystem was provided, along with the technologies to choose from. Extending on this, grid losses and network thermal losses can be implemented to further refine calculations of exergy efficiency.
-- This model can answer why low temperature radiators should be 
+- This model can answer why low temperature radiators should be used and HTF should be distributed as close to the use temperature as possible
 
 #### Difference between $4^{th}$ and $5^{th}$ generation networks 
 
