@@ -101,10 +101,10 @@ We have to consider the length of the network, but the study only looks at the t
 - The approach provides a framework for further detailed studies to analyze real projects, which will need to include, among others, a finer decomposition into time slices and the inventory of waste heat sources along the network. Further work is required to elaborate on the new extended method to a broader range of heating and cooling technologies.
 
 Why is exergy a better KPI?
-- The paper just says it is a more coherent KPI, but does not give reasons why
+- The paper just says it is a more coherent KPI, but does not give reasons why. Maybe [6] will give insights into why exergy is a good KPI to evaluate DHNs.
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
 
 The challenge of introducing an exergy indicator in a local law on energy.
-- T
+- The methodology of this paper is based on this previous study
