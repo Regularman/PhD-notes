@@ -50,7 +50,10 @@ The anodic exhaust flow can be cooled at the same low temperature all year round
 
 The study considers two cases for the SOFC 
 - A SOFC with reverse Brayton cycle
-- A SOFC with reverse Brayton cycle and additional rankine cycle adding waste heat into the br
+- A SOFC with reverse Brayton cycle and additional rankine cycle adding waste heat into the burner
+In both case the gas turbine has a pressure coefficient of $3$.
+
+Exergy efficiency can be calculated as $$\frac{E_{GT}+E_{SOFC}}{}$$
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
