@@ -37,7 +37,7 @@ Popular when both electricity and heat is required
 - They do not require expensive catalyst like those used for lower temperature proton exchange fuel cells
 - Inputs of pre-reformed natural gas, biogas, or synthetic natural gas
 
-
+SOFCs converts chemical energy from a fuel directly into electricity through an electrochemical reaction using a hard ceramic as an electrolyte
 
 ## Further Readings
 
