@@ -14,4 +14,8 @@ heating was the main concern until recently. The multiplication of data centers 
 opportunities for waste heat recovery at the district level.
 ## Content 
 
-To analyse the exergy efficiency
+To analyse the exergy efficiency, we can break the over all system into
+- power plant
+- district heating plant
+- building plant
+- room heat distributor
