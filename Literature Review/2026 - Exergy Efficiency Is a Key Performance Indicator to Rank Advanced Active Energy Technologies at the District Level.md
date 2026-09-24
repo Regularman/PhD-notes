@@ -22,6 +22,9 @@ To analyse the exergy efficiency, we can break the over all system into
 
 Tables for the exergy efficiencies of each subsystem was provided, along with the technologies to choose from. Extending on this, grid losses and network thermal losses can be implemented to further refine calculations of exergy efficiency.
 
-#### Difference between $4^ and fifth generation networks 
+#### Difference between $4^{th}$ and $5^{th}$ generation networks 
 
-4th gen district heating network 
+4th gen district heating network operates at $65\degree C$ hot pipe and $45\degree C$ cold pipes or similar temperatures.
+
+While $5^{th}$ generation heating networks can either be
+- Two pipe bidirectional networks operating close to ground level tempera
