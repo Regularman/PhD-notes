@@ -148,13 +148,13 @@
 		{"id":"170168a084fa3f55","type":"file","file":"PhD-notes/Literature Review/2019 - Energy Systems Catapult - Smart Systems and Heat.md","x":-793,"y":-2400,"width":400,"height":124,"color":"1"},
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
-		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-6758,"y":-1488,"width":400,"height":175,"color":"6"},
 		{"id":"2b4fc0a627ac540e","x":-6558,"y":-2720,"width":400,"height":130,"color":"6","type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md"},
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-3957,"y":-2408,"width":250,"height":60,"color":"4"},
 		{"id":"1e11791c0edd0d33","x":-4678,"y":-1684,"width":400,"height":100,"color":"4","type":"file","file":"PhD-notes/Literature Review/2017 - Are district heating systems and renewable energy sources always an environmental win-win solution. A life cycle assessment case study in Tuscany Italy.md"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4358,"y":-1227,"width":358,"height":123,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4358,"y":-1399,"width":358,"height":131,"color":"4"},
-		{"id":"d0cf6a126e45031a","x":-6650,"y":-1285,"width":400,"height":162,"color":"6","type":"file","file":"PhD-notes/Literature Review/2013 - Application of a district heating network (DHN) Model for an ex-ante evaluation to support a multi-sources DH.md"}
+		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-5628,"y":-2523,"width":400,"height":175,"color":"6"},
+		{"id":"d0cf6a126e45031a","x":-6758,"y":-1554,"width":400,"height":162,"color":"6","type":"file","file":"PhD-notes/Literature Review/2013 - Application of a district heating network (DHN) Model for an ex-ante evaluation to support a multi-sources DH.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -297,9 +297,10 @@
 		{"id":"63fdf12273836eab","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"84c3cda82107faf9","toSide":"left"},
 		{"id":"d1de3798d9061d66","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"105f615de74ce3fd","toSide":"left"},
 		{"id":"8b6a79aed4c2e741","fromNode":"ecaee4a912a8ed76","fromSide":"top","toNode":"b499a57d38d08989","toSide":"left"},
-		{"id":"454ea1542c5c275f","fromNode":"a7ef96254e4145d4","fromSide":"bottom","toNode":"e8db92b4073c7240","toSide":"right"},
 		{"id":"9c4536a13c8b4e33","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"2b4fc0a627ac540e","toSide":"right"},
 		{"id":"a7b1f0a40e3dc63b","fromNode":"146c63e3e7bc0651","fromSide":"top","toNode":"dab74b6c50026f51","toSide":"bottom"},
-		{"id":"984b500dbbecb974","fromNode":"146c63e3e7bc0651","fromSide":"left","toNode":"1e11791c0edd0d33","toSide":"right"}
+		{"id":"984b500dbbecb974","fromNode":"146c63e3e7bc0651","fromSide":"left","toNode":"1e11791c0edd0d33","toSide":"right"},
+		{"id":"57710dc1b8678914","fromNode":"a7ef96254e4145d4","fromSide":"right","toNode":"e8db92b4073c7240","toSide":"left"},
+		{"id":"1e4b09269c4565c2","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"d0cf6a126e45031a","toSide":"right"}
 	]
 }
