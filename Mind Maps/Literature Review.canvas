@@ -155,7 +155,8 @@
 		{"id":"e8a2bd3a6ba9418c","type":"text","text":"## *Droplet formation in suction pipe during loading change*\n\nDuring the ramp down of the heat pump, the saturation temperature increases above the wall temperature. This causes the condensation of droplets in the compressor and suction line walls. This is due to the increase in evaporation pressure in heat pump.\n- A small increase in evaporation temperature causes a large increase in saturation temperature\n\nThe change with evaporation pressure is due to the power uptake being the proportional to the condensation pressure.\n![[Screenshot 2026-06-15 at 7.02.11 pm.png]]\n\nWe then consult the pressure temperature graph for the refrigerant. \n- Note that at higher pressures, the gradient of the saturation temperature is also lower.\n\nThe constraining of ramping rate of power uptake helps solves the issue\n\nFor other refrigerants, superheating the suction line might actually INCREASE the COP, and therefore not pose a significant issue to heat pump design.","x":-1360,"y":91,"width":302,"height":133,"color":"2"},
 		{"id":"8ac6af62e8602e38","type":"file","file":"PhD-notes/Literature Review/2020 - Heat pumps supplying district heating and ancillary services for power systems - Controls of heat pumps.md","x":-989,"y":78,"width":452,"height":159,"color":"2"},
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *~={orange}Using low carbon heat for ancillary services and demand management*=~","x":-460,"y":-1131,"width":371,"height":120,"color":"2"},
-		{"id":"e1b4303c00d587ab","x":-6558,"y":-2891,"width":400,"height":135,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Exergy Efficiency Is a Key Performance Indicator to Rank Advanced Active Energy Technologies at the District Level.md"}
+		{"id":"e1b4303c00d587ab","x":-6558,"y":-2891,"width":400,"height":135,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Exergy Efficiency Is a Key Performance Indicator to Rank Advanced Active Energy Technologies at the District Level.md"},
+		{"id":"80be356a6a11e510","x":-6758,"y":-1363,"width":400,"height":156,"color":"6","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -303,6 +304,7 @@
 		{"id":"65256a50eaf88e97","fromNode":"5102b0c404df57a6","fromSide":"left","toNode":"8ac6af62e8602e38","toSide":"right"},
 		{"id":"fa1c169cf329e3d0","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"326c9db62b1bd97e","toSide":"right"},
 		{"id":"9764f078951c9891","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"977051ee1d6aecd8","toSide":"left"},
-		{"id":"2276cdbadd85172a","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"e1b4303c00d587ab","toSide":"right"}
+		{"id":"2276cdbadd85172a","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"e1b4303c00d587ab","toSide":"right"},
+		{"id":"d876b325eb95798b","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"80be356a6a11e510","toSide":"right"}
 	]
 }
