@@ -65,7 +65,7 @@ Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using
 ![[Screenshot 2026-09-24 at 1.53.32 pm.png]]
 #### Integration of 5GDHC with SOFC
 
-
+5GDHC has a cold stream for waste heat recovery and flue gas condensation
 
 ## Further Readings
 
