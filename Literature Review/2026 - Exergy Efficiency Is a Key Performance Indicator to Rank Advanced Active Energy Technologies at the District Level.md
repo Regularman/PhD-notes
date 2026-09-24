@@ -7,11 +7,9 @@ Compares two types of district heating networks
 
 Ultimately shows that integration of SOFC (solid oxide fuel cell gas turbine) co-generation unit into the aenergy network allows for an increase in exergy efficiency increase from 13.6% to 21.3%.
 
-To set the scene, global warming and heat island phenomena are reinforcing the
-need for cooling even in the central to northern areas of the northern hemisphere, where
-heating was the main concern until recently. The multiplication of data centers for AI
-(Artificial Intelligence) with high cooling needs is a major challenge, but also represents
-opportunities for waste heat recovery at the district level.
+To set the scene, global warming and heat island phenomena are reinforcing the need for cooling even in the central to northern areas of the northern hemisphere, where heating was the main concern until recently. The multiplication of data centers for AI (Artificial Intelligence) with high cooling needs is a major challenge, but also represents opportunities for waste heat recovery at the district level.
+
+Ultimately showed that exergy efficiency is at 21.3% when integrating a rankinge cycle 
 ## Content 
 
 To analyse the exergy efficiency, we can break the over all system into
