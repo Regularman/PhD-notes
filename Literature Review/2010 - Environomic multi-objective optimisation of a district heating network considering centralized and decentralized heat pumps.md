@@ -26,7 +26,8 @@ Showed that the optimal solution without pollution costs occurred at $89.5\degre
 - High supply temperature meant that hot water demands can be met with heat exchangers on the supply line without heat pump use. The mass flow rate of user 3 and 4 is enough to allow the second user to make use of the return line heat exchanger. 
 - However does not consider heat loss and efficiency?
 
-Showed that rather than internalising 
+Showed that rather than internalising pollution cost with investment cost as a single metric, separating them out into independent variable enable more relationships about heat production network design to be inferred.
+- Also more computationally efficient compared to genetic algorithms used in a previous paper.
 ## Limitations
 
 Simplification to the superstructure is made, such as
