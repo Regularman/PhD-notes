@@ -70,7 +70,9 @@ Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using
 - The $CO_2$ can also be stored to generate synthetic natural gas
 - $CO_2$ can also be combined with a thermal-electric ESS (Carnot battery)
 
-#### Evaluation of the 
+#### Evaluation of the district heating system
+
+Traditionally, the energy needs of communities are reported in terms of heat rates. Energy and exergy composites allows us to account for the temperature required by the heat distribution system inside each building
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
