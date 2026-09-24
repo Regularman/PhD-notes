@@ -80,7 +80,13 @@ Traditionally, the energy needs of communities are reported in terms of heat rat
  - Note that exergy in a chemical fuel is higher than its energy, as the partial pressure of the exhaust gas can do work when it mixes with the environment
 ![[Screenshot 2026-09-24 at 11.21.39 pm.png]]
 
-For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building heat pump, while the $\sum \dot{E}_c^+$ is the power provided to the heat pumps along the network. While $\sum \dot{E}_{c_p}^+$  is the power required by the heat pu
+For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building heat pump, while the $\sum \dot{E}_c^+$ is the power provided to the heat pumps along the network. While $\sum \dot{E}_{c_p}^+$  is the power required by the heat pump at each bulding.
+
+![[Screenshot 2026-09-24 at 11.24.30 pm.png]]
+
+## Limitations
+
+We have to consider the length of the
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
