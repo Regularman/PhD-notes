@@ -12,7 +12,6 @@ To set the scene, global warming and heat island phenomena are reinforcing the n
 Ultimately showed that exergy efficiency is at 21.3% when integrating a rankinge cycle in the SOFC-GT loop. Conventional 4th gen DH has 9.6% efficiency and gen 5 DHN without cogeneration has an exergy efficiency of 13.8%. 
 - Note that the go-generation includes $CO_2 separation and oxy-combustion.
 
-#### Why is exergy a better KPI?
 ## Content 
 
 To analyse the exergy efficiency, we can break the over all system into
@@ -100,6 +99,12 @@ We have to consider the length of the network, but the study only looks at the t
 - Note that centralised heat pumps are usually two stage and more efficient compared to decentralised heat pumps, which are single stage.
 
 - The approach provides a framework for further detailed studies to analyze real projects, which will need to include, among others, a finer decomposition into time slices and the inventory of waste heat sources along the network. Further work is required to elaborate on the new extended method to a broader range of heating and cooling technologies.
+
+Why is exergy a better KPI?
+- The paper just says it is a more coherent KPI, but does not give reasons why
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
+
+The challenge of introducing an exergy indicator in a local law on energy.
+- T
