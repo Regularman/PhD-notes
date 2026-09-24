@@ -83,7 +83,10 @@ Traditionally, the energy needs of communities are reported in terms of heat rat
 For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building heat pump, while the $\sum \dot{E}_c^+$ is the power provided to the heat pumps along the network. While $\sum \dot{E}_{c_p}^+$  is the power required by the heat pump at each bulding.
 
 ![[Screenshot 2026-09-24 at 11.24.30 pm.png]]
+![[Screenshot 2026-09-24 at 11.30.50 pm.png]]
+![[Screenshot 2026-09-24 at 11.31.02 pm.png]]
 
+Note that the SOFC can produce both heat and electricrity.
 ## Limitations
 
 We have to consider the length of the network, but the study only looks at the temperature of the heating network to calculate the exergy coefficient.
