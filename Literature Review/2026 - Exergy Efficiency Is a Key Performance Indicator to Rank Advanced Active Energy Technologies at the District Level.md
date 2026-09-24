@@ -87,6 +87,8 @@ For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building he
 ## Limitations
 
 We have to consider the length of the network, but the study only looks at the temperature of the heating network to calculate the exergy coefficient.
+
+- Did not look at additional opportunities with heat recovery from other sources, looking only at the application of the SOFC with 
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
