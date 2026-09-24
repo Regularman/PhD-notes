@@ -46,7 +46,7 @@ In the anodic exhaust flow ($700-800\degree C$), there is $CO_2$, unexhausted fu
 - The fuel is burned with pure oxygen to prevent $CO_2$ and $H_2O$ concentrations in the gas as high as possible.
 #### Integration with $CO_2$ DHC
 
-The anodic exhaust flow can be cooled at the same low temperature all year round with the DH stream to favour maximum steam condensation. This increases the 
+The anodic exhaust flow can be cooled at the same low temperature all year round with the DH stream to favor maximum steam condensation. This increases the electricity delivered by the GT and the dryness of the CO2 recovered.
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
