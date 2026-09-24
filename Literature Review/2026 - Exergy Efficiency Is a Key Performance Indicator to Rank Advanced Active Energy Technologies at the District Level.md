@@ -89,7 +89,7 @@ For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building he
 Note that the SOFC can produce both heat and electricrity.
 - However, in DH 1 to 4, the high temperatures mean high exergy losses and lower exergy efficiencies and can be found through the product of all exergy efficiencies. However in the case of 5GDHC, due to parallel processes, it is harder to do.
 
-Ul
+Ultimately showed the exergy efficiency gain due to the lowering of supply temperature, and the addition of waste heat recovery (rankine cycle) in the SOFC integrated netwrok.
 ## Limitations
 
 We have to consider the length of the network, but the study only looks at the temperature of the heating network to calculate the exergy coefficient.
