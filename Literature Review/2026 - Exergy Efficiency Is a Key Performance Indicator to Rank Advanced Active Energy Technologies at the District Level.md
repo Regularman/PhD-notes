@@ -89,6 +89,7 @@ For 5GDH, the $CO_2$ DHC is the heat rate provided by the DHC to the building he
 We have to consider the length of the network, but the study only looks at the temperature of the heating network to calculate the exergy coefficient.
 
 - Did not look at additional opportunities with heat recovery from other sources, such as from data centres, or cooling in shops and coomercial buildings.
+- The approach provides a framework for further detailed studies to analyze real projects, which will need to include, among others, a finer decomposition into time slices and the inventory of waste heat sources along the network. Further work is required to elaborate on the new extended method to a broader range of heating and cooling technologies.
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
