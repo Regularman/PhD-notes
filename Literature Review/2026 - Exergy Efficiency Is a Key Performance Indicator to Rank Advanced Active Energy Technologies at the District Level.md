@@ -68,7 +68,7 @@ Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using
 5GDHC has a cold stream for waste heat recovery and flue gas condensation, which improves $CO_2$ recovery efficiency
 - The captured $CO_2$ can be re-entered into the district heating network 
 - The $CO_2$ can also be stored to generate synthetic natural gas
-
+- $CO_2$ can also be combined with a thermal-electric ESS (Carnot battery)
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
