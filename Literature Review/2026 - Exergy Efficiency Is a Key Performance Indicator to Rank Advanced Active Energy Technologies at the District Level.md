@@ -31,6 +31,11 @@ While $5^{th}$ generation heating networks can either be
 - There are also one pipe bidrectional networks that require on the energy balance between hot and cold users along the network.
 
 #### Cogeneration
+
+
+
+
+
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
