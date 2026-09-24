@@ -48,7 +48,9 @@ In the anodic exhaust flow ($700-800\degree C$), there is $CO_2$, unexhausted fu
 
 The anodic exhaust flow can be cooled at the same low temperature all year round with the DH stream to favor maximum steam condensation. This increases the electricity delivered by the GT and the dryness of the CO2 recovered.
 
-The study considers two 
+The study considers two cases for the SOFC 
+- A SOFC with reverse Brayton cycle
+- A SOFC with reverse Brayton cycle and additional rankine cycle adding waste heat into the br
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
