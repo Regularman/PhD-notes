@@ -92,9 +92,12 @@ Note that the SOFC can produce both heat and electricrity.
 Ultimately, the paper showed that low exergy efficiency stem from high transport temperatures when using exergy efficiency as a metric.
 ## Limitations
 
-We have to consider the length of the network, but the study only looks at the temperature of the heating network to calculate the exergy coefficient.
+We have to consider the length of the network, but the study only looks at the temperature of the heating network (based on the generation) to calculate the exergy coefficient.
 
-- Did not look at additional opportunities with heat recovery from other sources, such as from data centres, or cooling in shops and coomercial buildings.
+- Did not look at additional opportunities with heat recovery from other sources, such as from data centres, or cooling in shops and commercial buildings.
+
+- Note that centralised heat pumps are usually two stage and more efficient compared to decentralised heat pumps, which are single stage.
+
 - The approach provides a framework for further detailed studies to analyze real projects, which will need to include, among others, a finer decomposition into time slices and the inventory of waste heat sources along the network. Further work is required to elaborate on the new extended method to a broader range of heating and cooling technologies.
 ## Further Readings
 
