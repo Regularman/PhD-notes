@@ -44,7 +44,9 @@ SOFCs converts chemical energy from a fuel directly into electricity through an 
 In the anodic exhaust flow ($700-800\degree C$), there is $CO_2$, unexhausted fuel gas (mostly $H_2$). This is then expanded through an inverted Brayton cycle where hot exahust gas expands through a turbine to sub-atmospheric vacuum pressures before being cooled and recompressed back to ambient pressure.
 - Steam condensation happens , and the compression only occurs to $CO_2$. The condensed water is separately pumped and less energy is needed to recompress steam
 - The fuel is burned with pure oxygen to prevent $CO_2$ and $H_2O$ concentrations in the gas as high as possible.
+#### Integration with $CO_2$ DHC
 
+The anodic exhaust flow can be cooled at the same low temperature all year round with the DH stream to favour maximum steam condensation. This increases the 
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
