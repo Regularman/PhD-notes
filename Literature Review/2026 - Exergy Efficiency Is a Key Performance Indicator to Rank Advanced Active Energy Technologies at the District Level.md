@@ -38,6 +38,8 @@ Popular when both electricity and heat is required
 - Inputs of pre-reformed natural gas, biogas, or synthetic natural gas
 
 SOFCs converts chemical energy from a fuel directly into electricity through an electrochemical reaction using a hard ceramic as an electrolyte
+- Compressed air enters the SOFC cathode, while pre-reformed fuel (like natural gas or hydrogen) enters the anode. High operating temperatures (600°C to 1,000°C) allow oxygen ions to pass through a solid ceramic electrolyte, reacting with the fuel to generate direct electricity.
+- The fuel cell have unexhausted anode tail gas that enters into a gas turbine combustion chamber to drive the generator.
 
 ## Further Readings
 
