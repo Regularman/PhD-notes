@@ -41,7 +41,9 @@ SOFCs converts chemical energy from a fuel directly into electricity through an 
 - Compressed air enters the SOFC cathode, while pre-reformed fuel (like natural gas or hydrogen) enters the anode. High operating temperatures (600°C to 1,000°C) allow oxygen ions to pass through a solid ceramic electrolyte, reacting with the fuel to generate direct electricity.
 - The fuel cell have unexhausted anode tail gas that enters into a gas turbine combustion chamber to drive the generator.
 
-In the anodic exhaust low, there is $CO_2$, unexhausted fuel gas (mostly $H_2$). This is then expanded through an inverted Brayton cycle =m where hot exahust gas expands through a turbine to sub-atmospheric vacuum pressures before being cooled and recompressed back to ambient pressure
+In the anodic exhaust flow ($700-800\degree C$), there is $CO_2$, unexhausted fuel gas (mostly $H_2$). This is then expanded through an inverted Brayton cycle where hot exahust gas expands through a turbine to sub-atmospheric vacuum pressures before being cooled and recompressed back to ambient pressure.
+- Steam condensation happens , and the compression only occurs to $CO_2$. The condensed water is separately pumped and less energy is needed to recompress steam
+- The 
 
 ## Further Readings
 
