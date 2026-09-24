@@ -36,3 +36,4 @@ Simplification to the superstructure is made, such as
 The results are inconclusive and does not show how the heat system should be designed to optimise the KPI. There were comments on the fact that high pollution tax is required to cause an inflection of technology from natural gas + heat pump to only heat pump technologies at the central plant configuration.
 
 - Showed how pollution cost can affect the design of the heat production network
+- However, this is also affected by the load profile and demand of the users on the heating network
