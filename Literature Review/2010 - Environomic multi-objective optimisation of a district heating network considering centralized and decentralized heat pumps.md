@@ -25,6 +25,8 @@ Sensitivity and optimisation analysis shows that network supply temperature was 
 Showed that the optimal solution without pollution costs occurred at $89.5\degree C$. This is as the cost includes buildings, equipments, networks, administration, and energy costs. However, the paper does not specify how these costs are calculated.
 - High supply temperature meant that hot water demands can be met with heat exchangers on the supply line without heat pump use. The mass flow rate of user 3 and 4 is enough to allow the second user to make use of the return line heat exchanger. 
 - However does not consider heat loss and efficiency?
+
+The results are inconclusive and does not show how the heat system should be designed to optimise the KPI. There were comments on
 ## Limitations
 
 Simplification to the superstructure is made, such as
