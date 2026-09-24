@@ -21,6 +21,7 @@ To analyse the exergy efficiency, we can break the over all system into
 - room heat distributor
 
 Tables for the exergy efficiencies of each subsystem was provided, along with the technologies to choose from. Extending on this, grid losses and network thermal losses can be implemented to further refine calculations of exergy efficiency.
+- This model can answer why low temperature radiators should be 
 
 #### Difference between $4^{th}$ and $5^{th}$ generation networks 
 
@@ -29,7 +30,6 @@ Tables for the exergy efficiencies of each subsystem was provided, along with th
 While $5^{th}$ generation heating networks can either be
 - Two pipe bidirectional networks operating close to ground level temperatures, satisfying local eating through heat pumps and cooling directly or through local refrigeration unit. Water networks require large pipes and large pumping losses. While $CO_2$ networks uses the latent heat of vaporisation at high pressures (35-50bars). The use of latent, rather than sensible heat results in a higher heat capacity per unit of volume flow and requires the use of smaller pipe dimaeters
 - There are also one pipe bidrectional networks that require on the energy balance between hot and cold users along the network.
-
 #### Cogeneration with hybrid fuel cells (SOFC/GT)
 
 Popular when both electricity and heat is required
