@@ -60,6 +60,9 @@ The numerator is the electrical power obtained from the gas turbine and the SOFC
 
 $E_{\gamma, comb}$ is the exergy transformation rate of the oxidation network. $$E_{\gamma, comb}=\dot{M_F} \times EXV$$where $EXV$ is the exergy value of the fuel. Further, $e_{d,CO_2}$ and $e_{d,oxygen-burner}$ are the $CO_2$ and $O_2$ diffusion rates, Exergy diffusion represents the spreading of useful work potential as the system moves towards thermodynamic equilibrium through irreversible processes.
 
+Note that we can calculate the molar fraction of $CO_2$ in the exhaust gas using this formula.
+
+![[Screenshot 2026-09-24 at 1.53.32 pm.png]]
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
