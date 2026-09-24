@@ -19,3 +19,5 @@ To analyse the exergy efficiency, we can break the over all system into
 - district heating plant
 - building plant
 - room heat distributor
+
+Tables for the exergy efficiencies of each subsystem was provided, along with the technologies to choose from. Extending on this, grid losses and network thermal losses can be implemented to further refine calculations f
