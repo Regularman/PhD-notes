@@ -21,7 +21,7 @@ To analyse the exergy efficiency, we can break the over all system into
 - room heat distributor
 
 Tables for the exergy efficiencies of each subsystem was provided, along with the technologies to choose from. Extending on this, grid losses and network thermal losses can be implemented to further refine calculations of exergy efficiency.
-- This model can answer why low temperature radiators should be used and HTF should be distributed as close to the use temperature as possible
+- ~={green}This model can answer why low temperature radiators should be used and HTF should be distributed as close to the use temperature as possible=~
 
 #### Difference between $4^{th}$ and $5^{th}$ generation networks 
 
@@ -76,7 +76,7 @@ Traditionally, the energy needs of communities are reported in terms of heat rat
 
 ![[Screenshot 2026-09-24 145150.png]]
 
- The main variable that is changed is the different types of temperature t
+ The main variable that is changed is the different levels of temperatures used for the heating network heat transfer fluid.
 ## Further Readings
 
 Integrated optimization of adaptive CO2-based district and cooling networks into multi-energy systems.
