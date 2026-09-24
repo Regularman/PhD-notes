@@ -14,8 +14,8 @@ Uses cost and pollution metrics.
 - Uses Swiss electricity mix 
 
 The overall demand on the grid is 62.7MW and the electricity cost, fuel costs, and pollution costs are fixed (NOX and CO2 emissions).
+- Users have different requirements, and the paper explores the distribution of user requirements with the performance of the heat production networks.
 
-Users have different requirements, and the paper explores the distribution of user requirements with the performance of the heat production networks.
 ![[Screenshot 2026-09-25 085024.png|368]]
 ## Results
 
@@ -25,6 +25,8 @@ Sensitivity and optimisation analysis shows that network supply temperature was 
 Showed that the optimal solution without pollution costs occurred at $89.5\degree C$. This is as the cost includes buildings, equipments, networks, administration, and energy costs. However, the paper does not specify how these costs are calculated.
 - High supply temperature meant that hot water demands can be met with heat exchangers on the supply line without heat pump use. The mass flow rate of user 3 and 4 is enough to allow the second user to make use of the return line heat exchanger. 
 - However does not consider heat loss and efficiency?
+
+Showed that rather than internalising 
 ## Limitations
 
 Simplification to the superstructure is made, such as
