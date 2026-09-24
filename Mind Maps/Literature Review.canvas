@@ -153,7 +153,8 @@
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-3957,"y":-2408,"width":250,"height":60,"color":"4"},
 		{"id":"1e11791c0edd0d33","x":-4678,"y":-1684,"width":400,"height":100,"color":"4","type":"file","file":"PhD-notes/Literature Review/2017 - Are district heating systems and renewable energy sources always an environmental win-win solution. A life cycle assessment case study in Tuscany Italy.md"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4358,"y":-1227,"width":358,"height":123,"color":"4"},
-		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4358,"y":-1399,"width":358,"height":131,"color":"4"}
+		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4358,"y":-1399,"width":358,"height":131,"color":"4"},
+		{"id":"d0cf6a126e45031a","x":-6650,"y":-1285,"width":400,"height":162,"color":"6","type":"file","file":"PhD-notes/Literature Review/2013 - Application of a district heating network (DHN) Model for an ex-ante evaluation to support a multi-sources DH.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
