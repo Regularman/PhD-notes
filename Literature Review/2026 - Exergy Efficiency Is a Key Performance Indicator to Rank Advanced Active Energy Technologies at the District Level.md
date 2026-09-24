@@ -35,6 +35,7 @@ While $5^{th}$ generation heating networks can either be
 Popular when both electricity and heat is required
 - SOFC/GT have high electricity efficiency and low health emissions impacts
 - They do not require expensive catalyst like those used for lower temperature proton exchange fuel cells
+- Inputs of pre-reformed natural gas, biogas, or synthetic natural gas
 
 
 
