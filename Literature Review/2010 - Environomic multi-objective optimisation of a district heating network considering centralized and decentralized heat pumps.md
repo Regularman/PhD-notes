@@ -22,7 +22,8 @@ Users have different requirements, and the paper explores the distribution of us
 Sensitivity and optimisation analysis shows that network supply temperature was clearly the dominant independent variable. Some other variables that were considered was
 - Share of heat pumps, gas turbines, gas engines, and boilers in the network, considering their manufacturing and disassembly costs.
 
-Showed that the optimal solution without pollution costs occurred at $89.5\degree C$. This is as the cost includes buildings, equipments, networks, administration, and energy costs. Howeverm th
+Showed that the optimal solution without pollution costs occurred at $89.5\degree C$. This is as the cost includes buildings, equipments, networks, administration, and energy costs. However, the paper does not specify how these costs are calculated.
+- High supply temperature meant that hot water demands can be met with heat exhangers on the supply line without heat pump use.The mass flow rate of user 3 and 4 is enough to
 ## Limitations
 
 Simplification to the superstructure is made, such as
