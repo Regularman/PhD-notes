@@ -52,8 +52,11 @@ The installation of pipes allow for avoiding the installation of boilers, as the
 - Sharing also allows for the decoupling of thermal-electric systems, as it is possible to civer large shares of the electricity and send surplus to other users.
 - But there is a tradeoff with lower cost and higher emission due to the CHP unit operation.
 
-Ultimately, the interconnected DER system performs better than baseline systems of grid power, 
+Ultimately, the interconnected DER system performs better than baseline systems of grid power for electricity demand, gas fired boilers for DHW and SH demands and electric chillers for SC demands.
 
+#### Operation strategy
+
+Note that the study also optimises the operation strategy of the 
 ## Limitation
 
 Does not look at the embodied emissions of each technology.
