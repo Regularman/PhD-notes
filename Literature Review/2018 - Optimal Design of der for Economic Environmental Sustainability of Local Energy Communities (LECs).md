@@ -39,7 +39,8 @@ Note that the design size of the technology must be within the minimum and maxim
 - However, the heating network only allows for heat delivery in one direction
 ## Results
 
-Shows that the topology of the network changes the tradeoff between cost and 
+Shows that the topology of the network changes the tradeoff between cost and carbon emissions.![[Screenshot 2026-09-25 103323.png]]
+![[Screenshot 2026-09-25 103333.png]]
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
