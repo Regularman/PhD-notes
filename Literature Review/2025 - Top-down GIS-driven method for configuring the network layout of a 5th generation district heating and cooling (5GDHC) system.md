@@ -29,6 +29,7 @@ In most heat production networks, poor planning of district heating networks mea
 - The application of GIS to energy systems in relatively new?
 	- Ensures that heat production network adheres to city constraints such as streets and building placements.
 	- The use of GIS also allow for incorporation of humidity, wind speed, and other local factors that affects a building's energy needs. But this not done in this study
+	- GIS is used to find the heating demand based on surface area.
 
 The network topology was chosen through a MST algorithm that considers the cost constraints and environmental impacts (minimise emission and maximise renewable energy)
 - Using the constraints and inputs, the tool was able to figure out the optimal mix of technology
