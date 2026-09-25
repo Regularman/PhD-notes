@@ -49,7 +49,7 @@ The minimal network topology is found using a minimum spanning tree algorithm an
 ## Results
 
 There is one conclusion which can be drawn from this study, which is the the impact of climate on building heat demand.
-![[Screenshot 2026-09-25 165025.png]]
+
 
 
 ## Limitations 
