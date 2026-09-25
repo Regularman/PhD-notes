@@ -12,7 +12,7 @@ The variables of designing a heat production network are
 - Type of energy devices
 
 The HPN have to satisfy multi-energy demands (electricity, DHW, SH, and Space Cooling) whilst considering cost and emission aspects.
-- Uses pareto frontiers to introduce tradeoffs.
+- Uses pareto frontiers to introduce tradeoffs. Co-optimisation uses weighted sum method.
 ![[Screenshot 2026-09-25 100339.png]]
 
 However, this assumes that every user has a DER system and neglects the possibility of a centralised case.
