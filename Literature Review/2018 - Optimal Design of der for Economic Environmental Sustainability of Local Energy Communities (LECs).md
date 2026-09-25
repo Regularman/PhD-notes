@@ -6,7 +6,7 @@ MOO to minimise the TAC and total annual $CO_2$ emissions using a weighted sum m
 - This provides a trade-off method for planners between economic viability and environmental sustainability.
 - Also compared with a baseline reference case
 
-The demands is a cluster of $5$ residential buildings, a super market and a hotel in a neighbourhood in Turin. The simulation accounts for the
+The demands is a cluster of $5$ residential buildings, a super market and a hotel in a neighbourhood in Turin. The simulation accounts for seasonal variations in energy demands.
 
 The variables of designing a heat production network are 
 - Identifying number and size
