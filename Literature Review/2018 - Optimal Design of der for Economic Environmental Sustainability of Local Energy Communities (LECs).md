@@ -48,6 +48,9 @@ However, in all cases, CHP is moved by the ICE rather than the CHP due to the lo
 - It is more economically advantage to store heat produced from CHP plants rather than install large heat pumps, but this means that the size of the absorption chiller must be larger.
 - There are also electrical efficiencies inherent in installing 1 large CHP plant compared to 3 smaller CHP plants.
 
+The installation of pipes allow for avoiding the installation of boilers, as the DER enables systems to cover each other's peak demand loads.
+- Sharing also allows for the decoupling of thermal-electric s
+
 ## Limitation
 
 Does not look at the embodied emissions of each technology.
