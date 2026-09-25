@@ -1,0 +1,49 @@
+https://www.scopus.com/pages/publications/105005501552?origin=resultslist
+
+## Contribution
+
+This study aims to design an optimized 5th-generation district heating and cooling (5GDHC) system that balances investment costs, operational expenses, and CO2 emissions while integrating renewable energy sources effectively.
+- Responds to tightening environmental legislation and rising fossil fuel prices.
+
+Rather than using bottom up data of individual space heating needs and thermodynamic calculations from first principle, the study uses a top-down approach that uses
+- GIS inputs. The use of GIS enables better correlation of spatial limitations, weather constraints, network topology, and building energy demand with the design of the heat production network. Further, the study places a heavier focus on the impact on seasonal variation on heat production network variation. Comparatively, MILP may linearise non-linear behaviours and create complexities in more convoluted system design.
+- Historic weather data
+- Building energy demand data, considering heat demand, network layout, and temperature requirements. Noise is introduced into the energy demand data for stochastic variability.
+	- Note that buildings are aggregated to $1GWh/year$ cluster to reduce simulation complexities.
+
+The current study places greater emphasis on local historical weather data, particularly outdoor temperature, which is a key driver of energy demand. This simplification ensures that the network configuration remains adaptable to different environmental conditions without the need for detailed energy flow data at the hourly timescale.
+- Review of literature also shows that climate impacts the temperature of waste heat (e.g. temperature of tunnel air in the underground metro system). The study looks at a data centre as a seasonally varying heat load.
+
+A case study area, including more than 108 office buildings and three data centers as waste heat sources, was used to test the tool.
+
+#### Control strategy
+
+In terms of control strategy, opts for simpler rules based control strategy, which is still effective without more complex implementations of MPC.
+- For the battery charging strategy, the TES charges when cooling demand is lower than the heating demand and discharges when vice versa. However, this does not consider time of use pricing of energy.
+
+## Content
+
+In most heat production networks, poor planning of district heating networks means that operation cannot adapt to more extreme climate scenarios, increasing energy demands, and changing efficiency requirements.
+
+- The application of GIS to energy systems in relatively new?
+	- Ensures that heat production network adheres to city constraints such as streets and building placements.
+	- The use of GIS also allow for incorporation of humidity, wind speed, and other local factors that affects a building's energy needs.
+
+The network topology was chosen through a MST algorithm that considers the cost constraints and environmental impacts (minimise emission and maximise renewable energy)
+- Using the constraints and inputs, the tool was able to figure out the optimal mix of technology
+#### Network expansion
+
+In stage 1, the network connects at least one data centre, one office building, and a TES unit into the network. Then the expansion can be formulated as an optimisation problem where the cost has to be minimised whilst meeting demand.
+
+- In the expansion scenarios, each scenario evaluates the impact of adding new buildings, adjusting pipeline routes, or incorporating new waste heat sources on overall system efficiency.
+
+Cost ratio (CR) $$CR = \frac{\text{5GDHC System Cost}}{\text{Reference System Cost}}$$ is used as a KPI for determining the economic efficiency of the 5GDHC system that will be implemented 
+## Limitations 
+
+The study suggested that the sensitivity of the system performance to different climate data and energy market signals is a significant metric of performance.
+- [16] and [17] covers these topics, and this paper does not include sensitivity.
+
+- For efficient network design, buildings with energy demand below a 1 MWh/year threshold are excluded from the layout to avoid unnecessary infrastructure. However, this limits network design from the outset and should be left to the optimisation engine.
+	- The connection of these smaller heat pumps may serve auxillary functions that are not considered under the current key performance index. And this threshold is also different in different countries. What is the impact of changing the connection threshold?
+
+- Neglected heat loss in the transferring heat from the network temperature and the use temperature.
