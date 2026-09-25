@@ -1,5 +1,6 @@
 https://www.scopus.com/pages/publications/105005501552?origin=resultslist
 
+This was a shit paper, inconclusive to the design variables in heating production networks.
 ## Contribution
 
 This study aims to design an optimized 5th-generation district heating and cooling (5GDHC) system that balances investment costs, operational expenses, and CO2 emissions while integrating renewable energy sources effectively.
@@ -49,9 +50,6 @@ The minimal network topology is found using a minimum spanning tree algorithm an
 ## Results
 
 There is one conclusion which can be drawn from this study, which is the the impact of climate on building heat demand.
-
-
-
 ## Limitations 
 
 The study suggested that the sensitivity of the system performance to different climate data and energy market signals is a significant metric of performance.
