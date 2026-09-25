@@ -157,7 +157,8 @@
 		{"id":"977051ee1d6aecd8","type":"text","text":"# *~={orange}Using low carbon heat for ancillary services and demand management*=~","x":-460,"y":-1131,"width":371,"height":120,"color":"2"},
 		{"id":"e1b4303c00d587ab","type":"file","file":"PhD-notes/Literature Review/2026 - Exergy Efficiency Is a Key Performance Indicator to Rank Advanced Active Energy Technologies at the District Level.md","x":-6558,"y":-2891,"width":400,"height":135,"color":"6"},
 		{"id":"80be356a6a11e510","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md","x":-6758,"y":-1363,"width":400,"height":156,"color":"6"},
-		{"id":"c5a3ec22066b3c61","x":-6558,"y":-3012,"width":400,"height":81,"color":"6","type":"file","file":"PhD-notes/Literature Review/2018 - Optimal Design of der for Economic Environmental Sustainability of Local Energy Communities (LECs).md"}
+		{"id":"c5a3ec22066b3c61","type":"file","file":"PhD-notes/Literature Review/2018 - Optimal Design of der for Economic Environmental Sustainability of Local Energy Communities (LECs).md","x":-6558,"y":-3012,"width":400,"height":81,"color":"6"},
+		{"id":"750b216aa6e3a8d7","x":-6558,"y":-3195,"width":400,"height":131,"color":"6","type":"file","file":"PhD-notes/Literature Review/2025 - Top-down GIS-driven method for configuring the network layout of a 5th generation district heating and cooling (5GDHC) system.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -307,6 +308,7 @@
 		{"id":"9764f078951c9891","fromNode":"f7941ba914721902","fromSide":"bottom","toNode":"977051ee1d6aecd8","toSide":"left"},
 		{"id":"2276cdbadd85172a","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"e1b4303c00d587ab","toSide":"right"},
 		{"id":"d876b325eb95798b","fromNode":"2352bd83f5699f28","fromSide":"bottom","toNode":"80be356a6a11e510","toSide":"right"},
-		{"id":"acb2817c36e45392","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"c5a3ec22066b3c61","toSide":"right"}
+		{"id":"acb2817c36e45392","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"c5a3ec22066b3c61","toSide":"right"},
+		{"id":"f4e90e396f17fb8a","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"750b216aa6e3a8d7","toSide":"right"}
 	]
 }
