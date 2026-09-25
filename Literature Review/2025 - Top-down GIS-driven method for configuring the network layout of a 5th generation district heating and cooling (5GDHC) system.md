@@ -62,4 +62,4 @@ In the end, the paper did not conduct a comparison of what makes a good heat pro
 - Considers only space heating and cooling
 
 Ultimately, this paper only investigates, through the GIS software and given data, how load varies based on asset class, outdoor temperature.
-- There is l
+- There is limited commentary on the design process of the heat production network
