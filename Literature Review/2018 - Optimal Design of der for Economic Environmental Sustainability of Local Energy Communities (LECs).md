@@ -6,13 +6,15 @@ MOO to minimise the TAC and total annual $CO_2$ emissions using a weighted sum m
 - This provides a trade-off method for planners between economic viability and environmental sustainability.
 - Also compared with a baseline reference case
 
+The demands is a cluster of $5$ residential buildings, a super market and a hotel in a neighbourhood in Turin. The simulation accounts for the
+
 The variables of designing a heat production network are 
 - Identifying number and size
 - Design of interconnection network
 - Type of energy devices
 
 The HPN have to satisfy multi-energy demands (electricity, DHW, SH, and Space Cooling) whilst considering cost and emission aspects.
-- Uses pareto frontiers to introduce tradeoffs. Co-optimisation uses weighted sum method.
+- Uses pareto frontiers to introduce tradeoffs. Co-optimisation uses weighted sum method. The pareto frontier can be found by changing the weight between $0-1$.
 ![[Screenshot 2026-09-25 100339.png]]
 
 However, this assumes that every user has a DER system and neglects the possibility of a centralised case.
