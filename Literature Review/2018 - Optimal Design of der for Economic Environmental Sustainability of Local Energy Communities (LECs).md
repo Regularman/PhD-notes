@@ -30,7 +30,8 @@ While the environmental objective is based on the
 - Emission due to the consumption of natural gas,
 - Carbon intensity of the grid
 
-Note that the design size of the technology must be within the minimum and maximum sizes available for the market 
+Note that the design size of the technology must be within the minimum and maximum sizes available for the market,
+- Also includes area constraint for solar thermal and PV panels.
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
