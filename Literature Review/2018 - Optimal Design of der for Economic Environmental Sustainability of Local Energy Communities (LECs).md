@@ -33,6 +33,7 @@ While the environmental objective is based on the
 Note that the design size of the technology must be within the minimum and maximum sizes available for the market,
 - Also includes area constraint for solar thermal and PV panels.
 - Includes the thermal losses in the piping network
+- However, the heating network only allows for heat delivery in one direction
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
