@@ -45,7 +45,11 @@ Shows that the topology of the network changes the tradeoff between cost and car
 However, in all cases, CHP is moved by the ICE rather than the CHP due to the lower capex and higher total energy efficiency of the technology. This contradicts other papers as the it does not consider waste heat recovery.
 
 - The space available also makes a big difference, as this determines where the solar panels can be placed.
-- It is more economically advantage to store heat produced from CHP 
+- It is more economically advantage to store heat produced from CHP plants rather than install large heat pumps, but this means that the size of the absorption chiller must be larger.
+
+## Limitation
+
+Does not look
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
