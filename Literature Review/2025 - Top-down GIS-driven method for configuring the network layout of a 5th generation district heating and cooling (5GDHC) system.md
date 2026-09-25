@@ -53,4 +53,4 @@ The study suggested that the sensitivity of the system performance to different 
 Does not talk about the grouping of asset classes to balance peak load demands.
 
 In the end, the paper did not conduct a comparison of what makes a good heat production network.
-- Considers only space heating anf cooling
+- Considers only space heating and cooling
