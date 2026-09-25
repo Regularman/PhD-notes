@@ -23,6 +23,10 @@ The costs is based on
 - $C_{ED}$ (energy devices)
 - $C_{OM}$
 - $C_{En}$ (Annual energy cost) Natural gas consumed and taken from the grid
+
+Cost is stepped out into quasi-steady state simulations that simulates price during different time of day and year
+
+While the environmental opjective is based on the 
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
