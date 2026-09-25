@@ -45,6 +45,7 @@ The minimal network topology is found using a minimum spanning tree algorithm an
 ## Results
 
 There is one conclusion which can be drawn from this study, which is the type of buildings and its impact on the feasibility of district heating.
+- For example, in Belgium, where climate conditions are warmer, 
 ## Limitations 
 
 The study suggested that the sensitivity of the system performance to different climate data and energy market signals is a significant metric of performance.
