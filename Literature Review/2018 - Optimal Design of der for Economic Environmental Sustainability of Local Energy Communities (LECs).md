@@ -26,7 +26,11 @@ The costs is based on
 
 Cost is stepped out into quasi-steady state simulations that simulates price during different time of day and year
 
-While the environmental opjective is based on the 
+While the environmental objective is based on the 
+- Emission due to the consumption of natural gas,
+- Carbon intensity of the grid
+
+Note that the design size of the technology must be within the minimum and maximum sizes available for the market 
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
