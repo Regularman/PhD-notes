@@ -47,3 +47,5 @@ The study suggested that the sensitivity of the system performance to different 
 	- The connection of these smaller heat pumps may serve auxillary functions that are not considered under the current key performance index. And this threshold is also different in different countries. What is the impact of changing the connection threshold?
 
 - Neglected heat loss in the transferring heat from the network temperature and the use temperature.
+
+Does not talk about the grouping of asset classes to balance peak load demands.
