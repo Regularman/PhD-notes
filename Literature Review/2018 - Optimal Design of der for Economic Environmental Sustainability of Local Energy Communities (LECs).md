@@ -46,7 +46,7 @@ However, in all cases, CHP is moved by the ICE rather than the CHP due to the lo
 
 - The space available also makes a big difference, as this determines where the solar panels can be placed.
 - It is more economically advantage to store heat produced from CHP plants rather than install large heat pumps, but this means that the size of the absorption chiller must be larger.
-- There are also electrical efficiencies inherent in installing 1 large CHP plant compared to 3 smnall
+- There are also electrical efficiencies inherent in installing 1 large CHP plant compared to 3 smaller CHP plants.
 
 ## Limitation
 
