@@ -7,7 +7,7 @@ Provides a linear programming model to emulate a DHN to support the design and d
 - However it should be said that the efficiency of the heat source is a non-linear system, and linearisation simplifies the problem and approximates the optimal
 - Note that the objective of this paper is not optimisation, but evaluation of a system
 
-- However, immediately frames DH as the solution doe decarbonisation, due to its ability to integrate biomass, waste heat, or geothermal energy
+- However, immediately frames DH as the solution to decarbonisation, due to its ability to integrate biomass, waste heat, or geothermal energy
 The LP is applied to a French District heating network that is 22km long and has 116 substation, providing 130,000 MWh of heat
 
 Analyses three scenarios based on
@@ -37,7 +37,9 @@ The heat demands are space heating, water heating, and process heating.
 
 ### Results
 
-Found that in Scenario 3, solar thermal panels have limited contributions due to the low temperature output of the panels and the high temperature of the network![[Screenshot 2026-09-24 095810.png]]
+Found that in Scenario 3, solar thermal panels have limited contributions due to the low temperature output of the panels and the high temperature of the network
+
+![[Screenshot 2026-09-24 095810.png]]
 
 Also shows the cost of each scenario, demonstrating the operational cost of each system.
 
