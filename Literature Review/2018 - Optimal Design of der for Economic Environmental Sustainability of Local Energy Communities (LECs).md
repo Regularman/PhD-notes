@@ -49,7 +49,10 @@ However, in all cases, CHP is moved by the ICE rather than the CHP due to the lo
 - There are also electrical efficiencies inherent in installing 1 large CHP plant compared to 3 smaller CHP plants.
 
 The installation of pipes allow for avoiding the installation of boilers, as the DER enables systems to cover each other's peak demand loads.
-- Sharing also allows for the decoupling of thermal-electric s
+- Sharing also allows for the decoupling of thermal-electric systems, as it is possible to civer large shares of the electricity and send surplus to other users.
+- But there is a tradeoff with lower cost and higher emission due to the CHP unit operation.
+
+Ultimately, the interconnected DER system
 
 ## Limitation
 
