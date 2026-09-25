@@ -39,7 +39,7 @@ In stage 1, the network connects at least one data centre, one office building, 
 
 Cost ratio (CR) $$CR = \frac{\text{5GDHC System Cost}}{\text{Reference System Cost}}$$ is used as a KPI for determining the economic efficiency of the 5GDHC system that will be implemented 
 
-The minimal network topology is found using a minimum spanning tree algorithm t
+The minimal network topology is found using a minimum spanning tree algorithm and the pipe diameter determined by the peak heating or cooling load. As the peak heating or cooling load 
 ## Limitations 
 
 The study suggested that the sensitivity of the system performance to different climate data and energy market signals is a significant metric of performance.
