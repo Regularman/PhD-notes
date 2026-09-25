@@ -7,7 +7,9 @@ This study aims to design an optimized 5th-generation district heating and cooli
 - However, the study does not actually use carbon emissions as a KPI. Rather, lower carbon emissions was just a by product of designing a more efficient 5DGHC. (The figure isn't even mentioned in the paper)*
 
 Some of the questions that the paper tries to answer is
-- How does 
+- How does outdoor temperature affect heating and cooling demand for different building types, and how does that affect the design of the heat production network.
+
+
 Rather than using bottom up data of individual space heating needs and thermodynamic calculations from first principle, the study uses a top-down approach that uses
 - GIS inputs. The use of GIS enables better correlation of spatial limitations, weather constraints, network topology, and building energy demand with the design of the heat production network. Further, the study places a heavier focus on the impact on seasonal variation on heat production network variation. Comparatively, MILP may linearise non-linear behaviours and create complexities in more convoluted system design.
 - Historic weather data
