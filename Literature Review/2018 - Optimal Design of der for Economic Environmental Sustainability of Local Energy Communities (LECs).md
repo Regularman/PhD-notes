@@ -18,7 +18,11 @@ The HPN have to satisfy multi-energy demands (electricity, DHW, SH, and Space Co
 However, this assumes that every user has a DER system and neglects the possibility of a centralised case.
 - The distance between DERs are known and the distance between DER and the users are unknown
 
-The costs is 
+The costs is based on
+- $C_{pipe}$
+- $C_{ED}$ (energy devices)
+- $C_{OM}$
+- $C_{En}$
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
