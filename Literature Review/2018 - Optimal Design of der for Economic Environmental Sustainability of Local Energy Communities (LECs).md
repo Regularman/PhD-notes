@@ -1,0 +1,21 @@
+https://www.scopus.com/pages/publications/85056507049?origin=resultslist
+
+## Contributions
+
+MOO to minimise the TAC and total annual $CO_2$ emissions using a weighted sum method.
+- This provides a trade-off method for planners between economic viability and environmental sustainability.
+- Also compared with a baseline reference case
+
+The variables of designing a heat production network are 
+- Identifying number and size
+- Design of interconnection network
+- Type of energy devices
+
+The HPN have to satisfy multi-energy demands (electricity, DHW, SH, and Space Cooling) whilst considering cost and emission aspects.
+- Uses pareto frontiers to introduce tradeoffs.
+![[Screenshot 2026-09-25 100339.png]]
+## Further Readings
+
+[6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
+
+[7] Looks at a single DER system in the absence of the pipeline network and minimises cost and exergy input.
