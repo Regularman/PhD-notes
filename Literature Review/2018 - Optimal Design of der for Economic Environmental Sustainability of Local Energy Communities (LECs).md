@@ -37,6 +37,9 @@ Note that the design size of the technology must be within the minimum and maxim
 - Also includes area constraint for solar thermal and PV panels.
 - Includes the thermal losses in the piping network
 - However, the heating network only allows for heat delivery in one direction
+## Results
+
+Shows that the topology of the network changes the tradeoff between cost and 
 ## Further Readings
 
 [6] Looks at optimal configuration and operation of DER. But neglects the interaction between devices and end users through the heating pipeline. Minimises cost and pollution
