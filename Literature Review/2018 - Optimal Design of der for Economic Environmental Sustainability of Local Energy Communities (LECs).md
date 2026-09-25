@@ -15,7 +15,8 @@ The variables of designing a heat production network are
 
 The HPN have to satisfy multi-energy demands (electricity, DHW, SH, and Space Cooling) whilst considering cost and emission aspects.
 - Uses pareto frontiers to introduce tradeoffs. Co-optimisation uses weighted sum method. The pareto frontier can be found by changing the weight between $0-1$.
-![[Screenshot 2026-09-25 100339.png]]
+![[Screenshot 2026-09-25 100339.png|401]]
+,![[Screenshot 2026-09-25 102849.png|287]]
 
 However, this assumes that every user has a DER system and neglects the possibility of a centralised case.
 - The distance between DERs are known and the distance between DER and the users are unknown
@@ -29,7 +30,7 @@ The costs is based on
 Cost is stepped out into quasi-steady state simulations that simulates price during different time of day and year
 
 While the environmental objective is based on the 
-- Emission due to the consumption of natural gas,
+- Emission due to the consumption of natural gas
 - Carbon intensity of the grid
 
 Note that the design size of the technology must be within the minimum and maximum sizes available for the market,
