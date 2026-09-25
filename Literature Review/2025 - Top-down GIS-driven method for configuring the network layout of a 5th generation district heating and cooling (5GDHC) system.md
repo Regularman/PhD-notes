@@ -38,6 +38,8 @@ In stage 1, the network connects at least one data centre, one office building, 
 - In the expansion scenarios, each scenario evaluates the impact of adding new buildings, adjusting pipeline routes, or incorporating new waste heat sources on overall system efficiency.
 
 Cost ratio (CR) $$CR = \frac{\text{5GDHC System Cost}}{\text{Reference System Cost}}$$ is used as a KPI for determining the economic efficiency of the 5GDHC system that will be implemented 
+
+The minimal network topology is found using a minimum spanning tree algorithm t
 ## Limitations 
 
 The study suggested that the sensitivity of the system performance to different climate data and energy market signals is a significant metric of performance.
