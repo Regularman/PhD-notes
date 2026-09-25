@@ -53,10 +53,11 @@ The installation of pipes allow for avoiding the installation of boilers, as the
 - But there is a tradeoff with lower cost and higher emission due to the CHP unit operation.
 
 Ultimately, the interconnected DER system performs better than baseline systems of grid power for electricity demand, gas fired boilers for DHW and SH demands and electric chillers for SC demands.
+- 31.8% reduction in annual cost and 33.2% reduction in $CO_2$ emissions.
 ![[Screenshot 2026-09-25 104804.png|447]]
 #### Operation strategy
 
-Note that the study also optimises the operation strategy of the DER system, however, it is unclear how the control algorithm works.
+Note that the study also optimises the operation strategy of the DER system, however, it is unclear how the control algorithm works and if a-prior knowledge of the demand is known (what is the charging strategy of the battery)
 ## Limitation
 
 Does not look at the embodied emissions of each technology.
