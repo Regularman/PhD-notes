@@ -25,6 +25,5 @@ Note that the study does not look at the economic aspect of increasing distribut
 
 Furthermore, the study does not quantify the impacts of electrification on the grid, although the maximisation of self sufficiency does reduce stress on the network and constitutes as a non-network solution.
 
-Furthermore, the study should also look at the environomic impacts of network solutions, and how that compares to the integration of TES.
 
 
