@@ -16,4 +16,11 @@ The study first estimated heat demand from gas network data and district heating
 Showed that Scenario 1  was not as effective at reducing the peak demand on the electricity grid. 
 
 ![[Screenshot 2026-09-27 at 6.50.33 am.png]]
+![[Screenshot 2026-09-27 at 6.51.37 am.png]]
+
+
 ## Limitations
+
+TES is modelled as a single unit, instead of being distributed.
+- This ignores additional distribution loss associated with charging the thermal battery
+- Furthermore, the modelling ignores the COP variations of the heat pumps throughout the day
