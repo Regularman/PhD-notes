@@ -21,14 +21,16 @@ Showed that Scenario 1  was not as effective at reducing the peak demand on the 
 Ultimately, up to 6% peak demand reduction could be achieved using a $200GWh$ TES with the demand specific charging regime.
 ![[Screenshot 2026-09-27 at 6.53.14 am.png]]
 
-Furthermore, the second regime will caus
+Furthermore, the second regime will cause lower peak demands caused by the heat pumps.
 
 ![[Screenshot 2026-09-27 at 6.54.21 am.png]]
 
+Note that the study focuses on lower t
 ## Limitations
 
 TES is modelled as a single unit, instead of being distributed.
 - This ignores additional distribution loss associated with charging the thermal battery
+- Furthermore, geographical distribution of load and load profile will likely affect peak demand periods.
 - Furthermore, the modelling ignores the COP variations of the heat pumps throughout the day
 - Does not model thermal stratification or interaction with other renewable energy sources
 - 
