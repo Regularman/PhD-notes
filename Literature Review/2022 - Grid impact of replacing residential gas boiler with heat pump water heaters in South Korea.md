@@ -34,4 +34,5 @@ TES is modelled as a single unit, instead of being distributed.
 - Furthermore, geographical distribution of load and load profile will likely affect peak demand periods.
 - Furthermore, the modelling ignores the COP variations of the heat pumps throughout the day
 - Does not model thermal stratification or interaction with other renewable energy sources
-- 
+
+Furthermore, the participation fo
