@@ -26,7 +26,7 @@ Furthermore, the second regime will cause lower peak demands caused by the heat 
 ![[Screenshot 2026-09-27 at 6.54.21 am.png]]
 
 Note that the study focuses on lower temperatures due to correlation with higher heat demand. However, the study only provides an average winter's day, rather than the highest demand day, which is what the system is designed for
-- You can be designed for base load or for peak load, what is the trade-off? Another study can look at trade-off between using NG for peak or over-capac
+- You can be designed for base load or for peak load, what is the trade-off? Another study can look at trade-off between using NG for peak or over-capacity of heat pumps through a life cycle analysis.
 ## Limitations
 
 TES is modelled as a single unit, instead of being distributed.
