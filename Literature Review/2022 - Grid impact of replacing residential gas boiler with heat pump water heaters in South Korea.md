@@ -10,6 +10,7 @@ Note that peak periods is defined as the top $10\%$ of demand.
 
 ## Content
 
-The study first estimated heat load 
+The study first estimated heat demand from gas network data and district heating information provided by South Korean district heating company.
+- This was used to show a relationship between temperature, type of day (weekend/weekday), and time of day with heat demand
 
 ## Limitations
