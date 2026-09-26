@@ -18,7 +18,8 @@ Showed that Scenario 1  was not as effective at reducing the peak demand on the 
 ![[Screenshot 2026-09-27 at 6.50.33 am.png]]
 ![[Screenshot 2026-09-27 at 6.51.37 am.png]]
 
-
+Ultimately, up to 6% peak demand reduction could be achieved using a $200GWh$ TES wit
+![[Screenshot 2026-09-27 at 6.53.14 am.png]]
 ## Limitations
 
 TES is modelled as a single unit, instead of being distributed.
