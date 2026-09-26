@@ -35,4 +35,7 @@ TES is modelled as a single unit, instead of being distributed.
 - Furthermore, the modelling ignores the COP variations of the heat pumps throughout the day
 - Does not model thermal stratification or interaction with other renewable energy sources
 
-Furthermore, the participation fo
+Furthermore, the participation for load shifting has to compete with batteries on the market. Rather than being able to absorb heat pump whenever it wants.
+
+Furthermore, how does district heating and peer to peer exchange allow for the better demand management?
+- Can we add auxillary heating to better improve peak 
