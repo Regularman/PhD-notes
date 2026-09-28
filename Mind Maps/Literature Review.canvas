@@ -160,9 +160,10 @@
 		{"id":"c5a3ec22066b3c61","type":"file","file":"PhD-notes/Literature Review/2018 - Optimal Design of der for Economic Environmental Sustainability of Local Energy Communities (LECs).md","x":-6558,"y":-3012,"width":400,"height":81,"color":"6"},
 		{"id":"750b216aa6e3a8d7","type":"file","file":"PhD-notes/Literature Review/2025 - Top-down GIS-driven method for configuring the network layout of a 5th generation district heating and cooling (5GDHC) system.md","x":-6558,"y":-3195,"width":400,"height":131,"color":"6"},
 		{"id":"d444ffd581c347a5","type":"file","file":"PhD-notes/Literature Review/2026 - Planning distributed energy systems with low-grade heat sources integration - Geography-Based clustering and risk-informed thermal pipeline layout design approaches.md","x":-6558,"y":-3400,"width":400,"height":173,"color":"6"},
-		{"id":"135ff4b0be663820","x":-5880,"y":-2816,"width":330,"height":60,"color":"6","type":"text","text":"# I~={purple}ntegrated Heat and Electricity Production Network=~"},
-		{"id":"307ae51caeee5342","x":-5598,"y":-3002,"width":400,"height":111,"color":"6","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md"},
-		{"id":"1951c2d65c707678","x":-5598,"y":-3106,"width":400,"height":84,"color":"6","type":"file","file":"PhD-notes/Literature Review/2022 - Grid impact of replacing residential gas boiler with heat pump water heaters in South Korea.md"}
+		{"id":"135ff4b0be663820","type":"text","text":"# I~={purple}ntegrated Heat and Electricity Production Network=~","x":-5880,"y":-2816,"width":330,"height":60,"color":"6"},
+		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-3002,"width":400,"height":111,"color":"6"},
+		{"id":"1951c2d65c707678","type":"file","file":"PhD-notes/Literature Review/2022 - Grid impact of replacing residential gas boiler with heat pump water heaters in South Korea.md","x":-5598,"y":-3106,"width":400,"height":84,"color":"6"},
+		{"id":"31bc5d3f693656c5","x":-5965,"y":-1060,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
