@@ -44,4 +44,4 @@ TES discharge strategy is not time dependent, a demand following TES should be u
 
 The shape of the curtailment events will also the matter. How has wind curtailment change over the past 10 years?
 
-Industry requires steam, how does this fit in with the rest
+Industry requires steam, how does this fit in with the rest of the load profiles.
