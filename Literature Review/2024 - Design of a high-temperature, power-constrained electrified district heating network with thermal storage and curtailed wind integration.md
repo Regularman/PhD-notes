@@ -20,8 +20,12 @@ The BTES system stores energy from the air source heat pump during the summer an
 
 The study looks at the ex-post control strategies that can be used to to mitigate wind curtailment.
 
-| Control strategy | Description           |
-| ---------------- | --------------------- |
-| Demand regime    | The control strategy  |
-| Baseload regime  |                       |
-| COP regime       |                       |
+| Control strategy | Description                                                 |
+| ---------------- | ----------------------------------------------------------- |
+| Demand regime    | The control strategy dictates that the air source heat pump |
+| Baseload regime  |                                                             |
+| COP regime       |                                                             |
+## Limitation
+
+The study does not consider an waste heat recovery, which is crucial to heat network operation. 
+- Furthermore, the 
