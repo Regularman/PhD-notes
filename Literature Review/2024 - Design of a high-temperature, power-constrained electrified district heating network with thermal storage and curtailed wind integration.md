@@ -30,6 +30,11 @@ After consideration of wind curtailment rate, which starts at 17.21%, the metric
 Model simulation done in TRNSYS under 324 different scenarios.
 - Note that the BTES is discharged whenever it has a higher temperature than the return line, given a buffer of $2\degree C$.
 
+### Results
+
+There is a conflicting variable of interest in this case study. 
+- THe gr
+
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
