@@ -20,12 +20,14 @@ The BTES system stores energy from the air source heat pump during the summer an
 
 The study looks at the ex-post control strategies that can be used to to mitigate wind curtailment.
 
-| Control strategy | Description                                                                                                                                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Demand regime    | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, following demand of the load in the University of Edinburgh). If wind curtailment occur, then the T |
-| Baseload regime  |                                                                                                                                                                                                                    |
-| COP regime       |                                                                                                                                                                                                                    |
+| Control strategy | Description                                                                                                                                                                                                                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Demand regime    | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, following demand of the load in the University of Edinburgh). If wind curtailment occur, then the TES will charge to full capacity and discharge until it is emoty. |
+| Baseload regime  | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, following demand of the load in the University of Edinburgh). If wind curtailment occur, then the TES will charge to full capacity and discharge until it is emoty. |
+| COP regime       |                                                                                                                                                                                                                                                                                    |
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
 - Furthermore, the study does not consider the topography of the heating network in the optimisation of the selected metrics
+
+TES discharge strategy is not time dependent, a demand following TES should be used to minimise cost for the users.
