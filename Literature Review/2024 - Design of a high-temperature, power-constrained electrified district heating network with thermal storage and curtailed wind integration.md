@@ -14,4 +14,6 @@ The proposed electrification system is set, and rather wind curtailment is achie
 
 In this system, the BTES is charged from a TES (because of the low charging rate of the BTES), and the TES will act as a buffer for the air source heat pump.
 - This TES system also is used to increase the temperature of the district heating network for the supply line.
+
+The BTES system stores energy from the air source heat pump during the summer and releases this energy into the return line during winter. Releasing heat back into the return line means that the temperature of the TES will have to be higher, increasing standing heat loss.
 ## Content
