@@ -48,4 +48,4 @@ The shape of the curtailment events will also the matter. How has wind curtailme
 
 Industry requires steam, how does this fit in with the rest of the load profiles.
 
-Metrics were not quantified by 
+Metrics were not quantified by all the variables, which limits commentary which can be done for the energy system. Furthermore, the commentary is only specific to this one system, and does not inform network topography design.
