@@ -33,7 +33,7 @@ Model simulation done in TRNSYS under 324 different scenarios.
 ### Results
 
 There is a conflicting variable of interest in this case study. 
-- THe gr
+- The grid operator wants as little wind curtailment as possible and therefore higher electricity consumption from the industry is favourable. However, this means that inefficient use of electricity is rew
 
 ## Limitation
 
