@@ -7,7 +7,9 @@ Used an in-house power flow analysis software to compare the peak demand of cent
 The in-house power simulation software loads in waste heat potential, cooling and heating demands, then takes that and uses the Newton-Ralphson algorithm to calculate the power flow through the network.
 
 The study is quasi-dynamic as the COP depends on external temperature. There are three main scenarios
-- 
+- Scenario 1 is where there is a natural gas boiler assisted by heat pumps
+- Scenario 2 is a centralised district heating case
+- Scenario 3 is a fully decentralised case supplied only by heat pumps.
 
 Case study is done on campus Forschungszentrum JÅNulich![[Screenshot 2026-09-29 at 8.44.19 am.png|423]]
 ## Content
