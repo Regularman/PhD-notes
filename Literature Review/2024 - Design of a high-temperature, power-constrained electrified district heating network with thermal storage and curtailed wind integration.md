@@ -19,3 +19,8 @@ The BTES system stores energy from the air source heat pump during the summer an
 ## Content
 
 The study looks at the ex-post control strategies that can be used to to mitigate wind curtailment.
+
+
+|     |     |
+| --- | --- |
+|     |     |
