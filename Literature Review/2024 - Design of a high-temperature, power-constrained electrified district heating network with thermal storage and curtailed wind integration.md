@@ -10,7 +10,7 @@ Currently, KB in the University of Edinburgh is a large campus which currently o
 - There are a lot of historic buildings and an existing high temperature district heating network ($85\degree C$). Upgrading these to a low temperature district heating network will require extensive retrofits and therefore has not been considered in this study.
 
 The proposed electrification system is set, and rather wind curtailment is achieved through ex-post control strategies
-![[Screenshot 2026-09-29 at 3.28.42 pm.png|452]]
+![[Screenshot 2026-09-29 at 3.28.42 pm.png|700]]
 
 In this system, the BTES is charged from a TES (because of the low charging rate of the BTES), requiring a TES system to buffer the charge from an air sourced heat pump.
 ## Content
