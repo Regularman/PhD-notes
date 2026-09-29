@@ -43,3 +43,5 @@ The study does not consider an waste heat recovery, which is crucial to heat net
 TES discharge strategy is not time dependent, a demand following TES should be used to minimise cost for the users.
 
 The shape of the curtailment events will also the matter. How has wind curtailment change over the past 10 years?
+
+Industry requires steam, how does this fit in with the rest
