@@ -28,4 +28,4 @@ The study looks at the ex-post control strategies that can be used to to mitigat
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
-- Furthermore, the 
+- Furthermore, the study does not consider the topography of the heating network in the optimisation of the selected metrics
