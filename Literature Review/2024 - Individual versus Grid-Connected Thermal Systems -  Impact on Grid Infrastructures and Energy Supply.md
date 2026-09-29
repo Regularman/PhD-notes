@@ -3,6 +3,7 @@ https://ieeexplore.ieee.org/document/10668974/
 
 Used an in-house power flow analysis software to compare the peak demand of centralised versus decentralised heat pump. Showed that although electricity consumption decreased in the network case due to balancing of waste heat and cooling demands in the grid, the overall increase in loading on the power network increases due to the demand being concentrated in one place.
 - Found that switching to a low temperature anergy network reduced the total electricity consumption
+- Also found that the use of TES is effective at reduction of peak demand due to load shifting in the centralised scenario
 The in-house power simulation software loads in waste heat potential, cooling and heating demands, then takes that and uses the Newton-Ralphson algorithm to calculate the power flow through the network.
 
 The study is quasi-dynamic as the COP depends on external temperature.
