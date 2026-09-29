@@ -27,6 +27,8 @@ The study looks at the ex-post control strategies that can be used to to mitigat
 | COP regime       | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, the air source heat pump will act to baseloads only during hot hours to maximise COP of heat pump).   If wind curtailment occur, then the TES will charge to full capacity and discharge until it is empty.                                                     |
 After consideration of wind curtailment rate, which starts at 17.21%, the metric can be translated into grid CO2 emission intensity factor and retail price of electricity.
 
+Model simulation done in TRNSYS under 342
+
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
