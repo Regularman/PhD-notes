@@ -25,9 +25,13 @@ The study looks at the ex-post control strategies that can be used to to mitigat
 | Demand regime    | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, following demand of the load in the University of Edinburgh). If wind curtailment occur, then the TES will charge to full capacity and discharge until it is emoty.                                                                                             |
 | Baseload regime  | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, the air source heat pump will act to baseloads. If the baseload is insufficient to address demand, then either discharge from the TES or raise baseload.  If wind curtailment occur, then the TES will charge to full capacity and discharge until it is empty. |
 | COP regime       | The control strategy dictates that the air source heat pump will operate (in the case of non-wind curtailment, the air source heat pump will act to baseloads only during hot hours to maximise COP of heat pump).   If wind curtailment occur, then the TES will charge to full capacity and discharge until it is empty.                                                     |
+After consideration of wind curtailment rate, which starts at 17.21%, 
+
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
 - Furthermore, the study does not consider the topography of the heating network in the optimisation of the selected metrics
 
 TES discharge strategy is not time dependent, a demand following TES should be used to minimise cost for the users.
+
+The shape of the curtailment events will also the matter. How has wind curtailment change over the past 10 years?
