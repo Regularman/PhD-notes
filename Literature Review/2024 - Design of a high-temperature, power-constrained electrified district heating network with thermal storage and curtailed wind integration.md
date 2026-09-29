@@ -22,4 +22,4 @@ The study looks at the ex-post control strategies that can be used to to mitigat
 
 | Control strategy 1 |     |
 | ------------------ | --- |
-|                    |     |
+| Demand             |     |
