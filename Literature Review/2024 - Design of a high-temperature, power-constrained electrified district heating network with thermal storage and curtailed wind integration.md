@@ -34,6 +34,8 @@ Model simulation done in TRNSYS under 324 different scenarios.
 
 There is a conflicting variable of interest in this case study. 
 - The grid operator wants as little wind curtailment as possible and therefore higher electricity consumption from the industry is favourable. However, this means that inefficient use of electricity is rewarded, which reduces the financial case for the industry/end consumer.
+#### Load leveling
+
 
 ## Limitation
 
@@ -45,3 +47,5 @@ TES discharge strategy is not time dependent, a demand following TES should be u
 The shape of the curtailment events will also the matter. How has wind curtailment change over the past 10 years?
 
 Industry requires steam, how does this fit in with the rest of the load profiles.
+
+Metrics were not quantified by 
