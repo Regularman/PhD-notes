@@ -12,5 +12,7 @@ Currently, KB in the University of Edinburgh is a large campus which currently o
 The proposed electrification system is set, and rather wind curtailment is achieved through ex-post control strategies
 ![[Screenshot 2026-09-29 at 3.28.42 pm.png|700]]
 
-In this system, the BTES is charged from a TES (because of the low charging rate of the BTES), requiring a TES system to buffer the charge from an air sourced heat pump.
+In this system, the BTES is charged from a TES (because of the low charging rate of the BTES), and the TES will act as a buffer for the air source heat pump.
+
+The BTES 
 ## Content
