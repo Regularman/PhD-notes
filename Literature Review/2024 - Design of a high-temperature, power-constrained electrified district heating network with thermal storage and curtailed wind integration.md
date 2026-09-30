@@ -36,7 +36,7 @@ There is a conflicting variable of interest in this case study.
 - The grid operator wants as little wind curtailment as possible and therefore higher electricity consumption from the industry is favourable. However, this means that inefficient use of electricity is rewarded, which reduces the financial case for the industry/end consumer.
 #### Load leveling
 
-The utilisation of curtailed wind energy reduces the flexible loading capacity of the syste
+The utilisation of curtailed wind energy reduces the flexible loading capacity of the system
 
 #### Mitigating Wind Curtailment
 
