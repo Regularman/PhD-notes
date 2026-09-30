@@ -42,7 +42,7 @@ By taking the season averaged profiles, the study highlights that control strate
 
 ![[Screenshot 2026-09-30 at 4.55.19 pm.png]]
 
-Overall, the results highlighted that the control strategy is the best for managing flexible electrical demand and mitigating wind curtailment
+Overall, the results highlighted that the control strategy is the best for managing flexible electrical demand, although this requires knowledge of next day's demand,and the 
 #### Mitigating Wind Curtailment
 
  As wind curtailment increases, the temperature of the battery storage will increase. This will increase the COP of the heat pump, which means that the electricity consumption at air source heat pump must decrease to maintain a steady outlet temperature. This means that the excess electricity must be absorbed by the electric boiler to ensure that the electricity is used, reducing the thermal efficiency of the system.
