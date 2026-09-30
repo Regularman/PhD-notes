@@ -48,8 +48,9 @@ Overall, the results highlighted that the control strategy is the best for manag
  As wind curtailment increases, the temperature of the battery storage will increase. This will increase the COP of the heat pump, which means that the electricity consumption at air source heat pump must decrease to maintain a steady outlet temperature. This means that the excess electricity must be absorbed by the electric boiler to ensure that the electricity is used, reducing the thermal efficiency of the system.
 
 - This trade-off shows the differing interests of the grid operator and end consumer, which can be rectified through cost recovery schemes. There needs to be market incentives for the uptake of wind.
-
 #### Effect of the supply temperature
+
+- As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the renewable 
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
