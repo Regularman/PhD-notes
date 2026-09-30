@@ -36,6 +36,8 @@ There is a conflicting variable of interest in this case study.
 - The grid operator wants as little wind curtailment as possible and therefore higher electricity consumption from the industry is favourable. However, this means that inefficient use of electricity is rewarded, which reduces the financial case for the industry/end consumer.
 #### Load leveling
 
+The utilisation of curtailed 
+
 #### Mitigating Wind Curtailment
 
  As wind curtailment increases, the temperature of the battery storage will increase. This will increase the COP of the heat pump, which means that the electricity consumption at air source heat pump must decrease to maintain a steady outlet temperature. This means that the excess electricity must be absorbed by the electric boiler to ensure that the electricity is used, reducing the thermal efficiency of the system.
