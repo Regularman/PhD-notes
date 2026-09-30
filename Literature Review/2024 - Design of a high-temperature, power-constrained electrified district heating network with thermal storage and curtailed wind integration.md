@@ -52,7 +52,7 @@ Overall, the results highlighted that the control strategy is the best for manag
 From simulation data, control strategy two is the best at reducing wind curtailment by ensuring that the system can take as much of the curtailed wind as possible, constrained only by the TES size and the charging rate.
 - The size of the TES is determined by the supply temperature $70\degree C$.
 
-Indeed, if the system did not respond to curtailed wind singals, 
+Indeed, if the system did not respond to curtailed wind signals, then load leveling capabilities and efficiencies increases (as the electric heater does not need to be turned on as frequently)
 #### Effect of the supply temperature
 
 - As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases. This is due to increased BTES and ASHP headroom, allowing BTES charging to occur more and increase the integration of curtailed wind.
@@ -69,3 +69,5 @@ The shape of the curtailment events will also the matter. How has wind curtailme
 Industry requires steam, how does this fit in with the rest of the load profiles.
 
 Metrics were not quantified by all the variables, which limits commentary which can be done for the energy system. Furthermore, the commentary is only specific to this one system, and does not inform network topography design.
+
+The study on
