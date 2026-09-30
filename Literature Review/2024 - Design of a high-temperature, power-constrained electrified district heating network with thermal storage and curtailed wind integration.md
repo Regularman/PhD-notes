@@ -70,4 +70,4 @@ Industry requires steam, how does this fit in with the rest of the load profiles
 
 Metrics were not quantified by all the variables, which limits commentary which can be done for the energy system. Furthermore, the commentary is only specific to this one system, and does not inform network topography design.
 
-The study on
+The study only looks at demand side flexibility. How does the system respond to supply side changes. Is it flexible to sudden drop in generations?
