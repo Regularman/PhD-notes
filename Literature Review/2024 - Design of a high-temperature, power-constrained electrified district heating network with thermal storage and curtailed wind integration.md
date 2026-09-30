@@ -50,7 +50,7 @@ Overall, the results highlighted that the control strategy is the best for manag
 - This trade-off shows the differing interests of the grid operator and end consumer, which can be rectified through cost recovery schemes. There needs to be market incentives for the uptake of wind.
 
 From simulation data, control strategy two is the best at reducing wind curtailment by ensuring that the system can take as much of the curtailed wind as possible, constrained only by the TES size and the charging rate.
-- The size of the TES is determined by the supply temperature 
+- The size of the TES is determined by the supply temperature $70\degree C$.
 #### Effect of the supply temperature
 
 - As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases.
