@@ -62,8 +62,9 @@ Indeed, if the system did not respond to curtailed wind signals, then load level
 However, benefits of reducing the supply temperature could increase capex due to system retrofit of a high temperature network to a low temperature network.
 #### Impact of BTES
 
+The WFs are systematically lower without a BTES, with reductions ranging from 11.5% to 15.3%. However thermal efficiencies show a slight increase (maximum value 2.8%) which is attributed to thermal losses from the BTES. But the total efficiencies (and, consequently, total fuel costs) show a more pronounced increase (by up to 31.5%) as less pumping is required without a BTES.
 
-
+Therefore, the implementation of the BTES improves efficiencies but reduces 
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
