@@ -49,8 +49,9 @@ Overall, the results highlighted that the control strategy is the best for manag
 
 - This trade-off shows the differing interests of the grid operator and end consumer, which can be rectified through cost recovery schemes. There needs to be market incentives for the uptake of wind.
 
-From simulation data, control strategy two is the best at reducing wind curtailment by ensuring that the system can take as much of the curtailed wind as possible, constrained only by the TES size and the charging rate.
+From simulation data, control strategy $2$ is the best at reducing wind curtailment by ensuring that the system can take as much of the curtailed wind as possible, constrained only by the TES size and the charging rate.
 - The size of the TES is determined by the supply temperature $70\degree C$.
+- This is also because the control strategy (both $1$ and $2$, does not allow the TES to reach to high of a temperature, which reduces the thermal efficiency)
 
 Indeed, if the system did not respond to curtailed wind signals, then load leveling capabilities and efficiencies increases (as the electric heater does not need to be turned on as frequently)
 #### Effect of the supply temperature
