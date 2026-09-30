@@ -53,7 +53,7 @@ From simulation data, control strategy two is the best at reducing wind curtailm
 - The size of the TES is determined by the supply temperature $70\degree C$.
 #### Effect of the supply temperature
 
-- As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases. A lower supply temperature means that 
+- As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases. A lower supply temperature means a less heat loss and a higher thermal energy efficiency.
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
