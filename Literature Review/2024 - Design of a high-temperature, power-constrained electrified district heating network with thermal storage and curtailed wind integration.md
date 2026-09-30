@@ -38,7 +38,8 @@ There is a conflicting variable of interest in this case study.
 
 The utilisation of curtailed wind energy reduces the flexible loading capacity of the system. This is as the heaters and heat pumps must run at full capacity during any wind curtailment events, which can happen during any time of the day and season.
 
-By 
+
+By taking the season averaged profiles, the study highlights that control strategy 3 ![[Screenshot 2026-09-30 at 4.55.19 pm.png]]
 #### Mitigating Wind Curtailment
 
  As wind curtailment increases, the temperature of the battery storage will increase. This will increase the COP of the heat pump, which means that the electricity consumption at air source heat pump must decrease to maintain a steady outlet temperature. This means that the excess electricity must be absorbed by the electric boiler to ensure that the electricity is used, reducing the thermal efficiency of the system.
