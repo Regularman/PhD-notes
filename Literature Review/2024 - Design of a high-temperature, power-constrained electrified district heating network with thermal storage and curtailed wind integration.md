@@ -60,6 +60,10 @@ Indeed, if the system did not respond to curtailed wind signals, then load level
 - A lower supply temperature means a less heat loss and a higher thermal energy efficiency. This reduces opex and emissions for the end user.
 
 However, benefits of reducing the supply temperature could increase capex due to system retrofit of a high temperature network to a low temperature network.
+#### Impact of BTES
+
+
+
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
@@ -74,3 +78,5 @@ Industry requires steam, how does this fit in with the rest of the load profiles
 Metrics were not quantified by all the variables, which limits commentary which can be done for the energy system. Furthermore, the commentary is only specific to this one system, and does not inform network topography design.
 
 The study only looks at demand side flexibility. How does the system respond to supply side changes. Is it flexible to sudden drop in generations?
+
+How does other seasonal storage technologies enable load levelling and demand flexibility?
