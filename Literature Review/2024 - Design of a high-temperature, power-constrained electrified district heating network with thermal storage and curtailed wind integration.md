@@ -58,6 +58,8 @@ Indeed, if the system did not respond to curtailed wind signals, then load level
 
 - As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases. This is due to increased BTES and ASHP headroom, allowing BTES charging to occur more and increase the integration of curtailed wind.
 - A lower supply temperature means a less heat loss and a higher thermal energy efficiency. This reduces opex and emissions for the end user.
+
+However, benefits of reducing the supply temperature could increase capex due to system retrofit of a high temperature network to a low temperature network.
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
