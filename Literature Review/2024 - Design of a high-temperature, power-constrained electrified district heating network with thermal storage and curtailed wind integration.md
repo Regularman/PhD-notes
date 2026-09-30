@@ -38,7 +38,7 @@ There is a conflicting variable of interest in this case study.
 
 #### Mitigating Wind Curtailment
 
- As wind curtailment increases, the temperature of the ba
+ As wind curtailment increases, the temperature of the battery storage will increase. This will decrease the COP of the heat pump.
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
