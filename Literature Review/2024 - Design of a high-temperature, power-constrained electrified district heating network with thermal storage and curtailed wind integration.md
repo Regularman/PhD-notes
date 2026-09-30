@@ -38,7 +38,7 @@ There is a conflicting variable of interest in this case study.
 
 #### Mitigating Wind Curtailment
 
- As wind curtailment increases, the temperature of the battery storage will increase. This will decrease the COP of the heat pump.
+ As wind curtailment increases, the temperature of the battery storage will increase. This will increase the COP of the heat pump, which means that the electricity consumption at air source heat pump must decrease to maintain a steady outlet temperature. This means that the excess electricity must be absorbed by the electric boiler to ensure that the electricity is used, reducing the thermal 
 ## Limitation
 
 The study does not consider an waste heat recovery, which is crucial to heat network operation. 
