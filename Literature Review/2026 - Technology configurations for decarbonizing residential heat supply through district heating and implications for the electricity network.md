@@ -60,7 +60,8 @@ Does not answer the question of what characteristics drive certain decision vari
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN, over the whole lifecycle of the heating production system?
 - Further, the study does not map the ~={green}ex-ante to ex-post =~strategies to decarbonise the heat supply. For example, whether the system should rely on heat electrification to absorb excess generation from PVs or should the generation be directly curtailed. There may be control strategies which can reduce cost or improve grid resilience (with additional TES), but this is not considered in the model. 
-	- More specifically, how can demand response and grid tariffs adjus
+	- More specifically, how can demand response and grid tariffs adjust peak loading such that heating networks can be electrified without additional network solutions
+	- Further, there are possibilities of adjusting supply and return temperature, and utilising the thermal inertia of the network, to enable flexible demand
 - Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
 The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
