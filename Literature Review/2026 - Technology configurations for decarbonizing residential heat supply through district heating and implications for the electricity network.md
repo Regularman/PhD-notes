@@ -20,7 +20,7 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 
 The results section will outline the tradeoffs found using this study in Holland. There are a lot of solutions and each technology utilisation can go to $0$. The fact that all technology configurations can be made redundant in different SPORES (district heating configurations), means that different technologies can be traded off together whilst maintaining near cost optima. 
 
-To obtain new decarbonised heating configurations, certain technologies are constrained, and other technologies increase in capacity to compensate.
+To obtain new decarbonised heating configurations, certain technologies are constrained, and other technologies increase in capacity to compensate. Within the near-optimal decision space, almost all technologies can be fully substituted by functionally equivalent alternatives, and thus are ‘‘real choices’
 - Reducing green gas boilers from 400 to 100MW increases the deployment of hydrogen (+240MW) and electric boilers (+100MW). This reduces the need for storage due to additional peaking capacity.
 - Reducing electric boilers is displaced by higher heat pump (+160MW) and hydrogen boiler (+200MW) capacities. Further, there is more thermal storage to exploit low price periods in electricity and hydrogen, which is more volatile than green gas
 - Reducing residual heat from 200MW to 90MW is compensated by higher waste to energy (+200MW) and geothermal energy (+5MW) as well as higher pipeline expansion (+255MW) to connect there remote heat sources
@@ -50,7 +50,7 @@ Does not consider growth in the network. How easy is it to expand capacity of th
 Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
 - When talking about resilience to grid events, it would be interesting to model extreme climate events or grid events and analyse response of the heating network, and vice versa, what will happen to the electricity network when a portion of the network just shuts of suddenly.
 
-Further, the study is making the assumption that everyone is connected to the HPNs. It does not consider load profile compatibilitie
+Further, the study is making the assumption that everyone is connected to the HPNs. It does not consider load profile compatibilities.
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
