@@ -55,10 +55,11 @@ Loading on the power network is just one consideration of the grid operator, wha
 - When talking about resilience to grid events, it would be interesting to model extreme climate events or grid events and analyse response of the heating network, and vice versa, what will happen to the electricity network when a portion of the network just shuts of suddenly.
 
 Further, the study is making the assumption that everyone is connected to the HPNs. It does not consider load profile compatibilities.
+
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN, over the whole lifecycle of the heating production system?
-- Further, the study does not map the ex-ante to ex-post strategies to decarbonise the heat supply. For example, whether the system should rely on heat electrification to absorb excess generation from PVs or should the generation be directly curtailed.
+- Further, the study does not map the ~={green}ex-ante to ex-post =~strategies to decarbonise the heat supply. For example, whether the system should rely on heat electrification to absorb excess generation from PVs or should the generation be directly curtailed. There may be control strategies which can reduce cost or improve grid resilience (with additional TES), but this is not considered in the model
 - Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
 The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
