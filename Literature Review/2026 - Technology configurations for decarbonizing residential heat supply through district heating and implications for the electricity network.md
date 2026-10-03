@@ -64,6 +64,7 @@ Further, how will these technology options look like when considering the GWP an
 	- More specifically, how can demand response and grid tariffs adjust peak loading such that heating networks can be electrified without additional network solutions
 	- Further, there are possibilities of adjusting supply and return temperature, and utilising the thermal inertia of the network, to enable flexible demand
 	- The sequential coupling of the district heating and power flow simulations means that the thermal storage cannot response to grid constraints (ex-post strategies unavailable)
+	- The dispatch optimisation in this study only look cost optimisation. But what network design allows for the most efficient dispatch optimisation for flexibility and system strength or carbon emissions.
 - Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
 Energy consumption and efficiency is undervalued in this context as additional demand in the heating network does not affect electricity prices.
