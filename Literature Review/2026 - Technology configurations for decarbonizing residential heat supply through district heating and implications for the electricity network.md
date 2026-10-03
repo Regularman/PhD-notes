@@ -54,5 +54,6 @@ Further, the study is making the assumption that everyone is connected to the HP
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
+- Further, the study does not map the ex-ante to ex-post strategies to decarbonise the eat supply. For example, whether heat electrification should rely more so on thermal 
 
-The study only considers the design of 4GDH, and does not include the cooling needs of 
+The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
