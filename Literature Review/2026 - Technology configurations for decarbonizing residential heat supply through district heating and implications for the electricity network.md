@@ -37,7 +37,8 @@ Half of the heating demand is also provided for a petrochemical company in Rotte
 Interesting, when there are a higher share of gas boilers (+70%) and an increase in pipeline capacity (+265MW), the level of electric loading on the power grid actually increased. This is as the local PV generation flowed upstream, causing reverse power flow and overloading on the transformers.
 #### High and highest electrification scenarios
 
-
+Higher integration of P2H technologies actually decreases grid loading due to intelligent distributed build outs of heat pumps with thermal storage rather than electric boilers.
+- Therefore, spatial deploym ent is an extr
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
