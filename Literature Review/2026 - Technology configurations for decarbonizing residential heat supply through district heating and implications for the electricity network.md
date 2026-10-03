@@ -49,6 +49,8 @@ Does not consider growth in the network. How easy is it to expand capacity of th
 
 Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
 - When talking about resilience to grid events, it would be interesting to model extreme climate events or grid events and analyse response of the heating network, and vice versa, what will happen to the electricity network when a portion of the network just shuts of suddenly.
+
+Further, the study is making the assumption that everyone is connected to the HPNs. It does not consider load profile compatibilitie
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
