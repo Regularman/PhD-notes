@@ -17,6 +17,8 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 The results section will outline the tradeoffs found using this study in Holland. There are a lot of solutions and each technology utilisation can go to $0$. The fact that all technology configurations can be made redundant in different SPORES (district heating configurations), means that different technologies can be traded off together whilst maintaining near cost optima. 
 
 To obtain new decarbonised heating configurations, certain technologies are constrained, and other technologies increase in capacity to compensate.
+- Reducing green gas boilers from 400 to 100MW increases the deployment of hydrogen (+240MW) and electric boilers (+100MW). This reduces the need for storage due to additional peaking capacity.
+- Reducing electr
 
 #### Cost optimal solution
 
