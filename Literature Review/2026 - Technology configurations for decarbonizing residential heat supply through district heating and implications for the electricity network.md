@@ -41,7 +41,9 @@ Interesting, when there are a higher share of gas boilers (+70%) and an increase
 Higher integration of P2H technologies actually decreases grid loading due to intelligent distributed build outs of heat pumps with thermal storage rather than electric boilers.
 - Therefore, spatial deployment is an extremely important factor, in addition to technology choices.
 
-###
+#### Climate sensitivity
+
+Only performed for cold weather year, which has high demand. In this scenario, CHP deployment only increased 
 
 #### When constraining baseloads (geothermal and residual heat)
  Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
