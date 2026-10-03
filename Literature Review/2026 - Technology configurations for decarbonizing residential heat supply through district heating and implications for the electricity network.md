@@ -51,3 +51,5 @@ Loading on the power network is just one consideration of the grid operator, wha
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
+
+The study only considers the design of 4GDHC, whcih
