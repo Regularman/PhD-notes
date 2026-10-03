@@ -47,7 +47,7 @@ Only performed for cold weather year, which has high demand. In this scenario, C
 - The study did simulation on both a warm and cold weather year separately, but both should be simulated to output a single system that ensure that the system can handle the worst of both worlds simultaneously
 
 Note that the study does look at the ambient temperature and electricity prices in the year 2050, as projected by Dutch energy agencies, as well as simulating warm years and hot years.
-- However, there 
+- However, there needs to be a stronger comparison between warm and current years to outline how network design will be affected by these climate considerations.
 
 #### When constraining baseloads (geothermal and residual heat)
  Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
@@ -73,3 +73,5 @@ Further, how will these technology options look like when considering the GWP an
 Energy consumption and efficiency is undervalued in this context as additional demand in the heating network does not affect electricity prices.
 
 The study only considers the design of 4GDH, and does not include the cooling needs of the local region. Furthermore, the design is based on an existing DH network, and therefore topology and inclusion of loads based on their profiles are not as important.
+
+For the DHN optimization model, we assume a greenfield overnight investment setting in which no existing assets are considered, as the current fleet of heat technologies is expected to be retired well before 2050. Annualized capital costs are calculated using a discount rate of 7%. The optimization determines both investment and operational decisions at hourly resolution for a full year.
