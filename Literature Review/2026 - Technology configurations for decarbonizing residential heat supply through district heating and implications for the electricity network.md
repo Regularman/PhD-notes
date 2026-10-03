@@ -22,7 +22,7 @@ The cost optimal solution relies primarily on green gas and electric boilers. (g
 
 Half of the heating demand is also provided for a petrochemical company in Rotterdam, which may not always be avaliable in the future.
 
-- Note the use 
+- Note the use electric boilers, which are le
 ![[Screenshot 2026-10-03 at 8.19.21 pm.png|269]]
 ## Limitations and assumptions made
 
