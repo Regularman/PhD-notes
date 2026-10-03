@@ -35,6 +35,7 @@ Half of the heating demand is also provided for a petrochemical company in Rotte
 
 #### Low electrification scenario
 
+Interesting, when there are a higher share of gas boilers (+70%) and an increase in pipeline capacity (+265MW), the level of electric loading on the power 
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
