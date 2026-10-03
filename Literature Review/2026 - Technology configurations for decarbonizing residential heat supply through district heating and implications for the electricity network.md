@@ -21,6 +21,8 @@ The results section will outline the tradeoffs found using this study in Holland
 The cost optimal solution relies primarily on green gas and electric boilers. (green gas refers to biogas that has been upgraded to natural gas quality such that it can be directly injected into the national gas grid) 
 
 Half of the heating demand is also provided for a petrochemical company in Rotterdam, which may not always be avaliable in the future.
+
+- Note the use 
 ![[Screenshot 2026-10-03 at 8.19.21 pm.png|269]]
 ## Limitations and assumptions made
 
