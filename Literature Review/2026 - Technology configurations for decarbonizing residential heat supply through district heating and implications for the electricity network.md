@@ -40,4 +40,4 @@ Interesting, when there are a higher share of gas boilers (+70%) and an increase
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
 
-Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change
+Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
