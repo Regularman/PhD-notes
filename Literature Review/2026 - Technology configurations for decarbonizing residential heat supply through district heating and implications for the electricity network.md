@@ -66,4 +66,5 @@ Further, how will these technology options look like when considering the GWP an
 - Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
 Energy consumption and efficiency is undervalued in this context as additional demand in the heating network does not affect electricity prices.
-The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
+
+The study only considers the design of 4GDH, and does not include the cooling needs of the local region. Furthermore, the design is based on an existing DH network, and therefore topology and inclusion of loads based on their profiles are not as important.
