@@ -65,4 +65,5 @@ Further, how will these technology options look like when considering the GWP an
 	- The sequential coupling of the district heating and power flow simulations means that the thermal storage cannot response to grid constraints (ex-post strategies unavailable)
 - Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
+Energy consumption and efficiency is undervalued in this context as additional demand in the heating network does not affect electricity prices.
 The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
