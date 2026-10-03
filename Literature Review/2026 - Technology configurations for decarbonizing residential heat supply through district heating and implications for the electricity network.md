@@ -44,6 +44,7 @@ Higher integration of P2H technologies actually decreases grid loading due to in
 #### Climate sensitivity
 
 Only performed for cold weather year, which has high demand. In this scenario, CHP deployment only increased slightly, as there were not enough periods of high electricity demands to warrant extensive deployments of CHP.
+- The study did simulation on both a warm and cold weather year, but both should be simulated to ens
 
 #### When constraining baseloads (geothermal and residual heat)
  Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
