@@ -14,6 +14,7 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 - For example, while residual waste heat from industry is a cheap way of meeting residential heating demands, it may be unreliable and is not exactly long term (factories can move away or operations can change)
 
 #### Metrics used
+![[Screenshot 2026-10-03 at 8.46.00 pm.png]]
 ## Results
 
 The results section will outline the tradeoffs found using this study in Holland. There are a lot of solutions and each technology utilisation can go to $0$. The fact that all technology configurations can be made redundant in different SPORES (district heating configurations), means that different technologies can be traded off together whilst maintaining near cost optima. 
@@ -31,6 +32,9 @@ Half of the heating demand is also provided for a petrochemical company in Rotte
 
 - Note the use electric boilers, which are less energy efficient than heat pumps (due to lower COPs), but involves a lower CAPEX and OPEX (~={red}the model does not step through the LCOH of each technology=~). Furthermore, the electric boilers are near the demand centre to minimise heat network expansion costs
 ![[Screenshot 2026-10-03 at 8.19.21 pm.png|269]]
+
+#### Low electrification scenario
+
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
