@@ -6,7 +6,7 @@ Uses MGA (Modelling to Generate Alternatives) to find near cost-optimums (CAPEX+
 1. What is the range of alternative, economically comparable technology configurations for decarbonizing DHNs, and to what extent do these configurations differ in their electricity network impacts?
 2. What trade-offs are involved when the deployment of certain low-carbon heat supply technologies is constrained by local conditions, and what are the spillover effects on the electricity network?
 
-The MGA framework uses endogenous load profiles calculated from the least cost or near least cost HPN solution, then combines with exogenous on other load profiles to calculate an AC power flow simulation. This gives information on line loadings and transformer loadings in the network.
+The MGA framework uses endogenous load profiles calculated from the least cost or near least cost HPN solution, then combines with exogenous on other load profiles to calculate an AC power flow simulation. This gives information on line loadings and transformer loadings in the network. The study simulates the Dutch region of South 
 ![[Screenshot 2026-10-03 at 8.07.50 pm.png|413]]
 #### The problem with cost-minimised heating networks
 Does not model intangible dimensions such as social acceptance, ~={green}system resilience=~, structural uncertainty.
@@ -16,3 +16,4 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 
 ## Limitations and assumptions made
 
+Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
