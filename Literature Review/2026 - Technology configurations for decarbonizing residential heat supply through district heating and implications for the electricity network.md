@@ -45,4 +45,6 @@ Does not consider growth in the network. How easy is it to expand capacity of th
 
 Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
 
-Does not answer the question of what characteristics drive certain decision variables within the heat production network design
+Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
+
+Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
