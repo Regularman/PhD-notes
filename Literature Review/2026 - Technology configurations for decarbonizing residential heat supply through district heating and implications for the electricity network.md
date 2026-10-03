@@ -22,7 +22,7 @@ The cost optimal solution relies primarily on green gas and electric boilers. (g
 
 Half of the heating demand is also provided for a petrochemical company in Rotterdam, which may not always be avaliable in the future.
 
-- Note the use electric boilers, which are less energy efficient than heat pumps (due to lower COPs), but involves a lower CAPEX and OPEX (the model does not step through the LCOH of each technology)
+- Note the use electric boilers, which are less energy efficient than heat pumps (due to lower COPs), but involves a lower CAPEX and OPEX (~={red}the model does not step through the LCOH of each technology=~). Furthermore, the electric boilers are near the demand centre to minimise heat network expansion costs
 ![[Screenshot 2026-10-03 at 8.19.21 pm.png|269]]
 ## Limitations and assumptions made
 
