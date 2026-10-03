@@ -19,7 +19,7 @@ The results section will outline the tradeoffs found using this study in Holland
 To obtain new decarbonised heating configurations, certain technologies are constrained, and other technologies increase in capacity to compensate.
 - Reducing green gas boilers from 400 to 100MW increases the deployment of hydrogen (+240MW) and electric boilers (+100MW). This reduces the need for storage due to additional peaking capacity.
 - Reducing electric boilers is displaced by higher heat pump (+160MW) and hydrogen boiler (+200MW) capacities. Further, there is more thermal storage to exploit low price periods in electricity and hydrogen, which is more volatile than green gas
-- Reducing residual heat from 200MW to 90MW
+- Reducing residual heat from 200MW to 90MW is compensated by higher waste to energy (+200MW) and geothermal energy (+5MW) as well as higher pipeline expansion (+255MW) to connect there remote heat sources
 
 #### Cost optimal solution
 
