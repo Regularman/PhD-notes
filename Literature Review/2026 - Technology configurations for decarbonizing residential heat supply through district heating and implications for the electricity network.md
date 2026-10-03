@@ -39,6 +39,9 @@ Interesting, when there are a higher share of gas boilers (+70%) and an increase
 
 Higher integration of P2H technologies actually decreases grid loading due to intelligent distributed build outs of heat pumps with thermal storage rather than electric boilers.
 - Therefore, spatial deployment is an extremely important factor, in addition to technology choices.
+
+#### When constraining baseloads (geothermal and residual heat)
+ Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
