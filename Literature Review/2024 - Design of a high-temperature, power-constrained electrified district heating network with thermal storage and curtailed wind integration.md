@@ -53,7 +53,7 @@ From simulation data, control strategy $2$ is the best at reducing wind curtailm
 - The size of the TES is determined by the supply temperature $70\degree C$.
 - This is also because the control strategy (both $1$ and $2$, does not allow the TES to reach to high of a temperature, which reduces the thermal efficiency)
 
-Indeed, if the system did not respond to curtailed wind signals, then load leveling capabilities and efficiencies increases (as the electric heater does not need to be turned on as frequently)
+Indeed, if the system did not respond to curtailed wind signals, then load-leveling capabilities and efficiencies increases (as the electric heater does not need to be turned on as frequently)
 #### Effect of the supply temperature
 
 - As the supply temperature decreases, and the air source condenser outlet temperature remains the same, then the wind integration factor increases. This is due to increased BTES and ASHP headroom, allowing BTES charging to occur more and increase the integration of curtailed wind.
