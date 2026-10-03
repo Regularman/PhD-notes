@@ -25,7 +25,6 @@ To obtain new decarbonised heating configurations, certain technologies are cons
 - Reducing residual heat from 200MW to 90MW is compensated by higher waste to energy (+200MW) and geothermal energy (+5MW) as well as higher pipeline expansion (+255MW) to connect there remote heat sources
 
 #### Cost optimal solution
-
 The cost optimal solution relies primarily on green gas and electric boilers. (green gas refers to biogas that has been upgraded to natural gas quality such that it can be directly injected into the national gas grid) 
 
 Half of the heating demand is also provided for a petrochemical company in Rotterdam, which may not always be avaliable in the future.
@@ -35,7 +34,9 @@ Half of the heating demand is also provided for a petrochemical company in Rotte
 
 #### Low electrification scenario
 
-Interesting, when there are a higher share of gas boilers (+70%) and an increase in pipeline capacity (+265MW), the level of electric loading on the power grid actually increased
+Interesting, when there are a higher share of gas boilers (+70%) and an increase in pipeline capacity (+265MW), the level of electric loading on the power grid actually increased. This is as the local PV generation flowed upstream, causing reverse power flow and overloading on the transformers.
+
+#### High and highest electrification scenar
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
