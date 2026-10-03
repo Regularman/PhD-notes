@@ -38,9 +38,11 @@ Interesting, when there are a higher share of gas boilers (+70%) and an increase
 #### High and highest electrification scenarios
 
 Higher integration of P2H technologies actually decreases grid loading due to intelligent distributed build outs of heat pumps with thermal storage rather than electric boilers.
-- Therefore, spatial deploym ent is an extr
+- Therefore, spatial deployment is an extremely important factor, in addition to technology choices.
 ## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
 
 Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
+
+Does not answer the question of what characteristics drive certain decision variables within the heat production network design
