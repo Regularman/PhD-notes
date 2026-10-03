@@ -41,6 +41,8 @@ Interesting, when there are a higher share of gas boilers (+70%) and an increase
 Higher integration of P2H technologies actually decreases grid loading due to intelligent distributed build outs of heat pumps with thermal storage rather than electric boilers.
 - Therefore, spatial deployment is an extremely important factor, in addition to technology choices.
 
+###
+
 #### When constraining baseloads (geothermal and residual heat)
  Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
 ## Limitations and assumptions made
@@ -55,5 +57,6 @@ Does not answer the question of what characteristics drive certain decision vari
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
 - Further, the study does not map the ex-ante to ex-post strategies to decarbonise the heat supply. For example, whether the system should rely on heat electrification to absorb excess generation from PVs or should the generation be directly curtailed.
+- Additionally, the study only analyses the current state of technology options. Does not consider improvements in technologies in the future.
 
 The study only considers the design of 4GDH, and does not include the cooling needs of the local region.
