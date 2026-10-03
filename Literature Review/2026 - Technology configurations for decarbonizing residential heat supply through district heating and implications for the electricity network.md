@@ -55,4 +55,4 @@ Does not answer the question of what characteristics drive certain decision vari
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
 
-The study only considers the design of 4GDHC, whcih
+The study only considers the design of 4GDH, and does not include the cooling needs of 
