@@ -16,6 +16,10 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 
 The results section will outline the tradeoffs found using this study in Holland.
 
-## Limitations and a![[Screenshot 2026-10-03 at 8.19.21 pm.png]]ssumptions made
+#### Cost optimal solution
+
+The cost optimal solution relies primarily on green gas and electric boil 
+![[Screenshot 2026-10-03 at 8.19.21 pm.png|269]]
+## Limitations and assumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
