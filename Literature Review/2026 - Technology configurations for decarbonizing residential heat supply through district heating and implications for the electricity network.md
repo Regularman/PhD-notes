@@ -12,9 +12,10 @@ The MGA framework uses endogenous load profiles calculated from the least cost o
 #### The problem with cost-minimised heating networks
 Does not model intangible dimensions such as social acceptance, ~={green}system resilience=~, structural uncertainty.
 - For example, while residual waste heat from industry is a cheap way of meeting residential heating demands, it may be unreliable and is not exactly long term (factories can move away or operations can change)
-
 ## Results
 
-## Limitations and assumptions made
+The results section will outline the tradeoffs found using this study in Holland.
+
+## Limitations and a![[Screenshot 2026-10-03 at 8.19.21 pm.png]]ssumptions made
 
 Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood?
