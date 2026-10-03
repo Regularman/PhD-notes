@@ -45,10 +45,10 @@ Higher integration of P2H technologies actually decreases grid loading due to in
  Displaced by either carbon neutral gas boilers or intelligently deployed heat pumps coupled with thermal storage.
 ## Limitations and assumptions made
 
-Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood? What metrics or modelling
+Does not consider growth in the network. How easy is it to expand capacity of the heating network? If a new factory was going to be built next door, in the same neighbourhood? What metrics or modelling methods are available to do so?
 
 Loading on the power network is just one consideration of the grid operator, what about other grid qualities such as system strength, resilience to climate change, and demand response.
-- When talking about resilience to grid events, it would be interesting to 
+- When talking about resilience to grid events, it would be interesting to model extreme climate events or grid events and analyse response of the heating network, and vice versa, what will happen to the electricity network when a portion of the network just shuts of suddenly.
 Does not answer the question of what characteristics drive certain decision variables within the heat production network design.
 
 Further, how will these technology options look like when considering the GWP and other sustainability metrics of the HPN?
