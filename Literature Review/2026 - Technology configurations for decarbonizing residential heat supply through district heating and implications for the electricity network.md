@@ -13,3 +13,6 @@ Does not model intangible dimensions such as social acceptance, ~={green}system 
 - For example, while residual waste heat from industry is a cheap way of meeting residential heating demands, it may be unreliable and is not exactly long term (factories can move away or operations can change)
 
 ## Results
+
+## Limitations and assumptions made
+
