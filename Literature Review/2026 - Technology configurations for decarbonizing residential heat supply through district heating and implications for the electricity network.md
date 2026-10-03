@@ -12,6 +12,8 @@ The MGA framework uses endogenous load profiles calculated from the least cost o
 #### The problem with cost-minimised heating networks
 Does not model intangible dimensions such as social acceptance, ~={green}system resilience=~, structural uncertainty.
 - For example, while residual waste heat from industry is a cheap way of meeting residential heating demands, it may be unreliable and is not exactly long term (factories can move away or operations can change)
+
+#### Metrics used
 ## Results
 
 The results section will outline the tradeoffs found using this study in Holland. There are a lot of solutions and each technology utilisation can go to $0$. The fact that all technology configurations can be made redundant in different SPORES (district heating configurations), means that different technologies can be traded off together whilst maintaining near cost optima. 
