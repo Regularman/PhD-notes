@@ -19,6 +19,10 @@ Further, the investment cost for heat infrastructure and distribution network re
 - This minimises error in heat demand, number of households and geographical areas.
 
 Further, the paper also suggest that the electricity generation profile can be changed (varying the amount of gas generation (it would be interesting to model this over the retiring coal fired power plants and do an integrated planning scenario like that)). It should be noted that the paper follows GB renewable targets with fixed volumes of wind, solar, and nuclear.
+
+Investigated two scenarios
+- slow transition (grid is $100\frac{gCO_2e}{kWH}$)
+- fast transition (grid is $50\frac{gCO_2e}{kWH}$)
 ## Results
 
 
