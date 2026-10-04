@@ -29,13 +29,13 @@ Investigated two scenarios
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
-
 - The analysis is also too wide-pan and does not dive into system/network topology. 
+- Further, there are limited technology options in this paper, as end consumers are constrained to using hybrid heat pump gas boilers and district heating networks are constrained to either gas boilers or heat pumps.
 
 Curtailment is not solely based on demand, but also due to thermal constraints in the grid.
 
 Incorporates weather data but does not examine how the network performs under stressful weather conditions. Therefore, does not examine performance of the network under different weather conditions
 
-Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid reseilience?
+Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
 
 
