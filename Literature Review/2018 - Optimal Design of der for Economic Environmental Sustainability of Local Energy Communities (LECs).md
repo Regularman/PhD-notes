@@ -39,7 +39,8 @@ Note that the design size of the technology must be within the minimum and maxim
 - However, the heating network only allows for heat delivery in one direction
 ## Results
 
-Shows that the topology of the network changes the tradeoff between cost and carbon emissions.![[Screenshot 2026-09-25 103323.png]]
+Shows that the topology of the network changes the tradeoff between cost and carbon emissions.
+![[Screenshot 2026-09-25 103323.png]]
 ![[Screenshot 2026-09-25 103333.png]]
 
 However, in all cases, CHP is moved by the ICE rather than the CHP due to the lower capex and higher total energy efficiency of the technology. This contradicts other papers as the it does not consider waste heat recovery.
