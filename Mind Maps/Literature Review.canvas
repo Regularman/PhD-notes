@@ -168,7 +168,7 @@
 		{"id":"30ef62f20f72d359","type":"file","file":"PhD-notes/Literature Review/2025 - Impact of decarbonized heating sector at local scale on the national power grid.md","x":-5598,"y":-3530,"width":400,"height":130,"color":"6"},
 		{"id":"27fe4bf4279db28f","type":"file","file":"PhD-notes/Literature Review/2024 - Design of a high-temperature, power-constrained electrified district heating network with thermal storage and curtailed wind integration.md","x":-5598,"y":-3660,"width":400,"height":75,"color":"6"},
 		{"id":"2fc81064988bb6ca","type":"file","file":"PhD-notes/Literature Review/2017 - Integrated heat and power dispatch truly utilizing thermal inertia of district heating network for wind power integration.md","x":-5598,"y":-3800,"width":400,"height":105,"color":"6"},
-		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2986,"width":400,"height":111,"color":"6"}
+		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2986,"width":400,"height":386,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
