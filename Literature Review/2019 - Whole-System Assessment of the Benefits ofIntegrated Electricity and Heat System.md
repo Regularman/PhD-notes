@@ -24,8 +24,8 @@ Investigated two scenarios
 - slow transition (grid is $100\frac{gCO_2e}{kWH}$)
 - fast transition (grid is $50\frac{gCO_2e}{kWH}$)
 ## Results
-
-
+The fi
+![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
