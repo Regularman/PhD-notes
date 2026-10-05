@@ -24,7 +24,8 @@ Investigated two scenarios
 - slow transition (grid is $100\frac{gCO_2e}{kWH}$)
 - fast transition (grid is $50\frac{gCO_2e}{kWH}$)
 ## Results
-The figure below shows that integrated planning (including the electricity power system in the system boundary), significantly decreases the OPEX and CAPEX investment in the netwrok, whilst increasing the CAPEX required for 
+The figure below shows that integrated planning (including the electricity power system in the system boundary), significantly decreases the OPEX and CAPEX investment in the network, whilst increasing the CAPEX required for additional CHP, thermal storage and heat pumps.
+- The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment 
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
