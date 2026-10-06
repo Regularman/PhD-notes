@@ -35,6 +35,7 @@ Further, the diagram below shows that there is a correlation between the carbon 
 
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 
+Integrated design reduces the need for CCGT and NG CCS, due to the lower
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
