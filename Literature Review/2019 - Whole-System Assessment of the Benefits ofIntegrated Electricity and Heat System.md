@@ -69,6 +69,6 @@ Only shows monetary impact of improving flexibility of the system. What are the 
 
 Again, this study is exclusively for commercial heat demand, and does not discuss impacts on industry. It is important to consider heat loads of different temperature requirements, which will change how the heating network look like dramatically. 
 
-The paper also makes the assumption that 
+The paper also makes the assumption that user comfort levels will not be impacted by preheating, which may not be true. Further, they assumed that all buildings are able to participate in this service. What happens at different levels of the participation?
 
 
