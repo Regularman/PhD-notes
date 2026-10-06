@@ -45,7 +45,7 @@ Overall, when integration is enabled, heating technologies shifts from hybrid ga
 - But there is savings in lower system operating costs associated with the NG CCS
 
 In the slow transition scenario, CHPs generate $21$% of the heat while in the fast transition scenario, CHPs generates $7$% of the heat. This shows that although CHPs are effective at increasing flexibility of the integrated system, it is an emission intensive technology.
-- It is also not economical to deploy CHP CCS in the long term
+- It is also not economical to deploy CHP CCS in the long term, instead CHPs are displaced by industrial heat pumps (which may not be possible at a higher temperature)
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
@@ -58,6 +58,6 @@ Incorporates weather data but does not examine how the network performs under st
 
 Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
 
-Again, this study is exclusively for commercial heat demand, and does not discuss impacts on industry.
+Again, this study is exclusively for commercial heat demand, and does not discuss impacts on industry. It is important to consider heat loads of different temperature requirements, which will change how the heating network look like dramatically. 
 
 
