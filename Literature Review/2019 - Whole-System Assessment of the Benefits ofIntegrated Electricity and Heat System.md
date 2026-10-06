@@ -43,6 +43,8 @@ Heat networks are applied in urban areas, and hybrid heat pump gas boilers (end 
 Overall, when integration is enabled, heating technologies shifts from hybrid gas-heat pumps to heating networks.
 - This means a higher investment in heating infrastructure
 - But there is savings in lower system operating costs associated with the NG CCS
+
+In the slow transition scenario, CHPs generate $21$% of the heat while in the fast transition scenario CHP
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
