@@ -29,7 +29,7 @@ The figure below shows that integrated planning (including the electricity power
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
 - There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
 
-Further, the diagram below shows that there is a correlation between the carbon con
+Further, the diagram below shows that there is a correlation between the carbon constraint and the system configuration. Additional simulation highlights that when the carbon constraint exceed 266g/kWh, it is no longer influenced by the carbon constraint
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
