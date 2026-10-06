@@ -52,6 +52,8 @@ TES has a positive impact on the heating network through
 - Reducing NG CCS capacity through ancillary services that alleviate VRE
 - Shifting heat delivery from end use to district based
 However, the paper does not discuss the topology and sizing of the TES and how that impacts site specific implementation. 
+
+Further demonstrated that the operating cost savings from preheating is proportional to the insulation level of the buildings and the participation level from buildings
 #### Electricity network impacts
 
 Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is supplied by NG CCS)
