@@ -28,7 +28,7 @@ The figure below shows that integrated planning (including the electricity power
 - The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
 - There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
-
+![[Screenshot 2026-10-06 113905.png]]
 Essentially, the heating network gives more flexibility to the electricity system (particularly through ancillary services and preheating). ~={green}The model temporarily turns down heat pumps (outlining that this does not affect the thermal comfort of the user), however, it is unclear if this can be done for industrial loads.=~ 
 
 Further, the diagram below shows that there is a correlation between the carbon constraint and the system configuration. Additional simulation highlights that when the carbon constraint exceed 266g/kWh, it is no longer influenced by the carbon constraint.
