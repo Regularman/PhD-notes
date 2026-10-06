@@ -51,14 +51,14 @@ TES has a positive impact on the heating network through
 - Ancillary services that alleviate the curtailment of VRE
 - Reducing NG CCS capacity through ancillary services that alleviate VRE
 - Shifting heat delivery from end use to district based
-However, the paper does not discuss the topology and sizing of the TES and how that
+However, the paper does not discuss the topology and sizing of the TES and how that impacts site specific implementation. 
 #### Electricity network impacts
 
 Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is supplied by NG CCS)
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
-- The analysis is also too wide-pan and does not dive into system/network topology. 
+- The analysis is also too wide-pan and does not dive into system/network topology. This means that it does not aid site specific applications of technology. The goal of the paper should be to inform end users and system operators on how to implement electrification of heating supplies.
 - Further, there are limited technology options in this paper, as end consumers are constrained to using hybrid heat pump gas boilers and district heating networks are constrained to either gas boilers or heat pumps.
 
 Curtailment is not solely based on demand, but also due to thermal constraints in the grid.
@@ -68,5 +68,7 @@ Incorporates weather data but does not examine how the network performs under st
 Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
 
 Again, this study is exclusively for commercial heat demand, and does not discuss impacts on industry. It is important to consider heat loads of different temperature requirements, which will change how the heating network look like dramatically. 
+
+The paper also makes the assumption that 
 
 
