@@ -47,7 +47,11 @@ Overall, when integration is enabled, heating technologies shifts from hybrid ga
 In the slow transition scenario, CHPs generate $21$% of the heat while in the fast transition scenario, CHPs generates $7$% of the heat. This shows that although CHPs are effective at increasing flexibility of the integrated system, it is an emission intensive technology.
 - It is also not economical to deploy CHP CCS in the long term, instead CHPs are displaced by industrial heat pumps (which may not be possible at a higher temperature)
 
-TES has a positive impact on the heating network 
+TES has a positive impact on the heating network through
+- Ancillary services that alleviate the curtailment of VRE
+- Reducing NG CCS capacity through ancillary services that alleviate VRE
+- Shifting heat delivery from end use to district based
+However, the paper does not discuss the topology and sizing of the TES and how that
 #### Electricity network impacts
 
 Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is supplied by NG CCS)
