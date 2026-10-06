@@ -24,12 +24,15 @@ Investigated two scenarios
 - slow transition (grid is $100\frac{gCO_2e}{kWH}$)
 - fast transition (grid is $50\frac{gCO_2e}{kWH}$)
 ## Results
-The figure below shows that integrated planning (including the electricity power system in the system boundary), significantly decreases the OPEX and CAPEX investment in the network, whilst increasing the CAPEX required for additional CHP, thermal storage and heat pumps.
+The figure below shows that integrated planning (including the electricity power system in the system boundary), has the following effects
 - The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment 
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
 - There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
 
-Further, the diagram below shows that there is a correlation between the carbon constraint and the system configuration. Additional simulation highlights that when the carbon constraint exceed 266g/kWh, it is no longer influenced by the carbon constraint
+Essentially, the heating network gives more
+
+Further, the diagram below shows that there is a correlation between the carbon constraint and the system configuration. Additional simulation highlights that when the carbon constraint exceed 266g/kWh, it is no longer influenced by the carbon constraint.
+
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
