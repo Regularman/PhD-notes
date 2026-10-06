@@ -41,7 +41,8 @@ Integrated design reduces the need for CCGT and NG CCS, due to the lower VRE cur
 Heat networks are applied in urban areas, and hybrid heat pump gas boilers (end use) are used in suburban, semirural and rural areas, indicating that heat density is a key driving/limiting factor for the application of a district heating network.
 
 Overall, when integration is enabled, heating technologies shifts from hybrid gas-heat pumps to heating networks.
-- But there is savings in lower system operating costs associated with the NG CC
+- This means a higher investment in heating infrastructure
+- But there is savings in lower system operating costs associated with the NG CCS
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
