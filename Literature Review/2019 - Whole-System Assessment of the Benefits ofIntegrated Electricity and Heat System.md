@@ -27,6 +27,7 @@ Investigated two scenarios
 The figure below shows that integrated planning (including the electricity power system in the system boundary), significantly decreases the OPEX and CAPEX investment in the network, whilst increasing the CAPEX required for additional CHP, thermal storage and heat pumps.
 - The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment 
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
+- There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
@@ -39,5 +40,7 @@ Curtailment is not solely based on demand, but also due to thermal constraints i
 Incorporates weather data but does not examine how the network performs under stressful weather conditions. Therefore, does not examine performance of the network under different weather conditions
 
 Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
+
+Again, this study is exclusively for 
 
 
