@@ -48,7 +48,7 @@ In the slow transition scenario, CHPs generate $21$% of the heat while in the fa
 - It is also not economical to deploy CHP CCS in the long term, instead CHPs are displaced by industrial heat pumps (which may not be possible at a higher temperature)
 #### Electricity network impacts
 
-Overall, the emissions from the electricity network will increase 
+Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is )
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
