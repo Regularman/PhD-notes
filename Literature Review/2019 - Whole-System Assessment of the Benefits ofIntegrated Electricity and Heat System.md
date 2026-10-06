@@ -56,7 +56,9 @@ However, the paper does not discuss the topology and sizing of the TES and how t
 Further demonstrated that the operating cost savings from preheating is proportional to the insulation level of the buildings and the participation level from buildings
 #### Electricity network impacts
 
-Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is supplied by NG CCS)
+Overall, the emissions from the electricity network will increase due to increased operation of NG CHP to fulfill electricity demands. (In the decoupled case, missing generation from the curtailment of VRE is supplied by NG CCS)![[Screenshot 2026-10-06 114251.png]]
+
+However, the study shows that if the electricity system is more flexible (electric load can perform ancillary services and there is an additional 15GW of BESS on the grid), then the value of the 
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
