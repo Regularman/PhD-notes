@@ -25,7 +25,7 @@ Investigated two scenarios
 - fast transition (grid is $50\frac{gCO_2e}{kWH}$)
 ## Results
 The figure below shows that integrated planning (including the electricity power system in the system boundary), has the following effects
-- The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment 
+- The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
 - There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
 
@@ -34,6 +34,9 @@ Essentially, the heating network gives more flexibility to the electricity syste
 Further, the diagram below shows that there is a correlation between the carbon constraint and the system configuration. Additional simulation highlights that when the carbon constraint exceed 266g/kWh, it is no longer influenced by the carbon constraint.
 
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
+
+
+
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
@@ -46,6 +49,6 @@ Incorporates weather data but does not examine how the network performs under st
 
 Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
 
-Again, this study is exclusively for commercial heat demand
+Again, this study is exclusively for commercial heat demand, and does not discuss impacts on industry.
 
 
