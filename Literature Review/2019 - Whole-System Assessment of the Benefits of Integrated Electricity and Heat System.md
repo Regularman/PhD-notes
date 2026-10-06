@@ -60,7 +60,7 @@ Overall, the emissions from the electricity network will increase due to increas
 
 However, the study shows that if the electricity system is more flexible (electric load can perform ancillary services and there is an additional 15GW of BESS on the grid), then the value of thermal flexibility drops significantly. ~={red}Therefore, this study investigates the value of thermal flexibility in an unrealistic, inflexible grid. There needs to be a study into the competing mechanics of thermal versus electrical flexibility in a real life power grid.=~
 
-- Further, it can be seen from the table above that the value of the thermal grid comes primarily from the balancing services it can provide. Therefore, if it is not able or does not provide this balancing service, it's value proposition drops significantly.
+- ~={blue}Further, it can be seen from the table above that the value of the thermal grid comes primarily from the balancing services it can provide. Therefore, if it is not able or does not provide this balancing service, it's value proposition drops significantly.=~
 ## Limitations
 
 However, network topology are approximated through the ~={red}fractal method=~ and the paper only considers the use of hybrid gas boilers + ASHP at the end user, WSHP, GB at the district heating level.
