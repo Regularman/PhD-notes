@@ -28,6 +28,8 @@ The figure below shows that integrated planning (including the electricity power
 - The reduced OPEX is due to more efficient CHP and mitigation of renewable curtailment 
 - The use of hybrid gas boilers reduces peak load on the heat distribution network and electricity network
 - There is additional CAPEX for end use TES, industrial heat pumps and industrial gas boilers.
+
+Further, the diagram below shows that there is a correlation between the carbon con
 ![[Screenshot 2026-10-06 at 8.54.16 am.png|351]]
 ## Limitations
 
@@ -41,6 +43,6 @@ Incorporates weather data but does not examine how the network performs under st
 
 Only shows monetary impact of improving flexibility of the system. What are the actual impacts on system strength and power grid resilience?
 
-Again, this study is exclusively for 
+Again, this study is exclusively for commercial heat demand
 
 
