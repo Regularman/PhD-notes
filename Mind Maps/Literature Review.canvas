@@ -170,7 +170,9 @@
 		{"id":"562f6a7de3f72469","type":"file","file":"PhD-notes/Literature Review/2019 - Whole-System Assessment of the Benefits of Integrated Electricity and Heat System.md","x":-5598,"y":-3960,"width":400,"height":121,"color":"6"},
 		{"id":"7f6faf0b4d63c979","type":"file","file":"PhD-notes/Literature Review/2021 - Identification of key performance indicators and complimentary load profiles for 5th generation district energy networks.md","x":-6558,"y":-3585,"width":400,"height":136,"color":"6"},
 		{"id":"80be356a6a11e510","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md","x":-6758,"y":-1351,"width":400,"height":156,"color":"6"},
-		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1080,"width":400,"height":140,"color":"6"}
+		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1080,"width":400,"height":140,"color":"6"},
+		{"id":"effdc0d7da63bd3b","x":-7008,"y":-2553,"width":250,"height":60,"color":"6","type":"text","text":"# ~={purple}Resilience and Reliability=~"},
+		{"id":"59b5e723874e7923","x":-7488,"y":-2859,"width":400,"height":102,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -333,6 +335,8 @@
 		{"id":"f903d8baecce740f","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"27fe4bf4279db28f","toSide":"left"},
 		{"id":"e979f2c6112f75f7","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"2fc81064988bb6ca","toSide":"left"},
 		{"id":"f69b78a740e99b56","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"562f6a7de3f72469","toSide":"left"},
-		{"id":"e4c09bbe863004a3","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"7f6faf0b4d63c979","toSide":"right"}
+		{"id":"e4c09bbe863004a3","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"7f6faf0b4d63c979","toSide":"right"},
+		{"id":"a51ac547313964d7","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"59b5e723874e7923","toSide":"right"},
+		{"id":"740686daa694f0eb","fromNode":"a7ef96254e4145d4","fromSide":"left","toNode":"effdc0d7da63bd3b","toSide":"right"}
 	]
 }
