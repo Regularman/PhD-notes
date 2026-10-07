@@ -19,7 +19,11 @@ The nodes and generators are from real data, but the graph network is generated 
 
 ![[Screenshot 2026-10-07 165634.png]]
 
+We can see that in the non-resilient case, which does not consider the 
 
+## Limitations
+
+Reliability of a network is inherently dependent on its time coincident loading 
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
