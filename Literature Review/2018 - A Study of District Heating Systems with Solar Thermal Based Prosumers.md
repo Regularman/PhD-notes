@@ -15,7 +15,7 @@ Uses commercially available conversion factors for the flat plate solar thermal 
 ## Results
 
 Ultimately achieved a solar fraction of 15% given the non-optimised settings of the heat network. Does not answer the question of if the system can be optimised to increase this solar fraction? Furthermore, what is the cost and emission impacts of this system compared to the base case.
-- This is enabled through the coverage scenario where every building is covered with solar thermal. Building by building cases are not able to achieve a solar 
+- This is enabled through the coverage scenario where every building is covered with solar thermal. Building by building cases are not able to achieve a solar fraction above 5%.
 
 Made some relationship statement on the hydraulic losses to the centralisation of the solar thermal units and heat pumps.
 ## Limitations
