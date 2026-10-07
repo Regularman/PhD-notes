@@ -21,9 +21,13 @@ The nodes and generators are from real data, but the graph network is generated 
 
 We can see that in the non-resilient case, which does not consider if a generator fails, then there is no influence on the customers added.
 - However in the resilient case, it requires increasing the weighting of the consumers to enable a new generator to be built
+
+![[Screenshot 2026-10-07 170213.png|175]]
 ## Limitations
 
-Reliability of a network is inherently dependent on its time coincident loading. Therefore, static simulation of the network cannot determine the network resilience during operation.
+Reliability of a network is inherently dependent on its time coincident loading. Therefore, static simulation of the network cannot determine the network resilience during operation. 
+
+The paper highlights that a new generator being built is never optimal. However, there are no other way to bring in new consumers to the district heating netowrk
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
