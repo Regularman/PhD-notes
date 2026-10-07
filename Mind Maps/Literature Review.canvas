@@ -165,14 +165,14 @@
 		{"id":"30ef62f20f72d359","type":"file","file":"PhD-notes/Literature Review/2025 - Impact of decarbonized heating sector at local scale on the national power grid.md","x":-5598,"y":-3530,"width":400,"height":130,"color":"6"},
 		{"id":"27fe4bf4279db28f","type":"file","file":"PhD-notes/Literature Review/2024 - Design of a high-temperature, power-constrained electrified district heating network with thermal storage and curtailed wind integration.md","x":-5598,"y":-3660,"width":400,"height":75,"color":"6"},
 		{"id":"2fc81064988bb6ca","type":"file","file":"PhD-notes/Literature Review/2017 - Integrated heat and power dispatch truly utilizing thermal inertia of district heating network for wind power integration.md","x":-5598,"y":-3800,"width":400,"height":105,"color":"6"},
-		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2986,"width":400,"height":95,"color":"6"},
 		{"id":"c5a3ec22066b3c61","type":"file","file":"PhD-notes/Literature Review/2018 - Optimal Design of der for Economic Environmental Sustainability of Local Energy Communities (LECs).md","x":-6558,"y":-3046,"width":400,"height":120,"color":"6"},
 		{"id":"562f6a7de3f72469","type":"file","file":"PhD-notes/Literature Review/2019 - Whole-System Assessment of the Benefits of Integrated Electricity and Heat System.md","x":-5598,"y":-3960,"width":400,"height":121,"color":"6"},
 		{"id":"7f6faf0b4d63c979","type":"file","file":"PhD-notes/Literature Review/2021 - Identification of key performance indicators and complimentary load profiles for 5th generation district energy networks.md","x":-6558,"y":-3585,"width":400,"height":136,"color":"6"},
 		{"id":"80be356a6a11e510","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md","x":-6758,"y":-1351,"width":400,"height":156,"color":"6"},
 		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1080,"width":400,"height":140,"color":"6"},
 		{"id":"effdc0d7da63bd3b","type":"text","text":"# ~={purple}Resilience and Reliability=~","x":-7008,"y":-2553,"width":250,"height":60,"color":"6"},
-		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md","x":-7488,"y":-2859,"width":400,"height":102,"color":"6"}
+		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md","x":-7488,"y":-2859,"width":400,"height":102,"color":"6"},
+		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2954,"width":400,"height":95,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
