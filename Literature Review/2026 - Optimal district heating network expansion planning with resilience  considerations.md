@@ -1,6 +1,5 @@
 
 https://www.sciencedirect.com/science/article/pii/S0360544226014568
-
 ## Contributions
 
 The objective is to determine the optimal set of routes and consumers to connect to the existing DHNs from a set of possible routes and consumers, whilse considering resilience.
@@ -8,15 +7,14 @@ The objective is to determine the optimal set of routes and consumers to connect
 
 The algorithm also chooses the customers **most profitable** for the DHN. This is done through an objective function that takes into account the new customer's load, the annualised capex of pipeline construction and generator construction.
 
-However, a network is defined as resilient is $$\text{Customer Demand}< \text{N-1 Generation in the network}$$This neglects the load profiles of the users and the fact that there may be TES in the network for load shifting, which contributes to reliability. Therefore, the paper does not address the question of how technology configuration can improve heating network resilience. Further, metrics such as LOLP or EENS would be a more appropriate metric for reliability relevant to an end user.
+However, a network is defined as resilient is $$\text{Customer Demand}< \text{N-1 Generation in the network}$$~={red}This neglects the load profiles of the users and the fact that there may be TES in the network for load shifting, which contributes to reliability. Therefore, the paper does not address the question of how technology configuration can improve heating network resilience. Further, metrics such as LOLP or EENS would be a more appropriate metric for reliability relevant to an end user.=~
 ## Content
 
 Represents the DHN through a graph representation, where each node has a mass flow rate attached to it based on its heat demand and required temperature difference 
 - $T_{consumer}=30K$
 - $T_{generator} = 35K$
 
-The nodes and 
-
+The nodes and generators are from real data, but the graph network is 
 #### Results
 ## Further Readings
 
