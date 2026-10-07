@@ -14,13 +14,11 @@ Represents the DHN through a graph representation, where each node has a mass fl
 - $T_{consumer}=30K$
 - $T_{generator} = 35K$
 
-The nodes and generators are from real data, but the graph network is 
+The nodes and generators are from real data, but the graph network is generated through the shortest path algorithm. 
 #### Results
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
 [13] also does this through a MILP approach rather than a graph approach
-
-
 
 [16] A MILP approach is used to optimise the operation and design of a DHN simultaneously?
