@@ -23,7 +23,7 @@ We can see that in the non-resilient case, which does not consider the
 
 ## Limitations
 
-Reliability of a network is inherently dependent on its time coincident loading 
+Reliability of a network is inherently dependent on its time coincident loading. Therefore, static simulation of the network cannot determine the network resilience during o
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
