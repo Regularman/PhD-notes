@@ -28,7 +28,7 @@ We can see that in the non-resilient case, which does not consider if a generato
 Reliability of a network is inherently dependent on its time coincident loading. Therefore, static simulation of the network cannot determine the network resilience during operation. 
 
 The paper highlights that a new generator being built is never optimal. However, there are no other way to bring in new consumers to the district heating network. The focus on transitioning end user load should be to decarbonise the heat supply. In order to do so, generations must be expanded to meet the new demands.
-- Most likely, this paper comes from the perspective of maximizing profits for a DH supplier, rather than optimization for sustianbility, which skews these system optimisation design choices.
+- Most likely, this paper comes from the perspective of maximizing profits for a DH supplier, rather than optimization for sustainability, which skews these system optimisation design choices.
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
