@@ -16,6 +16,10 @@ Represents the DHN through a graph representation, where each node has a mass fl
 
 The nodes and generators are from real data, but the graph network is generated through the shortest path algorithm. 
 #### Results
+
+![[Screenshot 2026-10-07 165634.png]]
+
+
 ## Further Readings
 
 [7] Price collecting Steiner trees, which selects consumers worth adding to the DHN based on node attributes
