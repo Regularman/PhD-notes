@@ -12,6 +12,10 @@ However, a network is defined as resilient is $$\text{Customer Demand}< \text{N-
 ## Content
 
 Represents the DHN through a graph representation, where each node has a mass flow rate attached to it based on its heat demand and required temperature difference 
+- $T_{consumer}=30K$
+- $T_{generator} = 35K$
+
+The nodes and 
 
 #### Results
 ## Further Readings
