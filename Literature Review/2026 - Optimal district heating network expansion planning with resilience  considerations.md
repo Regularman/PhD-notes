@@ -11,6 +11,8 @@ The algorithm also chooses the customers **most profitable** for the DHN. This i
 However, a network is defined as resilient is $$\text{Customer Demand}< \text{N-1 Generation in the network}$$This neglects the load profiles of the users and the fact that there may be TES in the network for load shifting, which contributes to reliability. Therefore, the paper does not address the question of how technology configuration can improve heating network resilience. Further, metrics such as LOLP or EENS would be a more appropriate metric for reliability relevant to an end user.
 ## Content
 
+Represents the DHN through a graph representation, where each node has a mass flow rate attached to it based on its heat demand and required temperature difference 
+
 #### Results
 ## Further Readings
 
