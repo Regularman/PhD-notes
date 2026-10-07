@@ -16,7 +16,7 @@
 		{"id":"a7ef96254e4145d4","type":"text","text":"# ~={purple} Design of Heating Networks=~\n","x":-6163,"y":-2440,"width":396,"height":62,"color":"6"},
 		{"id":"2352bd83f5699f28","type":"text","text":"# ~={purple}Modelling Techniques=~\n","x":-6435,"y":-2169,"width":314,"height":69,"color":"6"},
 		{"id":"378061b4620320ff","type":"text","text":"# ~={purple}Topography=~","x":-7008,"y":-2258,"width":250,"height":60,"color":"6"},
-		{"id":"65f3520a1cf42dcc","type":"file","file":"PhD-notes/Literature Review/2017 - Optimal Placement of A Heat Pump in An Integrated  Power and Heat Energy System.md","x":-7480,"y":-1989,"width":400,"height":133,"color":"6"},
+		{"id":"65f3520a1cf42dcc","type":"file","file":"PhD-notes/Literature Review/2017 - Optimal Placement of A Heat Pump in An Integrated  Power and Heat Energy System.md","x":-7480,"y":-2040,"width":400,"height":184,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1790,"width":400,"height":147,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1596,"width":400,"height":196,"color":"6"},
 		{"id":"85259a401937c2c4","type":"file","file":"PhD-notes/Literature Review/2021 - Life Cycle Assessment of District Heating Systems in Europe - Case Studies and Recommendations.md","x":-4678,"y":-2440,"width":400,"height":124,"color":"4"},
@@ -171,8 +171,8 @@
 		{"id":"7f6faf0b4d63c979","type":"file","file":"PhD-notes/Literature Review/2021 - Identification of key performance indicators and complimentary load profiles for 5th generation district energy networks.md","x":-6558,"y":-3585,"width":400,"height":136,"color":"6"},
 		{"id":"80be356a6a11e510","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md","x":-6758,"y":-1351,"width":400,"height":156,"color":"6"},
 		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1080,"width":400,"height":140,"color":"6"},
-		{"id":"effdc0d7da63bd3b","x":-7008,"y":-2553,"width":250,"height":60,"color":"6","type":"text","text":"# ~={purple}Resilience and Reliability=~"},
-		{"id":"59b5e723874e7923","x":-7488,"y":-2859,"width":400,"height":102,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md"}
+		{"id":"effdc0d7da63bd3b","type":"text","text":"# ~={purple}Resilience and Reliability=~","x":-7008,"y":-2553,"width":250,"height":60,"color":"6"},
+		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md","x":-7488,"y":-2859,"width":400,"height":102,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
