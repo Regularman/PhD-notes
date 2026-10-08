@@ -30,7 +30,7 @@ The radial heat network with two end substations was decomposed into subsystems 
 
 #### Results
 
-Finally, after validation, pipeline length, supply tempe
+Finally, after validation, pipeline length, supply temperature, thermal mass and insulation of buildings were investigated for their impact of the network flexibility.
 
 ## Limitations
 ## Further readings
