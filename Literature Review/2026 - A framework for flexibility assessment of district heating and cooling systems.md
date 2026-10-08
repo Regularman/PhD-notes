@@ -53,7 +53,7 @@ The study looks at 15 scenarios with unique energy demands, prices, regulatory m
 - Considers flexible electricity market in one of the scenarios, where prices are strictly non-negative due to other market participants
 - As the simulation is doen over 4 years, comparisons can be made of the system over the temporal dimension to identify how the flexibility evolves alongside system expansion and technology deployment. 
 
-These scenarios impact dispatch, rather than investment sca
+These scenarios impact dispatch, rather than investment scenarios.
 
 The proposed method is done for a small district in Trondheim, Norway
 - It is close to an existing DHC network, has the potential for borehole TES for seasonal storage, and can be charged by surplus heat from a nearby waste incineration facility.
