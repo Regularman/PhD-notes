@@ -172,7 +172,8 @@
 		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1080,"width":400,"height":140,"color":"6"},
 		{"id":"effdc0d7da63bd3b","type":"text","text":"# ~={purple}Resilience and Reliability=~","x":-7008,"y":-2553,"width":250,"height":60,"color":"6"},
 		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience  considerations.md","x":-7488,"y":-2859,"width":400,"height":102,"color":"6"},
-		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2954,"width":400,"height":95,"color":"6"}
+		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2954,"width":400,"height":95,"color":"6"},
+		{"id":"d6fc08f23ca58b75","x":-6558,"y":-3730,"width":400,"height":108,"color":"6","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -337,6 +338,7 @@
 		{"id":"f69b78a740e99b56","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"562f6a7de3f72469","toSide":"left"},
 		{"id":"e4c09bbe863004a3","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"7f6faf0b4d63c979","toSide":"right"},
 		{"id":"a51ac547313964d7","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"59b5e723874e7923","toSide":"right"},
-		{"id":"740686daa694f0eb","fromNode":"a7ef96254e4145d4","fromSide":"left","toNode":"effdc0d7da63bd3b","toSide":"right"}
+		{"id":"740686daa694f0eb","fromNode":"a7ef96254e4145d4","fromSide":"left","toNode":"effdc0d7da63bd3b","toSide":"right"},
+		{"id":"79c6eb7e4b05ce06","fromNode":"a7ef96254e4145d4","fromSide":"top","toNode":"d6fc08f23ca58b75","toSide":"right"}
 	]
 }
