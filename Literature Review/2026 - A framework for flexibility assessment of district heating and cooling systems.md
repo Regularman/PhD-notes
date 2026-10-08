@@ -59,7 +59,7 @@ The proposed method is done for a small district in Trondheim, Norway
 - It is close to an existing DHC network, has the potential for borehole TES for seasonal storage, and can be charged by surplus heat from a nearby waste incineration facility.
 ## Results
 
-
+In the base reference scenario, the system is not able to shift peak demand, achieve a Peak Load A
 ## Limitation
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
