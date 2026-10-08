@@ -73,6 +73,6 @@ The author highlights that the framework thresholds (benchmark values for the me
 
 Hourly simulation resolution mean that it excludes sub hour ancillary services
 
-Ultimately, . Additionally, applying the framework across diverse geographic and regulatory contexts would enhance understanding of how local conditions influence flexibility provision capabilities, providing an empirical basis for validating and refining the proposed benchmark categories.
+Additionally, applying the framework across diverse geographic and regulatory contexts would enhance understanding of how local conditions influence flexibility provision capabilities, providing an empirical basis for validating and refining the proposed benchmark categories.
 
 
