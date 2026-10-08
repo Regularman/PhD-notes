@@ -62,6 +62,9 @@ The proposed method is done for a small district in Trondheim, Norway
 In the base reference scenario, the system is not able to shift peak demand, achieve a Peak Load Adjustment of 0%. This indicates temporal mismatch between the thermal demand and price peaks.
 
 Sporadic operation of the cooling subsystem leads toa  TGUR of 8.6%. Comparatively, heating operates at 49.52% indicating sufficient flexibility for upwards and downwards demand response.
+
+Further, the paper does cross scenario comparison for the 2030 cases in high electricity prices, and climate varied scenarios.
+- The flexibility indicators reveal stability across scenarios
 ## Limitation
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
