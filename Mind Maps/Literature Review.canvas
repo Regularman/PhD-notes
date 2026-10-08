@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a118aaa5c90c6247","x":-6847,"y":-3742,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md"},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *~={red}Hass Case Studies*=~","x":-1665,"y":-1487,"width":302,"height":62,"color":"1"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *~={yellow}Economic modelling and feasibility of low carbon heat=~*","x":-1971,"y":-1102,"width":353,"height":109,"color":"3"},
