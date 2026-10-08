@@ -22,10 +22,12 @@ Flexibility is described as the gap between actual generation by the system the 
 The ability of the heat producer to meet flexibility targets is affected by 
 - lower and upper bound of the heat producer output $$\underline{Q_h}\le Q_h\le \bar{Q_h}$$
 - heating network temperature, which should be kept within lower and upper limits. $$\underline{T_f}\le T_f\le \bar{T_f}$$
-- Building temperature lower and upper limits
+- Building temperature lower and upper limits $$\underline{T_b}\le T_b\le \bar{T_b}$$
 - transport delays, where extra or shortage of heat will appear in another period.
 
-## Limitat
+The radial heat network with two end substations was decomposed into subsystems of single producer, single consumer networks, super imposed with hydraulic and operational details from the real DHS.
+
+## Limitations
 ## Further readings
 
 [22] Region based method to estimate the flexibility of DHS
