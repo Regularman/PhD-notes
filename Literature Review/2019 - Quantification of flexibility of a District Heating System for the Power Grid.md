@@ -16,7 +16,7 @@ The main contributions of this paper is that
 Examines, in this study, a DHS with a radial structure. There is only one heat producing unit (CHP that link the power grid to the heating network) in this study
 ## Content
 
-Flexibility is described as the gap between actual generation by the system the demand which can be filled through either grid import or export.
+Flexibility is described as the gap between actual generation by the system the demand which can be filled through either grid import or export, and the duration for which this can be held for before any of the constraints below are violated.
 - Different flexibility market differ in duration and ramp time (designing HPNs for different flexibility markets)
 
 The ability of the heat producer to meet flexibility targets is affected by 
