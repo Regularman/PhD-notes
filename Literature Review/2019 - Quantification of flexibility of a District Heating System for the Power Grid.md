@@ -34,6 +34,8 @@ Finally, after validation, pipeline length, supply temperature, thermal mass and
 ![[Screenshot 2026-10-08 144045.png]]
 
 One thing of note that is that the the upwards and downward flexibility have different mechanism governing its capacity depending on the operating condition (which is not really clearly stepped out in this study)
+
+- The mechanisms are governed, for example, by mass flow rates in the heating network, which causes the network to heat up or cool down at different rates.
 ## Limitations
 ## Further readings
 
