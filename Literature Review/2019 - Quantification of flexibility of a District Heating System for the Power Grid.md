@@ -37,6 +37,8 @@ One thing of note that is that the the upwards and downward flexibility have dif
 
 - The mechanisms are governed, for example, by mass flow rates in the heating network, which causes the network to heat up or cool down at different rates.
 ## Limitations
+
+The study is only valid for a single producer radial heating network. And does not consider more complex meshed networks with multiple pro
 ## Further readings
 
 [22] Region based method to estimate the flexibility of DHS
