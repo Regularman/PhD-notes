@@ -51,7 +51,7 @@ Measures the total charging and discharging activity relative to the maximum pos
 The study looks at 15 scenarios with unique energy demands, prices, regulatory measures.
 - One of these variables is hotter summers 
 - Considers flexible electricity market in one of the scenarios, where prices are strictly non-negative due to other market participants
-- As the simulation is doen over 4 years, comparisons can be made of the system over the temporal dimension to identify how the flexibility evolves alongside system expansion and technology deployment. 
+- As the simulation is done over 4 years, comparisons can be made of the system over the temporal dimension to identify how the flexibility evolves alongside system expansion and technology deployment. 
 
 These scenarios impact dispatch, rather than investment scenarios.
 
