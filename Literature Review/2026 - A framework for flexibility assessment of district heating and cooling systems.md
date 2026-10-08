@@ -65,12 +65,14 @@ Sporadic operation of the cooling subsystem leads toa  TGUR of 8.6%. Comparative
 
 Further, the paper does cross scenario comparison for the 2030 cases in high electricity prices, and climate varied scenarios.
 - The flexibility indicators reveal stability across scenarios. Therefore, more extreme scenarios should be applied to understand the limit of flexibility?
-- Further, the a
+- Further, the inability of additional regulatory settings to impact the carbon emission intensity indicates that current policies are insufficient is incentivising deeper decarbonisation beyond what is done through electrification
 ## Limitation
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
 - Again, the paper does not attempt to relate network characteristics to performance metrics
 
 Hourly simulation resolution mean that it excludes sub hour ancillary services
+
+Ultimately, . Additionally, applying the framework across diverse geographic and regulatory contexts would enhance understanding of how local conditions influence flexibility provision capabilities, providing an empirical basis for validating and refining the proposed benchmark categories.
 
 
