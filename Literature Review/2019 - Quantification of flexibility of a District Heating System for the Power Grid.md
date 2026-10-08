@@ -20,7 +20,7 @@ Flexibility is described as the gap between actual generation by the system the 
 - Different flexibility market differ in duration and ramp time (designing HPNs for different flexibility markets)
 
 The ability of the heat producer to meet flexibility targets is affected by 
-- lower and upper bound of the heat producer output
+- lower and upper bound of the heat producer output $$\underb$$
 - heating network temperature, which should be kept within lower and upper limits.
 - Building temperature lower and upper limits
 - transport delays, where extra or shortage of heat will appear in another period.
