@@ -59,7 +59,9 @@ The proposed method is done for a small district in Trondheim, Norway
 - It is close to an existing DHC network, has the potential for borehole TES for seasonal storage, and can be charged by surplus heat from a nearby waste incineration facility.
 ## Results
 
-In the base reference scenario, the system is not able to shift peak demand, achieve a Peak Load A
+In the base reference scenario, the system is not able to shift peak demand, achieve a Peak Load Adjustment of 0%. This indicates temporal mismatch between the thermal demand and price peaks.
+
+Sporadic operation of the cooling subsystem leads toa  TGUR of 8.6%. Comparatively, heating operates at 49.52% indicating sufficient flexibilityt
 ## Limitation
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
