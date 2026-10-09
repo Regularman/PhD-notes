@@ -6,6 +6,5 @@ Considers how the capacity of installed P2H technologies and its siting (relativ
 
 The metrics used in this paper is the Loss of Load Probability, Expected Energy not Supplied, and Self-Sufficiency rate, which are normalised into a composite Reliability Index, used as a one stop shop to assess the reliability of a network.
 
-A case study is done on a South Korean t
-
+A case study is done on a South Korean university campus. However, the results are not validated, and it is not understood if the designed network is actually more reliable.
 ## Content
