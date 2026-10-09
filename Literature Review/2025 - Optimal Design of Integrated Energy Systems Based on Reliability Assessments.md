@@ -11,4 +11,7 @@ A case study is done on a South Korean university campus. However, the results a
 
 Reliability is modelled by running sequential Monte Carlo simulation for alternative siting/sizing scenarios. These MC simulated results are aggregated into resulting indices into the CRI for comparative assessment.
 
+![[Screenshot 2026-10-09 185935.png]]
+![[Screenshot 2026-10-09 190038.png]]
+The Monte Carlo 
 - Each the 
