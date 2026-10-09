@@ -16,7 +16,9 @@ Reliability is modelled by running sequential Monte Carlo simulation for alterna
 The Monte Carlo simulation varies the capacities of the technologies and location of the heat DERs to investigate the given reliability metrics, which are aggregated over $S$ Monte Carlo runs.
 - Each piece of equipment has its own failure data, which is then used to inform the reliability metrics in the Monte Carlo simulations.
 
-Overall, study highlights that reinforcing thermal resources at the loads where the heat loads concentrate can drive LOLP_t to practically
+Overall, study highlights that reinforcing thermal resources at the loads where the heat loads concentrate can drive LOLP_t to practically $0$,
+
+Further, increasing the capacities of the thermal resources (TES and CHP), reduces the LOLP-t
 ## Limitations
 
 However, the limitations of this study is that there are limited design decisions that affects the reliability metric. 
