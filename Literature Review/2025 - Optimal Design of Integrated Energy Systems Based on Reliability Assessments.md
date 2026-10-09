@@ -13,5 +13,6 @@ Reliability is modelled by running sequential Monte Carlo simulation for alterna
 
 ![[Screenshot 2026-10-09 185935.png]]
 ![[Screenshot 2026-10-09 190038.png]]
-The Monte Carlo 
+The Monte Carlo simulation varies the capacities of the technologies and location of the heat DERs to investigate the given reliability metrics, which are aggregated over $S$ Monte Carlo runs.
+- Each 
 - Each the 
