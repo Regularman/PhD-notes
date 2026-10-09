@@ -9,4 +9,4 @@ The metrics used in this paper is the Loss of Load Probability, Expected Energy 
 A case study is done on a South Korean university campus. However, the results are not validated, and it is not understood if the designed network is actually more reliable.
 ## Content
 
-Reliability is modelled through
+Reliability is modelled by running sequential Monte Carlo simulation for alternaitve siting/sizing scenarios. These MC simulated results are aggregated into resulting indices into the CRI for comparative assessment=.
