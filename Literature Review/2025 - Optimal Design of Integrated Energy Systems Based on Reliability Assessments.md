@@ -12,7 +12,7 @@ A case study is done on a South Korean university campus. However, the results a
 Reliability is modelled by running sequential Monte Carlo simulation for alternative siting/sizing scenarios. These MC simulated results are aggregated into resulting indices into the CRI for comparative assessment.
 
 ![[Screenshot 2026-10-09 185935.png]]
-![[Screenshot 2026-10-09 190038.png]]
+![[Screenshot 2026-10-09 190038.png|637]]
 The Monte Carlo simulation varies the capacities of the technologies and location of the heat DERs to investigate the given reliability metrics, which are aggregated over $S$ Monte Carlo runs.
 - Each piece of equipment has its own failure data, which is then used to inform the reliability metrics in the Monte Carlo simulations.
 
