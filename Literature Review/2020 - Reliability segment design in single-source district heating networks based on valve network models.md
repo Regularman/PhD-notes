@@ -14,3 +14,5 @@ Did not consider the failure of more than one component simultaneously. However,
 - How does implementation of TES insulate heating networks from outages?
 
 The pipes also only have two states: intact or faulty. Does not consider where pipes are under maintenance.
+
+Further, the analysis only c
