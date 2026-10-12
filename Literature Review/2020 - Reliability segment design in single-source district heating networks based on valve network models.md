@@ -20,7 +20,6 @@ Further, the analysis only considers single source branched or pipe networks, an
 
 
 ![[Screenshot 2026-10-13 104839.png]]
-- They also study the non-monotonic incease and decrease of load from the source
-- 
+- They also study the non-monotonic increase and decrease of load from the source
 
-![[Screenshot 2026-10-13 104839.png]]
+![[Screenshot 2026-10-13 105216.png]]
