@@ -4,7 +4,7 @@ https://www.sciencedirect.com/science/article/pii/S2210670720306831
 
 DHN reliability is defines as the ratio of the heating expectation of the actual system to the ideal system heat load,
 
-There is a trade off between the number of 
+There is a trade off between the number of valves (which restricts the area of the heat zone failure) and the reliability of the network, as the valves are a source of failure in itself.
 ## Content
 
 ## Limitations
