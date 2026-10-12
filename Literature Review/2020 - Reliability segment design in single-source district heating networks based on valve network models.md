@@ -9,3 +9,5 @@ https://www.sciencedirect.com/science/article/pii/S2210670720306831
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
 
 - How does implementation of TES insulate heating networks from outages?
+
+The pipes also only have two states: intact or faulty. Does not consider where pipes are under maintenance.
