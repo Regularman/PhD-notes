@@ -9,7 +9,7 @@ There is a trade off between the number of valves (which restricts the area of t
 
 Note that as the heat load is split up into reliability segments, the total load $Q$ is irrelevant to the reliability metrics.![[Screenshot 2026-10-13 105433.png]]
 
-Also investigated the effects of loading distribution on looped networks and found that extreme linear distributions of $q_i$ and $l_i$ slightly improves reliability. However, the nonlinearity degree of 
+Also investigated the effects of loading distribution on looped networks and found that extreme linear distributions of $q_i$ and $l_i$ slightly improves reliability. However, the nonlinearity degree of pipeline models is irrelevant and not considered in thsi study.
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
