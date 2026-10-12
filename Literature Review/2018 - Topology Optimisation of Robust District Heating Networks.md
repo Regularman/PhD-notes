@@ -19,7 +19,8 @@ The system considered in this work is a portion of the Turin district heating ne
 #### Systematically reducing the cost constraint
 ![[Screenshot 2026-10-13 081701.png]]
 
-- A 200k euros investment increases robustness by 29.3%. The optimised topology with 
+- A 200k euros investment increases robustness by 29.3%. The optimised topology with (20,40,60,80,100,200) k euros of investment saw (2,5,11,13,17,19) looping branches respectively
+- In higher investment levels, (>200k euros), only modifications to the branch diameters are observed, leading to marginal improvements in robustness.
 ## Limitations
 
 - Expects agreement with conventional robust or reliability based design approaches dealing with uniformly distributed and tightly bounded stochastic variables with a linear objective noise relation. When the variability in friction is large, $P_{min}$ may scale sublinearly and the method will underestimate the failure region.
