@@ -7,7 +7,10 @@ DHN reliability is defines as the ratio of the heating expectation of the actual
 There is a trade off between the number of valves (which restricts the area of the heat zone failure) and the reliability of the network, as the valves are a source of failure in itself.
 ## Content
 
-Note that as the heat load is split up into reliability segments, the total load $Q$ is irrelevant to the reliability metrics.
+Note that as the heat load is split up into reliability segments, the total load $Q$ is irrelevant to the reliability metrics.![[Screenshot 2026-10-13 105433.png]]
+
+
+Also investigated the 
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
