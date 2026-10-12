@@ -14,7 +14,8 @@ The robustness of the district heating network is inversely proportional to inve
 ## Results
 ![[Screenshot 2026-10-12 153852.png]]
 
-The system considered in this work is a portion of the Turin district heating network that delivers power through 231 branches to 110 closely located buildings. The total thermal profile is 17.6MW, but the study does no
+The system considered in this work is a portion of the Turin district heating network that delivers power through 231 branches to 110 closely located buildings. The total thermal profile is 17.6MW, but the study does not look at the load profiles of each of the nodes.
+- mass flow rate of $82.7 \frac{kg}{s}$ at 6.5 bar, which is extracted by the users on the user nodes
 ## Limitations
 
 - Expects agreement with conventional robust or reliability based design approaches dealing with uniformly distributed and tightly bounded stochastic variables with a linear objective noise relation. When the variability in friction is large, $P_{min}$ may scale sublinearly and the method will underestimate the failure region.
