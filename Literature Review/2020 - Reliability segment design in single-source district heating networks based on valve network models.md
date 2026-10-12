@@ -5,11 +5,13 @@ https://www.sciencedirect.com/science/article/pii/S2210670720306831
 DHN reliability is defines as the ratio of the heating expectation of the actual system to the ideal system heat load,
 
 There is a trade off between the number of valves (which restricts the area of the heat zone failure) and the reliability of the network, as the valves are a source of failure in itself.
+
+Case study is conducted on 
 ## Content
 
 Note that as the heat load is split up into reliability segments, the total load $Q$ is irrelevant to the reliability metrics.![[Screenshot 2026-10-13 105433.png]]
 
-Also investigated the effects of loading distribution on looped networks and found that extreme linear distributions of $q_i$ and $l_i$ slightly improves reliability. However, the nonlinearity degree of pipeline models is irrelevant and not considered in thsi study.
+Also investigated the effects of loading distribution on looped networks and found that extreme linear distributions of $q_i$ and $l_i$ slightly improves reliability. However, the nonlinearity degree of pipeline models is irrelevant and not considered in this study.
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
