@@ -15,4 +15,5 @@ Did not consider the failure of more than one component simultaneously. However,
 
 The pipes also only have two states: intact or faulty. Does not consider where pipes are under maintenance.
 
-Further, the analysis only c
+Further, the analysis only considers single source branched or pipe networks, and does not investigate how multiple source and variation of loads will affect heating network availability.
+- Assumes that th
