@@ -25,6 +25,7 @@ The system considered in this work is a portion of the Turin district heating ne
 In some pressure hotspots, the pressure drop reduction is is not achievable to due to poorly designed end user branches where no looping is available.
 ## Limitations
 
-- Expects agreement with conventional robust or reliability based design approaches dealing with uniformly distributed and tightly bounded stochastic variables with a linear objective noise relation. When the variability in friction is large, $P_{min}$ may scale sublinearly and the method will underestimate the failure region.
+- Expects agreement with conventional robust or reliability based design approaches dealing with uniformly distributed and tightly bounded stochastic variables with a linear objective noise relation. When the variability in friction is large, $P_{min}$ may scale sub-linearly and the method will underestimate the failure region.
 
+- Robustness is not related to end user experience and ability to receive heat.
 ## Further Readings
