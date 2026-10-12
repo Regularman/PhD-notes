@@ -16,6 +16,6 @@ Did not consider the failure of more than one component simultaneously. However,
 The pipes also only have two states: intact or faulty. Does not consider where pipes are under maintenance.
 
 Further, the analysis only considers single source branched or pipe networks, and does not investigate how multiple source and variation of loads will affect heating network availability.
-- Assumes that the loads and length of the network fits a linear function, which isn't reflective of reality.
+- Assumes that the loads and length of the network fits a linear function, which isn't reflective of reality. By changing a and b, which are the linear coefficients of these functions, the steepness of load and length from the source can be investigated. However, this is only applicable to single source networks.
 
 ![[Screenshot 2026-10-13 104839.png]]
