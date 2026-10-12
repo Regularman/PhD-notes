@@ -3,6 +3,8 @@ https://www.sciencedirect.com/science/article/pii/S2210670720306831
 ## Contributions
 
 DHN reliability is defines as the ratio of the heating expectation of the actual system to the ideal system heat load,
+
+There is a trade off between the number of 
 ## Content
 
 ## Limitations
