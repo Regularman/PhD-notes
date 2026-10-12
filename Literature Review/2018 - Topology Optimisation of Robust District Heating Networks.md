@@ -4,7 +4,7 @@ https://asmedigitalcollection.asme.org/energyresources/article/140/2/020905/3724
 
 In this paper, robustness is a weighted sum of first-order minimum pressure sensitivities to a fluid dynamics resistance noise.
 - Optimisation is performed with a gradient based optimiser
-- Proposes a method to evaluate robustness without evaluating the bounds of stochastic variables and does not r
+- Proposes a method to evaluate robustness without evaluating the bounds of stochastic variables and does not require any detailed probability characterisation
 
 In robust district heating networks, the minimum pressure head is affected by random fluctuations of the local fluid dynamic resistance, as a result of fouling, chemical depositions or valve actions needed to handle malfunctions. The objective function is $$\sum^{nb}_{i=1}\frac{d(P_{min})}{d\beta_i}w_i$$where $\beta_i$ is the sum of the local friction sources of the pipe, $P$ is the pressure vector across the pipe. The partial fraction describes change in pressure with change in local friction. This robustness metric is fully deterministic and does not rely on statistical moments
 ## Content
