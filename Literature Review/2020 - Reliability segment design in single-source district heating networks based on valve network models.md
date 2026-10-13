@@ -42,4 +42,4 @@ Further, the analysis only considers single source branched or pipe networks, an
 
 ![[Screenshot 2026-10-13 105216.png]]
 
-With reliability, businesses ca
+With reliability, businesses care about it because of profitability. Reliability analysis will also be different in a peer to peer network compared to a single source network.
