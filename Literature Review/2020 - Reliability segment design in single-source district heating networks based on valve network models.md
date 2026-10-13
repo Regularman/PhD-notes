@@ -25,7 +25,9 @@ Comparatively, we can also look at a looped network, which have higher reliabili
 
 ![[Screenshot 2026-10-13 112157.png]]![[Screenshot 2026-10-13 112206.png]]
 
-The design 
+The design rule derived for looped network is 
+
+- Rule 2: More heat loads should be concentrated as much as possible within shorter reliability segments through the adjustment of valves.
 #### Changing $a$ and $b$, the steepness of linear variation of $q_i$ and $l_i$ on the branched network
 
 The value of $a$ and $b$ were varies int he range $[-0.66, 0.66]$, forming a reliability surface when $L$ and $v$ is fixed.![[Screenshot 2026-10-13 110946.png]]
