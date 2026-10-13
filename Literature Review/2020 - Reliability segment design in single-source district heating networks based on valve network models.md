@@ -69,6 +69,8 @@ Compared two schemas
 Schema 1: decreasing trend distribution for heat load and length is uniform. Reliability is 0.91
 Schema 2: Both heat load and length is decreasing. Reliability is 0.89
 Schema 3: Heat load and length of the reliability segment increases. Reliability is 0.88![[Screenshot 2026-10-13 114113.png]]
+
+Ultimately, when combined and integrated, the use of the two design rules improves reliability by 5.6-9.2% after Rule 1 and 2 are proposed.
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
