@@ -46,6 +46,10 @@ Therefore, the design rule is that
 ![[Screenshot 2026-10-13 112615.png]]
 
 This is the reliability surface for the looped network. $\Delta R_L = 0.07$ maximally. This is because of the looped nature of the network already having inbuilt robustness and the distribution of heat load only acts as a buffer.
+
+## Simulation and results
+
+It is shown that a complex heating network can be decomposed into the looped or branched networks.![[Screenshot 2026-10-13 113124.png]]
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
