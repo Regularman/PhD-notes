@@ -42,6 +42,10 @@ Therefore, the design rule is that
 - The valves aiming to improve reliability should be set at the heat outflow side of the node-connected branches, so as to ensure the reliability segment on the upstream side of each valve contains more heat loads and fewer components.
 
 ~={red}However, as other papers on the reliability of electricity network highlights, centralisation of heat loads increases the risk of congestion on the power grid.=~
+
+![[Screenshot 2026-10-13 112615.png]]
+
+This is the reliability surface for the looped network. $
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
