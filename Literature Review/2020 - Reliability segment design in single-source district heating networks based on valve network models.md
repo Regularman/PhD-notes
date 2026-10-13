@@ -14,6 +14,12 @@ Note that as the heat load is split up into reliability segments, the total load
 Also investigated the effects of loading distribution on looped networks and found that extreme linear distributions of $q_i$ and $l_i$ slightly improves reliability. However, the nonlinearity degree of pipeline models is irrelevant and not considered in this study.
 
 #### Changing the length of the network
+
+![[Screenshot 2026-10-13 110053.png]]
+
+![[Screenshot 2026-10-13 110109.png]]
+
+Here we can see that the total leng
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
