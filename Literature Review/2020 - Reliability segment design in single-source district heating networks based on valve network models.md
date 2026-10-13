@@ -27,6 +27,11 @@ The value of $a$ and $b$ were varies int he range $[-0.66, 0.66]$, forming a rel
 It was shown that $\Delta R_a = 0.16$ and $\Delta R_b = 0.14$. Therefore, the influence of heating load distribution is higher than the length of the branch network. Further, in the figure below, it can be seen that the concavity of network distribution has nothing to with the reliability (varies very little). It only matter that the distribution is decreasing for load and increasing for distance.
 
 ![[Screenshot 2026-10-13 111452.png]]
+
+Therefore, the design rule is that 
+
+- Priority should be given to the decreasing distribution of the reliability segments’ heat loads from the heat source to the end of the pipeline.
+- The valves aiming to improve reliability should be set at the heat outflow side of the node-connected branches, so as to ensure the reliability segment on the upstream side of each valve contains more heat loads and fewer components
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
