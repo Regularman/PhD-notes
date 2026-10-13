@@ -59,8 +59,10 @@ It is shown that a complex heating network can be decomposed into the looped or 
 #### Design optimisation of the looped network
 
 Compared two schemas
-1. Used design rule for looped network and kept heat load high where reliability segment is shorter and vice verse
-2. Contradicted design rule and showe
+1. Used design rule for looped network and kept heat load high where reliability segment is shorter and vice verse. Achieved reliability of 96%.
+2. Contradicted design rule and kept heat load low where reliability segment is low. Achieved reliability of 92%.
+
+![[Screenshot 2026-10-13 113831.png]]
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
