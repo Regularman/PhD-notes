@@ -2,7 +2,7 @@
 https://www.sciencedirect.com/science/article/pii/S0360544226014568
 ## Contributions
 
-The objective is to determine the optimal set of routes and consumers to connect to the existing DHNs from a set of possible routes and consumers, whilse considering resilience.
+The objective is to determine the optimal set of routes and consumers to connect to the existing DHNs from a set of possible routes and consumers, whilst considering resilience.
 - The definition of resilience is that the failure of a generation unit does not affect a DHN's heat supply. The generator that is switched off is the most risky one (i.e. the largest one)
 
 The algorithm also chooses the customers **most profitable** for the DHN. This is done through an objective function that takes into account the new customer's load, the annualised capex of pipeline construction and generator construction.
