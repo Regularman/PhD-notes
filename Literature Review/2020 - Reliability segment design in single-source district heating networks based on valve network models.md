@@ -45,7 +45,7 @@ Therefore, the design rule is that
 
 ![[Screenshot 2026-10-13 112615.png]]
 
-This is the reliability surface for the looped network. $
+This is the reliability surface for the looped network. $\Delta R_L = 0.07$ maximally. This is because of the looped nature of the network already having inbuilt robustness and the distribution of heat load only acts as a buffer.
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
