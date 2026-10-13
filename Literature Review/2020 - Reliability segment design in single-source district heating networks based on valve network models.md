@@ -49,7 +49,12 @@ This is the reliability surface for the looped network. $\Delta R_L = 0.07$ maxi
 
 ## Simulation and results
 
-It is shown that a complex heating network can be decomposed into the looped or branched networks.![[Screenshot 2026-10-13 113124.png]]
+It is shown that a complex heating network can be decomposed into the looped or branched networks, which allows the previous design rule to be investigated in this case study. The following heat network in China was decomposed into 
+- 1 L1 main loop
+- 6 B2 branches lines
+- 2 B3 branches lines, and 
+- 24 B4 branched lines
+![[Screenshot 2026-10-13 113124.png]]
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
