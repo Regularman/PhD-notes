@@ -22,7 +22,7 @@ Also investigated the effects of loading distribution on looped networks and fou
 Here we can see that the total length of the network will decrease the reliability, and that increasing the number of reliability segments have diminishing returns, due to the tradeoff between reliability and segmentation as mentioned earlier in the paper.
 #### Changing $a$ and $b$, the steepness of linear variation of $q_i$ and $l_i$ on the branched network
 
-The value of $a$ and $b$ were varies int he range $[-0.66, 0.66]$, 
+The value of $a$ and $b$ were varies int he range $[-0.66, 0.66]$, forming a reliability surface when $L$ and $v$ is fixed.
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
