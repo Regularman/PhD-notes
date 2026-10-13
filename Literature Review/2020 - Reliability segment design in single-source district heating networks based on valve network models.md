@@ -63,6 +63,10 @@ Compared two schemas
 2. Contradicted design rule and kept heat load low where reliability segment is low. Achieved reliability of 92%.
 
 ![[Screenshot 2026-10-13 113831.png]]
+
+#### Design optimisation of branched lines
+
+Schema 1: decreasing trnad distribution for heat load and length is un
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
