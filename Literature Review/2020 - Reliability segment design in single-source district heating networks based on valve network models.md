@@ -31,7 +31,9 @@ It was shown that $\Delta R_a = 0.16$ and $\Delta R_b = 0.14$. Therefore, the in
 Therefore, the design rule is that 
 
 - Priority should be given to the decreasing distribution of the reliability segments’ heat loads from the heat source to the end of the pipeline.
-- The valves aiming to improve reliability should be set at the heat outflow side of the node-connected branches, so as to ensure the reliability segment on the upstream side of each valve contains more heat loads and fewer components
+- The valves aiming to improve reliability should be set at the heat outflow side of the node-connected branches, so as to ensure the reliability segment on the upstream side of each valve contains more heat loads and fewer components.
+
+~={red}However, as other papers on the reliability of electricity network highlights, centralisation of heat loads increases the risk of congestion on the power grid.=~
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
