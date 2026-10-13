@@ -24,7 +24,7 @@ Here we can see that the total length of the network will decrease the reliabili
 
 The value of $a$ and $b$ were varies int he range $[-0.66, 0.66]$, forming a reliability surface when $L$ and $v$ is fixed.![[Screenshot 2026-10-13 110946.png]]
 
-It was shown that $\Delta R_a = 0.16$ and $\Delta R_b = 0.14$. 
+It was shown that $\Delta R_a = 0.16$ and $\Delta R_b = 0.14$. Therefore, the influence of ![[Screenshot 2026-10-13 111452.png]]
 ## Limitations
 
 Did not consider the failure of more than one component simultaneously. However, the number of permutations of outages will increase the probability of these lower chance events through markov modelling.
