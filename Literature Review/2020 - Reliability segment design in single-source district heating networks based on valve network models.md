@@ -21,7 +21,7 @@ Also investigated the effects of loading distribution on looped networks and fou
 
 Here we can see that the total length of the network will decrease the reliability, and that increasing the number of reliability segments have diminishing returns, due to the tradeoff between reliability and segmentation as mentioned earlier in the paper. 
 
-Comparatively, we can also look at a looped network, which have higher reliability due to inbuilt 
+Comparatively, we can also look at a looped network, which have higher reliability due to inbuilt structural reservations. Further, there is not decline zone in increasing the reliability segments due to the 
 
 ![[Screenshot 2026-10-13 112157.png]]![[Screenshot 2026-10-13 112206.png]]
 #### Changing $a$ and $b$, the steepness of linear variation of $q_i$ and $l_i$ on the branched network
