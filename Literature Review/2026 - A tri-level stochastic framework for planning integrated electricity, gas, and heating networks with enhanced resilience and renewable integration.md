@@ -26,7 +26,7 @@ Aims to reduce the discounted sum of all relevant costs over the planning horizo
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
 
-The paper imposes another restricting condition, which is the geographic diversification on generation expansion to impose a minimum amount of local generation at each zone with respect to its load to prevent too much spatial concentration of capacity. This may not reflect initiatives such as the RE
+The paper imposes another restricting condition, which is the geographic diversification on generation expansion to impose a minimum amount of local generation at each zone with respect to its load to prevent too much spatial concentration of capacity. This may not reflect initiatives such as the REZs in the NEM.
 
 ## Further Readings 
 
