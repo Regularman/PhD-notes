@@ -58,7 +58,7 @@ Further, in operation optimisation, the equation ensures that there is enough up
 
 The study also guaranteed a minimum resilience level, restricting the overall resilience index of the system to ensure that it is never lower than some prescribed acceptable level in any disruption scenatio.
 
-The resilience cost used to interconnect variables is only based on electrical curtailments, broken down into hourly resolutions. $$R_w= p(failure)\times\sum \text{curtailed load}\times \text{cost of curtailed load} + \sum $$
+The resilience cost used to interconnect variables is only based on electrical curtailments, broken down into hourly resolutions. $$R_w= p(failure)\times\sum \text{curtailed load}\times C_{curtail} + \sum \text{criticality weight of asset}\times C_{resil}$$
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
