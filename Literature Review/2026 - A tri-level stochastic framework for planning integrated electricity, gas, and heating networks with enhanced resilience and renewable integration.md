@@ -26,6 +26,13 @@ Aims to reduce the discounted sum of all relevant costs over the planning horizo
 #### Operational optimisation model
 
 Optimises generation dispatch, network flows, and storage in all operational scenarios, seasons of the year and representative hours. The objective function minimises total system cost of operation.
+
+#### Resilience optimisation
+
+The reliability criteria used is 
+- Disrupted energy
+- Switching and black start procedures
+- 
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
