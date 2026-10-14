@@ -16,4 +16,6 @@ Also compares their integrated hierarchal method with the sequential method to s
 Additionally, the study also acknowledges
 ## Content
 
-## Further Readinfs 
+## Further Readings 
+
+[7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
