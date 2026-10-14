@@ -34,7 +34,10 @@ The reliability criteria used is
 - Switching and black start procedures
 - Ability to recover CRITICAL areas
 
-The algorithm finds the lowest cost way to recover capacity after system disturbance. The cost of disturbance events are weighted by their probabilities.
+The algorithm finds the lowest cost way to recover capacity after system disturbance. The cost of disturbance events are weighted by their probabilities. The costs associated with system restarts are 
+- electrical, gas, and heating load curtailment penalties
+- Network switching and reconfiguration costs per energy carrier, 
+- Black start costs for
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
