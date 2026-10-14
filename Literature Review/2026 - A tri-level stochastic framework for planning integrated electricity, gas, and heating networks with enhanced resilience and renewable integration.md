@@ -8,7 +8,7 @@ The are three levels to the optimisation hierarchy proposed in this paper
 3. The lower level deals with the maximum load restoration in N-k contingencies by a quantitative resiliency measure
 The tri-level hierarchal approach is interesting. Standard analysis that combines operation and resilience makes economically inefficient decisions as it assumes that the system is always under duress. Systems that are operated with resilience as an ad-hoc metric is blind to the operational state (generator commitment and storage SOC).
 
-Resilience is defined in equation 3s as $$\phi^{resil}_{t, dis, op}=]sum$$
+Resilience is defined in equation 3s as $$\phi^{resil}_{t, dis, op}=\frac{\sum \text{zone criticality factor} \times \text{load restored}}{\sum \text{zone criticality factor}}$$
 
 The innovation in this study is that it proposes a resilience metric that is co-optimised with economic objectives. This will therefore use resilience as a central metric for planning of Multi-Carrier Energy Systems (MCES)
 - The study will look at the economic, operational, and resilience trade-offs 
