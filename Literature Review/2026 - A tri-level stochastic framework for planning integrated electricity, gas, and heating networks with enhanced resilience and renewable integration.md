@@ -43,7 +43,7 @@ The algorithm finds the lowest cost way to recover capacity after system disturb
 
 Further, loads are given criticality weights which impacts the decision about load shedding during disturbance events.
 
-One of the main relationships that the model draws on is impact of line contingencies and mciro
+One of the main relationships that the model draws on is impact of line contingencies and microgrid capabilities on resilience, balanced with investment costs.
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
