@@ -176,8 +176,9 @@
 		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
 		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4280,"width":400,"height":120,"color":"6"},
 		{"id":"2b87743b4828b768","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal Design of Integrated Energy Systems Based on Reliability Assessments.md","x":-7488,"y":-3044,"width":400,"height":144,"color":"6"},
-		{"id":"737f4fe390cab9b0","x":-7488,"y":-3195,"width":400,"height":102,"color":"6","type":"file","file":"PhD-notes/Literature Review/2018 - Topology Optimisation of Robust District Heating Networks.md"},
-		{"id":"d84db878103b3ec8","x":-7488,"y":-3352,"width":400,"height":125,"color":"6","type":"file","file":"PhD-notes/Literature Review/2020 - Reliability segment design in single-source district heating networks based on valve network models.md"}
+		{"id":"737f4fe390cab9b0","type":"file","file":"PhD-notes/Literature Review/2018 - Topology Optimisation of Robust District Heating Networks.md","x":-7488,"y":-3195,"width":400,"height":102,"color":"6"},
+		{"id":"d84db878103b3ec8","type":"file","file":"PhD-notes/Literature Review/2020 - Reliability segment design in single-source district heating networks based on valve network models.md","x":-7488,"y":-3352,"width":400,"height":125,"color":"6"},
+		{"id":"39d3bc103f7ee077","x":-7488,"y":-3549,"width":400,"height":149,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - A tri-level stochastic framework for planning integrated electricity, gas, and heating networks with enhanced resilience and renewable integration.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -347,6 +348,7 @@
 		{"id":"10a7f9764ae30f27","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"a118aaa5c90c6247","toSide":"left"},
 		{"id":"48391ec05101aef3","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"2b87743b4828b768","toSide":"right"},
 		{"id":"dd9bbfb8afeea80e","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"737f4fe390cab9b0","toSide":"right"},
-		{"id":"5b31543d10e139c6","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"d84db878103b3ec8","toSide":"right"}
+		{"id":"5b31543d10e139c6","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"d84db878103b3ec8","toSide":"right"},
+		{"id":"272b335cd8305431","fromNode":"effdc0d7da63bd3b","fromSide":"top","toNode":"39d3bc103f7ee077","toSide":"right"}
 	]
 }
