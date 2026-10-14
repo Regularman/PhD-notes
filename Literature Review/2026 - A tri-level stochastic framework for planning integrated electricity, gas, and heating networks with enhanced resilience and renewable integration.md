@@ -21,7 +21,7 @@ Finally, the study also conducted empirical validation and policy implications t
 
 ##### Investment framework
 
-Aims to redcue the discounted sum of all relevant costs over the planning horizon, subject to
+Aims to reduce the discounted sum of all relevant costs over the planning horizon, subject to the adequacy, reliability, and resilience of the system.
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
