@@ -25,7 +25,7 @@ Aims to reduce the discounted sum of all relevant costs over the planning horizo
 
 #### Operational optimisation model
 
-Optimises generation dispatch, ne
+Optimises generation dispatch, network flows, and storage in all operational scenarios, seasons of the year and representatiove hours.
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
