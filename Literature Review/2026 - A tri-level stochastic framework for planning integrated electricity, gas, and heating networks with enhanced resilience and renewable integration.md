@@ -14,7 +14,7 @@ The innovation in this study is that it proposes a resilience metric that is co-
 Also compares their integrated hierarchal method with the sequential method to show improvements in resilience.
 - Highlights that Benders Decomposition (commonly employed in related research), is outperformed by C&CG, which is Column and Constraint Generation algorithm. BD is on one hand weak and on the other hand invalid due to the non-convexity of the subproblem.
 
-The study also highlights the difference between operational variability and extrement event response (High-Impact-L)
+The study also highlights the difference between operational variability and extreme event response (High-Impact-Low Probability Events)
 
 ## Content
 
