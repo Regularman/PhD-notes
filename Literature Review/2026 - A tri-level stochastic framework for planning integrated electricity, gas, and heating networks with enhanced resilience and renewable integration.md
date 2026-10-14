@@ -9,5 +9,6 @@ The are three levels to the optimisation hierarchy proposed in this paper
 
 The innovation in this study is that it proposes a resilience metric that is co-optimised with economic objectives. This will therefore use resilience as a central metric for planning of Multi-Carrier Energy Systems (MCES)
 
-Also compares their integrated hierarchal method with the sequential method to show improvements in resilience
+Also compares their integrated hierarchal method with the sequential method to show improvements in resilience.
+- Highlights that Benders Decomposition (commonly employed i)
 ## Content
