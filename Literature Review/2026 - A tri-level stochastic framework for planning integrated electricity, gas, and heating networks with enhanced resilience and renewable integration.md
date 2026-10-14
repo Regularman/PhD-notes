@@ -32,12 +32,14 @@ Optimises generation dispatch, network flows, and storage in all operational sce
 The reliability criteria used is 
 - Disrupted energy
 - Switching and black start procedures
-- Ability to recover CRITICAL areas (recovery ratio after a dist)
+- Ability to recover CRITICAL areas (recovery ratio after a disturbance causing outage of the electrical network)
 
 The algorithm finds the lowest cost way to recover capacity after system disturbance. The cost of disturbance events are weighted by their probabilities. The costs associated with system restarts are 
 - electrical, gas, and heating load curtailment penalties
 - Network switching and reconfiguration costs per energy carrier, 
 - Black start costs for de-energized islands and resilience penalties associated with unserved energy in critical zones
+
+Further, loads are given criticality weights which impacts the decision about load shedding during disturbance events.
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
