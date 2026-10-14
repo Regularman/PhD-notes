@@ -42,6 +42,8 @@ The algorithm finds the lowest cost way to recover capacity after system disturb
 - Black start costs for de-energized islands and resilience penalties associated with unserved energy in critical zones
 
 Further, loads are given criticality weights which impacts the decision about load shedding during disturbance events.
+
+One of the main relationships that the model draws on is impact of line contingencies and mciro
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
