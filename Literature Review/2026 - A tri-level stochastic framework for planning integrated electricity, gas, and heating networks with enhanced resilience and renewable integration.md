@@ -46,6 +46,8 @@ Further, loads are given criticality weights which impacts the decision about lo
 One of the main relationships that the model draws on is impact of line contingencies and microgrid capabilities on resilience, balanced with investment costs.
 
 In the formulation of the problem, there are two sets of equations that the study must solve, which are the 
+- Attacker's maximisation of resilience system cost given a budget of attack costs
+- A system operator trying to minimise the im
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
