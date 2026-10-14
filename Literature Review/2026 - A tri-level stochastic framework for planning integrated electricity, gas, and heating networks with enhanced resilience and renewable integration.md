@@ -16,6 +16,7 @@ Also compares their integrated hierarchal method with the sequential method to s
 
 The study also highlights the difference between operational variability and extreme event response (High-Impact-Low Probability Events)
 
+Finally, the study also conducted empirical validation and policy implications 
 ## Content
 
 ## Further Readings 
