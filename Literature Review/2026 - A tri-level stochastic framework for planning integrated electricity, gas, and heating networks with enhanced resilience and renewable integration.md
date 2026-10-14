@@ -19,6 +19,9 @@ The study also highlights the difference between operational variability and ext
 Finally, the study also conducted empirical validation and policy implications through application of resilience design framework on a prototypical MCES.
 ## Content
 
+##### Investment framework
+
+Aims to redcue the discounted sum of all relevant costs over the planning horizon, subject to
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
