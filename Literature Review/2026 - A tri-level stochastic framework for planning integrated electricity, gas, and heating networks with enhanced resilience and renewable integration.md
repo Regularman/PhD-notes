@@ -49,6 +49,8 @@ The system design designs the heating and electricity capacity to equal that of 
 The paper imposes another restricting condition, which is the geographic diversification on generation expansion to impose a minimum amount of local generation at each zone with respect to its load to prevent too much spatial concentration of capacity. This may not reflect initiatives such as the REZs in the NEM.
 
 Further, in operation optimisation, the equation ensures that there is enough upwards and downwards reserve in demand to receive excess power.
+
+The study also guaranteed a minimum resilience level, restricting the overall resilience index of the system to ensure that it is never lower than some prescribed acceptable level in any disruption scenatio.
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
