@@ -32,7 +32,9 @@ Optimises generation dispatch, network flows, and storage in all operational sce
 The reliability criteria used is 
 - Disrupted energy
 - Switching and black start procedures
-- 
+- Ability to recover CRITICAL areas
+
+The algorithm finds the lowest cost way to recover capacity after system disturbance. The cost of disturbance events are weighted by their probabilities.
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
