@@ -8,4 +8,6 @@ The are three levels to the optimisation hierarchy proposed in this paper
 3. The lower level deals with the maximum load restoration in N-k contingencies by a quantitative resiliency measure
 
 The innovation in this study is that it proposes a resilience metric that is co-optimised with economic objectives. This will therefore use resilience as a central metric for planning of Multi-Carrier Energy Systems (MCES)
+
+Also compares their integrated hierarchal method with the sequential method to show improvements in resilience
 ## Content
