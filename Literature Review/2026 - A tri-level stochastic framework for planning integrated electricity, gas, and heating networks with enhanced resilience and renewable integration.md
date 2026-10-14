@@ -22,6 +22,11 @@ Finally, the study also conducted empirical validation and policy implications t
 ##### Investment framework
 
 Aims to reduce the discounted sum of all relevant costs over the planning horizon, subject to the adequacy, reliability, and resilience of the system.
+#### Imposes limitations that constrains the system
+
+For example, 
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
+
+
