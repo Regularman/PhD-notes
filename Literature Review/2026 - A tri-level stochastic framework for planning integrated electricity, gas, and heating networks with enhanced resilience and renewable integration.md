@@ -34,7 +34,8 @@ The reliability criteria used is
 - Switching and black start procedures
 - Ability to recover CRITICAL areas (recovery ratio after a disturbance causing outage of the electrical network)
 
-The total resilience index for each time and disruption scenario is then derived as the weighted average of the restoration rate at the zone level by using the zone criticality
+The total resilience index for each time and disruption scenario is then derived as the weighted average of the restoration rate at the zone level by using the zone criticality (priority factors) as the weighting scales.
+
 The algorithm finds the lowest cost way to recover capacity after system disturbance. The cost of disturbance events are weighted by their probabilities. The costs associated with system restarts are 
 - electrical, gas, and heating load curtailment penalties
 - Network switching and reconfiguration costs per energy carrier, 
