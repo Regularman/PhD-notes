@@ -57,6 +57,8 @@ The paper imposes another restricting condition, which is the geographic diversi
 Further, in operation optimisation, the equation ensures that there is enough upwards and downwards reserve in demand to receive excess power.
 
 The study also guaranteed a minimum resilience level, restricting the overall resilience index of the system to ensure that it is never lower than some prescribed acceptable level in any disruption scenatio.
+
+The resilience cost used to interconnect variables is
 ## Further Readings 
 
 [7] Optimal planning approach for dairy farm micro energy systems that aligns energy and material flows.
