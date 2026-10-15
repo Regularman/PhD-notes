@@ -65,7 +65,7 @@ In the formulation of the problem, there are two sets of equations that the stud
 | Variability of renewable energy production                           | Natural disasters and HILP events that degrades system performance. |
 | Energy demand at different levels of maturity in all enegry carriers |                                                                     |
 | Component availability in operations in the field                    |                                                                     |
-
+![[Screenshot 2026-10-15 114100.png]]
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
