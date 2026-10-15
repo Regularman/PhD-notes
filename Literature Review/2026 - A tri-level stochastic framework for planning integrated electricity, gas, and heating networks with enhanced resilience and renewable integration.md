@@ -60,10 +60,11 @@ In the formulation of the problem, there are two sets of equations that the stud
 
 #### Difference in failure events
 
-| Operational background failure                               | Disruption events |
-| ------------------------------------------------------------ | ----------------- |
-| Variability of renewable energy production                   |                   |
-| Energy demand at different levels of maturity in all enegry  |                   |
+| Operational background failure                                       | Disruption events                                                   |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Variability of renewable energy production                           | Natural disasters and HILP events that degrades system performance. |
+| Energy demand at different levels of maturity in all enegry carriers |                                                                     |
+| Component availability in operations in the field                    |                                                                     |
 
 ## Limitations
 
