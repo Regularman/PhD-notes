@@ -57,6 +57,14 @@ In the formulation of the problem, there are two sets of equations that the stud
 ~={red}In the simulation performed, the district heating network has set nodes and operation temperature of between $115\degree C$ to $125 \degree C$.=~
 - Also does not consider the centralised, decentralised problem as the thermal network is dominated by large scale CHP, gas fired boilers, and heat pumps in the MW-scale.
 - COP is also static
+
+#### Difference in failure events
+
+| Operational background failure                               | Disruption events |
+| ------------------------------------------------------------ | ----------------- |
+| Variability of renewable energy production                   |                   |
+| Energy demand at different levels of maturity in all enegry  |                   |
+
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
