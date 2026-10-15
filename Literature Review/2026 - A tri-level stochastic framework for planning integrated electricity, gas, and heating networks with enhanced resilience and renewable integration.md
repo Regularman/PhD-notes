@@ -83,9 +83,11 @@ Therefore, the disruption events are non comprehensive and does not relate to th
 This is used to justify why the hierarchal optimisation strategy is optimal compared to other heuristics
 
 
-| Method                                                                                                            | NPV increase () | Reliability |
-| ----------------------------------------------------------------------------------------------------------------- | --------------- | ----------- |
-| Planning energy carriers within a single area, such that gas, electricity, and heating is considered individually | 19.5            |             |
+| Method                                                                                                            | NPV increase (%) | Reliability (baseline 0.92) |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------- |
+| Planning energy carriers within a single area, such that gas, electricity, and heating is considered individually | 19.5             | lower resilience at 0.78    |
+| Without resilience                                                                                                | 2.6%             | 0.84                        |
+| Deterministic single scenario optimisation                                                                        | 5.5              |                             |
 
 ## Limitations
 
