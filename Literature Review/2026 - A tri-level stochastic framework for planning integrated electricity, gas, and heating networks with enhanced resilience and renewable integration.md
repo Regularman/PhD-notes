@@ -64,7 +64,9 @@ From the evaluation of the master problems and subproblems, the following invest
 Further, the study cannot highlight heuristics surrounding heating network design. As shown in the figure below, heating network optimisation is reduced to a single variable, the heating network expansion. ![[Screenshot 2026-10-15 115113.png]]
 This is further reinforced in the optimised power balance 10 yeas into the future, which shows the generation is dominated by gas generation as a baseload. In what world is an optimal power generation profile dominated by gas as a baseload?!![[Screenshot 2026-10-15 120342.png]]
 
-However, optimisation of the scenarios does produce a system more resilient to disruption events
+However, optimisation of the scenarios does produce a system more resilient to disruption events. This is due to both greater infrastructure robustness and better system flexibility enabled by flexibility operation, distributed storage, and increased inter carrier coordination
+![[Screenshot 2026-10-15 121447.png]]
+
 
 #### Difference in failure events
 The failure events are defined by set operating scenarios
