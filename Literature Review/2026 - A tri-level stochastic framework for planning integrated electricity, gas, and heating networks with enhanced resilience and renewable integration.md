@@ -58,7 +58,7 @@ In the formulation of the problem, there are two sets of equations that the stud
 - Also does not consider the centralised, decentralised problem as the thermal network is dominated by large scale CHP, gas fired boilers, and heat pumps in the MW-scale.
 - COP is also static
 
-From the evaluation of the master problems and subproblems, the following investment pathway
+From the evaluation of the master problems and subproblems, the following investment pathway is shown below. One of the major issue with the modelling result is rapid increase in gas CC and CHP units in the system. This does not reflect environment/emission optimality, which is not considered in this study.
 ![[Screenshot 2026-10-15 114843.png]]
 #### Difference in failure events
 
