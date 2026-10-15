@@ -54,7 +54,8 @@ In the formulation of the problem, there are two sets of equations that the stud
 
 ### Results of simulation
 
-In the simulation performed, the district heating network has set nodes and operation temperature of between $115\degree C$ to $125 \degree C$
+In the simulation performed, the district heating network has set nodes and operation temperature of between $115\degree C$ to $125 \degree C$.
+- Also does not consider the centralised, decentralised storage 
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
