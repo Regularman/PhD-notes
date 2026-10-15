@@ -61,9 +61,9 @@ In the formulation of the problem, there are two sets of equations that the stud
 From the evaluation of the master problems and subproblems, the following investment pathway is shown below. One of the major issue with the modelling result is rapid increase in gas CC and CHP units in the system. This does not reflect environment/emission optimality, which is not considered in this study.
 ![[Screenshot 2026-10-15 114843.png|457]]
 
-Further, the study cannot highlight heuristics surrounding heating network design. As shown in the figure below, heating network optimisation is reduced to a single variable, the heating network expansion of ![[Screenshot 2026-10-15 115113.png]]
+Further, the study cannot highlight heuristics surrounding heating network design. As shown in the figure below, heating network optimisation is reduced to a single variable, the heating network expansion. ![[Screenshot 2026-10-15 115113.png]]
+This is further reinforced in the o
 #### Difference in failure events
-
 The failure events are defined by set operating scenarios
 ![[Screenshot 2026-10-15 114317.png]]
 
