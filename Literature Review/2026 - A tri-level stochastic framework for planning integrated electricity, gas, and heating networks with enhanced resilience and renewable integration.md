@@ -78,8 +78,9 @@ The failure events are defined by set operating scenarios
 ![[Screenshot 2026-10-15 114100.png]]
 
 Therefore, the disruption events are non comprehensive and does not relate to the set up of the MCES.
+#### Benchmarking across different scenarios
 
-#### Benchmarking acrs
+
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
