@@ -66,8 +66,6 @@ This is further reinforced in the optimised power balance 10 yeas into the futur
 
 However, optimisation of the scenarios does produce a system more resilient to disruption events. This is due to both greater infrastructure robustness and better system flexibility enabled by flexibility operation, distributed storage, and increased inter carrier coordination
 ![[Screenshot 2026-10-15 121447.png]]
-
-
 #### Difference in failure events
 The failure events are defined by set operating scenarios
 ![[Screenshot 2026-10-15 114317.png]]
@@ -80,6 +78,8 @@ The failure events are defined by set operating scenarios
 ![[Screenshot 2026-10-15 114100.png]]
 
 Therefore, the disruption events are non comprehensive and does not relate to the set up of the MCES.
+
+#### Benchmarking acrs
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
