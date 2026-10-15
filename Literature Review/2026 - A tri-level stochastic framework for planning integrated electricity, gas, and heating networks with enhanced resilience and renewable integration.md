@@ -90,7 +90,7 @@ This is used to justify why the hierarchal optimisation strategy is optimal comp
 | Deterministic single scenario optimisation                                                                        | 5.5              | 0.86                        |
 | Progressive planning rather than hierarchal iterative planning                                                    | 11.5             | 0.81                        |
 | Worst case robustness optimisation                                                                                | 14.6             | 0.93                        |
-| Deterministic rules based N-1 planning                                                                            | 8.7              | 0                           |
+| Deterministic rules based N-1 planning                                                                            | 8.7              | 0.82                        |
 
 ## Limitations
 
