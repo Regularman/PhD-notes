@@ -51,6 +51,10 @@ One of the main relationships that the model draws on is impact of line continge
 In the formulation of the problem, there are two sets of equations that the study must solve, which are the 
 - Attacker's maximisation of resilience system cost through binary availability variables given a budget of attack costs
 - A system operator trying to minimise the impacts of disruption events through optimisation of continuous variables such as network flow and dispatch
+
+### Results of simulation
+
+In the simulation performed, the district heating network has set nodes and operation temperature of between $115\degree C$ to $125 \degree C$
 ## Limitations
 
 The system design designs the heating and electricity capacity to equal that of the peak demand, multiplied by a reserve margin. This counters the point that economic investment in existing models are wasteful.
