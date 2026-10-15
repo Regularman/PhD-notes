@@ -59,7 +59,9 @@ In the formulation of the problem, there are two sets of equations that the stud
 - COP is also static
 
 From the evaluation of the master problems and subproblems, the following investment pathway is shown below. One of the major issue with the modelling result is rapid increase in gas CC and CHP units in the system. This does not reflect environment/emission optimality, which is not considered in this study.
-![[Screenshot 2026-10-15 114843.png]]
+![[Screenshot 2026-10-15 114843.png|457]]
+
+Further, the study cannot highlight heuristics surrounding heating network design.
 #### Difference in failure events
 
 The failure events are defined by set operating scenarios
