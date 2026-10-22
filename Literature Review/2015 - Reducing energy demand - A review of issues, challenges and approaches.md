@@ -39,3 +39,5 @@ The barriers to price responsive behaviors might also be
 - The ability of individuals to act is affected by the diffusion of technology in society or the economy. How does a heating network enable a more rapid diffusion of technology? 
 
 #### Sociotechnical systems and energy demand
+
+Energy related decisions are structured by the systems that provide energy services such as heating. These systems  are termed 
