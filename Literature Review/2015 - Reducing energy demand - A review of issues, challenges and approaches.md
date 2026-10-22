@@ -13,5 +13,6 @@ There is no strong empirical evidence that shows that economic growth is being d
 Therefore, it is fair to say that energy consumption will continue to rise in the future in a growth oriented economy. Especially in the industrial sense, as demands for commercial products increasing, the manufacturing capacity will increase. Within a national boundary, this means that the demand for heat will increase.
 
 - If this is taken to be an immutable truth, then the only way in which heating systems can reduce demand is through increased energy efficiency of a centralized system versus a decentralized system. 
-
 #### Energy efficiency and energy demand
+
+There are two reasons why it is difficult to correlate increased energy efficiency with decreased energy demand. To make thus claim, we have to carefully define the 
