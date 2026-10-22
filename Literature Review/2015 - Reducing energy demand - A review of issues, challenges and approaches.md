@@ -40,4 +40,6 @@ The barriers to price responsive behaviors might also be
 
 #### Sociotechnical systems and energy demand
 
-Energy related decisions are structured by the systems that provide energy services such as heating. These systems  are termed 
+Energy related decisions are structured by the systems that provide energy services such as heating. These systems  are termed socio-technical as they involve interlinking elements that co-evolve over many decades.
+
+An example given is the car industry 
