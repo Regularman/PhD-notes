@@ -22,4 +22,4 @@ Further, energy demands (for heat in particular) are also due to internal air te
 
 There is also the phenomenon where cheap heat leads to growth, although this effect may be diluted as heat is a secondary product, and manufacturing cost are also a product of the fluctuating global market place.
 
-[34] Highlights that California's electricity consumption has remained constant since the 1970s and is 40% below US average on a state level, but only 1/3 of thi
+[34] Highlights that California's electricity consumption has remained constant since the 1970s and is 40% below US average on a state level, but only 1/3 of this is due to energy efficiency policies.
