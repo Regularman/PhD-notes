@@ -25,3 +25,5 @@ There is also the phenomenon where cheap heat leads to growth, although this eff
 [34] Highlights that California's electricity consumption has remained constant since the 1970s and is 40% below US average on a state level, but only 1/3 of this is due to energy efficiency policies.
 
 #### Energy market and energy demand 
+
+Although energy demands are larg
