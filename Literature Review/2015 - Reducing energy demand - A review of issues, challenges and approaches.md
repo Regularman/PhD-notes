@@ -18,4 +18,4 @@ Therefore, it is fair to say that energy consumption will continue to rise in th
 There are two reasons why it is difficult to correlate increased energy efficiency with decreased energy demand. To make thus claim, we have to carefully define the spatial and temporal boundaries (for example heat pumps are more efficient than gas boilers in the operational phase, but this may be different on a lifecycle basis)
 - It also necessitates the invocation of all else being equal assumptions.
 
-Further, energy demands are 
+Further, energy demands (for heat in particular) are also due to internal air temperature, radiant temperature, air velocity, humidity, activity levels, clothing, external temperature, behavioral norms, and socio-cultural norms. It is not just the converter efficiency and insulation of the building envelop that affects energy demands.
