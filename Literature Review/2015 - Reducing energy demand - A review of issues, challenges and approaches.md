@@ -57,7 +57,7 @@ Thus, inferior technologies can become dominant when they obtain an early advant
 - habits shaped by commodity (car culture)
 These factors creates locked in effect which refutes the possibility of change.
 
-As [56] highlights, niche tehcnologies breakthrough when their internal momentum combines within the existing socio-technical system and growing external pressures ipon it to create windows of 
+As [56] highlights, niche technologies breakthrough when their internal momentum combines within the existing socio-technical system and growing external pressures upon it to create windows of opportunities for radical change. This triggers a series of inter-related technical, industrial, social, and cultural change that combine to create a new and different socio-technical system. 
 
 
 
