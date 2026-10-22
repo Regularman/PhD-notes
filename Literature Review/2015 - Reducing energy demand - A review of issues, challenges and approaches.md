@@ -52,8 +52,10 @@ An example given is the car industry, out choice of cars is inevitably a persona
 
 Thus, inferior technologies can become dominant when they obtain an early advantage that allows them to benefit from various positive feedback mechanism, such as 
 - economies of scale
-- learnign effect
-- 
+- learning effect
+- network economy of complementary goods and supporting infrastructure
+- habits shaped by commodity (car culture)
+These factors creates ;pc
 
 
 
