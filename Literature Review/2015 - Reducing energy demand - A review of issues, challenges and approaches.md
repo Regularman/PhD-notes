@@ -50,7 +50,10 @@ An example given is the car industry, out choice of cars is inevitably a persona
 - Political power of relevant interest groups
 - the daily travel routines
 
-Thus, inferior technologies can become dominant when they obtain an early advantage 
+Thus, inferior technologies can become dominant when they obtain an early advantage that allows them to benefit from various positive feedback mechanism, such as 
+- economies of scale
+- learnign effect
+- 
 
 
 
