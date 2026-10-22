@@ -43,7 +43,10 @@ The barriers to price responsive behaviors might also be
 Energy related decisions are structured by the systems that provide energy services such as heating. These systems  are termed socio-technical as they involve interlinking elements that co-evolve over many decades.
 
 An example given is the car industry, out choice of cars is inevitably a personal choice, but that choice exist within a framework
-
+- global car industry
+- global oil industry and associated oil infrastructure
+- Patterns of land use developed aorund car use
+- Engineering skills and knowledge built up over decades of car use
 
 
 
