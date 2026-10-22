@@ -9,3 +9,5 @@ What are the levers that drives energy demand reduction in the absolute sense? I
 #### Economic Growth and Energy demand
 
 There is no strong empirical evidence that shows that economic growth is being decoupled from energy consumptions  [[2019 - Decoupling Debunked - Evidence and Arguments against Green Growth as a sole strategy for sustainability]]
+
+Therefore, it is fair to say that energy consumption will continue to rise in the future in a growth oriented economy. Especially in the industrial sense, as demands for commercial products increasing, the manufacturing capacity will increase. Within a na
