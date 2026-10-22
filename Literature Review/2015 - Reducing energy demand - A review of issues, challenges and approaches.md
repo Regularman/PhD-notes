@@ -47,6 +47,10 @@ An example given is the car industry, out choice of cars is inevitably a persona
 - global oil industry and associated oil infrastructure
 - Patterns of land use developed aorund car use
 - Engineering skills and knowledge built up over decades of car use
+- Political power of relevant interest groups
+- the daily travel routines
+
+Thus, inferior technologies can become dominant when they obtain an early advantage 
 
 
 
