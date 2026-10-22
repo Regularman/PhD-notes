@@ -19,3 +19,5 @@ There are two reasons why it is difficult to correlate increased energy efficien
 - It also necessitates the invocation of all else being equal assumptions.
 
 Further, energy demands (for heat in particular) are also due to internal air temperature, radiant temperature, air velocity, humidity, activity levels, clothing, external temperature, behavioral norms, and socio-cultural norms. It is not just the converter efficiency and insulation of the building envelop that affects energy demands.
+
+There is also the phenomenon where cheap heat leads to growth, although this effect may be diluted as heat is a secondary product, and manufacturing cost are also a product of the fluctuating global market place.
