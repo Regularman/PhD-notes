@@ -15,4 +15,5 @@ Therefore, it is fair to say that energy consumption will continue to rise in th
 - If this is taken to be an immutable truth, then the only way in which heating systems can reduce demand is through increased energy efficiency of a centralized system versus a decentralized system. 
 #### Energy efficiency and energy demand
 
-There are two reasons why it is difficult to correlate increased energy efficiency with decreased energy demand. To make thus claim, we have to carefully define the 
+There are two reasons why it is difficult to correlate increased energy efficiency with decreased energy demand. To make thus claim, we have to carefully define the spatial and temporal boundaries (for example heat pumps are more efficient than gas boilers in the operational phase, but this may be different on a lifecycle basis)
+- It also necessitates the invocation of all else being equal assumptions.
