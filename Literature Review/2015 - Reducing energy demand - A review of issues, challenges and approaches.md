@@ -33,6 +33,8 @@ Although energy demands are largely responsive to price, they are also dominantl
 - They face difficulties in raising capital
 - They may be concerned about production interruptions
 
+New technologies such as 
+
 The barriers to price responsive behaviors might also be 
 - organizational staff may lack the time to identify and implement energy efficiency opportunities
 
