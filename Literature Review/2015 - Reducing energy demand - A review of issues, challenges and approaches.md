@@ -55,7 +55,7 @@ Thus, inferior technologies can become dominant when they obtain an early advant
 - learning effect
 - network economy of complementary goods and supporting infrastructure
 - habits shaped by commodity (car culture)
-These factors creates ;pc
+These factors creates locked in effect which refutes the possibility of change.
 
 
 
