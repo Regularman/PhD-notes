@@ -29,4 +29,6 @@ There is also the phenomenon where cheap heat leads to growth, although this eff
 Although energy demands are largely responsive to price, they are also dominantly shaped by sociopsychological factors. Notwithstanding the fact that most players do not have sufficient information, and incentives to respond to price signals, it does not mean that they are able to. Energy costs then becomes secondary to inertia due to energy-using habits.
 - However, DER technologies such as home batteries have enable more price responsive behaviors in consumers. 
 
+The barriers to price responsive behaviors might also be 
+
 - The ability of individuals to act is affected by the diffusion of technology in society or the economy. How does a heating network enable a more rapid diffusion of technology?
