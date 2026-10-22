@@ -29,7 +29,9 @@ There is also the phenomenon where cheap heat leads to growth, although this eff
 Although energy demands are largely responsive to price, they are also dominantly shaped by sociopsychological factors. Notwithstanding the fact that most players do not have sufficient information, and incentives to respond to price signals, it does not mean that they are able to. Energy costs then becomes secondary to inertia due to energy-using habits.
 - However, DER technologies such as home batteries have enable more price responsive behaviors in consumers. 
 - They may employ simple payback calculations or rule of thumbs rather than detailed investment appraisals
-- They lack information 
+- They lack information on current energy consumption, energy efficiency, and energy costs of differing investment options
+- They face difficulties in raising capital
+- They may be concerned about production interruptions
 
 The barriers to price responsive behaviors might also be 
 - organizational staff may lack the time to identify and implement energy efficiency opportunities
