@@ -36,4 +36,6 @@ Although energy demands are largely responsive to price, they are also dominantl
 The barriers to price responsive behaviors might also be 
 - organizational staff may lack the time to identify and implement energy efficiency opportunities
 
-- The ability of individuals to act is affected by the diffusion of technology in society or the economy. How does a heating network enable a more rapid diffusion of technology?
+- The ability of individuals to act is affected by the diffusion of technology in society or the economy. How does a heating network enable a more rapid diffusion of technology? 
+
+#### Sociotechnical systems and energy demand
