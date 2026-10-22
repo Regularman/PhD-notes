@@ -26,4 +26,4 @@ There is also the phenomenon where cheap heat leads to growth, although this eff
 
 #### Energy market and energy demand 
 
-Although energy demands are larg
+Although energy demands are largely responsive to price, they are also dominantly shaped by sociopsychological factors. Notwithstanding the fact that most players do not have sufficient information, and incentives to respond to price s
