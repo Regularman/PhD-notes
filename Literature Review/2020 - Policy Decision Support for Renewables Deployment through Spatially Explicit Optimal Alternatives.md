@@ -27,4 +27,4 @@ Through analysis of the 178 SPORES, Lombardi was able to look at the frequency o
 ![[Screenshot 2026-10-27 154532.png]]
 ## Limitations
 
-Ultimately, the spatial considerations of this paper is reliant on the 
+Ultimately, the spatial considerations of this paper highlights the relative positive
