@@ -52,6 +52,8 @@ Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of 
 
 Ultimately, to validate the heat demand accuracy and validity of their map, the report benchmarked their findings against other literature.
 
+One interesting thing that the paper talks about is the potential bias through zoning and scaling caused by load aggregation
+
 ## Limitations 
 
 Does not the involve codesign with the power system
@@ -60,5 +62,5 @@ In this study, the evaluation metrics of heat demand and cost are inherently cou
 
 Further, it is unclear if the modelling accounts for renewable penetration in the system. As the the discussion later highlights, the model does not capture peak load interactions or operational flexibility. **Therefore, the report implies the heuristic that district heating will increase  renewable penetration but does not go into the mechanism for how this can happen**
 - This includes climate and seasonal demands
-
+- Ultimately, the paper does not comment on the design variation of district heating networks, rather, just the suitability of DHNs in a regions with a medium levle resolution
 The study also does not consider biomass, rivers, solar thermal, and data centres as potential nodes within the district heating system.
