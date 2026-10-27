@@ -32,7 +32,8 @@ We also see with selective SPOREs (selected for optimal metrics), that there is 
 #### What happens when certain technologies are turned off?
 ![[Screenshot 2026-10-27 160252.png]]
 
-This demonstrates coupling of technologies highlighted by the SPORES methodology. For example, eliminating batr
+This demonstrates coupling of technologies highlighted by the SPORES methodology. For example, eliminating battery capacity leads to a downturn in PV capacity.
+- As a rule, down turn in one technology is often replaced by another
 
 ## Limitations
 
