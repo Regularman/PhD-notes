@@ -2,6 +2,7 @@ https://www.cell.com/joule/fulltext/S2542-4351(20)30348-2
 ## Contribution
 
 Highlights that cost optimal solutions are restrictive, and an increased willingness to pay can lead to energy systems that are more resilient to sensitivities and varied operating conditions. Through the application of SPORES modelling, Lombardi is able to the technologies that are must haves (PV) or hard to replace (bioenergy for instance).
+- More potential options means that were are exploring the design space more effectively
 
 Spatial considerations comes from location of demands and its relative position to the deployed renewable generation.
 - For example, Lombardi highlights that the regions which have a high degree of adjacency to other zones was able to achieve higher utilisation of renewable energy as different zones have different weather conditions, and thus they were less susceptible to poor renewable output due to weather.
@@ -42,3 +43,5 @@ Ultimately, the spatial considerations of this paper highlights the relative pos
 - Does this mean that there are multiple suitable heating systems in each location, rather than 1? The methodology for this stage of the analysis in my study needs to be stepped out more clearly.
 
 Further, Lombardi just highlights that there are many alternative energy systems, and general rules that cost relaxation (aka willingness to pay) enable more resilient energy networks. However, optimality under expanded set of metrics is not looked at.
+
+Can we also place emphasis on absolute sustainability (which the paper does not talk about)
