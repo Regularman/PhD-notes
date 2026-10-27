@@ -56,4 +56,4 @@ Does not the involve codesign with the power system
 
 In this study, the evaluation metrics of heat demand and cost are inherently coupled, as the paper states that regions with higher heat demand will inherently by more cost-effective
 
-Further, it is unclear if the modelling accounts for renewable penetration in the system. As the the discussion later highlights 
+Further, it is unclear if the modelling accounts for renewable penetration in the system. As the the discussion later highlights, the model does not capture peak load interactions or operational flexibility. **Therefore, the report implies the heuristic that district heating will increase the renewable penetration but does not go **
