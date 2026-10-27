@@ -34,6 +34,7 @@ We also see with selective SPOREs (selected for optimal metrics), that there is 
 
 This demonstrates coupling of technologies highlighted by the SPORES methodology. For example, eliminating battery capacity leads to a downturn in PV capacity.
 - As a rule, down turn in one technology is often replaced by another
+- Accepting a cost relaxation of 20% allows us to find SPORES that keep wind farm concentration low and transmission line use high
 
 ## Limitations
 
