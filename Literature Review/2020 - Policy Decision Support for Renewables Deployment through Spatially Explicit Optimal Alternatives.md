@@ -27,4 +27,5 @@ Through analysis of the 178 SPORES, Lombardi was able to look at the frequency o
 ![[Screenshot 2026-10-27 154532.png]]
 ## Limitations
 
-Ultimately, the spatial considerations of this paper highlights the relative positive
+Ultimately, the spatial considerations of this paper highlights the relative positive of generation and load in an electricity system. It highlights that there are a variety of strategies to handle the spatial distribution of the generation in relation to a static load. 
+- Doe
