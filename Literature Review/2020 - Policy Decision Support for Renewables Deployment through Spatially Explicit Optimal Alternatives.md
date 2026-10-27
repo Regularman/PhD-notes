@@ -18,5 +18,6 @@ In addition to cost, the SPORE solutions are compared based on their
 - renewable energy overcapacity
 ## Content/Results
 
-An example 
+An example where cost optimality conflicts with physical constraints and social barriers
+- cost optimal solution placed exceedingly high level of wind in a single region, which may raise social opposition. There is also the issue where some regions exports most of their power to another region, creating concerns about the equality in the energy system
 ## Limitations
