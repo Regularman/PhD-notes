@@ -24,6 +24,8 @@ Heat atlas downscales national heat demand based on floor area data for resident
 - It incorporates building age to make some generalization about the energy efficiency of the building
 - Regions were aggregated to the NUTS 2 region, which has population between 800,000 and 3,000,000 inhabitants.
 - Note that industrial land use was incorporated, but the load types were aggregated and not considered. Further, industries were only used as a source of excess heat
+
+The potential of Waste to Energy (WtE) was identified through assume plan
 #### Thresholds implemented
 
 Excluded grid cells with the $<400m^2$
@@ -31,7 +33,6 @@ Excluded grid cells with the $<400m^2$
 Therefore, the methodology for choosing suitable areas depends on
 - distribution grid cost below a national ceiling
 - annual heating demand above a threshold
-
 #### Cost function
 
 The cost was based on DH pipe costs, which were 
