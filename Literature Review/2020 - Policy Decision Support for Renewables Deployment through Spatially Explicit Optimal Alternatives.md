@@ -29,8 +29,11 @@ Through analysis of the 178 SPORES, Lombardi was able to look at the frequency o
 We also see with selective SPOREs (selected for optimal metrics), that there is a high variance in metrics even with a $5\%$ cost relaxation
 
 ![[Screenshot 2026-10-27 155706.png]]
+#### What happens when certain technologies are turned off?
+![[Screenshot 2026-10-27 160252.png]]
 
-#### What happens when certain 
+The greatest response is to lower 
+
 ## Limitations
 
 Ultimately, the spatial considerations of this paper highlights the relative positive of generation and load in an electricity system. It highlights that there are a variety of strategies to handle the spatial distribution of the generation in relation to a static load. 
