@@ -27,6 +27,10 @@ Heat atlas downscales national heat demand based on floor area data for resident
 
 Excluded grid cells with the $<400m^2$
 
+Therefore, the methodology for choosing suitable areas depends on
+- distribution grid cost below a national ceiling
+- annual heating demand above a threshold
+
 #### Cost function
 
 The cost was based on DH pipe costs, which were 
