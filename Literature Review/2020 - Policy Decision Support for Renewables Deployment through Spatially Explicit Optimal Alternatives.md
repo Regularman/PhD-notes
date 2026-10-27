@@ -10,7 +10,7 @@ Other mechanistic reasons for why locational variables matter includes
 - The interdependency of such siting and the resulting distance from the point of consumption
 These locational considerations gave rise to two primary strategies for the Italian energy system
 - coupled solar and battery for local generation'
-- wind and large transmission investment to move energy around the country
+- wind and large transmission/gas pipeline investment to move energy around the country
 
 In addition to cost, the SPORE solutions are compared based on their 
 - concentration of wind generation in a region
@@ -22,4 +22,7 @@ The SPORES method ensures ~={green}maximally=~ different from the cost optimal s
 
 An example where cost optimality conflicts with physical constraints and social barriers
 - cost optimal solution placed exceedingly high level of wind in a single region, which may raise social opposition. There is also the issue where some regions exports most of their power to another region, creating concerns about the equality in the energy system
+
+Through analysis of the 178 SPORES, Lombardi was able to look at the frequency of solutions, 
+![[Screenshot 2026-10-27 154532.png]]
 ## Limitations
