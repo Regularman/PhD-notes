@@ -26,3 +26,5 @@ An example where cost optimality conflicts with physical constraints and social 
 Through analysis of the 178 SPORES, Lombardi was able to look at the frequency of solutions, showing that bioenergy, international transmission, and pumped hydro are hard to replace at lower cost relaxations.
 ![[Screenshot 2026-10-27 154532.png]]
 ## Limitations
+
+Ultimately, the 
