@@ -52,4 +52,6 @@ Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of 
 
 ## Limitations 
 
-Does not the involve codesign with the 
+Does not the involve codesign with the power system
+
+In this study, the evaluation metrics of heat demand and cost are inherently coupled, as the paper states that regions with higher hea
