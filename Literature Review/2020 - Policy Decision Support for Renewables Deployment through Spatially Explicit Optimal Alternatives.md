@@ -17,7 +17,7 @@ In addition to cost, the SPORE solutions are compared based on their
 - transmission overcapacity
 - renewable energy overcapacity
 
-The SPORES method ensures ~={green}maximally=~ different from the cost opt
+The SPORES method ensures ~={green}maximally=~ different from the cost optimal solution, within a $5,10,20\%$ cost margin of the cost optimal case.
 ## Content/Results
 
 An example where cost optimality conflicts with physical constraints and social barriers
