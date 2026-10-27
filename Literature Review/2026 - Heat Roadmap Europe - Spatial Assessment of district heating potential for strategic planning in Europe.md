@@ -23,6 +23,7 @@ The European district heating market only covers 13% of the heat demand share in
 Heat atlas downscales national heat demand based on floor area data for residential and service sector buildings across Europe to a 1ha resolution
 - It incorporates building age to make some generalization about the energy efficiency of the building
 - Regions were aggregated to the NUTS 2 region, which has population between 800,000 and 3,000,000 inhabitants.
+- Note that industrial land use was incorporated, but the load types were aggregated and not considered. Further, industries were only used as a source of excess heat
 #### Thresholds implemented
 
 Excluded grid cells with the $<400m^2$
