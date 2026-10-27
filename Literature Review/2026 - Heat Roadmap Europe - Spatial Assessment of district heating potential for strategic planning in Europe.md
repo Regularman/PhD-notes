@@ -30,6 +30,8 @@ The potential of Waste to Energy (WtE) was identified through assume plant prese
 Industrial sources were obtained from datasets from sEEnergies and aggregated the potentials of the plants within a $2km$ buffer around the $DH$ area.
 
 Due to the 1ha resolution of the modelling, although the locations of wastewater treatment plants, metros, and supermarkets may change, their technical potential remains unchanged within the region.
+
+Suitable regions for geothermal obtained from an existing dataset.
 #### Thresholds implemented
 
 Excluded grid cells with the $<400m^2$
@@ -37,13 +39,15 @@ Excluded grid cells with the $<400m^2$
 Therefore, the methodology for choosing suitable areas depends on
 - distribution grid cost below a national ceiling
 - annual heating demand above a threshold
+
+To reflect investment feasibility for geothermal, only systems exceeding minimum baseload capacities of $40$ or $70$MW were considered
 #### Cost function
 
 The cost was based on DH pipe costs, which were 
 - linear cost ($c_1$) $664$EUR/$m$
 - area-dependent cost ($c_2$) $2,610$EUR/$m^2$
-- 
-
 ### Results
 
 Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of $1GWh$, ~64% of the heat demand can be met through district heating. However, $55\%$ is the most cost effective penetration, as it can be achieved at 50% of the total cost. 
+
+## Limitations 
