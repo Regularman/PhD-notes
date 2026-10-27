@@ -21,6 +21,7 @@ The European district heating market only covers 13% of the heat demand share in
 ### Methodology
 
 Heat atlas downscales national heat demand based on floor area data for residential and service sector buildings across Europe to a 1ha resolution
+- It incorporates building age to make some generalization about the energy efficiency of the building
 ### Results
 
 Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of $1GWh$, ~64% of the heat demand can be met through district heating. However, $55\%$ is the most cost effective penetration, as it can be achieved at 50% of the total cost. 
