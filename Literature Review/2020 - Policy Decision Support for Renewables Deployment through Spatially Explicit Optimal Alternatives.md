@@ -34,4 +34,4 @@ We also see with selective SPOREs (selected for optimal metrics), that there is 
 Ultimately, the spatial considerations of this paper highlights the relative positive of generation and load in an electricity system. It highlights that there are a variety of strategies to handle the spatial distribution of the generation in relation to a static load. 
 - Does this mean that there are multiple suitable heating systems in each location, rather than 1? The methodology for this stage of the analysis in my study needs to be stepped out more clearly.
 
-Further, Lombardi just highlights that there are 
+Further, Lombardi just highlights that there are many alternative energy systems, and general rules that cost relaxation (aka willingness to pay) enable more resilient energy networks. However
