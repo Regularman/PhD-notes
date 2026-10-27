@@ -40,7 +40,7 @@ Therefore, the methodology for choosing suitable areas depends on
 - distribution grid cost below a national ceiling
 - annual heating demand above a threshold
 
-To reflect investment feasibility for geothermal, only systems exceeding minimum baseload capacities of $40$ or $70$MW were considered
+To reflect investment feasibility for geothermal, only systems exceeding minimum baseload capacities of $40$ or $70$MW were considered, as smaller systems are not techno-economically feasible.
 #### Cost function
 
 The cost was based on DH pipe costs, which were 
@@ -51,3 +51,5 @@ The cost was based on DH pipe costs, which were
 Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of $1GWh$, ~64% of the heat demand can be met through district heating. However, $55\%$ is the most cost effective penetration, as it can be achieved at 50% of the total cost. 
 
 ## Limitations 
+
+Does not the involve codesign with the 
