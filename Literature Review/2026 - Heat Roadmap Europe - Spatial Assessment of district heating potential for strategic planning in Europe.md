@@ -65,4 +65,4 @@ Further, it is unclear if the modelling accounts for renewable penetration in th
 - Ultimately, the paper does not comment on the design variation of district heating networks, rather, just the suitability of DHNs in a regions with a medium levle resolution
 The study also does not consider biomass, rivers, solar thermal, and data centres as potential nodes within the district heating system.
 
-Moving forwardsm site specific strategies, identifications of indutrial clusters, optimla placement of Wt
+Moving forward, site specific strategies, identifications of industrial clusters, optimal placement of WtE facilities and targeted geothermal deployment will be useful advances in the field.
