@@ -30,7 +30,9 @@ Excluded grid cells with the $<400m^2$
 #### Cost function
 
 The cost was based on DH pipe costs, which were 
--
+- linear cost ($c_1$) $664$EUR/$m$
+- area-dependent cost ($c_2$) $2,610$EUR/$m^2$
+- 
 
 ### Results
 
