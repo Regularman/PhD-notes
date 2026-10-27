@@ -182,7 +182,8 @@
 		{"id":"86b6711ce67b2eaf","type":"file","file":"PhD-notes/Literature Review/2019 - Decoupling Debunked - Evidence and Arguments against Green Growth as a sole strategy for sustainability.md","x":-7920,"y":-2378,"width":400,"height":85,"color":"6"},
 		{"id":"b127a90f32f45513","type":"file","file":"PhD-notes/Literature Review/2015 - Reducing energy demand - A review of issues, challenges and approaches.md","x":-7920,"y":-2256,"width":400,"height":156,"color":"6"},
 		{"id":"f853cf8f5fd55a8a","x":-7480,"y":-1215,"width":400,"height":185,"color":"6","type":"file","file":"PhD-notes/Literature Review/2015 - Integrating Planning Support Systems and Multicriteria Evaluation for Energy Facility Site Suitability Evaluation.md"},
-		{"id":"ceb0e2e750677ab7","x":-7480,"y":-998,"width":400,"height":116,"color":"6","type":"file","file":"PhD-notes/Literature Review/2020 - Policy Decision Support for Renewables Deployment through Spatially Explicit Optimal Alternatives.md"}
+		{"id":"ceb0e2e750677ab7","x":-7480,"y":-998,"width":400,"height":116,"color":"6","type":"file","file":"PhD-notes/Literature Review/2020 - Policy Decision Support for Renewables Deployment through Spatially Explicit Optimal Alternatives.md"},
+		{"id":"0152f5e7a1ea6bba","x":-7480,"y":-824,"width":400,"height":128,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
