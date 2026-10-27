@@ -32,7 +32,7 @@ We also see with selective SPOREs (selected for optimal metrics), that there is 
 #### What happens when certain technologies are turned off?
 ![[Screenshot 2026-10-27 160252.png]]
 
-The greatest response is to lower 
+This demonstrates coupling of technologies highlighted by the SPORES methodology. For example, eliminating batr
 
 ## Limitations
 
