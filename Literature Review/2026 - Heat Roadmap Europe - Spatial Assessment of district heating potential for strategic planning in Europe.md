@@ -50,7 +50,7 @@ The cost was based on DH pipe costs, which were
 
 Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of $1GWh$, ~64% of the heat demand can be met through district heating. However, $55\%$ is the most cost effective penetration, as it can be achieved at 50% of the total cost. 
 
-Ultimately, to validate the heat demand accuracy and valid
+Ultimately, to validate the heat demand accuracy and validity of their map, the report benchmarked their findings against other literature.
 
 ## Limitations 
 
@@ -60,3 +60,5 @@ In this study, the evaluation metrics of heat demand and cost are inherently cou
 
 Further, it is unclear if the modelling accounts for renewable penetration in the system. As the the discussion later highlights, the model does not capture peak load interactions or operational flexibility. **Therefore, the report implies the heuristic that district heating will increase  renewable penetration but does not go into the mechanism for how this can happen**
 - This includes climate and seasonal demands
+
+The study also does not consider biomass, rivers, solar thermal, and data centres as potential nodes within the district heating system.
