@@ -28,4 +28,4 @@ Through analysis of the 178 SPORES, Lombardi was able to look at the frequency o
 ## Limitations
 
 Ultimately, the spatial considerations of this paper highlights the relative positive of generation and load in an electricity system. It highlights that there are a variety of strategies to handle the spatial distribution of the generation in relation to a static load. 
-- Doe
+- Does this mean that there are multiple suitable heating systems in each location, rather than 1? The methodology for this stage of the analysis in my study needs to be stepped out more clearly.
