@@ -26,8 +26,12 @@ An example where cost optimality conflicts with physical constraints and social 
 Through analysis of the 178 SPORES, Lombardi was able to look at the frequency of solutions, showing that bioenergy, international transmission, and pumped hydro are hard to replace at lower cost relaxations.
 ![[Screenshot 2026-10-27 154532.png]]
 
-We also see with selective SPOREs (selected for optimal metrics), that there is a high variance![[Screenshot 2026-10-27 155706.png]]
+We also see with selective SPOREs (selected for optimal metrics), that there is a high variance in metrics even with a $5\%$ cost relaxation
+
+![[Screenshot 2026-10-27 155706.png]]
 ## Limitations
 
 Ultimately, the spatial considerations of this paper highlights the relative positive of generation and load in an electricity system. It highlights that there are a variety of strategies to handle the spatial distribution of the generation in relation to a static load. 
 - Does this mean that there are multiple suitable heating systems in each location, rather than 1? The methodology for this stage of the analysis in my study needs to be stepped out more clearly.
+
+Further, Lombardi just highlights that there are 
