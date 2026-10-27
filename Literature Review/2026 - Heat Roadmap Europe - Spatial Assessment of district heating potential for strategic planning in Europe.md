@@ -54,4 +54,6 @@ Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of 
 
 Does not the involve codesign with the power system
 
-In this study, the evaluation metrics of heat demand and cost are inherently coupled, as the paper states that regions with higher hea
+In this study, the evaluation metrics of heat demand and cost are inherently coupled, as the paper states that regions with higher heat demand will inherently by more cost-effective
+
+Further, it is unclear if the modelling accounts for renewable penetration in the system. As the t
