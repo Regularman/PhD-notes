@@ -28,6 +28,8 @@ Heat atlas downscales national heat demand based on floor area data for resident
 The potential of Waste to Energy (WtE) was identified through assume plant presence based on inhabitants. Cities with larger inhabitants ensure economic viability of WtE plants by providing sufficient heat and electricity demand.
 
 Industrial sources were obtained from datasets from sEEnergies and aggregated the potentials of the plants within a $2km$ buffer around the $DH$ area.
+
+Due to the 1ha resolution of the modelling, although the l
 #### Thresholds implemented
 
 Excluded grid cells with the $<400m^2$
