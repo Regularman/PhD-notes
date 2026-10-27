@@ -8,13 +8,15 @@ Spatial considerations comes from location of demands and its relative position 
 Other mechanistic reasons for why locational variables matter includes 
 - variability of renewable generation as a function of the siting of wind and solar capacity
 - The interdependency of such siting and the resulting distance from the point of consumption
-These locational considerations gave rise to two primary strategies for the ITa
+These locational considerations gave rise to two primary strategies for the Italian energy system
+- coupled solar and battery for local generation'
+- wind and large transmission investment to move energy around the country
 
 In addition to cost, the SPORE solutions are compared based on their 
 - concentration of wind generation in a region
 - transmission overcapacity
 - renewable energy overcapacity
+## Content/Results
 
-## Content
-
+An example 
 ## Limitations
