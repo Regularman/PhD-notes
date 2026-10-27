@@ -52,7 +52,7 @@ Ultimately found that using thresholds of $50$EUR/MWh and annual heat demand of 
 
 Ultimately, to validate the heat demand accuracy and validity of their map, the report benchmarked their findings against other literature.
 
-One interesting thing that the paper talks about is the potential bias through zoning and scaling caused by load aggregation
+One interesting thing that the paper talks about is the potential bias through zoning and scaling caused by load aggregation. This is known as the modifiable areal unit problem. As most data values are concentrated on the lower end of the scale, classification methods that groups them into similar classes makes small differences difficult to distinguish.
 
 ## Limitations 
 
@@ -64,3 +64,5 @@ Further, it is unclear if the modelling accounts for renewable penetration in th
 - This includes climate and seasonal demands
 - Ultimately, the paper does not comment on the design variation of district heating networks, rather, just the suitability of DHNs in a regions with a medium levle resolution
 The study also does not consider biomass, rivers, solar thermal, and data centres as potential nodes within the district heating system.
+
+Moving forwardsm site specific strategies, identifications of indutrial clusters, optimla placement of Wt
