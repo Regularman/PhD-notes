@@ -16,6 +16,8 @@ In addition to cost, the SPORE solutions are compared based on their
 - concentration of wind generation in a region
 - transmission overcapacity
 - renewable energy overcapacity
+
+The SPORES method ensures ~={green}maximally=~ different from the cost opt
 ## Content/Results
 
 An example where cost optimality conflicts with physical constraints and social barriers
