@@ -18,6 +18,7 @@ Highlights that previous studies have primarily relied on simplified system mode
 
 The European district heating market only covers 13% of the heat demand share in Europe. Further, residential heat demand is $\frac{2}{3}$ of the total heat demand in Europe. However, this will be different in Australia due to different climate and consumption habits.
 
+### Methodology
 ### Results
 
-Ultimately found that 
+Ultimately found that using thresholds of $50$ Euros/MWh and heat density of $1GWh/
