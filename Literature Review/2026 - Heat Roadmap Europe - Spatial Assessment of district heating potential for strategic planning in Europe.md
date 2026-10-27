@@ -29,7 +29,7 @@ The potential of Waste to Energy (WtE) was identified through assume plant prese
 
 Industrial sources were obtained from datasets from sEEnergies and aggregated the potentials of the plants within a $2km$ buffer around the $DH$ area.
 
-Due to the 1ha resolution of the modelling, although the l
+Due to the 1ha resolution of the modelling, although the locations of wastewater treatment plants, metros, and supermarkets may change, their technical potential remains unchanged within the region.
 #### Thresholds implemented
 
 Excluded grid cells with the $<400m^2$
