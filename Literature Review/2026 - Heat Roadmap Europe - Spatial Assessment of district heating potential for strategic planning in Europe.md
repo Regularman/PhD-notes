@@ -25,7 +25,12 @@ Heat atlas downscales national heat demand based on floor area data for resident
 - Regions were aggregated to the NUTS 2 region, which has population between 800,000 and 3,000,000 inhabitants.
 #### Thresholds implemented
 
-Excluded grid cells with the 
+Excluded grid cells with the $<400m^2$
+
+#### Cost function
+
+The cost was based on DH pipe costs, which were 
+-
 
 ### Results
 
