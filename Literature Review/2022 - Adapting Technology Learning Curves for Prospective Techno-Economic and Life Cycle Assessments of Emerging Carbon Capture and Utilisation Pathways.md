@@ -22,7 +22,7 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 
 #### One Factor Learning Curves (OFLC)
 
-OFLC looks at the aggregation of all contributions to technological readiness into one factor. However, this can only be used for technologies that have reached a certain level of com
+OFLC looks at the aggregation of all contributions to technological readiness into one factor. This leverages accessible data such as investment costs or production volumesHowever, this can only be used for technologies that have reached a certain level of commercialisation, as cost data are generally non existent or confidential at early TRLs. 
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
