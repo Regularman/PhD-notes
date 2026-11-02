@@ -27,7 +27,9 @@ Learning rate (LR) is described as the percentage cost reduction with each doubl
 #### Two Factor Learning Curves (TFLC)
 
 TFLC disaggregates the learning factors into learning-by-searching and learning-by-doing. This allows integrating a research variable that helps with modelling early stage technologies. $$c_t=c_0(\frac{P_t}{P_0})^{-\alpha}\times(KS)^{-\beta}$$
+#### Multi-factor Learning Curves (MFLC)
 
+In MFLC, learning by doing is disaggregated into learning by using, learning by interacting, and learning by learning by deployment to ibnt
 
 
 ## Limitations
