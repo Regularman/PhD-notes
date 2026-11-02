@@ -12,6 +12,7 @@ Direct comparison of new technology with existing infrastructure is not 'apples 
 - All existing literature circumnavigates this by assessing data for similar 
 
 The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on costs).
+- n
 
 The paper uses OFLCs to model how capital cost and GHG emissions could change with increased deployment 
 
@@ -45,7 +46,7 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 3. Combining projections from experts with extrapolated performance metrics generated with learning curves
 4. Considering LBS effects using patent and experimental data when possible
 5. Prioritise use of historical data and literature values over rates from similar technologies
-6. Need to acknowledge the uncertainty within the data, and also adjust for inflations and scale. These uncert
+6. Need to acknowledge the uncertainty within the data. These uncertainties can be mitigated through sensitivity analysis
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
