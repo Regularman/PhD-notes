@@ -8,4 +8,4 @@ Ultimately, this is a TRL based approach.
 - One of the challenges is that low TRL technologies lacks the data required to forecast the performance at large scale deployment.
 - The goal is to inform investment pathways and policies around CCU technology.
 
-Direct comparison o
+Direct comparison of new technology with existing infrastructure is not 'apples for apples', because existing infrastructure already have the benefit of learning period and technological experience. 
