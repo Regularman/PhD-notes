@@ -64,7 +64,7 @@ The number for $N$ can be determined via several methods
 - Calculating the cumulative capacity that would need to be installed for a plant to break even
 - Finding the cumulative capacity where the learning curve flattens out
 - Using a number of plants that would translate into pre-defined market share
-- Using a number of plants that correspond to those that would receive external subsidies. For example, in this study, they asume that up to 5% of cement plants in We
+- Using a number of plants that correspond to those that would receive external subsidies. For example, in this study, they assume that up to 5% of cement plants in Western Europe will receive public subsidy, translating to around 10 plants at the NOAK levle.
 
 Alternatively, a more granular approach will be to estimate cost learning for each component, and then have a composite learning rate known as $$LR_{composite}=\sum_i[LR_{sys, element}*\frac{TDC_{sys,element}*(1+c_{indirect})*(1+c_{process}+c_{project})}{TPC_{overall,sys}}]$$
 For emissions, a separate methodology can be followed, with a new learning index and learning rate used for the metric.
