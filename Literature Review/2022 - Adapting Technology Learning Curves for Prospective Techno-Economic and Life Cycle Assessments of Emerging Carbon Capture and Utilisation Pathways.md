@@ -43,12 +43,15 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 1. Understand technology at the component and product level to understand the drivers of learning
 2. Include technical, economic, and environmental learning models
 3. Combining projections from experts with extrapolated performance metrics generated with learning curves
-4. Considering LBS effects using patent and experimental data 
+4. Considering LBS effects using patent and experimental data when possible
+5. Prioritise use of historical data and literature values over rates from similar technologies
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
 - Elia et al 2020
 - Thomassen et al 2020
+
+Look at NTEL paper
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
