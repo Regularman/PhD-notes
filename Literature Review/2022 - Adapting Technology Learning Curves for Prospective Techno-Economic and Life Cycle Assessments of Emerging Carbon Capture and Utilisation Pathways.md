@@ -57,3 +57,5 @@ Look at NTEL paper
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
+
+The limitation of the learning curve, also mentioned in the NTEL report, is that learning curves does not account for the cost increase that can occur during the start of a p
