@@ -59,7 +59,7 @@ This is informed by the 2005 IEAGHG report, which states that the technological 
 6. Perform sensitivity analysis
 
 The study uses the formula $$\alpha =\frac{\log{(1-LR)}}{\log{(2)}}$$
-The LR is based on historical LR from other similar technology, using data classification methodology from [[Thommassen 2020]]. Subsequently, 
+The LR is based on historical LR from other similar technology, using data classification methodology from [[Thommassen 2020]]. Subsequently, as learning rates are normally defined for CAPEX rather than OPEX, the EPC is found as $$c_{EPC}= TDC*(1+c_{indirect}$$
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
