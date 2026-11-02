@@ -6,4 +6,6 @@ Describes a methodology to incorporate technological learning curves into TEA an
 
 Ultimately, this is a TRL based approach.
 - One of the challenges is that low TRL technologies lacks the data required to forecast the performance at large scale deployment.
-- The goal is to inform investment pathways and 
+- The goal is to inform investment pathways and policies around CCU technology.
+
+Direct comparison o
