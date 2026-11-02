@@ -11,7 +11,9 @@ Ultimately, this is a TRL based approach.
 Direct comparison of new technology with existing infrastructure is not 'apples for apples', because existing infrastructure already have the benefit of learning period and technological experience. 
 - All existing literature circumnavigates this by assessing data for similar 
 
-The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on costs)
+The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on costs).
+
+The paper uses OFLCs to model how capital cost and GHG emissions could change with increased depl
 
 ## Content
 
@@ -20,7 +22,7 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 - standardised manufacturing
 - optimization of product design
 
-However, it should be noted that there are exogenous factors that affect costs, such as fluct
+However, it should be noted that there are exogenous factors that affect costs, such as fluctuation in labor and energy costs, in addition to endogenous learning factors. These exogenous factors can create biased results when analysing past data. 
 #### One Factor Learning Curves (OFLC)
 
 OFLC looks at the aggregation of all contributions to technological readiness into one factor. This leverages accessible data such as investment costs or production volumes. However, this can only be used for technologies that have reached a certain level of commercialisation, as cost data are generally non existent or confidential at early TRLs. $$c_t = c_o (\frac{P_t}{P_0})^{-\alpha}$$
