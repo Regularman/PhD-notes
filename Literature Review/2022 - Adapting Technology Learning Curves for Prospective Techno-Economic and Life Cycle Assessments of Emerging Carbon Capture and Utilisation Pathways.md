@@ -19,3 +19,6 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 - labour efficiencies
 - standardised manufacturing
 - optimization of product design
+## Limitations
+
+Rather than looking at 
