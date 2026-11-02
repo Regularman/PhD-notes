@@ -47,6 +47,10 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 4. Considering LBS effects using patent and experimental data when possible
 5. Prioritise use of historical data and literature values over rates from similar technologies
 6. Need to acknowledge the uncertainty within the data. These uncertainties can be mitigated through sensitivity analysis
+
+#### Methodology
+
+This is informed by the 2005 IEAGHG report, which states that the technological readiness level of 
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
@@ -58,4 +62,4 @@ Look at NTEL paper
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
 
-The limitation of the learning curve, also mentioned in the NTEL report, is that learning curves does not account for the cost increase that can occur during the start of a p
+The limitation of the learning curve, also mentioned in the NTEL report, is that learning curves does not account for the cost increase that can occur during the start of a project's development
