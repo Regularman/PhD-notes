@@ -71,6 +71,8 @@ For emissions, a separate methodology can be followed, with a new learning index
 - However, there should be a theoretical limit on how much the ~={red}foreground system=~ can decarbonise. Any factors after reaching this theoretical limit needs to come from exogenous systems under considerations such as lower scope 2 emissions.
 ![[Screenshot 2026-11-02 at 10.00.47 pm.png]]
 ![[Screenshot 2026-11-02 at 10.00.57 pm.png]]
+![[Screenshot 2026-11-02 at 10.01.06 pm.png]]
+![[Screenshot 2026-11-02 at 10.01.26 pm.png]]
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
