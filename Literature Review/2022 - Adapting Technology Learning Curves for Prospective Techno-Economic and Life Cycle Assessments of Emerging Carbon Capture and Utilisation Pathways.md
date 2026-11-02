@@ -23,6 +23,7 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 #### One Factor Learning Curves (OFLC)
 
 OFLC looks at the aggregation of all contributions to technological readiness into one factor. This leverages accessible data such as investment costs or production volumes. However, this can only be used for technologies that have reached a certain level of commercialisation, as cost data are generally non existent or confidential at early TRLs. $$c_t = c_o (\frac{P_t}{P_0})^{-\alpha}$$
+Learning rate (LR) is described as the percentage cost reduction with each doubling of cumulative production capacity. $$LR=1-2^{-\alpha}$$
 
 #### Two Factor Learning Curves (TFLC)
 
