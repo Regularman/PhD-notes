@@ -51,6 +51,9 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 #### Methodology
 
 This is informed by the 2005 IEAGHG report, which states that the technological readiness level of 
+1. Break each plant into its technology subsection
+2. Estimate the current plant costs and contributions of each subsection
+3. Select an appropriate learning rate 
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
