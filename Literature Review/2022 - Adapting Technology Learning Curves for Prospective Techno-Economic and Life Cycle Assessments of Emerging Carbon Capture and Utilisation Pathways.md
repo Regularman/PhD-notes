@@ -53,14 +53,19 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 This is informed by the 2005 IEAGHG report, which states that the technological readiness level of 
 1. Break each plant into its technology subsection
 2. Estimate the current plant costs and contributions of each subsection
-3. Select an appropriate learning rate 
+3. Select an appropriate learning rate for each subsection/component
+4. Estimate the current capacity of major plant components
+5. Set the start of learning (FOAK) and ending period (NOAK)
+6. Perform sensitivity analysis
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
 - Elia et al 2020
 - Thomassen et al 2020
 
-Look at NTEL paper
+Look at NTEL paper (2013)
+
+Reuben 2019 and Roussanaly 2021 also provides a 
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
