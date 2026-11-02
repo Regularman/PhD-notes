@@ -59,7 +59,7 @@ This is informed by the 2005 IEAGHG report, which states that the technological 
 6. Perform sensitivity analysis
 
 The study uses the formula $$\alpha =\frac{\log{(1-LR)}}{\log{(2)}}$$
-The LR is based on historical LR from other similar technology, using data classification methodology from [[Thommassen 2020]]. Subsequently, as learning rates are normally defined for CAPEX rather than OPEX, the EPC is found as $$c_{EPC}= TDC*(1+c_{indirect})$$where the TDC is total direct cost and $c_{indirect}$ is the indirect cost of the plant. Then the process and project contingencies must be added $$TPC_{FOAK}=c_{EPC}*(1+c_{process}+c_{project})$$We can then use the learning index $\alpha$ and $N$ , the number of plants necessary to reach the desired NOAK plant $$TPC_{NOAK}=TPC_{FOAK}*N^{-\alpha}$$
+The LR is based on historical LR from other similar technology, using data classification methodology from [[Thommassen 2020]]. In this study, the assumption for leanring rates comes from literature arSubsequently, as learning rates are normally defined for CAPEX rather than OPEX, the EPC is found as $$c_{EPC}= TDC*(1+c_{indirect})$$where the TDC is total direct cost and $c_{indirect}$ is the indirect cost of the plant. Then the process and project contingencies must be added $$TPC_{FOAK}=c_{EPC}*(1+c_{process}+c_{project})$$We can then use the learning index $\alpha$ and $N$ , the number of plants necessary to reach the desired NOAK plant $$TPC_{NOAK}=TPC_{FOAK}*N^{-\alpha}$$
 The number for $N$ can be determined via several methods
 - Calculating the cumulative capacity that would need to be installed for a plant to break even
 - Finding the cumulative capacity where the learning curve flattens out
