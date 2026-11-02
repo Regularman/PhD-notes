@@ -66,7 +66,8 @@ Papers on energy generation and storage for calculation of learning rates
 Look at NTEL paper (2013)
 
 Reuben 2019 and Roussanaly et al 2013 provides a hybrid bottom-up/engineering economic and a top-down/learning curve approach for cost estimation.
-- The early FOAK stage has additional redundanc
+- The early FOAK stage has additional redundancy to reduce risk of failure during operation. These designs are optimised in mature technologies.
+- However, NOAK plants should not be derived using a bottom-up costing approach as it is not really possible to odel high-level cost of future plants
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
