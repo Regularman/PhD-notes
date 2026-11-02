@@ -11,4 +11,4 @@ Ultimately, this is a TRL based approach.
 Direct comparison of new technology with existing infrastructure is not 'apples for apples', because existing infrastructure already have the benefit of learning period and technological experience. 
 - All existing literature circumnavigates this by assessing data for similar 
 
-The paper proposes using granular learnign curves 
+The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on cost)
