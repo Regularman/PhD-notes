@@ -19,6 +19,10 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 - labour efficiencies
 - standardised manufacturing
 - optimization of product design
+
+#### One Factor Learning Curves (OFLC)
+
+OFLC looks at
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
