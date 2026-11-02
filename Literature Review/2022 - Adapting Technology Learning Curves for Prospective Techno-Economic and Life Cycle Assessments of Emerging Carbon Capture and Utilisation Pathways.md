@@ -61,7 +61,11 @@ This is informed by the 2005 IEAGHG report, which states that the technological 
 The study uses the formula $$\alpha =\frac{\log{(1-LR)}}{\log{(2)}}$$
 The LR is based on historical LR from other similar technology, using data classification methodology from [[Thommassen 2020]]. Subsequently, as learning rates are normally defined for CAPEX rather than OPEX, the EPC is found as $$c_{EPC}= TDC*(1+c_{indirect})$$where the TDC is total direct cost and $c_{indirect}$ is the indirect cost of the plant. Then the process and project contingencies must be added $$TPC_{FOAK}=c_{EPC}*(1+c_{process}+c_{project})$$We can then use the learning index $\alpha$ and $N$ , the number of plants necessary to reach the desired NOAK plant $$TPC_{NOAK}=TPC_{FOAK}*N^{-\alpha}$$
 The number for $N$ can be determined via several methods
-- Calculating the cumulative capacity that would need to be installe
+- Calculating the cumulative capacity that would need to be installed for a plant to break even
+- Finding the cumulative capacity where the learning curve flattens out
+- Using a number of plants that would translate into pre-defined market share
+- Using a number of plants that correspond to those that would receive external subsidies. This would find
+
 Alternatively, a more granular approach will be to estimate cost learning for each component, and then have a composite learning rate known as $$LR_{composite}=\sum_i[LR_{sys, element}*\frac{TDC_{sys,element}*(1+c_{indirect})*(1+c_{process}+c_{project})}{TPC_{overall,sys}}]$$
 For emissions, a separate methodology can be followed, with a new learning index and learning rate used for the metric.
 - However, there should be a theoretical limit on how much the ~={red}foreground system=~ can decarbonise. Any factors after reaching this theoretical limit needs to come from exogenous systems under considerations such as lower scope 2 emissions.
