@@ -36,7 +36,12 @@ In MFLC, learning by doing is disaggregated into learning by using, learning by 
 
 #### Comparison with similar technologies
 
-CCU can be compared to CCS due to capture components of both technologies, but performance changes with each indi
+CCU can be compared to CCS due to capture components of both technologies, but performance changes with each individual capture technology.
+- A report from NETL analysed the learning rates for estimating costs between FOAK and NOAK plants.
+
+#### Recommendations
+
+1.
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
