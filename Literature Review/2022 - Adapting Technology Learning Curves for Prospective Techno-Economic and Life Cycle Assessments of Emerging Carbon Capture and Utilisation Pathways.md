@@ -64,10 +64,10 @@ The number for $N$ can be determined via several methods
 - Calculating the cumulative capacity that would need to be installed for a plant to break even
 - Finding the cumulative capacity where the learning curve flattens out
 - Using a number of plants that would translate into pre-defined market share
-- Using a number of plants that correspond to those that would receive external subsidies. For example, in this study, they assume that up to 5% of cement plants in Western Europe will receive public subsidy, translating to around 10 plants at the NOAK levle.
+- Using a number of plants that correspond to those that would receive external subsidies. ~={green}For example, in this study, they assume that up to 5% of cement plants in Western Europe will receive public subsidy, translating to around 10 plants at the NOAK level.=~
 
 Alternatively, a more granular approach will be to estimate cost learning for each component, and then have a composite learning rate known as $$LR_{composite}=\sum_i[LR_{sys, element}*\frac{TDC_{sys,element}*(1+c_{indirect})*(1+c_{process}+c_{project})}{TPC_{overall,sys}}]$$
-For emissions, a separate methodology can be followed, with a new learning index and learning rate used for the metric.
+For emissions, a separate methodology can be followed, with a new learning index and learning rate used for the metric. For example, in this study, an emission floor was calculaed using 
 - However, there should be a theoretical limit on how much the ~={red}foreground system=~ can decarbonise. Any factors after reaching this theoretical limit needs to come from exogenous systems under considerations such as lower scope 2 emissions.
 ![[Screenshot 2026-11-02 at 10.00.47 pm.png]]
 ![[Screenshot 2026-11-02 at 10.00.57 pm.png]]
