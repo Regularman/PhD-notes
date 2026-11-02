@@ -15,4 +15,7 @@ The paper proposes using granular learning curves and also projecting GHG emissi
 
 ## Content
 
-Note that learning rates for different metrics of the same technology (cost, GHG emissions, efficiency), may be different.
+Note that learning rates for different metrics of the same technology (cost, GHG emissions, efficiency), may be different. The factors that contribute to improved learning are
+- labour efficiencies
+- standardised manufacturing
+- optimization of product design
