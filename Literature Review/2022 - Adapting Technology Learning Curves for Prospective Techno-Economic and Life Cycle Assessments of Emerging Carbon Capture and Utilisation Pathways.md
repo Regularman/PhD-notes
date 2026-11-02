@@ -57,6 +57,8 @@ This is informed by the 2005 IEAGHG report, which states that the technological 
 4. Estimate the current capacity of major plant components
 5. Set the start of learning (FOAK) and ending period (NOAK)
 6. Perform sensitivity analysis
+
+The study uses the formula $$\alpha =\frac{\log{(1-LR)}}{\log{(2)}}$$
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
