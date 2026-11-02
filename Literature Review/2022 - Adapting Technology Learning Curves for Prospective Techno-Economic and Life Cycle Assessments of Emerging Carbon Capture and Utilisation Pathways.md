@@ -34,7 +34,9 @@ TFLC disaggregates the learning factors into learning-by-searching and learning-
 
 In MFLC, learning by doing is disaggregated into learning by using, learning by interacting, and learning by learning by deployment to integrate the effect of user feedback on the learnign curve
 
-#### Comparison with the 
+#### Comparison with similar technologies
+
+CCU can be compared to CCS due to capture components of both technologies, but performance changes with each indi
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
