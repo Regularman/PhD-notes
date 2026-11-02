@@ -20,6 +20,7 @@ Note that learning rates for different metrics of the same technology (cost, GHG
 - standardised manufacturing
 - optimization of product design
 
+However, it should be noted that there are exogenous factors that affect costs, such as fluct
 #### One Factor Learning Curves (OFLC)
 
 OFLC looks at the aggregation of all contributions to technological readiness into one factor. This leverages accessible data such as investment costs or production volumes. However, this can only be used for technologies that have reached a certain level of commercialisation, as cost data are generally non existent or confidential at early TRLs. $$c_t = c_o (\frac{P_t}{P_0})^{-\alpha}$$
@@ -29,7 +30,7 @@ Learning rate (LR) is described as the percentage cost reduction with each doubl
 TFLC disaggregates the learning factors into learning-by-searching and learning-by-doing. This allows integrating a research variable that helps with modelling early stage technologies. $$c_t=c_0(\frac{P_t}{P_0})^{-\alpha}\times(KS)^{-\beta}$$
 #### Multi-factor Learning Curves (MFLC)
 
-In MFLC, learning by doing is disaggregated into learning by using, learning by interacting, and learning by learning by deployment to ibnt
+In MFLC, learning by doing is disaggregated into learning by using, learning by interacting, and learning by learning by deployment to integrate the effect of user feedback on the learnign curve
 
 
 ## Limitations
