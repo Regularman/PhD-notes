@@ -12,7 +12,7 @@ Direct comparison of new technology with existing infrastructure is not 'apples 
 - All existing literature circumnavigates this by assessing data for similar 
 
 The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on costs).
-- n
+- The disaggregation of the technology into each of its components allow for more informed predictions of cost decrease moving forwards.
 
 The paper uses OFLCs to model how capital cost and GHG emissions could change with increased deployment 
 
