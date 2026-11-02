@@ -45,6 +45,7 @@ CCU can be compared to CCS due to capture components of both technologies, but p
 3. Combining projections from experts with extrapolated performance metrics generated with learning curves
 4. Considering LBS effects using patent and experimental data when possible
 5. Prioritise use of historical data and literature values over rates from similar technologies
+6. Need to acknowledge the uncertainty within the data, and also adjust for inflations and scale. These uncert
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
