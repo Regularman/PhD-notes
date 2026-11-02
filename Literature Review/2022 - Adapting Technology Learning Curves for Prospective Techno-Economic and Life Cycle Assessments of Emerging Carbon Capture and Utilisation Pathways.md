@@ -65,7 +65,8 @@ Papers on energy generation and storage for calculation of learning rates
 
 Look at NTEL paper (2013)
 
-Reuben 2019 provides a hybrid bottom-up/engineering economic and Roussanaly 2021 also provides a top-down/learning curve approach for cost estimation.
+Reuben 2019 and Roussanaly et al 2013 provides a hybrid bottom-up/engineering economic and a top-down/learning curve approach for cost estimation.
+- The early FOAK stage has additional redundanc
 ## Limitations
 
 Rather than looking at the performance improvements of a technology class, this study looks at learning improvements of a design from FOAK to NOAK.
