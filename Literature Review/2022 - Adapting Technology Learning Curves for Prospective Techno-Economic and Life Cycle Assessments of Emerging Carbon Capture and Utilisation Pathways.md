@@ -73,6 +73,10 @@ For emissions, a separate methodology can be followed, with a new learning index
 ![[Screenshot 2026-11-02 at 10.00.57 pm.png]]
 ![[Screenshot 2026-11-02 at 10.01.06 pm.png]]
 ![[Screenshot 2026-11-02 at 10.01.26 pm.png]]
+#### Results
+
+Finally, the learning rates for each component of the technology can be estimated based on the TRL level
+![[Screenshot 2026-11-02 at 10.02.52 pm.png]]
 ## Further Readings
 
 Papers on energy generation and storage for calculation of learning rates
