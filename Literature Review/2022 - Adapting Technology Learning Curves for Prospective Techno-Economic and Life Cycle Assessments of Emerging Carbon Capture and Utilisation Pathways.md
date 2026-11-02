@@ -13,7 +13,7 @@ Direct comparison of new technology with existing infrastructure is not 'apples 
 
 The paper proposes using granular learning curves and also projecting GHG emissions predictions (current studies focus on costs).
 
-The paper uses OFLCs to model how capital cost and GHG emissions could change with increased depl
+The paper uses OFLCs to model how capital cost and GHG emissions could change with increased deployment 
 
 ## Content
 
