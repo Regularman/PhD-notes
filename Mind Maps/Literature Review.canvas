@@ -185,7 +185,8 @@
 		{"id":"118d191432a6aa96","type":"text","text":"# ~={cyan}Technology projection methodologies=~","x":-5521,"y":-146,"width":250,"height":116,"color":"5"},
 		{"id":"8a39368a559917f0","type":"file","file":"PhD-notes/Literature Review/2022 - Adapting Technology Learning Curves for Prospective Techno-Economic and Life Cycle Assessments of Emerging Carbon Capture and Utilisation Pathways.md","x":-6200,"y":-715,"width":400,"height":235,"color":"5"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1834,"width":400,"height":194,"color":"6"},
-		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1589,"width":400,"height":189,"color":"6"}
+		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1589,"width":400,"height":189,"color":"6"},
+		{"id":"8d8aa04704a1b973","x":-5965,"y":-907,"width":400,"height":147,"color":"6","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -361,6 +362,7 @@
 		{"id":"9dbb01ae56d9aa9e","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"ceb0e2e750677ab7","toSide":"right"},
 		{"id":"d079a3b51201a215","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"0152f5e7a1ea6bba","toSide":"right"},
 		{"id":"8bde6c7ac2313d3f","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"118d191432a6aa96","toSide":"right"},
-		{"id":"d27040f99dc87a3f","fromNode":"118d191432a6aa96","fromSide":"left","toNode":"8a39368a559917f0","toSide":"right"}
+		{"id":"d27040f99dc87a3f","fromNode":"118d191432a6aa96","fromSide":"left","toNode":"8a39368a559917f0","toSide":"right"},
+		{"id":"0abc2200c3032b91","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"8d8aa04704a1b973","toSide":"right"}
 	]
 }
