@@ -85,7 +85,7 @@ MILP was chosen and implemented with an object orientated approach. Some options
 #### Assumptions
 
 - No storage losses as storage is not designed to be inter-day
-- The state of charge is calculated using the specific heat capacity, the volume and the temperature difference witht eh ambient
+- The state of charge is calculated using the specific heat capacity, the volume and the temperature difference with the ambient
 - You have to consider the start up and shut down costs of the BMP.
 
 Considers in-depth constraint models for each of the technology
