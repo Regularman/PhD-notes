@@ -188,7 +188,8 @@
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1589,"width":400,"height":189,"color":"6"},
 		{"id":"8d8aa04704a1b973","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-907,"width":400,"height":147,"color":"6"},
 		{"id":"a669ce3ae1580433","type":"text","text":"# ~={red}Climate and emissions modelling=~","x":-8364,"y":69,"width":324,"height":110,"color":"1"},
-		{"id":"9cfc028eec762df7","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md","x":-8160,"y":314,"width":400,"height":189,"color":"1"}
+		{"id":"9cfc028eec762df7","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md","x":-8080,"y":261,"width":400,"height":189,"color":"1"},
+		{"id":"6a17a9f764c9389a","x":-8080,"y":480,"width":400,"height":180,"color":"1","type":"file","file":"PhD-notes/2026/6 - June/2024 Multi-Sectoral Modelling CSIRO.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -365,6 +366,8 @@
 		{"id":"d079a3b51201a215","fromNode":"378061b4620320ff","fromSide":"bottom","toNode":"0152f5e7a1ea6bba","toSide":"right"},
 		{"id":"8bde6c7ac2313d3f","fromNode":"239b241930bb4faf","fromSide":"top","toNode":"118d191432a6aa96","toSide":"right"},
 		{"id":"d27040f99dc87a3f","fromNode":"118d191432a6aa96","fromSide":"left","toNode":"8a39368a559917f0","toSide":"right"},
-		{"id":"0abc2200c3032b91","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"8d8aa04704a1b973","toSide":"right"}
+		{"id":"0abc2200c3032b91","fromNode":"0f24fc6f0fc487c1","fromSide":"bottom","toNode":"8d8aa04704a1b973","toSide":"right"},
+		{"id":"5a2127b40001b878","fromNode":"a669ce3ae1580433","fromSide":"bottom","toNode":"9cfc028eec762df7","toSide":"left"},
+		{"id":"263e5c64491d6324","fromNode":"a669ce3ae1580433","fromSide":"bottom","toNode":"6a17a9f764c9389a","toSide":"left"}
 	]
 }
