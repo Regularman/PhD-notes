@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a669ce3ae1580433","x":-8364,"y":69,"width":250,"height":60,"type":"text","text":""},
 		{"id":"71cd8a28a3fda54b","type":"text","text":"## *~={red}Residential Heating=~*","x":-1915,"y":-1706,"width":250,"height":80,"color":"1"},
 		{"id":"ecaee4a912a8ed76","type":"text","text":"# *~={red}Hass Case Studies*=~","x":-1665,"y":-1487,"width":302,"height":62,"color":"1"},
 		{"id":"23345aa8dc41a8b5","type":"text","text":"# *~={yellow}Economic modelling and feasibility of low carbon heat=~*","x":-1971,"y":-1102,"width":353,"height":109,"color":"3"},
@@ -188,7 +187,8 @@
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1834,"width":400,"height":194,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1589,"width":400,"height":189,"color":"6"},
 		{"id":"8d8aa04704a1b973","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-907,"width":400,"height":147,"color":"6"},
-		{"id":"9cfc028eec762df7","x":-7680,"y":-175,"width":400,"height":189,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md"}
+		{"id":"a669ce3ae1580433","type":"text","text":"# ~={red}Climate and emissions modelling=~","x":-8364,"y":69,"width":324,"height":110,"color":"1"},
+		{"id":"9cfc028eec762df7","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md","x":-8160,"y":314,"width":400,"height":189,"color":"1"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
