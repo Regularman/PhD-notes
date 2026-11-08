@@ -32,4 +32,6 @@ The way that the network was designed is extremely generic
 
 Geothermal system is based on the available data using a French system. This ignores the different geothermal potential of different areas.
 
+- Assume the same heat and electricity allocation, 54% of heat and $47\
+
 
