@@ -11,4 +11,4 @@ Highlights lack of literature that looks at the environmental performance of hea
 
 ## Content
 
-District heating is a popular way to integrate renewable energy into the 
+District heating is a popular way to integrate renewable energy into the heating system
