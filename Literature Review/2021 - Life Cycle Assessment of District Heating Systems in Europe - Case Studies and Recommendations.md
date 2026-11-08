@@ -36,6 +36,8 @@ Geothermal system is based on the available data using a French system. This ign
 
 Assume the same heat and electricity allocation, 54% of heat and $47\%$ of electricity from CHP units used in centralised units.
 
-Seasonal rather than diurnal COP data was 
+Seasonal rather than diurnal COP data was used.
+
+Depth of heating pipeline is also a design factor $0.5$ to $3$m with a mean of $0.8m$. What are the preliminary
 
 
