@@ -22,7 +22,7 @@ These impact categories were analysed in different European regions, from north,
 
 District heating is a popular way to integrate renewable energy into the heating system.
 
-Note that there are conventional gas boilers and condensing 
+Note that there are conventional gas boilers and condensing boilers which have lower fume temperatures to allow for waste heat recovery and therefore higher yields.
 
 ## Limitations
 
