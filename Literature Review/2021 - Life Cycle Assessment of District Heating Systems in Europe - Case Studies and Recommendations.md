@@ -36,7 +36,8 @@ LCA is built on a series of assumptions, therefore, the sensitivity analysis is 
 - Efficiency: Efficiency drives district heating performance compared to natural gas use. Used 0.97 in the study. What happens if 0.9 was used for efficiency of gas condensing furnace?
 - Further, there are different complement rates (natural gas infrastructure remaining) in renewable district heating solution. In the scenario where waste heat is recovered from industry, CC impacts more than doubled when the complement rate of natural gas increased from 20% to 80%.
 - Neutrality of biogenic biomass carbon accounting: Upstream assumption of carbon neutrality. however does methodology account for the transportation and fossil fuel used in the harvesting of the biomass? Renewable Energy Directive in Europe considers biomass to be netural. Also does not consider the land use impacts.
-
+![[Screenshot 2026-11-08 at 3.19.57 pm.png]]
+- Further, how waste 
 ## Limitations
 
 The way that the network was designed is extremely generic
