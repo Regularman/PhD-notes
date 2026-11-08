@@ -33,7 +33,8 @@ The graph above show notable tradeoffs between different heating technologies, c
 #### Sensitivity analysis
 LCA is built on a series of assumptions, therefore, the sensitivity analysis is important to understand if these assumptions impact the results significantly
 
-- Efficiency: Efficiency drives Used 0.97 in the study.
+- Efficiency: Efficiency drives district heating performance compared to natural gas use. Used 0.97 in the study. What happens if 0.9 was used for efficiency of gas condensing furnace?
+- Further, there
 
 ## Limitations
 
