@@ -38,7 +38,7 @@ LCA is built on a series of assumptions, therefore, the sensitivity analysis is 
 - Neutrality of biogenic biomass carbon accounting: Upstream assumption of carbon neutrality. however does methodology account for the transportation and fossil fuel used in the harvesting of the biomass? Renewable Energy Directive in Europe considers biomass to be netural. Also does not consider the land use impacts.
 ![[Screenshot 2026-11-08 at 3.19.57 pm.png]]
 - Further, how waste heat is accounted. The boundary of cut off matters. If waste heat burden is not taken by the generators, then DH solutions will be less feasible. However, this does not reflect the fact that use of waste heat from waste incineration may drive the industry and is therefore somewhat responsible for the emissions allocated to the sector.
-- cogeneration allocation between electricity and heat generation is also import
+- cogeneration allocation between electricity and heat generation is also important
 ## Limitations
 
 The way that the network was designed is extremely generic
