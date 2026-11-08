@@ -34,7 +34,7 @@ The graph above show notable tradeoffs between different heating technologies, c
 LCA is built on a series of assumptions, therefore, the sensitivity analysis is important to understand if these assumptions impact the results significantly
 
 - Efficiency: Efficiency drives district heating performance compared to natural gas use. Used 0.97 in the study. What happens if 0.9 was used for efficiency of gas condensing furnace?
-- Further, there are different complement rates (natural gas infrastructure remaining) in renewable district heating solution
+- Further, there are different complement rates (natural gas infrastructure remaining) in renewable district heating solution. In the scenario where waste heat is recovered from industry, CC impacts more than doubled when the complement rate of natural gas increased from 20% to 80%.
 
 ## Limitations
 
