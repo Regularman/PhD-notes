@@ -38,6 +38,6 @@ Assume the same heat and electricity allocation, 54% of heat and $47\%$ of elect
 
 Seasonal rather than diurnal COP data was used.
 
-Depth of heating pipeline is also a design factor $0.5$ to $3$m with a mean of $0.8m$. What are the preliminary
+Depth of heating pipeline is also a design factor $0.5$ to $3$m with a mean of $0.8m$. What are the preliminary and detailed design factors, what should we consider before we pass this research onto Iberdrola or other ESCOs.
 
 
