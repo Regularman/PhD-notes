@@ -24,6 +24,8 @@ District heating is a popular way to integrate renewable energy into the heating
 
 Note that there are conventional gas boilers and condensing boilers which have lower fume temperatures to allow for waste heat recovery and therefore higher yields.
 
+![[Screenshot 2026-11-08 at 3.00.24 pm.png]]
+The study begins to draw relationships between the density of the habitat and the environmental impact factors using an LCA approach!
 ## Limitations
 
 The way that the network was designed is extremely generic
