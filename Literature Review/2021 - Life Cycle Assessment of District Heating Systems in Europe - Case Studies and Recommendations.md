@@ -8,3 +8,5 @@ The study attempts to provide guidelines for accounting for said performance.
 - Recognises district heating to have higher energy efficiency and capable of reducing primary energy use.
 
 Highlights lack of literature that looks at the environmental performance of heating systems that looks at environmental impacts beyond climate change.
+
+## Content
