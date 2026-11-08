@@ -9,6 +9,8 @@ The study attempts to provide guidelines for accounting for said performance.
 
 Highlights lack of literature that looks at the environmental performance of heating systems that looks at environmental impacts beyond climate change.
 
+However, confined to space heating and domestic water supply for 
+
 ## Content
 
 District heating is a popular way to integrate renewable energy into the heating system
