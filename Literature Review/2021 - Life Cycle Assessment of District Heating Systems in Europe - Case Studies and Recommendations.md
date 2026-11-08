@@ -27,9 +27,9 @@ Note that there are conventional gas boilers and condensing boilers which have l
 ![[Screenshot 2026-11-08 at 3.00.24 pm.png]]
 The study begins to draw relationships between the density of the habitat and the environmental impact factors using an LCA approach!
 
-The LCA methodology allows the authors to compare the heatign systems with base case and between different technologies.
+The LCA methodology allows the authors to compare the heatign systems with base case and between different technologies.![[Screenshot 2026-11-08 at 3.10.16 pm.png]]
 ![[Screenshot 2026-11-08 at 3.04.25 pm.png]]
-
+The graph above show notable tradeoffs between different heating technologies, centeralisation versus decentralisation, and also application in denser versus not dense heating ne
 
 
 ## Limitations
