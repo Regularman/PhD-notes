@@ -32,7 +32,10 @@ The way that the network was designed is extremely generic
 
 Geothermal system is based on the available data using a French system. This ignores the different geothermal potential of different areas.
 - Dependent on water quality and soil temperature
+- constrained by the lack of geographical data in Europe
 
-- Assume the same heat and electricity allocation, 54% of heat and $47\%$ of electricity from CHP units used in centralised units.
+Assume the same heat and electricity allocation, 54% of heat and $47\%$ of electricity from CHP units used in centralised units.
+
+Seasonal rather than diurnal COP data was 
 
 
