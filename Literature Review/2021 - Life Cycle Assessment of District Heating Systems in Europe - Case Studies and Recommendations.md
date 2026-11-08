@@ -29,7 +29,7 @@ The study begins to draw relationships between the density of the habitat and th
 
 The LCA methodology allows the authors to compare the heatign systems with base case and between different technologies.![[Screenshot 2026-11-08 at 3.10.16 pm.png]]
 ![[Screenshot 2026-11-08 at 3.04.25 pm.png]]
-The graph above show notable tradeoffs between different heating technologies, centeralisation versus decentralisation, and also application in denser versus not dense heating ne
+The graph above show notable tradeoffs between different heating technologies, centeralisation versus decentralisation, and also application in denser versus not dense heating networks.
 
 
 ## Limitations
