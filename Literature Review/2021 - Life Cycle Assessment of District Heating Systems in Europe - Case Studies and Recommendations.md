@@ -29,6 +29,9 @@ The study begins to draw relationships between the density of the habitat and th
 
 The LCA methodology allows the authors to compare the heatign systems with base case and between different technologies.
 ![[Screenshot 2026-11-08 at 3.04.25 pm.png]]
+
+
+
 ## Limitations
 
 The way that the network was designed is extremely generic
