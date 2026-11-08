@@ -26,6 +26,8 @@ District heating is a popular way to integrate renewable energy into the heating
 
 The way that the network was designed is extremely generic
 - Thermal density described as the ration of total delivered energy over the length of the network, using specified values of $2GWh/km$ and $10GWh/km$.
-- While the installed capacity is calculated using a set diversity factor of $0.7-0.85$ depending on , safety coefficient, and leak rate.
+- While the installed capacity is calculated using a set diversity factor of $0.7-0.85$ depending on land use type, safety coefficient, and leak rate (efficiency of $98\%$ considered).
+
+Geothermal sy
 
 
