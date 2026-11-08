@@ -33,6 +33,8 @@ The graph above show notable tradeoffs between different heating technologies, c
 #### Sensitivity analysis
 LCA is built on a series of assumptions, therefore, the sensitivity analysis is important to understand if these assumptions impact the results significantly
 
+- Efficiency: Efficiency drives Used 0.97 in the study.
+
 ## Limitations
 
 The way that the network was designed is extremely generic
