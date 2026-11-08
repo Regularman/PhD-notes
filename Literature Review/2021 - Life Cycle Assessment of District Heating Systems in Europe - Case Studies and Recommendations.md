@@ -15,9 +15,13 @@ However, confined to space heating and domestic water supply using district heat
 - respiratory inorganics
 - acidification
 - eutrophication of freshwater
+These impact categories were analysed in different European regions, from north, east, weat, and south Europe
 
 ![[Screenshot 2026-11-08 at 2.45.17 pm.png]]
 ## Content
 
 District heating is a popular way to integrate renewable energy into the heating system
+
+## Limitations
+
 
