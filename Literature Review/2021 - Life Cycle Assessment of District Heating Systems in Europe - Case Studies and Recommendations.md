@@ -31,7 +31,8 @@ The way that the network was designed is extremely generic
 - While the installed capacity is calculated using a set diversity factor of $0.7-0.85$ depending on land use type, safety coefficient, and leak rate (efficiency of $98\%$ considered).
 
 Geothermal system is based on the available data using a French system. This ignores the different geothermal potential of different areas.
+- Dependent on water quality and soil temperature
 
-- Assume the same heat and electricity allocation, 54% of heat and $47\
+- Assume the same heat and electricity allocation, 54% of heat and $47\%$ of electricity from CHP units used in centralised units.
 
 
