@@ -24,4 +24,6 @@ District heating is a popular way to integrate renewable energy into the heating
 
 ## Limitations
 
+The way that the network was designed is extremely specific 
+
 
