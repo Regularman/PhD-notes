@@ -176,8 +176,7 @@
 		{"id":"86b6711ce67b2eaf","type":"file","file":"PhD-notes/Literature Review/2019 - Decoupling Debunked - Evidence and Arguments against Green Growth as a sole strategy for sustainability.md","x":-7920,"y":-2378,"width":400,"height":85,"color":"6"},
 		{"id":"b127a90f32f45513","type":"file","file":"PhD-notes/Literature Review/2015 - Reducing energy demand - A review of issues, challenges and approaches.md","x":-7920,"y":-2256,"width":400,"height":156,"color":"6"},
 		{"id":"f853cf8f5fd55a8a","type":"file","file":"PhD-notes/Literature Review/2015 - Integrating Planning Support Systems and Multicriteria Evaluation for Energy Facility Site Suitability Evaluation.md","x":-7480,"y":-1215,"width":400,"height":185,"color":"6"},
-		{"id":"ceb0e2e750677ab7","type":"file","file":"PhD-notes/Literature Review/2020 - Policy Decision Support for Renewables Deployment through Spatially Explicit Optimal Alternatives.md","x":-7480,"y":-998,"width":400,"height":138,"color":"6"},
-		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-824,"width":400,"height":227,"color":"6"},
+		{"id":"ceb0e2e750677ab7","type":"file","file":"PhD-notes/Literature Review/2020 - Policy Decision Support for Renewables Deployment through Spatially Explicit Optimal Alternatives.md","x":-7480,"y":-998,"width":400,"height":165,"color":"6"},
 		{"id":"118d191432a6aa96","type":"text","text":"# ~={cyan}Technology projection methodologies=~","x":-5521,"y":-146,"width":250,"height":116,"color":"5"},
 		{"id":"8a39368a559917f0","type":"file","file":"PhD-notes/Literature Review/2022 - Adapting Technology Learning Curves for Prospective Techno-Economic and Life Cycle Assessments of Emerging Carbon Capture and Utilisation Pathways.md","x":-6200,"y":-715,"width":400,"height":235,"color":"5"},
 		{"id":"8d8aa04704a1b973","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-907,"width":400,"height":147,"color":"6"},
@@ -191,7 +190,8 @@
 		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-4678,"y":-3465,"width":400,"height":166,"color":"4"},
 		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1477,"width":400,"height":189,"color":"6"},
-		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1776,"width":400,"height":194,"color":"6"}
+		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1776,"width":400,"height":194,"color":"6"},
+		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-807,"width":400,"height":227,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
