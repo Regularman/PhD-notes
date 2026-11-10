@@ -6,7 +6,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8966509
 When DHS are used to support the operation of power grids, more frequent adjustments to the electricity generation/consumption of the heat producer are required. These fluctuations affect the DHS operation and are then propagated throughout the whole DHS.
 - This may push the DHS on its operational limit (supply of reliable heat to the consumers or temperature limits of the pipeline networks.)
 
-due to hydraulic lag, here will be delays in the propagation of thermal fluctuations, making flexibility calculations difficult.'
+due to hydraulic lag, here will be delays in the propagation of thermal fluctuations, making flexibility calculations difficult.
 
 The main contributions of this paper is that
 - Model based method to help DHS owners evaluate their maximum change of electricity generation/consumption for flexibility provision under the given operating condition
