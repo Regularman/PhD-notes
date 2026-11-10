@@ -167,7 +167,6 @@
 		{"id":"effdc0d7da63bd3b","type":"text","text":"# ~={purple}Resilience and Reliability=~","x":-7008,"y":-2553,"width":250,"height":113,"color":"6"},
 		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience considerations.md","x":-7488,"y":-2859,"width":400,"height":139,"color":"6"},
 		{"id":"307ae51caeee5342","type":"file","file":"PhD-notes/Literature Review/2022 - Optimal design and operation of distributed electrical generation for Italian positive energy districts with biomass district heating.md","x":-5598,"y":-2954,"width":400,"height":95,"color":"6"},
-		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4280,"width":400,"height":160,"color":"6"},
 		{"id":"2b87743b4828b768","type":"file","file":"PhD-notes/Literature Review/2025 - Optimal Design of Integrated Energy Systems Based on Reliability Assessments.md","x":-7488,"y":-3044,"width":400,"height":144,"color":"6"},
 		{"id":"737f4fe390cab9b0","type":"file","file":"PhD-notes/Literature Review/2018 - Topology Optimisation of Robust District Heating Networks.md","x":-7488,"y":-3195,"width":400,"height":102,"color":"6"},
 		{"id":"d84db878103b3ec8","type":"file","file":"PhD-notes/Literature Review/2020 - Reliability segment design in single-source district heating networks based on valve network models.md","x":-7488,"y":-3352,"width":400,"height":125,"color":"6"},
@@ -187,10 +186,11 @@
 		{"id":"9425921a068f9321","type":"text","text":"# **Absolute Sustainability Assessments**","x":-3842,"y":-2772,"width":250,"height":144,"color":"4"},
 		{"id":"1e4abd31b0f4fbaf","type":"file","file":"PhD-notes/Literature Review/2024 - Assessing the potential for Electrification for the Food Industry and Its Implication for Environmental Sustainability.md","x":-4678,"y":-3680,"width":407,"height":186},
 		{"id":"755cbf38b35c5729","type":"file","file":"PhD-notes/Literature Review/2023 - Planetary Boundary Assessment of Deep Decarbonisation Options for Building Heat in the European Union.md","x":-4678,"y":-3465,"width":400,"height":166,"color":"4"},
-		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
 		{"id":"670df2149b5006fa","type":"file","file":"PhD-notes/Literature Review/2022 - Extended optimisation model for decentral multi-energy systems including cold district heating for the integration of renewable heating and cooling.md","x":-7480,"y":-1477,"width":400,"height":189,"color":"6"},
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1776,"width":400,"height":194,"color":"6"},
-		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-807,"width":400,"height":227,"color":"6"}
+		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-807,"width":400,"height":227,"color":"6"},
+		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
+		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4360,"width":400,"height":160,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
