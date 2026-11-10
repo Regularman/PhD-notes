@@ -123,7 +123,7 @@
 		{"id":"b4b89eba0f727907","type":"file","file":"PhD-notes/Literature Review/2020 - Humanising HaaS - Cost, Creature Comforts and the diversity of smart heating practices in the UK - Outcome of the Bristol Energy Heating Trials.md","x":-793,"y":-2609,"width":400,"height":151,"color":"1"},
 		{"id":"34bc062e097f5e6d","type":"file","file":"PhD-notes/Literature Review/2013 - The Energy Services Company (ESCo) as business model for heat entrepreneurship-A case study of North Karelia, Finland.md","x":-793,"y":-2246,"width":400,"height":174,"color":"1"},
 		{"id":"2b4fc0a627ac540e","type":"file","file":"PhD-notes/Literature Review/2024 - The First Fifth-Generation District Heating and Cooling System in Kazakhstan - Planning and Design.md","x":-6558,"y":-2720,"width":400,"height":130,"color":"6"},
-		{"id":"1e11791c0edd0d33","type":"file","file":"PhD-notes/Literature Review/2017 - Are district heating systems and renewable energy sources always an environmental win-win solution. A life cycle assessment case study in Tuscany Italy.md","x":-4678,"y":-1684,"width":400,"height":100,"color":"4"},
+		{"id":"1e11791c0edd0d33","type":"file","file":"PhD-notes/Literature Review/2017 - Are district heating systems and renewable energy sources always an environmental win-win solution. A life cycle assessment case study in Tuscany Italy.md","x":-4678,"y":-1684,"width":400,"height":204,"color":"4"},
 		{"id":"eb4740c37bbb33d3","type":"file","file":"PhD-notes/Literature Review/2025 - Integration of circular strategies into the life-cycle assessment of heat pumps.md","x":-4358,"y":-1227,"width":358,"height":123,"color":"4"},
 		{"id":"f96bbb691d6984f8","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Pumps in the Circular Economy.md","x":-4358,"y":-1399,"width":358,"height":131,"color":"4"},
 		{"id":"e8db92b4073c7240","type":"file","file":"PhD-notes/Literature Review/2023 - Fifth-generation district heating and cooling systems - A review of recent advancements and implementation barriers.md","x":-5628,"y":-2523,"width":400,"height":175,"color":"6"},
@@ -176,7 +176,6 @@
 		{"id":"f853cf8f5fd55a8a","type":"file","file":"PhD-notes/Literature Review/2015 - Integrating Planning Support Systems and Multicriteria Evaluation for Energy Facility Site Suitability Evaluation.md","x":-7480,"y":-1215,"width":400,"height":185,"color":"6"},
 		{"id":"ceb0e2e750677ab7","type":"file","file":"PhD-notes/Literature Review/2020 - Policy Decision Support for Renewables Deployment through Spatially Explicit Optimal Alternatives.md","x":-7480,"y":-998,"width":400,"height":165,"color":"6"},
 		{"id":"118d191432a6aa96","type":"text","text":"# ~={cyan}Technology projection methodologies=~","x":-5521,"y":-146,"width":250,"height":116,"color":"5"},
-		{"id":"8a39368a559917f0","type":"file","file":"PhD-notes/Literature Review/2022 - Adapting Technology Learning Curves for Prospective Techno-Economic and Life Cycle Assessments of Emerging Carbon Capture and Utilisation Pathways.md","x":-6200,"y":-715,"width":400,"height":235,"color":"5"},
 		{"id":"8d8aa04704a1b973","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-907,"width":400,"height":147,"color":"6"},
 		{"id":"a669ce3ae1580433","type":"text","text":"# ~={red}Climate and emissions modelling=~","x":-8364,"y":69,"width":324,"height":110,"color":"1"},
 		{"id":"9cfc028eec762df7","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md","x":-8080,"y":261,"width":400,"height":189,"color":"1"},
@@ -191,7 +190,8 @@
 		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-807,"width":400,"height":227,"color":"6"},
 		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
 		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4360,"width":400,"height":160,"color":"6"},
-		{"id":"d078185e51ad0751","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md","x":-5598,"y":-4560,"width":400,"height":123,"color":"6"}
+		{"id":"d078185e51ad0751","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md","x":-5598,"y":-4560,"width":400,"height":123,"color":"6"},
+		{"id":"8a39368a559917f0","type":"file","file":"PhD-notes/Literature Review/2022 - Adapting Technology Learning Curves for Prospective Techno-Economic and Life Cycle Assessments of Emerging Carbon Capture and Utilisation Pathways.md","x":-6165,"y":-457,"width":400,"height":235,"color":"5"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
