@@ -48,8 +48,7 @@ Measures the total charging and discharging activity relative to the maximum pos
 	- The objective function minimises the ttoal cost of DHC
 	- Models 7 heat generation systems, 3 cooling, generation technology, and 3 TES systems (Including borehole, ice, and tank thermal storage)
 
-Dispatch model uses GENeSYS-MOD
-
+Dispatch model uses GENeSYS-MOD at the hourly resolution. This provides a high-resolution analysis of the system’s ability to meet electricity demand in each region and for every hour of a given year. It takes the output from GENeSYS-MOD, such as power demand, installed capacities, transmission lines, and energy storage, and optimizes dispatch for minimal costs.
 
 
 The study looks at 15 scenarios with unique energy demands, prices, regulatory measures.
