@@ -48,6 +48,10 @@ Measures the total charging and discharging activity relative to the maximum pos
 	- The objective function minimises the ttoal cost of DHC
 	- Models 7 heat generation systems, 3 cooling, generation technology, and 3 TES systems (Including borehole, ice, and tank thermal storage)
 
+Dispatch model uses GENeSYS-MOD
+
+
+
 The study looks at 15 scenarios with unique energy demands, prices, regulatory measures.
 - One of these variables is hotter summers 
 - Considers flexible electricity market in one of the scenarios, where prices are strictly non-negative due to other market participants
