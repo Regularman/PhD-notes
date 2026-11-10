@@ -71,12 +71,7 @@ Further, the paper does cross scenario comparison for the 2030 cases in high ele
 - Further, the inability of additional regulatory settings to impact the carbon emission intensity indicates that current policies are insufficient is incentivising deeper decarbonisation beyond what is done through electrification
 
 
-| Metrics | Findings |
-| ------- | -------- |
-| ECR     |          |
-| PLA     |          |
-| OFR     |          |
-| TGUR    |          |
+The study finds that heating is more flexible to cooling in the climate conditions of Trondheim Norway, but that is location specific. Further, the KPI framework is only used for evaluation, and does not comment on design aspects that can improve grid integration.
 
 ## Limitation
 
