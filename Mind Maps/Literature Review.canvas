@@ -24,7 +24,7 @@
 		{"id":"efe05d64f9561f95","type":"file","file":"PhD-notes/Literature Review/2020 - 5th Generation District Heating - A novel approached based on mathematical optimisation.md","x":-4678,"y":-3064,"width":400,"height":184,"color":"4"},
 		{"id":"543462e890b7dff1","type":"text","text":"# ~={green}Technology LCA=~","x":-3519,"y":-1942,"width":250,"height":60,"color":"4"},
 		{"id":"9916da21f07d1671","type":"file","file":"PhD-notes/Literature Review/2024 - Circular Economy in Heat Supply Systems for Buildings - An Overview of the End of Life of System Components and Existing Evaluation Systems and Products.md","x":-3307,"y":-1744,"width":400,"height":184,"color":"4"},
-		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":130,"color":"6"},
+		{"id":"6597184fe4d4e728","type":"file","file":"PhD-notes/Literature Review/2025 - Using Ring Heat Network as Virtual Heat Storage to increase flexibility of heat clusters.md","x":-6758,"y":-1989,"width":400,"height":133,"color":"6"},
 		{"id":"813f632c1385de6d","type":"file","file":"PhD-notes/Literature Review/2023 - Modelling thermal coefficient using data-driven PSO to supplement thermodynamic model of a centralised hot water system.md","x":-6758,"y":-1776,"width":400,"height":180,"color":"6"},
 		{"id":"98c000bae2c91466","type":"file","file":"PhD-notes/Literature Review/2018 - Techno-economic optimisation and analysis of a high altitude solar district heating system with seasonal storage, considering different community sizes.md","x":-5165,"y":-960,"width":400,"height":200,"color":"6"},
 		{"id":"6109e47dc2d010a3","type":"file","file":"PhD-notes/Literature Review/2026 - Techno-economic, and environmental Assessment of Hybrid Solar PV-thermal systems in Hospitals in Caribbeans.md","x":-5165,"y":-680,"width":400,"height":200,"color":"6"},
@@ -191,7 +191,7 @@
 		{"id":"138cddac4942deea","type":"file","file":"PhD-notes/Literature Review/2026 - Low-Carbon Industrial Heating in the EU and UK - Integrating Waste Heat Recovery, High-Temperature Heat Pumps, and Hydrogen Technologies.md","x":-5965,"y":-1720,"width":400,"height":189,"color":"6"},
 		{"id":"5e9f83f6b5f9c4b8","type":"file","file":"PhD-notes/Literature Review/2026 - Multi-sectoral Energy Integration of Low Temperature Brewery Process, Manufacturing Industry and District Heating Network.md","x":-5965,"y":-1477,"width":400,"height":145,"color":"6"},
 		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1277,"width":400,"height":140,"color":"6"},
-		{"id":"8d8aa04704a1b973","type":"file","file":"2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-1071,"width":400,"height":147,"color":"6"}
+		{"id":"8d8aa04704a1b973","type":"file","file":"PhD-notes/Literature Review/2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-1071,"width":400,"height":147,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
