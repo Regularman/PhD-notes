@@ -82,7 +82,8 @@ Further, the paper does cross scenario comparison for the 2030 cases in high ele
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
 - Again, the paper does not attempt to relate network characteristics to performance metrics
-- Specific location of Trondheim is already highly electrified for heat sector, has a waste heat plant and t
+- Specific location of Trondheim is already highly electrified for heat sector, has a waste heat plant and borehole thermal storage.
+- The paper i
 
 Hourly simulation resolution mean that it excludes sub hour ancillary services
 
