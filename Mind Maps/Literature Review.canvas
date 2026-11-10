@@ -190,7 +190,8 @@
 		{"id":"cc8c9ed595204327","type":"file","file":"PhD-notes/Literature Review/2021 - Technical and Economic analysis of distributed and centralised district heating system for low carbon transformation in China.md","x":-7480,"y":-1776,"width":400,"height":194,"color":"6"},
 		{"id":"0152f5e7a1ea6bba","type":"file","file":"PhD-notes/Literature Review/2026 - Heat Roadmap Europe - Spatial Assessment of district heating potential for strategic planning in Europe.md","x":-7480,"y":-807,"width":400,"height":227,"color":"6"},
 		{"id":"d6fc08f23ca58b75","type":"file","file":"PhD-notes/Literature Review/2019 - Quantification of flexibility of a District Heating System for the Power Grid.md","x":-5598,"y":-4120,"width":400,"height":108,"color":"6"},
-		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4360,"width":400,"height":160,"color":"6"}
+		{"id":"a118aaa5c90c6247","type":"file","file":"PhD-notes/Literature Review/2026 - A framework for flexibility assessment of district heating and cooling systems.md","x":-5598,"y":-4360,"width":400,"height":160,"color":"6"},
+		{"id":"d078185e51ad0751","x":-5598,"y":-4560,"width":400,"height":123,"color":"6","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
@@ -371,6 +372,7 @@
 		{"id":"ea1eb895e92255fe","fromNode":"35cb1aba6cac9e74","fromSide":"top","toNode":"9425921a068f9321","toSide":"bottom"},
 		{"id":"e4594c44d20bf578","fromNode":"9425921a068f9321","fromSide":"left","toNode":"2246e35bbceb4d87","toSide":"right"},
 		{"id":"3dc766f9bc38d980","fromNode":"9425921a068f9321","fromSide":"left","toNode":"755cbf38b35c5729","toSide":"right"},
-		{"id":"3fc55d7e5a578445","fromNode":"9425921a068f9321","fromSide":"left","toNode":"1e4abd31b0f4fbaf","toSide":"right"}
+		{"id":"3fc55d7e5a578445","fromNode":"9425921a068f9321","fromSide":"left","toNode":"1e4abd31b0f4fbaf","toSide":"right"},
+		{"id":"a2d2e3d272b6037a","fromNode":"135ff4b0be663820","fromSide":"top","toNode":"d078185e51ad0751","toSide":"left"}
 	]
 }
