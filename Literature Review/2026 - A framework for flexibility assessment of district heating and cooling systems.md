@@ -69,6 +69,12 @@ Sporadic operation of the cooling subsystem leads to a  TGUR of 8.6%. Comparativ
 Further, the paper does cross scenario comparison for the 2030 cases in high electricity prices, and climate varied scenarios.
 - The flexibility indicators reveal stability across scenarios. Therefore, more extreme scenarios should be applied to understand the limit of flexibility?
 - Further, the inability of additional regulatory settings to impact the carbon emission intensity indicates that current policies are insufficient is incentivising deeper decarbonisation beyond what is done through electrification
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
 ## Limitation
 
 The author highlights that the framework thresholds (benchmark values for the metrics) will have to be adjusted based on available technology portfolios, grid characteristics, local climate conditions, and prevailing market structures.
