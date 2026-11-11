@@ -31,7 +31,6 @@
 		{"id":"7daa2a201854fb02","type":"file","file":"PhD-notes/Literature Review/2018 - A Study of District Heating Systems with Solar Thermal Based Prosumers.md","x":-5165,"y":-1720,"width":400,"height":166,"color":"6"},
 		{"id":"1b5b85ef57710e6e","type":"file","file":"PhD-notes/Literature Review/2014 - New Opportunities for using Solar Energy in Lithuanian District Heating Companies.md","x":-5165,"y":-1207,"width":400,"height":168,"color":"6"},
 		{"id":"ee1b8a8eb9616fd0","type":"file","file":"PhD-notes/Literature Review/2024 - Towards Life Cycle Assessment for the environmental evaluation of district heating and cooling.md","x":-4678,"y":-2280,"width":400,"height":180,"color":"4"},
-		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3100,"width":400,"height":194,"color":"4"},
 		{"id":"02803640b655ee4f","type":"file","file":"PhD-notes/Literature Review/2020 - Life cycle assessment of solar communities.md","x":-4678,"y":-2060,"width":400,"height":145,"color":"4"},
 		{"id":"2860c8733c11bcd4","type":"file","file":"PhD-notes/Literature Review/2011 - Life Cycle Assessment of Biomass-based CHP plants (Decentralised vs centralised comparison).md","x":-4678,"y":-1868,"width":400,"height":148,"color":"4"},
 		{"id":"e32e13e94bd2e08f","type":"file","file":"PhD-notes/Literature Review/2005 - Lifecycle Assessment of a solar thermal collector.md","x":-3307,"y":-1495,"width":400,"height":149,"color":"4"},
@@ -191,7 +190,8 @@
 		{"id":"31bc5d3f693656c5","type":"file","file":"PhD-notes/Literature Review/2026 - Thermal Energy Storage for Industrial Process Heat - A practical guide.md","x":-5965,"y":-1277,"width":400,"height":140,"color":"6"},
 		{"id":"8d8aa04704a1b973","type":"file","file":"PhD-notes/Literature Review/2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-1071,"width":400,"height":147,"color":"6"},
 		{"id":"39d3bc103f7ee077","type":"file","file":"PhD-notes/Literature Review/2026 - A tri-level stochastic framework for planning integrated electricity, gas, and heating networks with enhanced resilience and renewable integration.md","x":-7488,"y":-3618,"width":400,"height":213,"color":"6"},
-		{"id":"d078185e51ad0751","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md","x":-5600,"y":-4880,"width":400,"height":203,"color":"6"}
+		{"id":"d078185e51ad0751","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md","x":-5600,"y":-4880,"width":400,"height":203,"color":"6"},
+		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3074,"width":400,"height":194,"color":"4"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
