@@ -152,7 +152,6 @@
 		{"id":"d444ffd581c347a5","type":"file","file":"PhD-notes/Literature Review/2026 - Planning distributed energy systems with low-grade heat sources integration - Geography-Based clustering and risk-informed thermal pipeline layout design approaches.md","x":-6558,"y":-3400,"width":400,"height":173,"color":"6"},
 		{"id":"135ff4b0be663820","type":"text","text":"# ~={purple}Integrated Heat and Electricity Production Network=~","x":-5880,"y":-2816,"width":330,"height":60,"color":"6"},
 		{"id":"c5a3ec22066b3c61","type":"file","file":"PhD-notes/Literature Review/2018 - Optimal Design of der for Economic Environmental Sustainability of Local Energy Communities (LECs).md","x":-6558,"y":-3046,"width":400,"height":120,"color":"6"},
-		{"id":"7f6faf0b4d63c979","type":"file","file":"PhD-notes/Literature Review/2021 - Identification of key performance indicators and complimentary load profiles for 5th generation district energy networks.md","x":-6558,"y":-3585,"width":400,"height":136,"color":"6"},
 		{"id":"80be356a6a11e510","type":"file","file":"PhD-notes/Literature Review/2010 - Environomic multi-objective optimisation of a district heating network considering centralized and decentralized heat pumps.md","x":-6758,"y":-1351,"width":400,"height":228,"color":"6"},
 		{"id":"effdc0d7da63bd3b","type":"text","text":"# ~={purple}Resilience and Reliability=~","x":-7008,"y":-2553,"width":250,"height":113,"color":"6"},
 		{"id":"59b5e723874e7923","type":"file","file":"PhD-notes/Literature Review/2026 - Optimal district heating network expansion planning with resilience considerations.md","x":-7488,"y":-2859,"width":400,"height":204,"color":"6"},
@@ -191,7 +190,8 @@
 		{"id":"8d8aa04704a1b973","type":"file","file":"PhD-notes/Literature Review/2024 - Oversizing solar heating plants in industry - A cost-effective solution to increase solar fractions.md","x":-5965,"y":-1071,"width":400,"height":147,"color":"6"},
 		{"id":"39d3bc103f7ee077","type":"file","file":"PhD-notes/Literature Review/2026 - A tri-level stochastic framework for planning integrated electricity, gas, and heating networks with enhanced resilience and renewable integration.md","x":-7488,"y":-3618,"width":400,"height":213,"color":"6"},
 		{"id":"d078185e51ad0751","type":"file","file":"PhD-notes/Literature Review/2026 - Technology configurations for decarbonizing residential heat supply through district heating and implications for the electricity network.md","x":-5600,"y":-4880,"width":400,"height":203,"color":"6"},
-		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3074,"width":400,"height":194,"color":"4"}
+		{"id":"9760a039016c0b98","type":"file","file":"PhD-notes/Literature Review/2025 - Optimisation of energy allocation and waste heat recovery configuration for multi-energy flow systems of industrial parks.md","x":-3307,"y":-3074,"width":400,"height":194,"color":"4"},
+		{"id":"7f6faf0b4d63c979","type":"file","file":"PhD-notes/Literature Review/2021 - Identification of key performance indicators and complimentary load profiles for 5th generation district energy networks.md","x":-6558,"y":-3587,"width":400,"height":136,"color":"6"}
 	],
 	"edges":[
 		{"id":"4e3c59cabf3d1803","fromNode":"23345aa8dc41a8b5","fromSide":"bottom","toNode":"e6b10110bd1e4c0e","toSide":"top"},
