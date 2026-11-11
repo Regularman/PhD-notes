@@ -165,7 +165,7 @@
 		{"id":"118d191432a6aa96","type":"text","text":"# ~={cyan}Technology projection methodologies=~","x":-5521,"y":-146,"width":250,"height":116,"color":"5"},
 		{"id":"a669ce3ae1580433","type":"text","text":"# ~={red}Climate and emissions modelling=~","x":-8364,"y":69,"width":324,"height":110,"color":"1"},
 		{"id":"9cfc028eec762df7","type":"file","file":"PhD-notes/Literature Review/2026 - Emissions Gap Report - The point of return.md","x":-8080,"y":261,"width":400,"height":189,"color":"1"},
-		{"id":"6a17a9f764c9389a","type":"file","file":"PhD-notes/2026/6 - June/2024 Multi-Sectoral Modelling CSIRO.md","x":-8080,"y":480,"width":400,"height":180,"color":"1"},
+		{"id":"6a17a9f764c9389a","type":"file","file":"PhD-notes/2026/6 - June/2024 - Modelling sectoral pathways to net zero emissions - CSIRO.md","x":-8080,"y":480,"width":400,"height":180,"color":"1"},
 		{"id":"2246e35bbceb4d87","type":"file","file":"PhD-notes/Literature Review/2025 - A sustainability framework for ranking industrial heat decarbonisation technologies using multi-criteria analysis.md","x":-4678,"y":-3248,"width":400,"height":148,"color":"4"},
 		{"id":"dab74b6c50026f51","type":"text","text":"# ~={green} 5GDH=~","x":-4082,"y":-2408,"width":250,"height":60,"color":"4"},
 		{"id":"9425921a068f9321","type":"text","text":"# **Absolute Sustainability Assessments**","x":-3842,"y":-2772,"width":250,"height":144,"color":"4"},
