@@ -55,7 +55,7 @@ Questions to ask to obtain this cost
 The marginal price of production will always be higher than the average bulk energy price. For example, looking at the bulk and marginal prices, their price variation is influenced by different mechanisms.
 - The marginal price flattens out after $2035$ when the power grid has been decarbonised, at which point, the cost of production for the marginal unit of electricity is much lower.
 - Comparatively, the bulk electricity pricing continues to grow until late into the $2040s$. This is driven by a growth in the capital expenditure as more high cost units are being added to maintain the system's zero carbon status. After 2040, resources from the initial ramp up in the 2020s begins to be paid off, resulting in declining average price. Fuel and O&M costs also remains fairly constant after $2035$.
-- Further, the marginal price of electricity is driven by limited transmission. New transmission beyond projects already is not allowed until $2026$, so the buildout of new low carbon technology pushdhes up the marginal cost of production until new transmission is able to 
+- Further, the marginal price of electricity is driven by limited transmission. New transmission beyond projects already is not allowed until $2026$, so the buildout of new low carbon technology pushes up the marginal cost of production until new transmission is able to relieve congestion and lower the cost of serving the next unit.
 
 ![[Screenshot 2026-11-19 at 8.10.49 pm.png]]
 #### A note on using total system cost and retail rate
