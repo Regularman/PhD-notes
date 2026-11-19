@@ -54,7 +54,7 @@ Questions to ask to obtain this cost
 
 The marginal price of production will always be higher than the average bulk energy price. For example, looking at the bulk and marginal prices, their price variation is influenced by different mechanisms.
 - The marginal price flattens out after $2035$ when the power grid has been decarbonised, at which point, the cost of production for the marginal unit of electricity is much lower.
-- Comparatively, the 
+- Comparatively, the bulk electricity pricing continues to grow until late into the $2040s$. This is driven by a growth in the capital expenditure as more high cost units are being added to maintain the system's zero carbon s
 
 ![[Screenshot 2026-11-19 at 8.10.49 pm.png]]
 #### A note on using total system cost and retail rate
