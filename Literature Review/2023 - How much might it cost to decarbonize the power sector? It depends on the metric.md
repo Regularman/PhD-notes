@@ -52,6 +52,6 @@ Questions to ask to obtain this cost
 
 #### A note on marginal versus average bulk energy price
 
-#### A note on Using total system cost and retail rate
+#### A note on using total system cost and retail rate
 
-Even within cost considerations, the
+Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the 
