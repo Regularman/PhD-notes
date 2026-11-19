@@ -72,4 +72,6 @@ Therefore, the additional cost of electricity passed into the consumers also hav
 
 ![[Screenshot 2026-11-19 at 8.17.34 pm.png|188]]![[Screenshot 2026-11-19 at 8.18.32 pm.png|215]]![[Screenshot 2026-11-19 at 8.18.51 pm.png|244]]
 
-As we can see, the constrained scenario
+As we can see, the constrained scenario has the highest absolute and normalised system cost of electricity. This is due to the inability to access cheap renewable electricity. 
+
+For example, in the case of No CCS, tot
