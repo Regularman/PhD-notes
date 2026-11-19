@@ -54,4 +54,6 @@ Questions to ask to obtain this cost
 
 #### A note on using total system cost and retail rate
 
-Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the 
+Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the the system cost reflects the total present value of a system, the retail rate outlines how this is passed onto the consumer and depends on
+
+- the 
