@@ -50,4 +50,4 @@ Questions to ask to obtain this cost
 
 ![[Screenshot 2026-11-19 at 7.55.30 pm.png]]
 
-
+#### A note on marginal versus 
