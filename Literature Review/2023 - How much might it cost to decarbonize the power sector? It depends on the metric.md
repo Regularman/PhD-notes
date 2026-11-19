@@ -19,4 +19,9 @@ Questions that must be answered:
 
 It represents the wholesale electricity price, or the average of cost of serving all of the electricity demand. It means that the cost can be recovered if everyone using the electricity pays $\$40/MWh$. 
 
-This can be expressed as the marginal price. The 
+This can be expressed as the marginal price. The marginal price is the cost to increase electricity generation.
+
+- Load balancing constraint,
+- Operating reserves constraint
+- Renewable or clean energy policy constraint, and
+- Reserve margin constraint
