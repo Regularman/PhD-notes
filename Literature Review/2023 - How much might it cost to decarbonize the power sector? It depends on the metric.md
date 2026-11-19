@@ -56,6 +56,8 @@ Questions to ask to obtain this cost
 
 Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the the system cost reflects the total present value of a system, the retail rate outlines how this is passed onto the consumer and depends on
 - The distribution of costs between industrial and residential consumers. Historically, residential consumers pay $80\%$ more than industrial consumers
-- The revenue model of th
+- The revenue model of the utility company
 
+#### A note on electricity versus non-electricity expenditure 
+The retail rate can then be split into the 
 #### A note on total system cost and normalised system cost
