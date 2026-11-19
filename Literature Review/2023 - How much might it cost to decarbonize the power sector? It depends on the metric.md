@@ -28,4 +28,6 @@ This can be expressed as the marginal price. The marginal price is the cost to i
 
 The cumulative shadow cost of increasing each constraint divided by electricity demand to give the marginal cost of production of electricity.
 
-#### Retia
+#### Retail rate of electricity
+
+[58] Look at this for methodology for retail rate of electricity 
