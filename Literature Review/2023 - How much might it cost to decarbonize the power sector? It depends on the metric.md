@@ -27,3 +27,5 @@ This can be expressed as the marginal price. The marginal price is the cost to i
 - Reserve margin constraint
 
 The cumulative shadow cost of increasing each constraint divided by electricity demand to give the marginal cost of production of electricity.
+
+#### Retia
