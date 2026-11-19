@@ -74,4 +74,6 @@ Therefore, the additional cost of electricity passed into the consumers also hav
 
 As we can see, the constrained scenario has the highest absolute and normalised system cost of electricity. This is due to the inability to access cheap renewable electricity. 
 
-For example, in the case of No CCS, tot
+For example, in the case of No CCS, total system cost is the highest, but when this is normalised against the electricity demand, then it becomes lower than other decarbonisation cases.
+
+- The reference case still have the lowest normalised and absolute system cost. This reflects the fact that more infrastructure will 
