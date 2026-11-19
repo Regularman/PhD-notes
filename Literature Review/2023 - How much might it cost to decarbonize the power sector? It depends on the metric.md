@@ -76,4 +76,4 @@ As we can see, the constrained scenario has the highest absolute and normalised 
 
 For example, in the case of No CCS, total system cost is the highest, but when this is normalised against the electricity demand, then it becomes lower than other decarbonisation cases.
 
-- The reference case still have the lowest normalised and absolute system cost. This reflects the fact that more infrastructure will 
+- The reference case still have the lowest normalised and absolute system cost. This reflects the fact that more infrastructure will be needed to supply electricity demand. For consumers, this gets reflected and recovered through increasing electricity bill, but is offset by reduction in non-electricity consumption.
