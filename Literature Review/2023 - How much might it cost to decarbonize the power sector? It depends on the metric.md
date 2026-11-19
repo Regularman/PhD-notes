@@ -36,4 +36,8 @@ The cumulative shadow cost of increasing each constraint divided by electricity 
 Assuming that there is a regional electricity system operator, the retail rate of electricity looks at the capital and operating expenditure in the power system and the utility's annual revenue target to get the retail rate on the ratepayer to recover the cost and revenue for the system.
 - The retail rate is then essentially the total revenue required by the utility divided by the electricity demand
 
+#### Carbon abatement cost
+
+This is the discounted system cost of a scenario from the reference case divided by the discounted difference in $CO_2$ emissi
+
 
