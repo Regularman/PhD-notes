@@ -17,4 +17,6 @@ Questions that must be answered:
 
 #### Bulk power electricity price
 
-It represents the wholesale electricity price, or the average of cost of serving power 
+It represents the wholesale electricity price, or the average of cost of serving all of the electricity demand. It means that the cost can be recovered if everyone using the electricity pays $\$40/MWh$. 
+
+This can be expressed as the marginal price. The 
