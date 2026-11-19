@@ -50,4 +50,8 @@ Questions to ask to obtain this cost
 
 ![[Screenshot 2026-11-19 at 7.55.30 pm.png]]
 
-#### A note on marginal versus 
+#### A note on marginal versus average bulk energy price
+
+#### A note on Using total system cost and retail rate
+
+Even within cost considerations, the
