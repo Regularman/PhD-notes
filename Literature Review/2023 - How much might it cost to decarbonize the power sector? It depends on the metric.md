@@ -49,8 +49,6 @@ Questions to ask to obtain this cost
 ### Results
 
 ![[Screenshot 2026-11-19 at 7.55.30 pm.png]]
-
-![[Screenshot 2026-11-19 at 8.17.34 pm.png|299]]![[Screenshot 2026-11-19 at 8.18.32 pm.png]]
 #### A note on marginal versus average bulk energy price
 
 The marginal price of production will always be higher than the average bulk energy price. For example, looking at the bulk and marginal prices, their price variation is influenced by different mechanisms.
@@ -71,3 +69,7 @@ The retail rate can then be split into the electricity and non-electricity expen
 Therefore, the additional cost of electricity passed into the consumers also have to be considered. Where the electricity expenditure rises dramatically, overall, the energy expenditure drops due to the displacement of direct fossil fuel use.
 - But this cost does not go to zero due to biomass burners.
 #### A note on total system cost and normalised system cost
+
+![[Screenshot 2026-11-19 at 8.17.34 pm.png|188]]![[Screenshot 2026-11-19 at 8.18.32 pm.png|215]]![[Screenshot 2026-11-19 at 8.18.51 pm.png|244]]
+
+As we can see, the constrained scenario
