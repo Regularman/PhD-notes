@@ -31,3 +31,5 @@ The cumulative shadow cost of increasing each constraint divided by electricity 
 #### Retail rate of electricity
 
 [58] Look at this for methodology for retail rate of electricity 
+
+Assuming that there is a regional electricity system operator, the retail rate of e
