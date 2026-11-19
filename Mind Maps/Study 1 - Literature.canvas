@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"0cd2d357f99ab5ea","x":360,"y":-10,"width":250,"height":60,"color":"5","type":"text","text":"# ~={cyan}Cost=~ "},
-		{"id":"833484a9ac6896e9","x":-240,"y":-65,"width":400,"height":170,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - How much might it cost to decarbonize the power sector - It depends on the metric.md"}
+		{"id":"0cd2d357f99ab5ea","type":"text","text":"# ~={cyan}Cost=~ ","x":360,"y":-10,"width":250,"height":60,"color":"5"},
+		{"id":"833484a9ac6896e9","type":"file","file":"PhD-notes/Literature Review/2023 - How much might it cost to decarbonize the power sector - It depends on the metric.md","x":-240,"y":-65,"width":400,"height":170,"color":"5"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a800356935fd5ed7","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"833484a9ac6896e9","toSide":"right"}
+	]
 }
