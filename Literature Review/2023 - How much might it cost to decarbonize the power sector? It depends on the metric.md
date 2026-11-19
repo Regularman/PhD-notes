@@ -8,9 +8,12 @@ Compares $8$ different cost metrics for 2 base scenarios and 4 development scena
 
 #### Net Present Cost
 
-The net present cost is the discounted value of revenue minus the capital expenditure required to build the network and the operating expenditure of the
+The net present cost is the discounted value of revenue minus the capital expenditure required to build the network and the operating expenditure of asset operation.
 
 Questions that must be answered:
 - What assets are considered in the system boundary?
 - What is the discount rate used?
 - What is the system lifetime?
+
+#### Bulk power electricity price
+
