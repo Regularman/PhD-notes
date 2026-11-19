@@ -38,6 +38,13 @@ Assuming that there is a regional electricity system operator, the retail rate o
 
 #### Carbon abatement cost
 
-This is the discounted system cost of a scenario from the reference case divided by the discounted difference in $CO_2$ emissi
+This is the discounted system cost of a scenario from the reference case divided by the discounted difference in $CO_2$ emissions between the two scenarios
+
+The marginal pricing is the shadow price from the $CO_2$ cap constraint
+
+Questions to ask to obtain this cost
+- Discount rate
+- What is the reference scenario
+
 
 
