@@ -52,6 +52,7 @@ Questions to ask to obtain this cost
 
 #### A note on marginal versus average bulk energy price
 
+The marginal price of production will always be higher than the average bulk energy pric
 #### A note on using total system cost and retail rate
 
 Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the the system cost reflects the total present value of a system, the retail rate outlines how this is passed onto the consumer and depends on
@@ -61,5 +62,6 @@ Even within cost considerations, the choice of metrics reflect the needs of diff
 #### A note on electricity versus non-electricity expenditure 
 The retail rate can then be split into the electricity and non-electricity expenditure. ![[Screenshot 2026-11-19 at 8.07.34 pm.png|371]]
 
-Therefore, the additional cost of electricity passed into the consumers also have to be considered. Where the electricity expenditure rises 
+Therefore, the additional cost of electricity passed into the consumers also have to be considered. Where the electricity expenditure rises dramatically, overall, the energy expenditure drops due to the displacement of direct fossil fuel use.
+- But this cost does not go to zero due to biomass burners.
 #### A note on total system cost and normalised system cost
