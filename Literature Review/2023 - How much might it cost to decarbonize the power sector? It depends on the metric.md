@@ -59,5 +59,5 @@ Even within cost considerations, the choice of metrics reflect the needs of diff
 - The revenue model of the utility company
 
 #### A note on electricity versus non-electricity expenditure 
-The retail rate can then be split into the 
+The retail rate can then be split into the electricity and non-electricity expenditure. 
 #### A note on total system cost and normalised system cost
