@@ -31,7 +31,9 @@ The cumulative shadow cost of increasing each constraint divided by electricity 
 #### Retail rate of electricity
 
 [58] Look at this for methodology for retail rate of electricity 
-[59] uses this retail rate to 
+[59] uses this retail rate to calculate the household energy expenditure
 
 Assuming that there is a regional electricity system operator, the retail rate of electricity looks at the capital and operating expenditure in the power system and the utility's annual revenue target to get the retail rate on the ratepayer to recover the cost and revenue for the system.
 - The retail rate is then essentially the total revenue required by the utility divided by the electricity demand
+
+
