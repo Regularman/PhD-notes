@@ -17,3 +17,4 @@ Questions that must be answered:
 
 #### Bulk power electricity price
 
+It represents the wholesale electricity price, or the average of cost of serving power 
