@@ -50,6 +50,7 @@ Questions to ask to obtain this cost
 
 ![[Screenshot 2026-11-19 at 7.55.30 pm.png]]
 
+![[Screenshot 2026-11-19 at 8.17.34 pm.png|299]]![[Screenshot 2026-11-19 at 8.18.32 pm.png]]
 #### A note on marginal versus average bulk energy price
 
 The marginal price of production will always be higher than the average bulk energy price. For example, looking at the bulk and marginal prices, their price variation is influenced by different mechanisms.
