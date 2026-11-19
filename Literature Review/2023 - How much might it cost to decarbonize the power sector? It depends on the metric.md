@@ -40,7 +40,7 @@ Assuming that there is a regional electricity system operator, the retail rate o
 
 This is the discounted system cost of a scenario from the reference case divided by the discounted difference in $CO_2$ emissions between the two scenarios
 
-The marginal pricing is the shadow price from the $CO_2$ cap constraint
+The marginal pricing is the shadow price from the $CO_2$ cap constraint that describes the cost of abating the next unit of $CO_2$ emissions.
 
 Questions to ask to obtain this cost
 - Discount rate
