@@ -52,7 +52,9 @@ Questions to ask to obtain this cost
 
 #### A note on marginal versus average bulk energy price
 
-The marginal price of production will always be higher than the average bulk energy pric
+The marginal price of production will always be higher than the average bulk energy price. For example, 
+
+![[Screenshot 2026-11-19 at 8.10.49 pm.png]]
 #### A note on using total system cost and retail rate
 
 Even within cost considerations, the choice of metrics reflect the needs of different stakeholders. Where the use of the the system cost reflects the total present value of a system, the retail rate outlines how this is passed onto the consumer and depends on
