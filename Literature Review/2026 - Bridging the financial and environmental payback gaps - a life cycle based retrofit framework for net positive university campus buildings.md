@@ -18,7 +18,7 @@ Public infrastructure has a much higher tolerance for payback period compared wi
 
 ## Limitations
 
-The sensitivity analysis shows that the
+The sensitivity analysis shows that the carbon payback period does bot vary with different electricity tariff or capital investment cost. However, this is because the system o
 ## Further Readings
 
 [12] Looks at environmental tradeoff with cost of using NG condensation boilers or biomass boilers instead of conventional natural gas boilers.
