@@ -18,4 +18,4 @@ These difference in interest rates are projected over a $6$ year time span to sh
 
 Therefore, the NPV using the unfixed discount rate gives an NPV that is 119.86% higher compared to using a fixed discount rate. This highlights the need for an unfixed discount rate. However, it seems that using a fixed discount rate gave us a more conservative answer?
 
-Ultimately, this shows how the assumptions taken in calculating the discount rate will affect the threshold that should be chosen for an
+Ultimately, this shows how the assumptions taken in calculating the discount rate will affect the threshold that should be chosen for an appropriate NPV later on in my PhD study.
