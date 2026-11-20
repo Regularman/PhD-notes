@@ -15,6 +15,10 @@ Note that technology implementation and usage behaviour are inherently decoupled
 Outlines the need to rationalise the payback period of cost and carbon emissions. And in the conclusion of the study, the authors the highlights that although the economic pay back period is $7.1$ years, the carbon emissions payback period is $0.8$ years.
 
 Public infrastructure has a much higher tolerance for payback period compared with private industries, and $7.1$ years for the financial payback period is deemed acceptable.
+
+## Limitations
+
+The sensitivity analysis shows that the
 ## Further Readings
 
 [12] Looks at environmental tradeoff with cost of using NG condensation boilers or biomass boilers instead of conventional natural gas boilers.
