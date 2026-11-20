@@ -10,4 +10,4 @@ Therefore, the constant discount rate assumption is only valid in stable economi
 ![[Screenshot 2026-11-20 160354.png|334]]![[Screenshot 2026-11-20 160412.png|324]]
 
 We can see that the the interest rates in stable versus emerging markets follows different trends in the same period.
-- Therefore, the rationality of using the net present value as a predictor of returns on revenue is invalid in emerging, unstable markets.
+- Therefore, the rationality of using the net present value as a predictor of returns on revenue is invalid in emerging, unstable markets. This paper relates the discount factor for that year simply using the formula $$\frac{1}{1+r}$$
