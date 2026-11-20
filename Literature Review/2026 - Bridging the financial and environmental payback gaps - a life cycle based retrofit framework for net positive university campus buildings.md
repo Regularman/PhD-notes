@@ -6,6 +6,8 @@ Evaluated the decarbonisation of a University in Turkey by three main pathways,
 - Technical: which involves capital investment into insulation, retrofitting with more efficient heating technologies and installation of PV modules. More concisely, insulation can be the thermal insulation of walls and roof. Window replacement, additional shading devices, and upgrades to mechanical systems
 - Operational: Installation of IOT devices for better energy managements
 - Social: Improving behavioural patterns with energy consumption
+
+The paper uses an asset based methodology rather than an empirical envelope based data to assess the cost metrics associated with the decarbonisation project.
 ## Content
 
 Total system cost is sensitive to replacement rates as well as end of life scenarios.
@@ -18,7 +20,7 @@ Public infrastructure has a much higher tolerance for payback period compared wi
 
 ## Limitations
 
-The sensitivity analysis shows that the carbon payback period does bot vary with different electricity tariff or capital investment cost. However, this is because the system o
+The sensitivity analysis shows that the carbon payback period does bot vary with different electricity tariff or capital investment cost. However, this is because the system operation is not simulated dynamically with demand.
 ## Further Readings
 
 [12] Looks at environmental tradeoff with cost of using NG condensation boilers or biomass boilers instead of conventional natural gas boilers.
