@@ -28,7 +28,7 @@ The paper also proposed a Heat as a Service model to address high capital invest
 
 [12] Looks at environmental tradeoff with cost of using NG condensation boilers or biomass boilers instead of conventional natural gas boilers.
 
-[9] [12] These studies also looks at how cost optimality is engrained in EU frameworks through established methodologies -> targetting energy cost, job creation, and market growth. [9] further highlights how eco-efficiency considerations are being integrated into decision making processes, which is inherently flawed as it does not look at eco-effectiveness
+[9] [12] These studies also looks at how cost optimality is engrained in EU frameworks through established methodologies -> targeting energy cost, job creation, and market growth. [9] further highlights how eco-efficiency considerations are being integrated into decision making processes, which is inherently flawed as it does not look at eco-effectiveness
 
 [8] shows that higher efficiency can lead to increased embodied emissions.
 
