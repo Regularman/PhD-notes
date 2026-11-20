@@ -12,4 +12,4 @@ Therefore, the constant discount rate assumption is only valid in stable economi
 We can see that the the interest rates in stable versus emerging markets follows different trends in the same period.
 - Therefore, the rationality of using the net present value as a predictor of returns on revenue is invalid in emerging, unstable markets. This paper relates the discount factor for that year simply using the formula $$\frac{1}{1+r}$$where $r$ is the annual interest rate.
 
-These difference in interest rates are projected over a $6$ year time span to show the difference in NPV calculation.
+These difference in interest rates are projected over a $6$ year time span to show the difference in NPV calculation.![[Screenshot 2026-11-20 161035.png]]
