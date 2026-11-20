@@ -22,7 +22,7 @@ Public infrastructure has a much higher tolerance for payback period compared wi
 
 The sensitivity analysis shows that the carbon payback period does bot vary with different electricity tariff or capital investment cost. However, this is because the system operation is not simulated dynamically with demand.
 
-The paper also proposed
+The paper also proposed a Heat as a Service model to address high capital investment, but does not highlight the business case for doing so.
 ## Further Readings
 
 [12] Looks at environmental tradeoff with cost of using NG condensation boilers or biomass boilers instead of conventional natural gas boilers.
