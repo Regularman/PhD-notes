@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"0cd2d357f99ab5ea","type":"text","text":"# ~={cyan}Cost=~ ","x":360,"y":-10,"width":250,"height":60,"color":"5"},
-		{"id":"833484a9ac6896e9","type":"file","file":"PhD-notes/Literature Review/2023 - How much might it cost to decarbonize the power sector - It depends on the metric.md","x":-240,"y":-65,"width":400,"height":170,"color":"5"}
+		{"id":"833484a9ac6896e9","type":"file","file":"PhD-notes/Literature Review/2023 - How much might it cost to decarbonize the power sector - It depends on the metric.md","x":-240,"y":-65,"width":400,"height":170,"color":"5"},
+		{"id":"1d1354b6b80674bf","x":-240,"y":-280,"width":400,"height":158,"color":"5","type":"file","file":"PhD-notes/Literature Review/2026 - Bridging the financial and environmental payback gaps - a life cycle based retrofit framework for net positive university campus buildings.md"}
 	],
 	"edges":[
-		{"id":"a800356935fd5ed7","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"833484a9ac6896e9","toSide":"right"}
+		{"id":"a800356935fd5ed7","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"833484a9ac6896e9","toSide":"right"},
+		{"id":"699a03c0e47add67","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"1d1354b6b80674bf","toSide":"right"}
 	]
 }

@@ -29,4 +29,4 @@ Public infrastructure has a much higher tolerance for payback period compared wi
 
 [42] Highlights that high baseline consumption is a structural vulnerability against future climate anomalies
 
-[46] calculates 
+[46] evaluates the feasibility of using NPV in emerging economies
