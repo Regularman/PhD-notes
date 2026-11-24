@@ -2,6 +2,8 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023L1791
 
 Under Annex X Part III, the economic potential for different technologies used for heating and cooling shall be carried out using the cost benefit analysis outlined in Article 25(3). This identifies opportunities for more efficient heating and cooling technologies, distinguishing between energy derived from fossil fuel and renewable resources where applicable.
 
+Promotes an energy efficiency first principle! This directive mandates that each EU country develop and publish their own CBA methodology in accordance with this standard.
+
 The methodology is applicable for 
 - Industrial waste heat and cold
 - Waste incineration
