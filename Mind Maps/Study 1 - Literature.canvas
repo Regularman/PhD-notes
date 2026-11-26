@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"efb0202710184121","x":978,"y":166,"width":400,"height":400,"type":"file","file":"PhD-notes/Literature Review/2026 - Assessing geothermal potential - A rapid workflow for feasibility and cost analysis.md"},
 		{"id":"0cd2d357f99ab5ea","type":"text","text":"# ~={cyan}Cost=~ ","x":360,"y":-10,"width":250,"height":60,"color":"5"},
 		{"id":"833484a9ac6896e9","type":"file","file":"PhD-notes/Literature Review/2023 - How much might it cost to decarbonize the power sector - It depends on the metric.md","x":-240,"y":-65,"width":400,"height":170,"color":"5"},
 		{"id":"1d1354b6b80674bf","type":"file","file":"PhD-notes/Literature Review/2026 - Bridging the financial and environmental payback gaps - a life cycle based retrofit framework for net positive university campus buildings.md","x":-240,"y":-280,"width":400,"height":158,"color":"5"},
@@ -8,7 +9,9 @@
 		{"id":"dcf176d0af6fcb24","type":"file","file":"PhD-notes/Literature Review/2024 - AER Guidelines - Transmission efficiency test and revenue determination guideline for non-contestable network infrastructure project.md","x":-240,"y":469,"width":400,"height":131,"color":"5"},
 		{"id":"9c3ff53b24e5b7f9","type":"file","file":"PhD-notes/Literature Review/2013 - Expenditure Forecast Assessment Guideline for Electricity Transmission.md","x":-240,"y":669,"width":400,"height":91,"color":"5"},
 		{"id":"dd6b641faf510173","type":"file","file":"PhD-notes/Literature Review/2019 - 2020-2025 Regulatory Proposal - Attachment 4 - Regulatory Depreciation.md","x":-240,"y":800,"width":400,"height":120,"color":"5"},
-		{"id":"33c2fff964250273","x":-240,"y":960,"width":400,"height":88,"color":"5","type":"file","file":"PhD-notes/Literature Review/2023 - Commission Delegated Regulation (EU) 2023-1791.md"}
+		{"id":"33c2fff964250273","type":"file","file":"PhD-notes/Literature Review/2023 - Commission Delegated Regulation (EU) 2023-1791.md","x":-240,"y":960,"width":400,"height":88,"color":"5"},
+		{"id":"2b6027e8f79da7f9","x":1220,"y":-10,"width":250,"height":64,"color":"1","type":"text","text":"# ~={red}Locational Variables=~"},
+		{"id":"d765fd3315517d96","x":856,"y":-12,"width":250,"height":60,"color":"1","type":"text","text":"# ~={red}Geothermal=~"}
 	],
 	"edges":[
 		{"id":"a800356935fd5ed7","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"833484a9ac6896e9","toSide":"right"},
@@ -18,6 +21,7 @@
 		{"id":"7d6e98fa9e050046","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"dcf176d0af6fcb24","toSide":"right"},
 		{"id":"4241d176f44cf0ac","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"9c3ff53b24e5b7f9","toSide":"right"},
 		{"id":"b3fe07ff4605c5fd","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"dd6b641faf510173","toSide":"right"},
-		{"id":"3d8fcc5a12ce838c","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"33c2fff964250273","toSide":"right"}
+		{"id":"3d8fcc5a12ce838c","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"33c2fff964250273","toSide":"right"},
+		{"id":"e9cda0660795d9eb","fromNode":"2b6027e8f79da7f9","fromSide":"left","toNode":"d765fd3315517d96","toSide":"right"}
 	]
 }
