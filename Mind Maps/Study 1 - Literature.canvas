@@ -11,7 +11,8 @@
 		{"id":"33c2fff964250273","type":"file","file":"PhD-notes/Literature Review/2023 - Commission Delegated Regulation (EU) 2023-1791.md","x":-240,"y":960,"width":400,"height":88,"color":"5"},
 		{"id":"2b6027e8f79da7f9","x":1500,"y":-265,"width":250,"height":64,"color":"1","type":"text","text":"# ~={red}Locational Variables=~"},
 		{"id":"d765fd3315517d96","x":1180,"y":-65,"width":250,"height":60,"color":"1","type":"text","text":"# ~={red}Geothermal=~"},
-		{"id":"efb0202710184121","x":720,"y":137,"width":400,"height":125,"color":"1","type":"file","file":"PhD-notes/Literature Review/2026 - Assessing geothermal potential - A rapid workflow for feasibility and cost analysis.md"}
+		{"id":"efb0202710184121","x":580,"y":257,"width":400,"height":125,"color":"1","type":"file","file":"PhD-notes/Literature Review/2026 - Assessing geothermal potential - A rapid workflow for feasibility and cost analysis.md"},
+		{"id":"80be0a7c0e538be3","x":580,"y":435,"width":400,"height":105,"color":"1","type":"file","file":"PhD-notes/Literature Review/2025 - GeoMap Oceania Beta User guide.md"}
 	],
 	"edges":[
 		{"id":"a800356935fd5ed7","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"833484a9ac6896e9","toSide":"right"},
@@ -23,6 +24,7 @@
 		{"id":"b3fe07ff4605c5fd","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"dd6b641faf510173","toSide":"right"},
 		{"id":"3d8fcc5a12ce838c","fromNode":"0cd2d357f99ab5ea","fromSide":"left","toNode":"33c2fff964250273","toSide":"right"},
 		{"id":"e9cda0660795d9eb","fromNode":"2b6027e8f79da7f9","fromSide":"left","toNode":"d765fd3315517d96","toSide":"right"},
-		{"id":"3e1d9ad7e02a8007","fromNode":"d765fd3315517d96","fromSide":"left","toNode":"efb0202710184121","toSide":"right"}
+		{"id":"3e1d9ad7e02a8007","fromNode":"d765fd3315517d96","fromSide":"left","toNode":"efb0202710184121","toSide":"right"},
+		{"id":"d3d4d90123a911fb","fromNode":"d765fd3315517d96","fromSide":"left","toNode":"80be0a7c0e538be3","toSide":"right"}
 	]
 }
